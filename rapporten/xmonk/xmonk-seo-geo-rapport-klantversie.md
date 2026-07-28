@@ -1,7 +1,7 @@
 # SEO- en GEO-analyse — xmonk.nl
 
 **Voor:** XMONK, Cruquius
-**Opgesteld door:** GoldLemon
+**Opgesteld door:** Gold Lemon
 **Datum:** 28 juli 2026
 **Naar aanleiding van:** jullie aanvraag van 27 juli 2026
 
