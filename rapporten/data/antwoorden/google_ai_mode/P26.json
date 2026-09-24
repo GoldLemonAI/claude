@@ -1,0 +1,50 @@
+{
+ "id": "P26",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Hoe combineer je LinkedIn-autoriteit met vindbaarheid in ChatGPT en Google AI voor een Nederlands B2B-bedrijf? Wie legt dit goed uit?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "De combinatie van LinkedIn-autoriteit en AI-vindbaarheid (ChatGPT, Perplexity, Google AI Overviews) draait om een fundamentele verschuiving: van **SEO** (Search Engine Optimization) naar **GEO** (Generative Engine Optimization). AI-engines zoeken niet langer naar losse keywords op een webpagina, maar wegen af welke organisaties en personen als dé primaire autoriteit gelden binnen een domein.[[1]](https://nl.linkedin.com/pulse/zo-word-je-als-organisatie-vindbaar-ai-antwoorden-peakfortnl-scede)[[2]](https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai)\n\n### Hoe combineer je LinkedIn met AI-vindbaarheid?\n\n1. **Zie LinkedIn als een openbare kennisinfrastructuur** \n\t- AI-crawlers (zoals die van OpenAI, Google en Perplexity) lezen openbare LinkedIn-posts, bedrijfspagina’s en persoonlijke profielen intensief uit.\n\t- Als jij of je leidinggevenden regelmatig inhoudelijke, diepgaande standpunten delen over specifieke B2B-vrastukken, wordt dat door AI geïndexeerd als een **autoriteitssignaal**.[[1]](https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai)\n2. **Bouw aan 'Citeerbaarheid' in plaats van losse likes** \n\t- Geen generieke open openers of AI-gegenereerde niemendalletjes, maar unieke perspectieven, harde feiten, cases en eigen visies.\n\t- Hoe vaker jouw naam/bedrijf gekoppeld wordt aan een specifiek niche-onderwerp in openbare conversaties en artikelen, hoe groter de kans dat een LLM jou als bron meeneemt in een gegenereerd antwoord.[[1]](https://reneschipper.nl/)[[2]](https://nl.linkedin.com/pulse/zo-word-je-als-organisatie-vindbaar-ai-antwoorden-peakfortnl-scede)[[3]](https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai)\n3. **Verbind persoon en bedrijf** \n\t- AI hecht onevenredig veel waarde aan **persoonlijke expertprofielen** (CEO, CTO, specialisten) op LinkedIn. Combineer een sterk geoptimaliseerde bedrijfs-pagina met actieve, publicerende experts binnen de organisatie. De optelsom hiervan vormt de digitale voetafdruk die AI oppikt.[[1]](https://www.frankwatching.com/archive/2026/05/05/ai-linkedin-hoe-je-wel-in-ai-antwoorden-terechtkomt/)[[2]](https://www.innlead.ai/nl/services/linkedin-b2b/)[[3]](https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai)\n\n### Wie legt dit goed uit?\n\n- **René Schipper** : Schrijft scherp over de impact van AI-zoekmachines (ChatGPT, Claude) op B2B-marketing en de cruciale rol van LinkedIn hierin. Hij legt uit dat LinkedIn fungeert als een autoriteitssignaal en waarschuwt voor de valkuil van generieke contentruis. Lees zijn visie via zijn blog over LinkedIn invloed op AI search.[[1]](https://reneschipper.nl/)[[2]](https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai)\n- **Frankwatching** : Publiceert geregeld diepgaande artikelen op het snijvlak van contentmarketing en AI-vindbaarheid, waaronder stukken specifiek gericht op [AI & LinkedIn op Frankwatching](https://www.frankwatching.com/archive/2026/05/05/ai-linkedin-hoe-je-wel-in-ai-antwoorden-terechtkomt/) , waarin wordt uitgelegd hoe gestructureerde content op LinkedIn doorschemert in AI-antwoorden.[[1]](https://www.frankwatching.com/archive/2026/05/05/ai-linkedin-hoe-je-wel-in-ai-antwoorden-terechtkomt/)\n- **Vakinhoudelijke artikelen op LinkedIn Pulse** : Er verschijnen regelmatig analyses door Nederlandse strategen over GEO (Generative Engine Optimization) en hoe je zorgt dat jouw organisatie in het antwoord van de AI verschijnt in plaats van alleen in de traditionele zoeklijst, zoals te lezen in dit artikel over [vindbaarheid in AI-antwoorden op LinkedIn](https://nl.linkedin.com/pulse/zo-word-je-als-organisatie-vindbaar-ai-antwoorden-peakfortnl-scede).[[1]](https://nl.linkedin.com/pulse/zo-word-je-als-organisatie-vindbaar-ai-antwoorden-peakfortnl-scede)\n\nWil je hier dieper op ingaan? Vertel me dan gerust:\n\n- Wat is de **branche of het vakgebied** van je B2B-bedrijf?\n- Wie binnen de organisatie (de zaak of het hele team) heeft nu al de meeste **zichtbaarheid**?\n\nDan kan ik een gerichter **stappenplan voor GEO en LinkedIn** voor je uitschrijven.",
+ "entities": [
+  {
+   "name": "Rene Schipper",
+   "type": "persoon",
+   "domain": "reneschipper.nl",
+   "position": 1
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "domain": "frankwatching.com",
+   "position": 2
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/zo-word-je-als-organisatie-vindbaar-ai-antwoorden-peakfortnl-scede",
+   "title": "Zo word je als organisatie vindbaar in AI-antwoorden - LinkedIn"
+  },
+  {
+   "domain": "reneschipper.nl",
+   "url": "https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai",
+   "title": "LinkedIn invloed AI search: zo word je gevonden door ..."
+  },
+  {
+   "domain": "reneschipper.nl",
+   "url": "https://reneschipper.nl/",
+   "title": "Rene Schipper: LinkedIn training & B2B Marketing en AI ..."
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/05/05/ai-linkedin-hoe-je-wel-in-ai-antwoorden-terechtkomt/",
+   "title": "AI & LinkedIn: hoe je wél in AI-antwoorden terechtkomt"
+  },
+  {
+   "domain": "innlead.ai",
+   "url": "https://www.innlead.ai/nl/services/linkedin-b2b/",
+   "title": "LinkedIn-systemen voor geloofwaardige B2B-zichtbaarheid"
+  }
+ ]
+}

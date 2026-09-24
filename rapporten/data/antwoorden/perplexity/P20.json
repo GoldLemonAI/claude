@@ -1,0 +1,180 @@
+{
+ "id": "P20",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse bureaus of experts worden aanbevolen voor founder-led content op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor **founder-led content op LinkedIn** springen in Nederland vooral bureaus eruit die expliciet werken met **persoonlijke profielen, thought leadership en content vanuit de founder/expert**. Op basis van de resultaten zijn dit de meest relevante namen:\n\n- **Solvex** — noemt expliciet dat ze LinkedIn-aanwezigheid volledig beheren, inclusief **founder-posts** en connectiestrategie.[1]\n- **Frank Husmann** — beschrijft een aanpak waarbij organische content wordt gemaakt op basis van **expertinterviews met de oprichter** of een andere subject matter expert.[5]\n- **GHO Agency** — positioneert zich als **“dé LinkedIn Specialist van NL”** en focust op groei via **content, sales en ads**.[10]\n- **Mind Your Business Agency** — richt zich op **LinkedIn demand generation voor B2B**, wat goed aansluit bij founder-led thought leadership.[11]\n- **LinkedIn Content Creators** — zegt ondernemers, executives en bedrijven te helpen met **strategische LinkedIn-content** die zichtbaarheid en autoriteit opbouwt.[17]\n- **Second Degree** — wordt omschreven als een specialistisch bureau met **100% focus op LinkedIn Marketing**.[14]\n\nAls je liever een **bredere shortlist van Nederlandse bureaus** wilt die niet expliciet founder-led noemen maar wel sterk zijn in LinkedIn content en strategie, dan zijn deze ook relevant:\n\n- **Key Agency** — staat in meerdere Nederlandse LinkedIn-overzichten genoemd als topbureau voor LinkedIn-strategie.[2][16]\n- **Whello** — verschijnt in de shortlist van LinkedIn-strategiebureaus in Nederland.[2]\n- **Red Panda Works** — wordt genoemd door MarketingXperts als LinkedIn marketingpartij met content marketing-focus.[7]\n- **Dapper** — genoemd als B2B marketing- en contentbureau met LinkedIn marketing.[7][9]\n- **Fingerspitz** — genoemd als bureau met LinkedIn marketing en sterke B2B content-/data-aanpak.[7][9]\n\nAls je wilt, kan ik dit ook omzetten naar een **top 5 per use case**:\n- **persoonlijke founder-posts**\n- **LinkedIn thought leadership**\n- **B2B leadgeneratie via founder content**\n- **ghostwriting in het Nederlands**\n- **full-service bureau vs. specialist**",
+ "entities": [
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 1,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "Frank Husmann",
+   "type": "persoon",
+   "position": 2,
+   "domain": "frankhusmann.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 3,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Mind Your Business Agency",
+   "type": "bureau",
+   "position": 4,
+   "domain": "mindyourbusiness-agency.com"
+  },
+  {
+   "name": "LinkedIn Content Creators",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Second Degree",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Key Agency",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Whello",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "MarketingXperts",
+   "type": "platform",
+   "position": 10,
+   "domain": "marketingxperts.nl"
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Fingerspitz",
+   "type": "bureau",
+   "position": 12,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "feedbax.nl",
+   "url": "https://feedbax.nl/linkedin-bureau/nederland",
+   "title": "De 20 beste LinkedIn-bureaus in Nederland - 2026-ranking"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-marketing-bureau/",
+   "title": "LinkedIn marketing bureau: de oplossing voor B2B ..."
+  },
+  {
+   "domain": "socialvikingz.nl",
+   "url": "https://socialvikingz.nl/diensten/linkedin-marketing/",
+   "title": "LinkedIn Marketing - Social Vikingz"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "Linkedin marketing bureau specialisten - MarketingXperts"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-reclame/nederland-nl",
+   "title": "De 10 beste LinkedIn Reclame Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "thegrowthsyndicate.com",
+   "url": "https://www.thegrowthsyndicate.com/agencies/best-b2b-content-marketing-agencies-netherlands",
+   "title": "Best B2B Content marketing Agencies in the Netherlands"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/over-gho-agency",
+   "title": "Over GHO Agency | Dé LinkedIn Specialist van NL"
+  },
+  {
+   "domain": "mindyourbusiness-agency.com",
+   "url": "https://www.mindyourbusiness-agency.com/",
+   "title": "LinkedIn Demand Generation voor B2B | Mind Your Business Agency"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/content-leads",
+   "title": "Content & Leads | marketing services"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "LinkedIn Ads Bureau | B2B Adverteren op LinkedIn - Searchlab"
+  },
+  {
+   "domain": "es.slideshare.net",
+   "url": "https://es.slideshare.net/slideshow/linkedin-marketing-in-nederland/16957434",
+   "title": "LinkedIn Marketing in Nederland"
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/linkedin-marketing/netherlands-nl",
+   "title": "The 10 Best LinkedIn Marketing Agencies in the Netherlands"
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/linkedin-strategy/netherlands-nl",
+   "title": "Top LinkedIn Strategy Consultants in the Netherlands"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/linkedin-content-creators",
+   "title": "LinkedIn Content Creators | marketing services"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/leadrs",
+   "title": "Leadrs Online Marketing Bureau | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/beexbranding",
+   "title": "Beex | advertising services"
+  }
+ ]
+}

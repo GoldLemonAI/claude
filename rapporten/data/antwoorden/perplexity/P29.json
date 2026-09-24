@@ -1,0 +1,125 @@
+{
+ "id": "P29",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Wat is thought leadership op LinkedIn en hoe begint een MKB-ondernemer ermee? Noem Nederlandse voorbeelden en bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Op LinkedIn is **thought leadership** het consistent delen van **originele, onderbouwde inzichten** en een **duidelijk standpunt** waarmee je als expert en betrouwbare stem in je vakgebied wordt gezien.[1][2][3] Voor een **MKB-ondernemer** betekent dit meestal niet “meer posten”, maar **een scherp thema kiezen, bewijs verzamelen uit eigen praktijk en daar regelmatig over publiceren**.[1][15][17]\n\nZo begin je praktisch:\n\n- **Kies 1–3 kennisdomeinen** waar je echt iets over te zeggen hebt, bijvoorbeeld klantretentie, voorraadoptimalisatie, personeelsplanning of verduurzaming.[8][13]\n- **Bepaal je standpunt**: wat zie jij anders dan veel anderen in de markt, en waarom?[1][2][8]\n- **Onderbouw met bewijs**: gebruik cases, cijfers, lessen uit projecten, klantvragen of marktdata.[1][2][14]\n- **Post consequent** in een haalbaar ritme; LinkedIn noemt onder meer een vaste cadence en regelmatig posten als belangrijk voor zichtbaarheid en geloofwaardigheid.[13][17]\n- **Combineer formats**: korte posts, artikelen, carrousels, video of nieuwsbrieven kunnen allemaal werken, zolang de inhoud een duidelijke visie laat zien.[2][14][17]\n- **Ga het gesprek aan**: thought leadership is niet alleen zenden, maar ook reageren op relevante discussies en vragen in je netwerk.[8][16][20]\n\nEen eenvoudige startaanpak voor een MKB’er:\n\n1. **Benoem je niche**: “Wij helpen maakbedrijven met minder uitval op de werkvloer.”\n2. **Verzamel 10 concrete observaties** uit je eigen praktijk.\n3. **Kies 1 terugkerend thema per maand**.\n4. **Schrijf elke week 1 post** met een les, inzicht of tegenintuïtieve observatie.\n5. **Sluit af met een vraag** om reacties en interactie uit te lokken.[15][17][20]\n\nVoorbeelden van hoe dit eruitziet op LinkedIn:\n\n- Een installatiebedrijf dat uitlegt waarom “duurzaam” niet altijd “goedkoper op de korte termijn” betekent, met projectcijfers en keuzes uit de praktijk.[1][14]\n- Een accountantskantoor dat deelt welke financiële fouten groeiende MKB-bedrijven vaak maken en hoe die te voorkomen zijn.[2][15]\n- Een productiebedrijf dat laat zien hoe het levertijden verkortte door één processtap anders in te richten, inclusief meetresultaten.[1][3]\n\nNederlandse voorbeelden en bronnen die je kunt gebruiken:\n\n- **Frankwatching** publiceert regelmatig Nederlandse artikelen over personal branding, LinkedIn en contentstrategie, nuttig als praktische inspiratiebron voor zichtbaarheid en positionering.[16]\n- **Sprout** schrijft veel over ondernemen, groei en positionering; handig om onderwerpen te vinden die voor MKB-relevante thought leadership-kansen bieden.[16]\n- **LinkedIn Nederland**-achtige vakcontent en Nederlandse marketing-/communicatiebureaus gebruiken dezelfde kern: een duidelijke visie, bewijs uit de praktijk en consequent publiceren.[1][2][15]\n\nAls je wilt, kan ik dit ook omzetten in een **30-dagen LinkedIn-startplan voor een MKB’er** of in **3 concrete post-voorbeelden in het Nederlands**.",
+ "entities": [
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Sprout",
+   "type": "platform",
+   "position": 2,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/top-content/sales/inbound-sales-strategy/thought-leadership-initiatives/",
+   "title": "Thought Leadership Initiatives - LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/top-content/marketing/public-relations-in-marketing/thought-leadership-articles/",
+   "title": "Thought Leadership Articles - LinkedIn"
+  },
+  {
+   "domain": "business.linkedin.com",
+   "url": "https://business.linkedin.com/advertise/resources/marketing-terms/thought-leadership",
+   "title": "What is Thought Leadership?"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/building-thought-leadership-linkedin-your-guide-becoming-ahmad-hayat-eor8f",
+   "title": "Building Thought Leadership on LinkedIn: Your Guide to ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/top-content/leadership/thought-leadership-content-creation/how-to-become-a-thought-leader/",
+   "title": "How to Become a Thought Leader - LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/what-thought-leadership-jeff-glauser",
+   "title": "What is thought leadership?"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/content-marketing/types-thought-leadership-b2b-linkedin",
+   "title": "What Types of Thought Leadership Should You Share on LinkedIn?"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/agency/what-does-it-really-mean-to-be-a-thought-leader",
+   "title": "What Does It REALLY Mean to Be a Thought Leader? - LinkedIn"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/blog/linkedin-thought-leadership",
+   "title": "LinkedIn Thought Leadership: How to Build Authority in 2026"
+  },
+  {
+   "domain": "books.forbes.com",
+   "url": "https://books.forbes.com/blog/thought-leadership-how-create-linkedin-content-strategy/",
+   "title": "How to Use Social Media to..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/content-marketing/creating-a-thought-leadership-marketing-plan",
+   "title": "How to Create Impactful Thought Leadership Content - LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/thought-leadership-introductory-guide-cheryl-lau-qbcqc",
+   "title": "Thought leadership: An introductory guide - LinkedIn"
+  },
+  {
+   "domain": "business.linkedin.com",
+   "url": "https://business.linkedin.com/content/dam/lem/business/en/advertise/agencies/pdfs/Executive_Thought_Leadership_on_LinkedIn.pdf",
+   "title": "Agency Playbook Executive Thought Leadership on LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/top-content/business-strategy/brand-positioning-tactics/thought-leadership-content-creation/",
+   "title": "Thought Leadership Content Creation - LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/content-marketing/how-to-create-a-content-strategy-for-thought-leadership",
+   "title": "How to Create a Content Strategy for Thought Leadership - LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/thought-leadership-meaning-strategies-examples-youlynq-me-1e",
+   "title": "Thought Leadership: Meaning, Strategies, and Examples - LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/channel/how-to-elevate-your-thought-leadership-on-linkedin",
+   "title": "How to Elevate Your Thought Leadership on LinkedIn"
+  },
+  {
+   "domain": "forbes.com",
+   "url": "https://www.forbes.com/councils/forbesagencycouncil/2024/06/13/5-ways-to-position-yourself-as-a-thought-leader-on-linkedin/",
+   "title": "Council Post: 5 Ways To Position Yourself As A Thought Leader On LinkedIn"
+  },
+  {
+   "domain": "buffer.com",
+   "url": "https://buffer.com/resources/linkedin-thought-leadership-content-creation/",
+   "title": "How I Designed a LinkedIn Thought Leadership Content Creation ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/linkedin-ads/b2b-creator-thought-leadership",
+   "title": "B2B Creators: The Future of Thought Leadership on LinkedIn"
+  }
+ ]
+}

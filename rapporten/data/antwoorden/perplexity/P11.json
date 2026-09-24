@@ -1,0 +1,144 @@
+{
+ "id": "P11",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welk bureau adviseer je voor LinkedIn-strategie aan een zakelijke dienstverlener in Nederland met 20 medewerkers?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een **zakelijke dienstverlener in Nederland met 20 medewerkers** zou ik vooral een bureau adviseren dat zich expliciet richt op **B2B LinkedIn-strategie** en **leadgeneratie**, niet een generalistisch social bureau.[3][9][18]\n\nOp basis van de aangeleverde resultaten komen deze opties het meest logisch naar voren:\n\n- **Novicom Marketing Group®**: staat in de Sortlist-ranking voor LinkedIn-strategie in Nederland als “Top Aanbevolen” en heeft een sterke reviewscore van **4,9/5 op 30 reviews**.[3]\n- **Marketingkenners**: staat bovenaan in de Feedbax-ranking voor LinkedIn-bureaus in Nederland met **5,0/5 op 37 beoordelingen**.[1]\n- **GHO Agency**: positioneert zich expliciet op **LinkedIn marketing uitbesteden voor B2B**, wat goed past bij een zakelijke dienstverlener.[7]\n- **Searchlab**: richt zich op **LinkedIn Ads voor B2B-bedrijven** en noemt expliciet targeten op functietitel, bedrijf, industrie, senioriteit en vaardigheden.[18]\n\nAls je mij vraagt om **één meest kansrijke keuze** te noemen voor een bedrijf van deze omvang, dan zou ik starten met **Novicom Marketing Group®** vanwege de expliciete focus op LinkedIn-strategie en de sterke beoordeling in een recente Nederland-ranking.[3]\n\nPraktisch zou ik bij de selectie vooral toetsen op:\n- **B2B-ervaring** in zakelijke dienstverlening.[9][18]\n- Aantoonbare **resultaten met concrete cases** en cijfers.[13]\n- Of het bureau zowel **strategie, content als ads** kan combineren.[17][18]\n- Of de aanpak past bij een team van 20 medewerkers, dus ook met beperkte interne capaciteit uitvoerbaar is.[10][12]\n\nAls je wilt, kan ik hierna ook een **korte shortlist van 3 bureaus** maken met een advies per budgetniveau.",
+ "entities": [
+  {
+   "name": "Novicom",
+   "type": "bureau",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "position": 2,
+   "domain": "sortlist.nl"
+  },
+  {
+   "name": "Marketingkenners",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Feedbax",
+   "type": "platform",
+   "position": 4,
+   "domain": "feedbax.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 5,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "position": 6,
+   "domain": "searchlab.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "feedbax.nl",
+   "url": "https://feedbax.nl/linkedin-bureau/nederland",
+   "title": "De 20 beste LinkedIn-bureaus in Nederland - 2026-ranking"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "alsona.com",
+   "url": "https://www.alsona.com/nl/linkedin-experts",
+   "title": "LinkedIn deskundigenlijst - Alsona"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/social-marketing/linkedin-adverteren/",
+   "title": "LinkedIn bureau gezocht? | Hulp van ervaren marketeers"
+  },
+  {
+   "domain": "webnexus.nl",
+   "url": "https://webnexus.nl/diensten/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Lead Generation - Webnexus"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "LinkedIn Marketing Uitbesteden voor B2B | GHO Agency"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/den-haag-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Den Haag - 2026 Reviews"
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-marketing-bureau/",
+   "title": "LinkedIn marketing bureau: de oplossing voor B2B ..."
+  },
+  {
+   "domain": "dimpekt.com",
+   "url": "https://dimpekt.com/linkedin-marketing-bureau/",
+   "title": "LinkedIn Marketing bureau voor B2B"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "Linkedin marketing bureau specialisten - MarketingXperts"
+  },
+  {
+   "domain": "treeonline.nl",
+   "url": "https://www.treeonline.nl/specialisatie/linkedin-bureau",
+   "title": "Adverteren op LinkedIn | LinkedIn marketing Agency | Tree Online"
+  },
+  {
+   "domain": "wildbos.com",
+   "url": "https://wildbos.com/blog/beste-linkedin-content-bureau-b2b",
+   "title": "Het beste LinkedIn content bureau voor B2B"
+  },
+  {
+   "domain": "brandfirm.nl",
+   "url": "https://www.brandfirm.nl/diensten/social-advertising/linkedin-ads/",
+   "title": "LinkedIn Ads voor hoogwaardige zakelijke leadgeneratie - Brandfirm"
+  },
+  {
+   "domain": "seeders.com",
+   "url": "https://seeders.com/nl/blog/de-5-beste-linkbuilding-bureaus-in-nederland-2026-ranking/",
+   "title": "De 5 beste linkbuilding bureaus in Nederland [2026 ranking]"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-reclame/nederland-nl",
+   "title": "De 10 beste LinkedIn Reclame Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "yourfellow.nl",
+   "url": "https://yourfellow.nl/services/social-media-marketing/linkedin-advertising/",
+   "title": "LinkedIn advertising agency voor B2B leads"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "LinkedIn Ads Bureau | B2B Adverteren op LinkedIn - Searchlab"
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/b2b-bedrijven-voor-het-genereren-van-leads",
+   "title": "20+ beste bedrijven en diensten voor B2B-leadgeneratie ..."
+  }
+ ]
+}

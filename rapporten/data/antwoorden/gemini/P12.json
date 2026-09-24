@@ -1,0 +1,144 @@
+{
+ "id": "P12",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welke Nederlandse bureaus bouwen een compleet leadgeneratiesysteem voor B2B-MKB waarin LinkedIn een hoofdrol speelt? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een duidelijke verschuiving zichtbaar van 'losse' LinkedIn-campagnes naar het bouwen van een **compleet en voorspelbaar leadgeneratiesysteem**. Dit soort systemen combineert social selling (persoonlijke profielen), LinkedIn Ads, slimme automatiseringstools, CRM-koppelingen en opvolgingsprocessen speciaal voor het B2B-MKB.\n\nVerschillende vooraanstaande Nederlandse bureaus hebben zich hierin gespecialiseerd en bouwen zo'n compleet systeem voor je op:\n\n### 1. GHO Agency (Rotterdam)\nGHO Agency positioneert zich nadrukkelijk als een *LinkedIn Growth Agency*. Zij bouwen een complete \"groeimachine\" waarin ze content, social selling (vanuit persoonlijke profielen van medewerkers of directie) en gerichte LinkedIn-advertenties combineren. Ze richten zich specifiek op het B2B-MKB om een voorspelbare pipeline op te zetten en de beruchte 'koude acquisitie' te vervangen door een warm systeem.\n\n### 2. BlinktUit (Utrecht)\nBlinktUit is een van de weinige bureaus die leadgeneratie-expertise koppelen aan een eigen technisch platform (Linqed.io). Zij bouwen voor het B2B-MKB een compleet systeem waarin strategie, data, AI-sentimentherkenning en LinkedIn-outreach samenkomen. Hiermee richten ze de gehele sales-funnel in: van het eerste contact op LinkedIn tot de uiteindelijke overdracht aan jouw salesteam of CRM.\n\n### 3. YouLynq.me (Amsterdam)\nDit bureau is volledig gespecialiseerd in LinkedIn leadgeneratie. YouLynq.me bouwt een systeem dat draait om relatiebeheer en netwerkuitbreiding op directieniveau (social selling). Ze nemen het hele proces uit handen: van profieloptimalisatie en doelgroepsegmentatie tot de actieve outreach en het opwarmen van leads, zodat jouw sales-pipeline continu gevuld blijft.\n\n### 4. Red Panda Works (Amsterdam)\nRed Panda Works is een bekend B2B Growth Hacking agency dat systemen bouwt waarin LinkedIn de absolute hoofdrol speelt. Ze richten zich op het B2B-MKB en installeren een complete 'marketing- en salesmachine'. Dit omvat het opzetten van slimme outbound flows via LinkedIn, gecombineerd met marketing automation (zoals HubSpot of ActiveCampaign) en contentdistributie.\n\n### 5. DCM Agency (Eindhoven)\nDCM Agency bouwt gerichte LinkedIn-marketing- en leadgeneratiesystemen voor B2B-bedrijven (met veel focus op IT- en zakelijke dienstverlening). Zij richten de volledige funnel in: ze bepalen de ideale klantprofielen, optimaliseren de LinkedIn-kanalen, genereren de connecties en leveren kant-en-klare, warme afspraken op.\n\n### 6. YourFellow (Delft)\nYourFellow is een B2B-marketingbureau dat zwaar leunt op de kracht van LinkedIn Ads en Account-Based Marketing (ABM). Zij bouwen systemen waarbij besluitvormers stap voor stap worden opgewarmd via specifieke advertentietargeting, retargeting en leadformulieren, waarna deze direct in jouw CRM-systeem worden ingeschoten.\n\n### Waar herken je een goed \"systeem\" aan?\nAls je met een van deze bureaus in gesprek gaat, vraag dan specifiek naar:\n* **De integratie:** Hoe koppelen zij LinkedIn-activiteiten aan jouw CRM (zoals HubSpot, Salesforce of Pipedrive) zodat leads niet handmatig overgetikt hoeven te worden?\n* **De verdeling tussen Personal Branding & Ads:** Een compleet systeem gebruikt vaak de persoonlijke profielen van jouw experts én gerichte advertenties (LinkedIn Ads) om het bereik te maximaliseren.\n* **De opvolging:** Wie doet de eerste opvolging van de chatberichten op LinkedIn? Veel bureaus bieden een 'done-for-you'-service aan waarbij zij de chats beheren totdat er een concrete afspraak staat.",
+ "entities": [
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 1,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "BlinktUit",
+   "type": "bureau",
+   "position": 2,
+   "domain": "blinktuit.nl"
+  },
+  {
+   "name": "Linqed.io",
+   "type": "tool",
+   "position": 3,
+   "domain": "linqed.io"
+  },
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "position": 4,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "HubSpot",
+   "type": "tool",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "ActiveCampaign",
+   "type": "tool",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "DCM Agency",
+   "type": "bureau",
+   "position": 8,
+   "domain": "dcmagency.com"
+  },
+  {
+   "name": "YourFellow",
+   "type": "bureau",
+   "position": 9,
+   "domain": "yourfellow.nl"
+  },
+  {
+   "name": "Salesforce",
+   "type": "tool",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Pipedrive",
+   "type": "tool",
+   "position": 11,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-marketing-bureau/",
+   "title": "frankhusmann.nl"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "blinktuit.nl",
+   "url": "https://www.blinktuit.nl/linkedin-leadgeneratie/",
+   "title": "blinktuit.nl"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/b2b-leadgeneratie",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/linkedin-leadgeneratie/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "marketingxperts.nl"
+  },
+  {
+   "domain": "dcmagency.com",
+   "url": "https://www.dcmagency.com/",
+   "title": "dcmagency.com"
+  },
+  {
+   "domain": "yourfellow.nl",
+   "url": "https://yourfellow.nl/services/social-media-marketing/linkedin-advertising/",
+   "title": "yourfellow.nl"
+  },
+  {
+   "domain": "marketingconcurrent.nl",
+   "url": "https://www.marketingconcurrent.nl/en/linkedin-advertising",
+   "title": "marketingconcurrent.nl"
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/linkedin-leadgeneratie",
+   "title": "salesflare.com"
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/b2b-bedrijven-voor-het-genereren-van-leads",
+   "title": "salesflare.com"
+  },
+  {
+   "domain": "newgenerationleads.com",
+   "url": "https://www.newgenerationleads.com/nl/wat-wij-doen/",
+   "title": "newgenerationleads.com"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "P04",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welk bureau in Nederland kan LinkedIn content voor een MKB-bedrijf volledig uitbesteed verzorgen, inclusief posts voor de oprichter?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Er zijn in Nederland verschillende gespecialiseerde B2B- en socialmediabureaus die zowel de bedrijfspagina (company page) van een MKB-bedrijf als de persoonlijke profielen (personal branding / *thought leadership* ) van de oprichter of directeur volledig uit handen nemen. Dit wordt ook wel **LinkedIn ghostwriting** of **executive positioning** genoemd.[[1]](https://magicpost.in/nl/blog/ghostwriting-linkedin)\n\nHier is een overzicht van hoe dit type dienstverlening werkt, waar je op moet letten, en hoe je een passende partner vindt:\n\n### Wat houdt de volledige uitbesteding in?\n\nEen bureau dat dit integraal aanpakt, werkt meestal via een vaste workflow:\n\n1. **Strategie & Stem-analyse:** Ze bepalen de pijlers (waar staat het bedrijf en de oprichter voor?) en interviewen de oprichter regelmatig (bijv. een kort bi-weekly interview van 30 minuten) om de unieke toon en visie te vangen.\n2. **Contentcreatie voor het bedrijf:** Posts voor de bedrijfsagina om product-news, company culture encases te delen.[[1]](https://www.stekonline.nl/linkedin-marketing-uitbesteden/)[[2]](https://d-fokker.nl/diensten/marketing/social-media-marketing/linkedin-marketing/)\n3. **Ghostwriting voor de oprichter:** Het omzetten van de ideeën van de oprichter naar pakkende, persoonlijke posts die worden gepubliceerd op het persoonlijke profiel (wat vaak veel meer bereik oplevert dan de bedrijfspagina).\n4. **Engagement & Monitoring:** Het beheren van reacties en het opbouwen van interactie met de doelgroep.[[1]](https://www.sortlist.nl/s/linkedin-strategie/nederland-nl)\n\n### Typen bureaus in Nederland die dit doen\n\n- **B2B Content- en Socialmediabureaus:** Denk aan bureaus zoals [GHO Agency](https://www.gho.agency/linkedin-marketing) (die expliciet focussen op B2B-leadgeneratie en LinkedIn ghostwriting), of bredere online marketingbureaus zoals [Stek Online](https://www.stekonline.nl/linkedin-marketing-uitbesteden/) en [2BeFresh](https://www.2befresh.nl/linkedin-marketing/) die organische B2B-strategieën aanbieden.[[1]](https://www.gho.agency/linkedin-marketing)[[2]](https://www.gho.agency/blogs/linkedin-ghostwriter)[[3]](https://www.stekonline.nl/linkedin-marketing-uitbesteden/)[[4]](https://www.2befresh.nl/linkedin-marketing/)\n- **Gespecialiseerde Personal Branding / Copywriting Freelancers & Boutiques:** Vaak zijn het compacte, gespecialiseerde contentboutiques die nauw samenwerken met directieleden.\n- **Vergelijkingsplatforms:** Als je specifieke offertes wilt opvragen die passen bij jouw budget en branche, kun je via platforms zoals het Sortlist Overzicht van LinkedIn Strategie Bureaus gericht projecten uitzetten en de reviews van Nederlandse bureaus bekijken.[[1]](https://www.sortlist.nl/s/linkedin-strategie/nederland-nl)\n\nWil je dat ik je help **criteria op te stellen** om het juiste bureau te selecteren, of ben je op zoek naar een bureau met ervaring in een **specifieke branche** (zoals IT, bouw, of zakelijke dienstverlening)?",
+ "entities": [
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "domain": "gho.agency",
+   "position": 1
+  },
+  {
+   "name": "Stek Online",
+   "type": "bureau",
+   "domain": "stekonline.nl",
+   "position": 2
+  },
+  {
+   "name": "2BeFresh",
+   "type": "bureau",
+   "domain": "2befresh.nl",
+   "position": 3
+  },
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "domain": "sortlist.nl",
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/ghostwriting-linkedin",
+   "title": "LinkedIn-ghostwriting: aanpak, tarieven en tools (2026)"
+  },
+  {
+   "domain": "stekonline.nl",
+   "url": "https://www.stekonline.nl/linkedin-marketing-uitbesteden/",
+   "title": "LinkedIn marketing uitbesteden - Stek Online"
+  },
+  {
+   "domain": "d-fokker.nl",
+   "url": "https://d-fokker.nl/diensten/marketing/social-media-marketing/linkedin-marketing/",
+   "title": "Linkedin Marketing - D-Fokker"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "LinkedIn Marketing Uitbesteden voor B2B | GHO Agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/linkedin-ghostwriter",
+   "title": "Hoe een LinkedIn ghostwriter jouw verhaal op papier krijgt"
+  },
+  {
+   "domain": "2befresh.nl",
+   "url": "https://www.2befresh.nl/linkedin-marketing/",
+   "title": "Linkedin marketing - 2BeFresh"
+  }
+ ]
+}

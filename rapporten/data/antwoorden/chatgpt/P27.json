@@ -1,0 +1,61 @@
+{
+ "id": "P27",
+ "engine": "chatgpt",
+ "cat": "hoe",
+ "prompt": "Wat kost het om LinkedIn content uit te besteden aan een bureau in Nederland? Noem aanbieders en prijzen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van wat het kost om LinkedIn-content uit te besteden aan een bureau in Nederland. Ik geef voorbeelden van aanbieders, hun diensten en bijbehorende tarieven, gebaseerd op recente marktgegevens (2026).\n\n---\n\n##  Marktgemiddelden voor contentmarketing en social media\n\n- Een contentmarketing-bureau in Nederland rekent gemiddeld tussen **€75 en €150 per uur**, exclusief btw, afhankelijk van de scope en het type content ([marketingkiezer.nl](https://marketingkiezer.nl/kosten/content-marketing?utm_source=openai)).\n- Maandelijkse retainerprijzen voor contentmarketing variëren doorgaans van **€750 tot €2.500 per maand** voor pakketten met strategie en een vast aantal producties ([contentklaar.nl](https://contentklaar.nl/content-marketing-uitbesteden?utm_source=openai)).\n- Voor social media (waaronder LinkedIn) ligt het gemiddelde tarief tussen **€500 en €5.000 per maand**, exclusief advertentiebudget. Voor MKB is een realistische bandbreedte **€750 tot €2.000 per maand** ([marketingburos.nl](https://www.marketingburos.nl/gids/social-media-bureau?utm_source=openai)).\n\n---\n\n##  Specifieke LinkedIn-marketingbureaus en hun tarieven\n\n### iReclam\n- Biedt LinkedIn-marketing voor B2B MKB, inclusief content, positionering, leadgeneratie, employer branding en rapportage.\n- Tarief: **€599 per maand**, exclusief advertentiebudget. Maandelijks opzegbaar ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai)).\n\n### Solvex\n- Beheert je LinkedIn-aanwezigheid volledig: bedrijfspagina, founder-posts, connectiestrategie, optioneel Ads.\n- Pakketten vanaf **€495 per maand** voor bedrijfspagina + 4 posts per maand. Duurdere pakketten van **€850** en **€1.250 per maand** beschikbaar, exclusief advertentiebudget ([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai)).\n\n### Gold Lemon\n- Contentmarketingbureau voor B2B-MKB, inclusief LinkedIn-posts (2–4 per week), vakblogs en SEO-pagina’s.\n- Vaste maandprijs: **€2.495 per maand**, plus eenmalig **€5.000** voor het fundament (strategie, systeem) ([goldlemon.nl](https://goldlemon.nl/content-marketing-bureau/?utm_source=openai)).\n\n---\n\n##  Overzicht van tarieven\n\n| Aanbieder / Type                         | Diensten inbegrepen                                      | Tarief (excl. btw)                      |\n|------------------------------------------|----------------------------------------------------------|-----------------------------------------|\n| Contentmarketing-bureau (algemeen)       | Strategie + contentproductie                             | €750 – €2.500 per maand                 |\n| Social media bureau (MKB)                | Content, planning, community management                  | €750 – €2.000 per maand                 |\n| iReclam (LinkedIn specifiek)             | Content, positionering, leadgeneratie, rapportage       | €599 per maand                          |\n| Solvex (LinkedIn volledig beheer)        | Company page, founder-posts, connectiestrategie          | Vanaf €495 per maand (tot €1.250)       |\n| Gold Lemon (B2B contentmarketing)        | LinkedIn-posts, vakblogs, SEO-pagina’s                   | €2.495 per maand + €5.000 eenmalig      |\n\n---\n\n##  Wat bepaalt de prijs?\n\n- **Scope en intensiteit**: Hoe meer contentvormen (tekst, video, carrousels), hoe hoger de prijs.\n- **Strategie en planning**: Pakketten met strategie, contentkalender en rapportage zijn duurder.\n- **Frequentie**: Meer posts per week of maand betekent hogere kosten.\n- **Extra’s**: Advertentiebudget (LinkedIn Ads) is meestal niet inbegrepen en komt daarbovenop ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai)).\n\n---\n\n##  Conclusie\n\n- Voor een basispakket met LinkedIn-content (bijv. 4 posts per maand) kun je rekenen op **€495 tot €600 per maand**.\n- Voor een uitgebreider pakket met strategie, meerdere contentvormen en hogere frequentie liggen de kosten tussen **€750 en €2.500 per maand**.\n- Voor full-service contentmarketing inclusief LinkedIn, blogs en SEO betaal je al snel **€2.500 per maand**, met eenmalige opstartkosten mogelijk.\n\nLaat me weten als je hulp wilt bij het vergelijken van specifieke bureaus of het opstellen van een offerteaanvraag!",
+ "entities": [
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 1,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 2,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 3,
+   "domain": "goldlemon.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "marketingkiezer.nl",
+   "url": "https://marketingkiezer.nl/kosten/content-marketing",
+   "title": "Wat kost Content Marketing? Tarieven 2026 | MarketingKiezer"
+  },
+  {
+   "domain": "contentklaar.nl",
+   "url": "https://contentklaar.nl/content-marketing-uitbesteden",
+   "title": "Content marketing uitbesteden — of slimmer zelf doen? | ContentKlaar"
+  },
+  {
+   "domain": "marketingburos.nl",
+   "url": "https://www.marketingburos.nl/gids/social-media-bureau",
+   "title": "Social media bureau kiezen · Marketingburos"
+  },
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  },
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/content-marketing-bureau/",
+   "title": "Contentmarketingbureau voor B2B-MKB | Gold Lemon"
+  }
+ ]
+}

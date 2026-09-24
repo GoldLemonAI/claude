@@ -1,0 +1,180 @@
+{
+ "id": "P14",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse ondernemers zijn een goed voorbeeld van autoriteit opbouwen op LinkedIn in B2B? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In de Nederlandse B2B-wereld is LinkedIn uitgegroeid tot hét platform voor *thought leadership*, *demand generation* en netwerkgroei. Persoonlijke profielen presteren hierbij vele malen beter dan anonieme bedrijfspagina's. \n\nEen aantal Nederlandse ondernemers blinkt uit in het opbouwen van autoriteit binnen hun respectievelijke niches. Zij zijn uitstekende voorbeelden van hoe je LinkedIn strategisch inzet:\n\n### 1. Richard van der Blom (Oprichter Just Connecting)\n* **Niche:** LinkedIn-algoritmen, Social Selling en B2B-sales.\n* **Waarom hij een voorbeeld is:** Richard is internationaal waarschijnlijk de bekendste Nederlandse autoriteit op het gebied van LinkedIn zelf. Hij is wereldwijd beroemd vanwege zijn jaarlijkse *LinkedIn Algorithm Insights Report*. Zijn posts zijn extreem datagedreven, praktisch en direct toepasbaar. Hij claimt zijn autoriteit door simpelweg de meest diepgaande en betrouwbare bron van informatie te zijn binnen zijn vakgebied.\n\n### 2. Jordi Bron (Oprichter Red Panda Works)\n* **Niche:** B2B Growth Hacking en *Full System Marketing*.\n* **Waarom hij een voorbeeld is:** Jordi is de belichaming van 'practise what you preach'. Hij deelt op een zeer transparante, no-nonsense manier de successen (en fuck-ups) van zijn eigen B2B-marketingbureau. Zijn content is gefocust op de verschuiving van de traditionele marketingfunnel naar het opbouwen van vertrouwen en *demand generation*. Hij gebruikt daarnaast zijn eigen podcast (*Yes yes yes*) slim om content te hergebruiken op zijn tijdlijn.\n\n### 3. Michiel Verstraten (Co-founder YouLynq.me)\n* **Niche:** B2B-netwerken, LinkedIn-groei en koude acquisitie transformeren naar relatiebeheer.\n* **Waarom hij een voorbeeld is:** Michiel laat zien hoe je door extreme consistentie in korte tijd een gigantisch bereik kunt opbouwen. Hij post dagelijks over ondernemerschap, sales en de dynamiek van LinkedIn. Zijn content is visueel sterk (met video's en carrousels) en hij combineert harde zakelijke lessen met persoonlijke anekdotes over het runnen van een snelgroeiend bedrijf.\n\n### 4. Bas van der Veldt (CEO AFAS Software)\n* **Niche:** Bedrijfscultuur, leiderschap en software.\n* **Waarom hij een voorbeeld is:** Hoewel hij een grote corporate organisatie leidt, profileert Bas zich als een uiterst toegankelijke, authentieke en soms tegendraadse ondernemer. Hij mijdt de standaard corporate PR-taal en deelt scherpe meningen over werkgeverschap, digitalisering en management. Hiermee bouwt hij niet alleen autoriteit op voor zichzelf, maar fungeert hij als de ultieme *corporate influencer* voor het merk AFAS.\n\n### 5. Marjolein Bongers (Oprichter House of Social Media)\n* **Niche:** LinkedIn-trainingen, social selling en psychologie achter social media.\n* **Waarom zij een voorbeeld is:** Marjolein (auteur van o.a. *LinkedIn Power*) combineert contentmarketing met gedragspsychologie. Haar posts zijn niet alleen gericht op 'hoe' je LinkedIn gebruikt, maar vooral op 'waarom' mensen op bepaalde content aanslaan. Ze straalt autoriteit uit door haar jarenlange ervaring te vertalen naar hapklare, menselijke adviezen en prikkelende stellingen.\n\n### 6. Lukas Hagenbeek (Oprichter Organic Link)\n* **Niche:** LinkedIn-sales, appointment setting en *founder-led sales*.\n* **Waarom hij een voorbeeld is:** Lukas hanteert een rauwe, ongepolijste en zeer directe toon die enorm opvalt tussen de vaak 'gepolijste' B2B-content. Hij deelt scherpe contrasten tussen wat de markt gelooft (zoals overmatige automatisering) en wat volgens hem écht werkt (persoonlijk contact en de 'holbewoner-mentaliteit' in sales). Hij claimt zijn autoriteit door keiharde resultaten en case-studies te delen.\n\n---\n\n### Wat kun je van deze ondernemers leren voor jouw B2B-strategie?\n* **Consistentie is de basis:** Vrijwel al deze ondernemers posten meerdere keren per week tot zelfs dagelijks.\n* **Geef waarde weg:** Ze verkopen zelden direct in hun posts. In plaats daarvan delen ze gratis templates, stappenplannen en data om eerst vertrouwen te winnen.\n* **Kies een duidelijke niche:** Ze proberen niet alles voor iedereen te zijn. Als je aan Richard denkt, denk je aan het algoritme; denk je aan Jordi, dan denk je aan B2B growth hacking.\n* **Maak het menselijk:** De best presterende B2B-content op LinkedIn bevat een gezicht, een persoonlijke les of een blik achter de schermen. Personal branding draait erom dat mensen uiteindelijk kopen van mensen, niet van logo's.",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 1,
+   "domain": "richardvanderblom.com"
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Jordi Bron",
+   "type": "persoon",
+   "position": 3,
+   "domain": "redpanda.works"
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 4,
+   "domain": "redpanda.works"
+  },
+  {
+   "name": "Michiel Verstraten",
+   "type": "persoon",
+   "position": 5,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "position": 6,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "Bas van der Veldt",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "AFAS Software",
+   "type": "overig",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "House of Social Media",
+   "type": "bureau",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Lukas Hagenbeek",
+   "type": "persoon",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Organic Link",
+   "type": "bureau",
+   "position": 12,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sdim.nl",
+   "url": "https://www.sdim.nl/artikelen/linkedin-personal-branding-voor-zakelijke-groei/",
+   "title": "sdim.nl"
+  },
+  {
+   "domain": "pma-solutions.eu",
+   "url": "https://www.pma-solutions.eu/nl/services/linkedin-marketing/",
+   "title": "pma-solutions.eu"
+  },
+  {
+   "domain": "richardvanderblom.com",
+   "url": "https://richardvanderblom.com/",
+   "title": "richardvanderblom.com"
+  },
+  {
+   "domain": "digital-you.libsyn.com",
+   "url": "https://digital-you.libsyn.com/71-a-deep-dive-into-the-linkedin-algorithm-report-mit-richard-van-der-blom",
+   "title": "libsyn.com"
+  },
+  {
+   "domain": "dreamdata.io",
+   "url": "https://dreamdata.io/blog/linkedin-algorithm-2024-richard-van-der-blom",
+   "title": "dreamdata.io"
+  },
+  {
+   "domain": "linkedsummit.dk",
+   "url": "https://www.linkedsummit.dk/speaker/richard-van-der-blom/",
+   "title": "linkedsummit.dk"
+  },
+  {
+   "domain": "podcast.creatorscience.com",
+   "url": "https://podcast.creatorscience.com/richard-van-der-blom-2/",
+   "title": "creatorscience.com"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/magazine/q%26a/21907/jordi-bron-b2b-marketing-is-een-vak-apart",
+   "title": "managementboek.nl"
+  },
+  {
+   "domain": "podcastluisteren.nl",
+   "url": "https://podcastluisteren.nl/ep/Fuck-Ups-Doorbraken-Wat-gebeurt-er-als-je-als-ondernemer-te-veel-tegelijk-wilt-doen",
+   "title": "podcastluisteren.nl"
+  },
+  {
+   "domain": "growwithward.com",
+   "url": "https://growwithward.com/growth-hacking-agency-benelux",
+   "title": "growwithward.com"
+  },
+  {
+   "domain": "redpandapodcast.nl",
+   "url": "https://www.redpandapodcast.nl/",
+   "title": "redpandapodcast.nl"
+  },
+  {
+   "domain": "redpanda.works",
+   "url": "https://www.redpanda.works/",
+   "title": "redpanda.works"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/blog/linkedin-b2b-marketing/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/blog/onverwachte-erkenning-top-20-business-influencers/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/01/20/linkedin-top-voices-zichtbaarheid/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "favikon.com"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=vB8IEYmZizI",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "inboxleads.nl",
+   "url": "https://inboxleads.nl/linkedin-personal-branding/",
+   "title": "inboxleads.nl"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/10/02/personal-brand-bouwen-linkedin/",
+   "title": "frankwatching.com"
+  }
+ ]
+}

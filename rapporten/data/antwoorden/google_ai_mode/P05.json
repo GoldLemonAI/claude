@@ -1,0 +1,67 @@
+{
+ "id": "P05",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welke Nederlandse bureaus zijn goed in thought leadership op LinkedIn voor B2B-bedrijven? Noem namen en waarom.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is het landschap van B2B-marketingbureaus flink verschoven van traditionele bedrijfspagina's naar **personal branding** en **executive positioning** op LinkedIn. Omdat thought leadership vraagt om een menselijke stem, diepgaande inhoud en een strakke vertaalslag van complexe materie, zijn er specifieke bureaus die hierin uitblinken.[[1]](https://nl.linkedin.com/posts/frankwatching_b2b-thought-leadership-op-linkedin-7-tips-activity-7302960081787080704-qmCa)[[2]](https://nl.linkedin.com/company/elementcontent)\n\nHier zijn enkele opvallende Nederlandse (of in Nederland actieve) bureaus en specialisten die sterk zijn in B2B-thought leadership via LinkedIn:\n\n### 1. Sprints & Sneakers\n\n- **Wat ze doen:** Dit growth marketing-bureau (gevestigd in Amsterdam/Utrecht) kijkt verder dan platte advertenties. Ze helpen B2B-organisaties en hun leiders met strategische, waarde-gedreven content.[[1]](https://www.sprintsandsneakers.com/nl/insights/thought-leadership-b2b)\n- **Waarom ze goed zijn:** Ze begrijpen dat thought leadership geen snelle sales-tactic is, maar draait om het bouwen van duurzame autoriteit. Ze trainen C-level executives en marketingteams om hun eigen unieke visie en verhalen te formuleren i.p.v.heideloze corporate 'pr-taal'.[[1]](https://www.sprintsandsneakers.com/nl/insights/thought-leadership-b2b)\n\n### 2. Element Content\n\n- **Wat ze doen:** Een strategisch B2B-contentbureau dat zich richt op complexe sectoren zoals tech, duurzaamheid en industrie.\n- **Waarom ze goed zijn:** Ze zijn ijzersterk in het vertalen van ingewikkelde, technische proposities naar heldere, behapbare en prikkelende inzichten voor op LinkedIn. Ze bouwen content- en thought leadership-systemen die aantoonbaar bijdragen aan de organische groei van een onderneming.[[1]](https://nl.linkedin.com/company/elementcontent)\n\n### 3. Whello\n\n- **Wat ze doen:** Een Amsterdamse socialmediapartner met een zeer sterke, toegewijde B2B-praktijk voor LinkedIn Ads en organische zichtbaarheid.[[1]](https://www.webtonic.io/blog/best-linkedin-ads-agencies-amsterdam)\n- **Waarom ze goed zijn:** Ze combineren slimme leadgeneratie en retargeting met structurele thought leadership-campagnes. Hun aanpak is dat advertenties en expert-content hand in hand gaan, wat in de praktijk zorgt voor meetbare pipeline-waarde in plaats van alleen 'likes'.[[1]](https://www.webtonic.io/blog/best-linkedin-ads-agencies-amsterdam)\n\n### 4. GHO Marketing Bureau\n\n- **Wat ze doen:** Gespecialiseerd in B2B-leadgeneratie en personal branding/thought leadership specifiek via LinkedIn.\n- **Waarom ze goed zijn:** Ze richten zich nadrukkelijk op het vullen van de agenda's van founders, directors en consultants. Ze helpen bij het optimaliseren van persoonlijke profielen en het inrichten van een consistente contentkalender, zodat de expert zelf het uithangbord van het bedrijf wordt.[[1]](https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin)[[2]](https://www.gho.agency/b2b-leadgeneratie)\n\nWil je je verdiepen in een van deze opties, of ben je benieuwd of je zo'n traject **in-house moet opbouwen** of **moet uitbesteden** ? Laat het me gerust weten.",
+ "entities": [
+  {
+   "name": "Sprints & Sneakers",
+   "type": "bureau",
+   "domain": "sprintsandsneakers.com",
+   "position": 1
+  },
+  {
+   "name": "Element Content",
+   "type": "bureau",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Whello",
+   "type": "bureau",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "domain": "gho.agency",
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/frankwatching_b2b-thought-leadership-op-linkedin-7-tips-activity-7302960081787080704-qmCa",
+   "title": "7 tips om wél impact te maken | Frankwatching - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/elementcontent",
+   "title": "B2B Marketing Strategy | Element Content - LinkedIn"
+  },
+  {
+   "domain": "sprintsandsneakers.com",
+   "url": "https://www.sprintsandsneakers.com/nl/insights/thought-leadership-b2b",
+   "title": "Thought Leadership: Betekenis, Waarom en Hoe voor B2B"
+  },
+  {
+   "domain": "webtonic.io",
+   "url": "https://www.webtonic.io/blog/best-linkedin-ads-agencies-amsterdam",
+   "title": "Amsterdam LinkedIn Ads Agencies 2026 | Web Tonic™"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin",
+   "title": "Boost je personal branding en thought leadership op LinkedIn"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/b2b-leadgeneratie",
+   "title": "B2B Leadgeneratie via LinkedIn | GHO Marketing Bureau"
+  }
+ ]
+}

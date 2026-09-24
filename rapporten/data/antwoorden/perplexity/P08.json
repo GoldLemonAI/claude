@@ -1,0 +1,179 @@
+{
+ "id": "P08",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Aan wie kan een Nederlands MKB-bedrijf het beheer van de LinkedIn-bedrijfspagina uitbesteden? Noem bureaus.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Een Nederlands MKB-bedrijf kan het beheer van de LinkedIn-bedrijfspagina uitbesteden aan gespecialiseerde **socialmedia-** en **LinkedIn-bureaus** die content, planning, community management, strategie en soms ook advertenties verzorgen.[1][3][5][11]\n\nVoorbeelden van bureaus die dit aanbieden:\n\n- **Solvex** — beheert LinkedIn-aanwezigheid voor B2B en MKB, inclusief company page, posts en optioneel LinkedIn Ads.[1]\n- **GHO Agency** — biedt LinkedIn marketing uitbesteden voor B2B, met strategie, content en dagelijkse interactie.[3]\n- **YUTU Grow** — richt zich op LinkedIn-marketing voor MKB Nederland en optimaliseert bedrijfspagina’s en content.[4]\n- **iReclam** — social media bureau dat social kanalen voor MKB-bedrijven beheert, inclusief LinkedIn, content en advertentiecampagnes.[5]\n- **BuildSocial** — neemt het beheren en optimaliseren van LinkedIn-pagina’s over.[6][14][15]\n- **Cridea Online Marketing bureau** — biedt LinkedIn-uitbesteding en het beheer van de bedrijfspagina.[8]\n- **Afdeling Online** — helpt met het opzetten, onderhouden en optimaliseren van LinkedIn-bedrijfspagina’s en advertentiecampagnes.[9]\n- **Brul Media** — biedt LinkedIn-beheer via specifieke pakketten.[10]\n- **MvH Media** — positioneert LinkedIn-uitbesteding als bureau-dienst voor content, campagnes en analyse.[11]\n- **STUDIOLEE** — biedt volledig social media beheer, inclusief LinkedIn, of LinkedIn-marketing in bredere vorm.[7][16]\n- **Marketing Vrouwen** — doet social media beheer, waaronder strategie, contentcreatie en optimalisatie.[18]\n\nAls je wilt, kan ik hier ook een **kortere shortlist maken op basis van budget** of een **vergelijking per bureau** geven voor alleen *organisch beheer*, *LinkedIn Ads* of *volledig uitbesteden*.",
+ "entities": [
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 1,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 2,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "YUTU Grow",
+   "type": "bureau",
+   "position": 3,
+   "domain": "yutugrow.nl"
+  },
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 4,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "BuildSocial",
+   "type": "bureau",
+   "position": 5,
+   "domain": "buildsocial.nl"
+  },
+  {
+   "name": "Cridea",
+   "type": "bureau",
+   "position": 6,
+   "domain": "cridea.nl"
+  },
+  {
+   "name": "Afdeling Online",
+   "type": "bureau",
+   "position": 7,
+   "domain": "afdelingonline.nl"
+  },
+  {
+   "name": "Brul Media",
+   "type": "bureau",
+   "position": 8,
+   "domain": "brulmedia.nl"
+  },
+  {
+   "name": "MvH Media",
+   "type": "bureau",
+   "position": 9,
+   "domain": "mvhmedia.nl"
+  },
+  {
+   "name": "STUDIOLEE",
+   "type": "bureau",
+   "position": 10,
+   "domain": "studiolee.nl"
+  },
+  {
+   "name": "Marketing Vrouwen",
+   "type": "bureau",
+   "position": 11,
+   "domain": "marketingvrouwen.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "marketingdivisie.nl",
+   "url": "https://www.marketingdivisie.nl/diensten/linkedin-ads",
+   "title": "LinkedIn Ads uitbesteden"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "LinkedIn Marketing Uitbesteden voor B2B | GHO Agency"
+  },
+  {
+   "domain": "yutugrow.nl",
+   "url": "https://www.yutugrow.nl/blog/marketing-uitbesteden",
+   "title": "LinkedIn Marketing Uitbesteden voor MKB Nederland - YUTU Grow"
+  },
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/",
+   "title": "Social Media Marketing Eindhoven | iReclam"
+  },
+  {
+   "domain": "buildsocial.nl",
+   "url": "https://www.buildsocial.nl/",
+   "title": "Social media marketing uitbesteden v.a. € 8,- per dag"
+  },
+  {
+   "domain": "studiolee.nl",
+   "url": "https://www.studiolee.nl/social-media",
+   "title": "Social Media Uitbesteden | Beheer & Strategie — STUDIOLEE"
+  },
+  {
+   "domain": "cridea.nl",
+   "url": "https://cridea.nl/social-media/linkedin-uitbesteden/",
+   "title": "LinkedIn uitbesteden | Cridea Online Marketing bureau"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/social-marketing/linkedin-adverteren/",
+   "title": "LinkedIn bureau gezocht? | Hulp van ervaren marketeers"
+  },
+  {
+   "domain": "brulmedia.nl",
+   "url": "https://brulmedia.nl/social-media/linkedin-beheer/",
+   "title": "LinkedIn Uitbesteden? Bespaar tijd en laat je netwerk groeien!"
+  },
+  {
+   "domain": "mvhmedia.nl",
+   "url": "https://www.mvhmedia.nl/diensten/social-media-marketing/linkedin-marketing/uitbesteden/",
+   "title": "Linkedin Uitbesteden? - Bereik Jouw Doelgroep - MvH Media"
+  },
+  {
+   "domain": "trustoo.nl",
+   "url": "https://trustoo.nl/opdracht/online-marketing/social-media/",
+   "title": "Social media uitbesteden | Top 10 marketingbureaus"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/kosten/wat-kost-social-media-marketing-uitbesteden",
+   "title": "wat kost social media marketing uitbesteden in 2026?"
+  },
+  {
+   "domain": "buildsocial.nl",
+   "url": "https://www.buildsocial.nl/linkedin/",
+   "title": "LinkedIn uitbesteden: jouw marketing door echte specialisten"
+  },
+  {
+   "domain": "buildsocial.nl",
+   "url": "https://www.buildsocial.nl/linkedin/linkedin-beheer/",
+   "title": "LinkedIn Beheer uitbesteden v.a. 8 euro per dag"
+  },
+  {
+   "domain": "studiolee.nl",
+   "url": "https://www.studiolee.nl/blog/linkedin-marketing-uitbesteden-b2b-mkb",
+   "title": "LinkedIn marketing uitbesteden voor B2B-MKB — STUDIOLEE"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "marketingvrouwen.nl",
+   "url": "https://marketingvrouwen.nl/social-media-beheer-in-den-haag/",
+   "title": "Social media beheer in Den Haag | Online marketing bureau"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/b2b-bedrijven-voor-het-genereren-van-leads",
+   "title": "20+ beste bedrijven en diensten voor B2B-leadgeneratie ..."
+  }
+ ]
+}

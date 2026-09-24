@@ -1,0 +1,97 @@
+{
+ "id": "P04",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welk bureau in Nederland kan LinkedIn content voor een MKB-bedrijf volledig uitbesteed verzorgen, inclusief posts voor de oprichter?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor MKB-bedrijven die zowel de corporate communicatie (de bedrijfspagina) als de persoonlijke profielen van de directie of oprichters (personal branding / ghostwriting) volledig willen uitbesteden, is een gespecialiseerd B2B socialmediabureau de beste keuze. \n\nIn Nederland zijn er diverse bureaus die deze \"done-for-you\"-dienstverlening aanbieden. Zij zorgen voor de strategie, de interviews om de stem van de oprichter te vangen (tone-of-voice), de contentcreatie (tekst en beeld) en het inplannen.\n\nVerschillende Nederlandse bureaus bieden deze specifieke combinatie aan:\n\n### 1. Sculpt Studios\nDit bureau is sterk gespecialiseerd in B2B-leadgeneratie en personal branding voor Nederlandse founders en directeuren. \n* **Voor de oprichter:** Ze bieden de ***LinkedIn Personal Brand Engine*** aan. Dit is een volledig ontzorgd ghostwriting-traject waarbij ze via periodieke interviews de kennis en anekdotes van de oprichter ophalen. Dit vertalen zij vervolgens naar posts in diens persoonlijke schrijfstijl (tone-of-voice). \n* **Voor het bedrijf:** Ze kunnen de persoonlijke branding naadloos combineren met een bredere B2B-content- en leadgeneratiestrategie voor de rest van de onderneming.\n* **Prijsindicatie:** Pakketten voor personal branding starten vanaf ca. € 750 tot € 2.500 per maand (afhankelijk van de frequentie en intensiteit, zoals video-begeleiding en actieve interactie op andere profielen).\n\n### 2. GHO Agency\nGHO Agency richt zich specifiek op B2B-marketing, thought leadership en *LinkedIn ghostwriting* voor CEO's, oprichters en managers.\n* **Voor de oprichter:** Ze hebben een gestructureerde aanpak voor ghostwriting. Ze verdiepen zich in de branche en visie van de oprichter en schrijven wekelijkse updates alsof de oprichter ze zelf geschreven heeft.\n* **Voor het bedrijf:** Omdat ze een full-service B2B-bureau zijn, beheren ze ook de bedrijfspagina, schrijven ze whitepapers en optimaliseren ze de algehele LinkedIn-strategie om leads en talent (employer branding) aan te trekken.\n\n### 3. Strategisch Partners\nDit is een bureau dat zich specifiek richt op het ontzorgen van MKB-bedrijven die geen tijd hebben voor hun online zichtbaarheid.\n* **Voor de oprichter én het bedrijf:** Zij fungeren als een externe marketingafdeling. Ze stellen een strategische contentkalender op, ontwerpen professionele visuals, schrijven de teksten en optimaliseren de persoonlijke profielen van de sleutelfiguren binnen het bedrijf. Hun focus ligt op het bouwen van autoriteit en het genereren van organische leads via zowel de persoonlijke accounts als de bedrijfspagina.\n\n### 4. Bettersocials\nEen bureau dat zich nadrukkelijk profileert op het volledig uitbesteden van LinkedIn-beheer, met een sterke nadruk op het persoonlijke profiel.\n* **Voor de oprichter:** Zij geloven sterk in de filosofie dat persoonlijke accounts tot wel 10 keer meer bereik genereren dan bedrijfspagina's. Zij nemen het beheer van het persoonlijke profiel volledig over. Na een uitgebreide kick-off en positioneringssessie schrijven zij de content, plannen deze in en zorgen voor de groei van het netwerk.\n\n---\n\n### Hoe ziet zo’n samenwerking er in de praktijk uit?\nAls je dit volledig uitbesteedt, hoef je niet bang te zijn dat de content 'nep' of 'onpersoonlijk' aanvoelt. Betrouwbare bureaus werken volgens een vast stramien:\n1. **De Kick-off & Strategie:** Er wordt bepaald wie de doelgroep is, wat de belangrijkste expertises (contentpijlers) zijn en hoe de *tone-of-voice* van de oprichter klinkt.\n2. **De Maandelijkse Input-sessie (ca. 45-60 minuten):** De ghostwriter of contentspecialist belt of ontmoet de oprichter maandelijks. Tijdens dit gesprek stelt de schrijver gerichte vragen over recente projecten, visies op de markt of persoonlijke anekdotes. \n3. **Uitwerking & Accordering:** Het bureau schrijft de posts voor zowel de oprichter als de bedrijfspagina en ontwerpt eventuele visuals. Jij (of de oprichter) krijgt alles vooraf te zien in een contentplanner en hoeft alleen maar 'akkoord' te geven.\n4. **Publicatie & Engagement:** Het bureau plant de berichten in en sommige bureaus verzorgen zelfs de eerste interactie (reageren op reacties) om het LinkedIn-algoritme te stimuleren.\n\n**Tip voor de selectie:** Vraag bij de kennismaking specifiek naar hun ervaring met *B2B ghostwriting* en laat hen voorbeelden zien van hoe zij de persoonlijke stem van andere directeuren succesvol hebben vertaald naar LinkedIn-posts.",
+ "entities": [
+  {
+   "name": "Sculpt Studios",
+   "type": "bureau",
+   "position": 1,
+   "domain": "sculptstudios.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 2,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Strategisch Partners",
+   "type": "bureau",
+   "position": 3,
+   "domain": "strategischpartners.nl"
+  },
+  {
+   "name": "Bettersocials",
+   "type": "bureau",
+   "position": 4,
+   "domain": "bettersocials.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/optimaliseren-van-je-linkedin-profiel-voor-leads/",
+   "title": "sculptstudios.nl"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/",
+   "title": "sculptstudios.nl"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "sculptstudios.nl"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/linkedin-personal-brand-engine/",
+   "title": "sculptstudios.nl"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/waarom-steeds-meer-ceos-kiezen-voor-linkedin-ghostwriting",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "strategischpartners.nl",
+   "url": "https://strategischpartners.nl/product/linkedin-uitbesteden/",
+   "title": "strategischpartners.nl"
+  },
+  {
+   "domain": "bettersocials.nl",
+   "url": "https://bettersocials.nl/linkedin-beheer/",
+   "title": "bettersocials.nl"
+  },
+  {
+   "domain": "sdim.nl",
+   "url": "https://www.sdim.nl/artikelen/linkedin-personal-branding-voor-zakelijke-groei/",
+   "title": "sdim.nl"
+  },
+  {
+   "domain": "adoroads.com",
+   "url": "https://adoroads.com/linkedin-personal-branding-en",
+   "title": "adoroads.com"
+  },
+  {
+   "domain": "personeur.com",
+   "url": "https://personeur.com/",
+   "title": "personeur.com"
+  },
+  {
+   "domain": "ghostwritingindia.in",
+   "url": "https://ghostwritingindia.in/blog/ghostwriting-linkedin-personal-branding",
+   "title": "ghostwritingindia.in"
+  }
+ ]
+}

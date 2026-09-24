@@ -1,0 +1,155 @@
+{
+ "id": "P10",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welke bureaus in Nederland combineren LinkedIn content met SEO en zichtbaarheid in AI-zoekmachines voor B2B-MKB? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Ja — er zijn in Nederland meerdere bureaus die **LinkedIn-content** combineren met **SEO** en ook expliciet sturen op **zichtbaarheid in AI-zoekmachines** of **AI-vindbaarheid** voor **B2B/MKB**. De meest duidelijke namen uit de resultaten zijn:\n\n- **Gold Lemon** — positioneert zich expliciet als B2B-marketingbureau voor MKB en noemt tegelijk **SEO en vindbaarheid in Google en ChatGPT** én **contentmarketing op LinkedIn**.[10]\n- **Digital Inside** — noemt dat het **SEO en GEO** combineert in één strategie, specifiek voor **B2B-organisaties**; dit sluit aan op zichtbaarheid in generatieve/AI-zoekomgevingen.[9]\n- **Searchlab** — profileert zich als **AI-powered marketing bureau** met **SEO** en B2B-positionering; in de resultaten staat ook dat zij SEO, content en leadgeneratie onder één dak brengen, met AI-tools.[12][14][18]\n- **Digitalique** — noemt **AI SEO, GEO en AEO** en richt zich op **B2B en MKB**; dit is sterk relevant voor AI-zoekmachines en organische vindbaarheid.[15]\n- **SmartRanking** — focust op **Google & AI** en op middelgrote en grote **B2B-merken**; de omschrijving noemt technische SEO, content, autoriteit en zichtbaarheid in **AI-zoekmachines**.[2]\n- **LIN Online Marketing** — helpt **zzp’ers en MKB-bedrijven** beter gevonden te worden in Google én in **AI-zoekmachines zoals ChatGPT en Perplexity**; noemt daarnaast **SEO, AI-vindbaarheid, contentstrategie en copywriting**.[7]\n- **LenGreo** — noemt expliciet **B2B-inhoudsstrategie**, **SEO voor LLM-gestuurde platforms** en zichtbaarheid voor mensen én **grote taalmodellen**; relevant als je AI-search serieus mee wilt nemen.[5][8]\n- **Searchlab** — heeft ook een aparte B2B-pagina met **SEO** en **LinkedIn Ads** voor thought leadership en targeting, wat handig is als je LinkedIn-content en zichtbaarheid wilt koppelen.[12]\n\nAls je wilt, kan ik hierna een **korte shortlist maken van alleen bureaus die echt LinkedIn-content + SEO + AI-search in één propositie combineren**, of een **top 5 voor MKB met prijs-/schaalinschatting**.",
+ "entities": [
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 1,
+   "domain": "goldlemon.nl"
+  },
+  {
+   "name": "Digital Inside",
+   "type": "bureau",
+   "position": 2,
+   "domain": "digitalinside.nl"
+  },
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "position": 3,
+   "domain": "searchlab.nl"
+  },
+  {
+   "name": "Digitalique",
+   "type": "bureau",
+   "position": 4,
+   "domain": "digitalique.nl"
+  },
+  {
+   "name": "SmartRanking",
+   "type": "bureau",
+   "position": 5,
+   "domain": "smartranking.nl"
+  },
+  {
+   "name": "LIN Online Marketing",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "LenGreo",
+   "type": "bureau",
+   "position": 7,
+   "domain": "lengreo.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "smartranking.nl",
+   "url": "https://smartranking.nl/",
+   "title": "SmartRanking: SEO bureau met 100% focus op Google & AI"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/highflow-agency-93b745402",
+   "title": "Highflow Agency | LinkedIn"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/nederland-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "lengreo.com",
+   "url": "https://lengreo.com/nl/best-llm-seo-agencies-in-the-netherlands/",
+   "title": "Top 14 LLM-SEO-bedrijven voor AI-zoekopdrachten in ..."
+  },
+  {
+   "domain": "opklopper.nl",
+   "url": "https://opklopper.nl/toolkit/beste-linkbuilding-bureau",
+   "title": "Beste Linkbuilding Bureau (2026) Vergelijk de Top 7 - Opklopper"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/linonlinemarketing",
+   "title": "LIN Online Marketing | Advertising Services"
+  },
+  {
+   "domain": "lengreo.com",
+   "url": "https://lengreo.com/nl/enterprise-seo-companies-and-agencies/",
+   "title": "Beste SEO bedrijven en bureaus in 2026 - LenGreo"
+  },
+  {
+   "domain": "digitalinside.nl",
+   "url": "https://www.digitalinside.nl/b2b-marketing-bureau/",
+   "title": "B2B marketing bureau | Online marketing voor B2B - Digital Inside"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/b2b-marketing-bureau/",
+   "title": "B2B Marketingbureau voor MKB - Gold Lemon"
+  },
+  {
+   "domain": "whello.nl",
+   "url": "https://whello.nl/expertises/b2b-marketing",
+   "title": "B2B Marketing Bureau | Overtuig beslissers met Whello"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/b2b-marketing-bureau",
+   "title": "B2B Marketing Bureau | Het B2B Marketing Bureau met Eigen AI ..."
+  },
+  {
+   "domain": "puredigital.nl",
+   "url": "https://puredigital.nl/",
+   "title": "PureDigital: Online marketing bureau voor meetbare groei"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/online-marketing-uitbesteden",
+   "title": "Online Marketing Uitbesteden | AI-Powered Marketing Bureau"
+  },
+  {
+   "domain": "digitalique.nl",
+   "url": "https://www.digitalique.nl/en",
+   "title": "AI Marketing Agency Amsterdam | Digitalique B.V."
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/online-marketing-bureau-amsterdam",
+   "title": "Online Marketing Bureau Amsterdam | AI-Powered - Searchlab"
+  },
+  {
+   "domain": "seranking.com",
+   "url": "https://seranking.com/nl/agencies/location/netherlands/",
+   "title": "40+ Beste SEO-bureaus in Nederland"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/online-marketing-bureau",
+   "title": "Online Marketing Bureau | AI-Powered Marketing Partner"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/explore",
+   "title": "Diensten die worden aangeboden door bureaus in Nederland"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/arjan-van-der-burgh",
+   "title": "Arjan Van Der Burgh | LinkedIn"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "id": "P20",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse bureaus of experts worden aanbevolen voor founder-led content op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor **founder-led content** en **personal branding** op LinkedIn wordt in Nederland een mix ingezet van gespecialiseerde boetiekbureaus, PR-koppelingen en individuele experts. Omdat founder-led content draait om authenticiteit, stemmen deze partijen de strategie meestal af op de unieke visie en tone of voice van de oprichter (vaak gecombineerd met ghostwriting en contentproductie).[[1]](https://nl.linkedin.com/company/personallyteam)[[2]](https://www.sortlist.nl/s/linkedin-strategie/nederland-nl)[[3]](https://nl.linkedin.com/in/bieke-groenink)\n\nDe volgende Nederlandse bureaus en experts worden specifiek genoemd of aanbevolen binnen dit vakgebied:\n\n### Gespecialiseerde Bureaus\n\n- **Personally** (Amsterdam): Een uitgesproken personal branding-bureau dat zich richt op ondernemers, C-level en founders. Ze combineren PR- en contentstrategieën specifiek om de autoriteit en zichtbaarheid van de oprichter te vergroten, onder leiding van onder anderen Managing Director/Partner Bieke Groenink.[[1]](https://marketingreport.nl/personally-benoemt-bieke-groenink-tot-partner)[[2]](https://nl.linkedin.com/company/personallyteam)[[3]](https://nl.linkedin.com/posts/adformatie_bieke-groenink-nieuwe-managing-director-van-activity-7391812487601364992-S5sI)\n- **Evertising** : Een modern B2B-marketingbureau dat expliciet *founder-led content* inzet als onderdeel van een brede demand-gen en contentmix (vaak in combinatie met AI-automatisering en gerichte B2B-ads).[[1]](https://evertising.agency/over-ons)\n- **[Marble Content Marketing](https://nl.linkedin.com/company/marble-content-marketing)** : Richt zich sterk op brand-led en founder-led content waarbij authenticiteit en de merkidentiteit van het bedrijf via de juiste verhalen worden vertaald naar kanalen zoals LinkedIn.[[1]](https://nl.linkedin.com/company/marble-content-marketing)\n\n### Bekende LinkedIn- & Personal Branding-Experts\n\nNaast grotere of boutique teams zijn er individuele specialisten die veelvuldig worden aanbevolen voor het trainen, positioneren en begeleiden van founders op LinkedIn:\n\n- **Jan Willem Alphenaar** (Vindability ): Een van de bekendste en langstlevende LinkedIn-trainers en -strategen van Nederland, die bedrijven en directies helpt met social selling en profieloptimalisatie.\n- **Corinne Keijzer** ([Digi-Taal / Social selling experts]): Gespecialiseerd in het transformeren van de online zichtbaarheid en personal brand van ondernemers en zakelijke professionals op LinkedIn.\n- **Trudy Pannekeet** en **Victor Huiting** : Ervaren experts die door de markt regelmatig worden genoemd als hands-on specialisten voor het smeden van een ijzersterke contentstrategie en netwerkstructuur op het platform.[[1]](https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp)\n\nWil je je richten op een **specifieke aanpak** (zoals volledige uit handen geven via ghostwriting vs. zelf leren schrijven met een trainer), of zoek je hulp binnen een **specifieke sector** (zoals tech/SaaS of traditionele B2B)? Dan kan ik je gerichter adviseren.",
+ "entities": [
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "domain": "personally.team",
+   "position": 1
+  },
+  {
+   "name": "Bieke Groenink",
+   "type": "persoon",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Evertising",
+   "type": "bureau",
+   "domain": "evertising.agency",
+   "position": 3
+  },
+  {
+   "name": "Marble",
+   "type": "bureau",
+   "domain": null,
+   "position": 4
+  },
+  {
+   "name": "Jan-Willem Alphenaar",
+   "type": "persoon",
+   "domain": null,
+   "position": 5
+  },
+  {
+   "name": "Vindability",
+   "type": "bureau",
+   "domain": null,
+   "position": 6
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "domain": null,
+   "position": 7
+  },
+  {
+   "name": "Digi-Taal",
+   "type": "bureau",
+   "domain": null,
+   "position": 8
+  },
+  {
+   "name": "Trudy Pannekeet",
+   "type": "persoon",
+   "domain": null,
+   "position": 9
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "domain": null,
+   "position": 10
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/personallyteam",
+   "title": "Personally - LinkedIn"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/bieke-groenink",
+   "title": "Bieke Groenink - PR & personal branding voor ondernemers"
+  },
+  {
+   "domain": "marketingreport.nl",
+   "url": "https://marketingreport.nl/personally-benoemt-bieke-groenink-tot-partner",
+   "title": "Personally benoemt Bieke Groenink tot partner"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/adformatie_bieke-groenink-nieuwe-managing-director-van-activity-7391812487601364992-S5sI",
+   "title": "Bieke Groenink nieuwe managing director van personal ..."
+  },
+  {
+   "domain": "evertising.agency",
+   "url": "https://evertising.agency/over-ons",
+   "title": "Over ons - Evertising"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/marble-content-marketing",
+   "title": "Marble | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp",
+   "title": "Top 20 LinkedIn Experts in the Netherlands in 2026 ‍[ Rating]‍"
+  }
+ ]
+}

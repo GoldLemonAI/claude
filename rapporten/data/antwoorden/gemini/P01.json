@@ -1,0 +1,134 @@
+{
+ "id": "P01",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welke bureaus of specialisten in Nederland helpen B2B-MKB bedrijven met autoriteit opbouwen op LinkedIn? Noem concrete namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland zijn er verschillende bureaus en zelfstandige specialisten die zich specifiek richten op het bouwen van **autoriteit (thought leadership) en personal branding op LinkedIn** voor B2B-MKB-bedrijven. \n\nWanneer je autoriteit wilt opbouwen, zoek je doorgaans niet naar een standaard \"ads-bureau\", maar naar partijen die sterk zijn in **contentstrategie, ghostwriting en het menselijk positioneren** van de directie of sleutelfiguren (SME's) binnen een bedrijf.\n\nHieronder staat een overzicht van concrete, gerenommeerde namen in Nederland, opgedeeld in bureaus en individuele topspecialisten:\n\n---\n\n### 1. Gespecialiseerde Bureaus (Agency's)\n\nDeze bureaus hebben teams van strategen en copywriters die het LinkedIn-beheer van A tot Z uit handen kunnen nemen (van profieloptimalisatie tot wekelijkse ghostwriting en eventueel Thought Leader Ads):\n\n*   **GHO Agency (Ghostwriting Agency)**: Dit bureau is volledig gespecialiseerd in het bouwen van thought leadership en personal branding op LinkedIn. Ze helpen B2B-ondernemers, founders en managementteams door hun expertise te vertalen naar sterke, organische LinkedIn-bijdragen (ghostwriting) en profieloptimalisatie.\n*   **InboxLeads**: Hoewel van origine een leadgeneratiebureau, hebben zij een sterke focus op *LinkedIn Personal Branding*. Ze helpen B2B-founders en consultants om via inhoudelijke, waardevolle content (zonder 'salesy' te zijn) een autoriteitspositie te claimen in hun niche.\n*   **Red Panda Works**: Een bekend B2B growth marketing agency uit Amsterdam. Zij kijken heel pragmatisch naar LinkedIn-autoriteit. Ze combineren thought leadership van de oprichters of experts met moderne B2B-strategieën zoals *demand generation* en *Thought Leader Ads*.\n*   **Whello**: Dit full-service marketingbureau heeft een sterk social-team (onder leiding van specialisten zoals Conrad Luijten) dat B2B-bedrijven helpt met de transitie naar menselijke marketing via LinkedIn, onder andere door intensief in te zetten op thought leadership-campagnes.\n*   **Made2Reach**: Dit bureau richt zich specifiek op organische LinkedIn-marketing. Hun focus ligt op het transformeren van 'stille' profielen van B2B-ondernemers naar actieve, autoritaire expert-profielen om zo organisch leads aan te trekken.\n\n---\n\n### 2. Zelfstandige Specialisten (Consultants & Trainers)\n\nVaak kiezen MKB-bedrijven ervoor om direct te schakelen met een senior specialist voor strategisch advies, in-house trainingen of 1-op-1 begeleiding:\n\n*   **Wendy van Gilst**: Gevestigd in Amsterdam en voormalig medewerker van LinkedIn zelf. Ze is een van de bekendste LinkedIn-marketingconsultants in Nederland en helpt B2B-bedrijven en ondernemers met een heldere thought leadership- en contentstrategie.\n*   **Victor Huiting**: Een zeer ervaren en gecertificeerde LinkedIn-trainer en specialist. Hij helpt B2B-teams en professionals met praktische trainingen om hun expertise, zichtbaarheid en autoriteit op het platform structureel te vergroten.\n*   **Robin Peek**: Specialist op het gebied van positionering en contentcreatie voor zakelijke dienstverleners. Met zijn concept \"Knikker Content\" helpt hij ondernemers om een scherpe, eigenzinnige mening te formuleren op LinkedIn, wat essentieel is voor echte autoriteit.\n*   **Anneke van der Voort**: LinkedIn-strateeg met meer dan 20 jaar ervaring in B2B-marketing. Zij richt zich specifiek op consultants, adviseurs en B2B-teams om hun professionele narratief helder en authentiek over te brengen op LinkedIn.\n*   **Sandra Stassar**: Actief in de regio Eindhoven (Brainport). Zij begeleidt B2B-ondernemers en directieleden met personal branding-trajecten, specifiek gericht op het claimen van de expertrol binnen innovatieve en technische sectoren.\n\n---\n\n### Waar op te letten bij je keuze?\nAls B2B-MKB-bedrijf is het belangrijk om te bepalen **hoeveel tijd** je zelf hebt:\n1.  **Wil je volledig ontzorgd worden (ghostwriting)?** Kies dan voor een partij zoals *GHO Agency* of gespecialiseerde B2B-contentbureaus.\n2.  **Wil je het zelf leren en je interne team opleiden?** Kies dan voor een strategische trainer/consultant zoals *Victor Huiting* of *Wendy van Gilst* om de strategie neer te zetten.",
+ "entities": [
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 1,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "InboxLeads",
+   "type": "bureau",
+   "position": 2,
+   "domain": "inboxleads.nl"
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Whello",
+   "type": "bureau",
+   "position": 4,
+   "domain": "whello.nl"
+  },
+  {
+   "name": "Conrad Luijten",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Made2Reach",
+   "type": "bureau",
+   "position": 6,
+   "domain": "made2reach.com"
+  },
+  {
+   "name": "Wendy van Gilst",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Robin Peek",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Anneke van der Voort",
+   "type": "persoon",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 11,
+   "domain": "sandrastassar.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/blog/gids-voor-linkedin-thought-leadership-ads-b2b-saas/",
+   "title": "frankhusmann.nl"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "magicpost.in"
+  },
+  {
+   "domain": "inboxleads.nl",
+   "url": "https://inboxleads.nl/linkedin-personal-branding/",
+   "title": "inboxleads.nl"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/commercieel-groeien/linkedin-profieloptimalisatie",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "marketingxperts.nl"
+  },
+  {
+   "domain": "whello.nl",
+   "url": "https://whello.nl/marketing-tips/social-media/thought-leader-ads",
+   "title": "whello.nl"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/blogpost/thought-leader-ads-linkedin/",
+   "title": "afdelingonline.nl"
+  },
+  {
+   "domain": "made2reach.com",
+   "url": "https://made2reach.com/groeiversnellers/linkedin-organisch/",
+   "title": "made2reach.com"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "favikon.com"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/LinkedIn/",
+   "title": "sandrastassar.nl"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "P08",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Aan wie kan een Nederlands MKB-bedrijf het beheer van de LinkedIn-bedrijfspagina uitbesteden? Noem bureaus.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Een Nederlands MKB-bedrijf kan het beheer van een LinkedIn-bedrijfspagina uitbesteden aan verschillende soorten bureaus, variërend van **gespecialiseerde B2B-socialmediabureaus** tot **brede online marketingbureaus** . Omdat LinkedIn voornamelijk zakelijk is (B2B), ligt de focus van deze bureaus vaak op *thought leadership* , contentcreatie, personal branding en leadgeneratie.[[1]](https://dimpekt.com/)[[2]](https://webnexus.nl/diensten/linkedin-marketing/)\n\nHier is een overzicht van bureaus en typen aanbieders waar je terechtkunt:\n\n### 1. Gespecialiseerde B2B- en LinkedIn-bureaus\n\nDeze partijen richten zich specifiek op zakelijke netwerken en adverteren gericht op beslissingsbevoegden:\n\n- **[Dimpekt](https://dimpekt.com/)** : Een gespecialiseerd LinkedIn-marketingbureau dat zich richt op B2B-leadgeneratie, gerichte content en adverteren via LinkedIn.\n- **[Social Media Beheer Bureau](https://socialmediabeheerbureau.nl/linkedin-marketing/)** : Biedt specifieke LinkedIn-marketingpakketten aan voor B2B-bedrijven, inclusief het onderhouden van de bedrijfspagina, contentplanning en soms ook het versterken van persoonlijke profielen.[[1]](https://dimpekt.com/)[[2]](https://socialmediabeheerbureau.nl/linkedin-marketing/)\n\n### 2. Full-service socialmedia- en marketingbureaus (ook voor MKB)\n\nDeze bureaus beheren meerdere kanalen (zoals LinkedIn, Instagram en Facebook), maar hebben vaak een dedicated B2B-team voor LinkedIn:\n\n- **[Si! Media](https://si-media.nl/diensten/linkedin-beheer/)** : Verzorgt onder andere volledig LinkedIn-beheer en marketingmanagement, van contentcreatie en videografie tot strategie en leadgeneratie.[[1]](https://si-media.nl/diensten/linkedin-beheer/)\n- **[Saleswizard](https://www.saleswizard.nl/online-marketing/social-media/social-media-uitbesteden/)** : Een online marketingbureau dat helpt bij het inrichten, optimaliseren en onderhouden van socialmediakanalen, waaronder LinkedIn-bedrijfspagina's en contentkalenders.[[1]](https://www.saleswizard.nl/online-marketing/social-media/social-media-uitbesteden/)\n\n### 3. Bemiddelingsplatforms\n\n- **[Webnexus](https://webnexus.nl/diensten/linkedin-marketing/)** : Dit is een onafhankelijk platform dat je kan koppelen aan specifieke, geselecteerde LinkedIn-specialisten en bureaus die passen bij de doelstellingen van jouw MKB-bedrijf.[[1]](https://webnexus.nl/diensten/linkedin-marketing/)\n\n### Waar let je op bij het kiezen van een bureau?\n\n- **B2B-ervaring:** Vraag specifiek naar cases in jouw branche. LinkedIn vraagt om een andere tone-of-voice dan bijvoorbeeld Instagram of TikTok.\n- **Bedrijfspagina vs. persoonlijke profielen:** Veel B2B-succes op LinkedIn komt tegenwoordig niet alleen van de *bedrijfspagina* , maar ook van de persoonlijke profielen van de directie of salesmedewerkers (*employee advocacy* ). Check of het bureau ook daarin kan adviseren.\n- **Vaste prijs vs. uurtarief:** Veel van dit soort bureaus werken met een vaste maandfee (voor een aantal posts per week en webcare) of op basis van een abonnementsvorm.[[1]](https://socialmediabeheerbureau.nl/linkedin-marketing/)\n\nWil je dat ik je help bepalen **welk type bureau** het beste past bij jouw budget, of ben je op zoek naar een bureau in een **specifieke regio** in Nederland?",
+ "entities": [
+  {
+   "name": "Dimpekt",
+   "type": "bureau",
+   "domain": "dimpekt.com",
+   "position": 1
+  },
+  {
+   "name": "Social Media Beheer Bureau",
+   "type": "bureau",
+   "domain": "socialmediabeheerbureau.nl",
+   "position": 2
+  },
+  {
+   "name": "Si! Media",
+   "type": "bureau",
+   "domain": "si-media.nl",
+   "position": 3
+  },
+  {
+   "name": "Saleswizard",
+   "type": "bureau",
+   "domain": "saleswizard.nl",
+   "position": 4
+  },
+  {
+   "name": "Webnexus",
+   "type": "platform",
+   "domain": "webnexus.nl",
+   "position": 5
+  }
+ ],
+ "sources": [
+  {
+   "domain": "dimpekt.com",
+   "url": "https://dimpekt.com/",
+   "title": "Dimpekt-LinkedIn marketing bureau voor B2B-leadgeneratie"
+  },
+  {
+   "domain": "webnexus.nl",
+   "url": "https://webnexus.nl/diensten/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Lead Generation - Webnexus"
+  },
+  {
+   "domain": "socialmediabeheerbureau.nl",
+   "url": "https://socialmediabeheerbureau.nl/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau voor B2B | Vaste prijs"
+  },
+  {
+   "domain": "si-media.nl",
+   "url": "https://si-media.nl/diensten/linkedin-beheer/",
+   "title": "LinkedIn beheer - Si! Media"
+  },
+  {
+   "domain": "saleswizard.nl",
+   "url": "https://www.saleswizard.nl/online-marketing/social-media/social-media-uitbesteden/",
+   "title": "Social Media Uitbesteden | Saleswizard"
+  }
+ ]
+}

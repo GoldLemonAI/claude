@@ -1,0 +1,84 @@
+{
+ "id": "P24",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Moet een B2B-MKB bedrijf inzetten op het persoonlijke profiel van de oprichter of op de bedrijfspagina op LinkedIn? Welke Nederlandse bronnen zeggen daar iets over?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een B2B-MKB-bedrijf is het korte antwoord: **zet primair in op het persoonlijke profiel van de oprichter**. Nederlandse marketingbureaus, LinkedIn-experts en B2B-strategen zijn het er unaniem over eens dat het persoonlijke profiel veel effectiever is voor het genereren van bereik, interactie en leads dan de bedrijfspagina. \n\nDe ideale aanpak is echter een **combinatie** waarbij beide kanalen elkaar versterken. \n\n---\n\n### Waarom het persoonlijke profiel van de oprichter wint (90% van de focus)\n\n#### 1. \"Mensen kopen van mensen, niet van logo's\"\nIn de B2B-markt draait alles om vertrouwen en gunning. Nederlandse bronnen benadrukken dat beslissers liever zakendoen met een expert van vlees en bloed dan met een gezichtsloos bedrijf. Via een persoonlijk profiel kan de oprichter zijn expertise, visie, passie en zelfs persoonlijke twijfels delen. Dit creëert een gunfactor die een bedrijfspagina nooit kan evenaren.\n\n#### 2. Het LinkedIn-algoritme bevoordeelt personen\nHet organische bereik van bedrijfspagina’s is op LinkedIn bewust erg laag gehouden. LinkedIn is van oorsprong een netwerk van mensen. Posts van persoonlijke profielen krijgen volgens diverse Nederlandse specialisten **tot wel 10 keer meer bereik** dan posts van een bedrijfspagina. Bovendien nodigt een persoonlijk bericht veel sneller uit tot een reactie, wat het bereik via het algoritme nog verder boost (het vliegwieleffect).\n\n#### 3. Toegankelijkheid voor leadgeneratie\nHet is voor een potentiële B2B-klant veel laagdrempeliger om een persoonlijk bericht (DM) te sturen naar een oprichter of expert, dan om contact op te nemen via een algemeen contactformulier op een bedrijfspagina.\n\n---\n\n### Waarvoor dient de bedrijfspagina dan wel? (10% van de focus)\n\nBetekent dit dat de bedrijfspagina overbodig is? Zeker niet. Nederlandse experts zien de bedrijfspagina voornamelijk als een **digitaal uithangbord of 'tweede website'**.\n\n*   **Verificatie & Professionaliteit:** Als de oprichter een viraal bericht heeft op zijn persoonlijke profiel, klikt de lezer door naar zijn profiel en vervolgens naar de gelinkte bedrijfspagina om te controleren of het om een serieus bedrijf gaat.\n*   **Adverteren:** Om gerichte LinkedIn Ads (advertenties) te draaien, heb je een bedrijfspagina nodig.\n*   **Employer Branding & Vacatures:** De bedrijfspagina is de ideale plek om openstaande vacatures te delen en de algehele bedrijfscultuur te tonen.\n\n---\n\n### Wat zeggen Nederlandse bronnen hierover?\n\nVerschillende toonaangevende Nederlandse marketingbureaus en specialisten schrijven hier uitgebreid over:\n\n1.  **BlinktUit (B2B Marketingbureau):** Zij stellen direct dat je voor je persoonlijke profiel moet kiezen als de tijd beperkt is. *\"Mensen kopen van mensen, niet van logo’s. Je persoonlijk profiel laat expertise, visie en persoonlijkheid zien. Een bedrijfspagina kan dit niet vervangen; het logo alleen wekt geen vertrouwen.\"*\n2.  **WebProfit (Online Marketing):** Zij omschrijven de bedrijfspagina als de \"voordeur van je onderneming\" (voor feiten, vacatures en advertenties), maar wijzen naar de bekende Nederlandse LinkedIn-expert **Corinne Keijzer** om te onderbouwen waarom persoonlijke profielen winnen op engagement: *\"Mensen connecten met mensen. Via je persoonlijke profiel bouw je échte relaties op die leiden tot engagement, vertrouwen én die omzet waar je op hoopt.\"*\n3.  **SDIM (Online Marketing Bureau):** In hun publicaties leggen ze de nadruk op de psychologie achter het platform. *\"Mensen vertrouwen mensen eerder dan merken. Door je eigen profiel te gebruiken als verlengstuk van de organisatie, help je niet alleen met de zichtbaarheid van je bedrijf, maar trek je ook nieuwe leads aan.\"*\n4.  **Consigo (Online Marketing):** Zij waarschuwen dat personal branding op LinkedIn door veel MKB'ers nog onvoldoende wordt benut. Ze adviseren om de bedrijfspagina voornamelijk up-to-date te houden, maar de focus te leggen op het persoonlijke profiel omdat dit laagdrempeliger is voor leads om contact op te nemen.\n5.  **De Marketingmoolenaar (B2B Leadgeneratie):** Zij geven aan dat voor B2B-klantenwerving het persoonlijke profiel fungeert als een \"klantenmagneet\". Zij adviseren om te stoppen met het behandelen van je profiel als een saai cv, maar het te gebruiken als een actieve landingspagina die spreekt in begrijpelijke mensentaal.\n\n### Conclusie & Advies voor het B2B-MKB\n\nAls de oprichter (of een andere key-persoon binnen het bedrijf) de tijd en bereidheid heeft om content te creëren, laat hen dan de **trekker** worden op hun persoonlijke profiel. \n\n**De ideale workflow:**\n1. De oprichter post wekelijks waardevolle inzichten, praktijkcases en visies op zijn/haar **persoonlijke profiel**.\n2. De **bedrijfspagina** wordt minimaal één keer per twee weken bijgewerkt met officiële updates, mijlpalen of vacatures, zodat de pagina er '",
+ "entities": [
+  {
+   "name": "BlinktUit",
+   "type": "bureau",
+   "position": 1,
+   "domain": "blinktuit.nl"
+  },
+  {
+   "name": "WebProfit",
+   "type": "bureau",
+   "position": 2,
+   "domain": "webprofit.nl"
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "SDIM",
+   "type": "bureau",
+   "position": 4,
+   "domain": "sdim.nl"
+  },
+  {
+   "name": "Consigo",
+   "type": "bureau",
+   "position": 5,
+   "domain": "consigo.nl"
+  },
+  {
+   "name": "De Marketingmoolenaar",
+   "type": "bureau",
+   "position": 6,
+   "domain": "demarketingmoolenaar.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "blinktuit.nl",
+   "url": "https://www.blinktuit.nl/blogs/linkedin-bedrijfspagina-of-persoonlijk-profiel/",
+   "title": "blinktuit.nl"
+  },
+  {
+   "domain": "webprofit.nl",
+   "url": "https://www.webprofit.nl/blog/linkedin-bedrijfspagina-vs-persoonlijk-profiel-wat-werkt-beter",
+   "title": "webprofit.nl"
+  },
+  {
+   "domain": "sdim.nl",
+   "url": "https://www.sdim.nl/artikelen/linkedin-personal-branding-voor-zakelijke-groei/",
+   "title": "sdim.nl"
+  },
+  {
+   "domain": "marketingtribune.nl",
+   "url": "https://www.marketingtribune.nl/content/weblog/2025/01/column-linkedin-het-verschil-tussen-je-persoonlijke-en-je-bedrijfspagina/index.xml",
+   "title": "marketingtribune.nl"
+  },
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/",
+   "title": "thesuccessagency.nl"
+  },
+  {
+   "domain": "consigo.nl",
+   "url": "https://www.consigo.nl/personal-branding-linkedin/",
+   "title": "consigo.nl"
+  },
+  {
+   "domain": "demarketingmoolenaar.nl",
+   "url": "https://www.demarketingmoolenaar.nl/linkedin-voor-ondernemers/",
+   "title": "demarketingmoolenaar.nl"
+  }
+ ]
+}

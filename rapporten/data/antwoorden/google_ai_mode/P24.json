@@ -1,0 +1,63 @@
+{
+ "id": "P24",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Moet een B2B-MKB bedrijf inzetten op het persoonlijke profiel van de oprichter of op de bedrijfspagina op LinkedIn? Welke Nederlandse bronnen zeggen daar iets over?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een B2B-MKB bedrijf is het korte antwoord: **focus primair op het persoonlijke profiel van de oprichter (of key-medewerkers), maar gebruik de bedrijfspagina als noodzakelijke hub** **.** [[1]](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/)[[2]](https://nl.linkedin.com/posts/bas-van-lieshout_inzetten-op-je-persoonlijke-profiel-of-je-activity-7185530095594315776-60bo)\n\nIn de B2B-markt (en zeker in het MKB) doen mensen namelijk zaken met **mensen** , niet met logo's of zielloze entiteiten.[[1]](https://nl.linkedin.com/posts/marketingtribune_column-linkedin-het-verschil-tussen-je-activity-7292831544564477952-mcWw)\n\n### Waarom inzetten op het persoonlijke profiel? (De voordelen)\n\n- **Bereik en Algoritme:** Het LinkedIn-algoritme beloont persoonlijke profielen enorm boven bedrijfspagina's. Persoonlijke posts genereren vaak tot wel **10 keer meer bereik** en organische betrokkenheid.[[1]](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/)\n- **Gunfactor en Vertrouwen:** Een oprichter kan kwetsbaarheid, visie, humor en passie tonen. Dat schept een band; lezers voelen dat ze een mens spreken in plaats van een corporatie.[[1]](https://nl.linkedin.com/posts/marketingtribune_column-linkedin-het-verschil-tussen-je-activity-7292831544564477952-mcWw)\n- **Netwerkvorming:** Je kunt direct connecties maken, reageren en de diepte in gaan in de comments. Een bedrijfspagina kan alleen 'volgers' verzamelen en mist die laagdrempelige interactie.[[1]](https://www.corinnekeijzer.nl/2022/06/22/groep-of-bedrijfspagina-op-linkedin-de-verschillen-uitgelegd/)[[2]](https://nl.linkedin.com/posts/marketingtribune_column-linkedin-het-verschil-tussen-je-activity-7292831544564477952-mcWw)\n\n### Wat doet de bedrijfspagina dan wel? (De rol van de Company Page)\n\n- **Het visitekaartje / landingspagina:** Als mensen de naam van je MKB-bedrijf opzoeken, willen ze een professionele pagina zien waar ze op kunnen klikken om te controleren of jullie 'echt' bestaan.\n- **Advertenties:** Wil je gaan adverteren (LinkedIn Ads), dan heb je verplicht een bedrijfspagina nodig.[[1]](https://www.corinnekeijzer.nl/2022/06/22/groep-of-bedrijfspagina-op-linkedin-de-verschillen-uitgelegd/)\n- **Employer branding & updates:** Handig om vacatures te delen of grote company milestones te publiceren die werknemers vervolgens weer kunnen delen op hun eigen profiel.[[1]](https://nl.linkedin.com/posts/bas-van-lieshout_inzetten-op-je-persoonlijke-profiel-of-je-activity-7185530095594315776-60bo)\n\n### Wat zeggen Nederlandse bronnen hierover?\n\nVerschillende Nederlandse marketing- en socialmediaspecialisten benadrukken deze visie:\n\n- **The Success Agency:** Zij stellen dat veel dienstverlenende bedrijven de fout maken door wekenlang te ploeteren op een Company Page en vervolgens nul interactie te zien . Zij adviseren de focus te verleggen naar het persoonlijke profiel omdat daar het echte bereik en de leads liggen. Lees hun analyse via [The Success Agency](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/).\n- **Bas van Lieshout (LinkedIn-expert):** Benoemt in zijn visie dat je persoonlijke profiel bij uitstek de plek is voor bereik, relaties en het positioneren van jezelf als expert, terwijl de bedrijfspagina dient als geloofwaardig anker voor je merk. Bekijk zijn bijdrage op [LinkedIn van Bas van Lieshout](https://nl.linkedin.com/posts/bas-van-lieshout_inzetten-op-je-persoonlijke-profiel-of-je-activity-7185530095594315776-60bo).\n- **MarketingTribune & Columnisten:** Auteurs op platforms zoals MarketingTribune (en meningen van o.a. strateeg Michiel Verstraten) benadrukken herhaaldelijk het adagium: *\"Mensen doen zaken met mensen.\"* Het persoonlijke profiel bouwt de relatie op die nodig is voor een B2B-gunfactor.\n- **Corinne Keijzer (Social Media-consultant):** Wijst erop dat een persoonlijk profiel voor kleinere organisaties en eenmanszaken onvergelijkbaar veel sterker werkt, en dat de bedrijfspagina puur functioneel is (zoals voor beheer en advertenties). Lees meer op [Corinne Keijzer](https://www.corinnekeijzer.nl/2022/06/22/groep-of-bedrijfspagina-op-linkedin-de-verschillen-uitgelegd/).[[1]](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/)[[2]](https://nl.linkedin.com/posts/bas-van-lieshout_inzetten-op-je-persoonlijke-profiel-of-je-activity-7185530095594315776-60bo)[[3]](https://nl.linkedin.com/posts/marketingtribune_column-linkedin-het-verschil-tussen-je-activity-7292831544564477952-mcWw)[[4]](https://www.corinnekeijzer.nl/2022/06/22/groep-of-bedrijfspagina-op-linkedin-de-verschillen-uitgelegd/)\n\nWil je een vliegende start maken? Laat me weten:\n\n- Wat voor **type B2B-MKB** het betreft (diensten, productie, groothandel?)\n- Of de **oprichter** het liefst zelf post of dit wil laten uitbesteden/ondersteunen\n\nDan kan ik een **concreet contentplan** of een **verdeling (ratio)** voor je opstellen!",
+ "entities": [
+  {
+   "name": "The Success Agency",
+   "type": "bureau",
+   "domain": "thesuccessagency.nl",
+   "position": 1
+  },
+  {
+   "name": "Bas van Lieshout",
+   "type": "persoon",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "MarketingTribune",
+   "type": "platform",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "Michiel Verstraten",
+   "type": "persoon",
+   "domain": null,
+   "position": 4
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "domain": "corinnekeijzer.nl",
+   "position": 5
+  }
+ ],
+ "sources": [
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/",
+   "title": "LinkedIn Company Page vs. persoonlijk profiel: wat werkt beter?"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/bas-van-lieshout_inzetten-op-je-persoonlijke-profiel-of-je-activity-7185530095594315776-60bo",
+   "title": "Bijdrage van Bas van Lieshout - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/marketingtribune_column-linkedin-het-verschil-tussen-je-activity-7292831544564477952-mcWw",
+   "title": "het verschil tussen je persoonlijke en je bedrijfspagina"
+  },
+  {
+   "domain": "corinnekeijzer.nl",
+   "url": "https://www.corinnekeijzer.nl/2022/06/22/groep-of-bedrijfspagina-op-linkedin-de-verschillen-uitgelegd/",
+   "title": "Persoonlijk profiel, groep of bedrijfspagina op LinkedIn"
+  }
+ ]
+}

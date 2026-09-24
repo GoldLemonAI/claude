@@ -1,0 +1,51 @@
+{
+ "id": "P23",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Wat werkt in 2026 in het LinkedIn-algoritme voor B2B-content in Nederland? Noem bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het LinkedIn-algoritme voor B2B-content legt in 2026 de nadruk minder op snelle 'likes' en groepsinteractie, en des te meer op **diepgang, autoriteit en de 'anonieme koper'** (de zogenaamde *dark social* en mensen die wel lezen, maar nooit public reageren).[[1]](https://altijdbekend.nl/over-ons/blog/dit-zijn-de-linkedin-trends-van-2026/)[[2]](https://nl.linkedin.com/posts/jordilingen_zo-win-je-van-het-linkedin-algoritme-in-2026-activity-7435346639994920960-we7u)\n\nHier is een overzicht van wat er in 2026 wél en niet werkt voor B2B-content in Nederland, onderbouwd door actuele inzichten en marketingbronnen.\n\n### 1. Wat werkt wel? (De belangrijkste pijlers)\n\n- **Dwell Time (Leestijd) & Saves:**   \nHet algoritme meet nauwkeurig hoeveel tijd gebruikers besteden aan je post. Content die de lezer langer vasthoudt (bijvoorbeeld doordat het complex of waardevol is uitgeschreven) krijgt een flinke boost. Daarnaast zijn **saves (opslaan)** in 2026 een van de zwaarste signalen geworden; het opslaan van een post weegt vele malen zwaarder dan een simpele like.[[1]](https://lagrowthmachine.com/linkedin-marketing-strategy-2026/)[[2]](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf)\n- **Document Posts / PDF-carrousels & Native Video:**   \nVisuele en interactieve formats die op het platform blijven, presteren het best. Document posts (PDF’s waar je doorheen swipet) en *native video* (video's direct geüpload op LinkedIn, met name educatieve 'how-to's') domineren het bereik.[[1]](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf)[[2]](https://lagrowthmachine.com/linkedin-marketing-strategy-2026/)\n- **Profiel-autoriteit & Founder-led content:**   \nPersoonlijke profielen verslaan bedrijfspagina's qua bereik nog steeds met een factor van meerdere honderden procenten. Het algoritme kijkt strenger of de inhoud van je post past bij de expertise die in je kopregel en werkervaring staat. *Founder-led marketing* – waarbij C-level of experts vanuit hun eigen naam posten – is de primaire distributiemotor.[[1]](https://nl.linkedin.com/posts/jordilingen_zo-win-je-van-het-linkedin-algoritme-in-2026-activity-7435346639994920960-we7u)[[2]](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf)\n- **Inhoudelijke discussies in plaats van schouderklopjes:**   \nHet algoritme beloont posts die reacties van meerdere zinnen en echte gesprekken uitlokken. Niet de snelheid van de reacties in het eerste uur is heilig, maar de inhoudelijke kwaliteit van de conversatie over een langere periode.[[1]](https://altijdbekend.nl/over-ons/blog/dit-zijn-de-linkedin-trends-van-2026/)[[2]](https://nl.linkedin.com/posts/jordilingen_zo-win-je-van-het-linkedin-algoritme-in-2026-activity-7435346639994920960-we7u)\n\n### 2. Wat werkt niet meer? (De allergieën van het algoritme)\n\n- **Externe links in de post:**   \nHet plaatsen van een URL direct in je hoofdpost krijgt een zware bereik-penaltie (tot wel 40% à 60% minder bereik), omdat LinkedIn gebruikers op het platform wil houden. De praktijk leert dat je de link beter in de eerste reactie kunt plaatsen.\n- **Formule-achtige AI-content:**   \nHet algoritme herkent generieke, door AI-gegenereerde 'viral templates' (zoals de bekende eenregelige zinnen met veel witregels en clichés) en straft dit af met minder distributie. Authenticiteit en een eigen menselijke stem zijn cruciaal.\n- **Engagement pods & te veel hashtags:**   \nHet kunstmatig opduwen van posts via like-groepen (*pods* ) of geautomatiseerde reacties wordt actief gefilterd en afgestraft. Ook het gebruik van meer dan 5 hashtags vermindert het bereik drastisch.[[1]](https://lagrowthmachine.com/linkedin-marketing-strategy-2026/)[[2]](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf)\n\n### Bronnen en achtergronden\n\n- Voor een diepere duik in de verschuiving naar leestijd en inhoudelijke conversaties, zie het overzicht op Altijd Bekend over LinkedIn-trends 2026.\n- Praktische analyses over autoriteit en de 'Gouden Dag'-dynamiek zijn te vinden via de bijdragen op [LinkedIn van Jordi Lingen](https://nl.linkedin.com/posts/jordilingen_zo-win-je-van-het-linkedin-algoritme-in-2026-activity-7435346639994920960-we7u).\n- Internationale en datagestuurde updates over format-rendementen (zoals carrousels en video's) en straffen op links en AI-teksten zijn beschreven in de [B2B LinkedIn Content Best Practices via LinkedIn Pulse](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf) en de analyse van [La Growth Machine over de 2026 algoritme-updates](https://lagrowthmachine.com/linkedin-marketing-strategy-2026/).[[1]](https://altijdbekend.nl/over-ons/blog/dit-zijn-de-linkedin-trends-van-2026/)[[2]](https://nl.linkedin.com/posts/jordilingen_zo-win-je-van-het-linkedin-algoritme-in-2026-activity-7435346639994920960-we7u)[[3]](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf)[[4]](https://lagrowthmachine.com/linkedin-marketing-strategy-2026/)\n\nWil je hier dieper op ingaan? Ik kan je helpen met:\n\n- Het herschrijven van een **B2B-post** naar de juiste lengte en tone-of-voice voor 2026\n- Een structuur voor een **PDF-carrousel** die opslag- en leestijdgedrag stimuleert",
+ "entities": [
+  {
+   "name": "Altijd Bekend",
+   "type": "bureau",
+   "domain": "altijdbekend.nl",
+   "position": 1
+  },
+  {
+   "name": "Jordi Lingen",
+   "type": "persoon",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "La Growth Machine",
+   "type": "tool",
+   "domain": "lagrowthmachine.com",
+   "position": 3
+  }
+ ],
+ "sources": [
+  {
+   "domain": "altijdbekend.nl",
+   "url": "https://altijdbekend.nl/over-ons/blog/dit-zijn-de-linkedin-trends-van-2026/",
+   "title": "Dit zijn de LinkedIn-trends van 2026 | Altijd Bekend"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/jordilingen_zo-win-je-van-het-linkedin-algoritme-in-2026-activity-7435346639994920960-we7u",
+   "title": "Zo win je van het LinkedIn-algoritme in 2026"
+  },
+  {
+   "domain": "lagrowthmachine.com",
+   "url": "https://lagrowthmachine.com/linkedin-marketing-strategy-2026/",
+   "title": "LinkedIn Marketing Strategy 2026: Complete B2B Guide"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf",
+   "title": "B2B LinkedIn Content Best Practices (2026 Update )"
+  }
+ ]
+}

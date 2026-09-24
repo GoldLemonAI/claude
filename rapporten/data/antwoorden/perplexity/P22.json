@@ -1,0 +1,107 @@
+{
+ "id": "P22",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Hoe vaak moet een B2B-bedrijf posten op LinkedIn om autoriteit op te bouwen, en welke bronnen onderbouwen dat?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een **B2B-bedrijf** is **3–5 posts per week** de meest genoemde richtlijn om **autoriteit** op te bouwen op LinkedIn; meerdere bronnen noemen dit expliciet als de “sweet spot”, terwijl andere adviseurs uitkomen op **2–4 posts per week** of **minimaal 1x per week** als ondergrens.[2][3][10][12][15]\n\nDe kern die de meeste bronnen delen is niet alleen de frequentie, maar vooral **consistentie + kwaliteit**: een vast ritme werkt beter dan af en toe veel posten.[2][3][5][8][10][15]\n\nWat de bronnen precies onderbouwen:\n\n- **3–5 posts per week** wordt door meerdere B2B- en LinkedIn-marketingbronnen genoemd als optimale frequentie voor zichtbaarheid en autoriteit.[2][10][11][12][13][17][18]\n- **2–4 posts per week** wordt ook vaak genoemd, vooral voor bedrijven die een duurzaam ritme willen houden zonder kwaliteit te verliezen.[1][4][6][7][14]\n- **1 post per week** wordt in sommige adviezen genoemd als minimum om consistent zichtbaar te blijven, maar dat is meestal gepositioneerd als ondergrens, niet als optimale autoriteitsstrategie.[15]\n- Eén bron over LinkedIn thought leadership stelt dat **3–4 keer per week** een praktisch doel is voor de meeste leidinggevenden, en benadrukt dat kwaliteit belangrijker is dan volume.[3]\n\nDe sterkste onderbouwing uit de aangeleverde resultaten is dus: **mik op 3–5 hoogwaardige posts per week**, en als dat te zwaar is, start dan met **2–3 per week** en bouw consistentie op.[2][3][10][12][13]\n\nAls je wilt, kan ik dit ook vertalen naar een **concreet postingritme per week** voor een B2B-bedrijf, bijvoorbeeld met verdeling over **expertise, cases, opinie en klantbewijs**.",
+ "entities": [],
+ "sources": [
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/autoriteit/",
+   "title": "Autoriteit op LinkedIn en Instagram - Gold Lemon"
+  },
+  {
+   "domain": "robuustmarketing.nl",
+   "url": "https://robuustmarketing.nl/nl/blog/social-media-marketing/linkedin-strategie-b2b",
+   "title": "LinkedIn B2B Strategie: Genereer Leads en Bouw Autoriteit"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "LinkedIn Thought Leadership: Hoe je autoriteit opbouwt in ..."
+  },
+  {
+   "domain": "wildbos.com",
+   "url": "https://wildbos.com/blog/linkedin-content-kalender",
+   "title": "LinkedIn Content Kalender voor B2B: 12-Weken Framework"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/faq",
+   "title": "Veelgestelde vragen - Wat is ghostwriting en nog veel meerwww.gho.agency › faq"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/nl/blog/linkedin-voor-b2b-leadgeneratie",
+   "title": "LinkedIn voor B2B leadgeneratie: de bewezen gids | Postiv AI Blog"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/aanpak",
+   "title": "Onze aanpak | GHO Agency"
+  },
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/",
+   "title": "LinkedIn Company Page vs. persoonlijk profiel: wat werkt beter?"
+  },
+  {
+   "domain": "exclusiefnetwerknederland.nl",
+   "url": "https://exclusiefnetwerknederland.nl/kennisbank/kennis/linkedin-strategie-voor-ondernemers/",
+   "title": "LinkedIn strategie voor ondernemers - ENN"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/nl/blog/linkedin-marketingstrategie-voor-b2b",
+   "title": "LinkedIn marketingstrategie voor B2B: bouw een plan"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/nl/blog/hoe-vaak-posten-op-linkedin",
+   "title": "Hoe Vaak Moet Je Posten op LinkedIn? De ultieme gids"
+  },
+  {
+   "domain": "kontentino.com",
+   "url": "https://www.kontentino.com/nl/blog/engagement-op-linkedin-verhogen-b2b-strategie/",
+   "title": "Engagement op LinkedIn verhogen: Een B2B-strategie die echt werkt"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-post-strategie",
+   "title": "LinkedIn Plaatsstrategie: De Gids voor 2026 - MagicPost"
+  },
+  {
+   "domain": "waalaxy.com",
+   "url": "https://www.waalaxy.com/nl/blog/b2b-verkoop-leadgeneratie/leadgeneratie-linkedin",
+   "title": "Hoe gemakkelijk B2B LinkedIn leadgeneratie in 2026?"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/",
+   "title": "B2B-thought leadership op LinkedIn: 7 tips om wél impact ..."
+  },
+  {
+   "domain": "metricool.com",
+   "url": "https://metricool.com/nl/beste-tijd-linkedin/",
+   "title": "Wat is de beste tijd om te posten op LinkedIn? - Metricool"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/frequentie-social-media-hoe-vaak-wilmoet-je-posten-fennard-drenth-urlze",
+   "title": "Frequentie social media: Hoe vaak wil/moet je posten? - LinkedIn"
+  },
+  {
+   "domain": "folk.app",
+   "url": "https://www.folk.app/nl/articles/linkedin-inbound",
+   "title": "Word een meester in LinkedIn Inbound: bewezen strategieën ..."
+  },
+  {
+   "domain": "almcorp.com",
+   "url": "https://almcorp.com/nl/blog/linkedin-vs-reddit-b2b-ai-visibility/",
+   "title": "LinkedIn versus Reddit voor B2B AI-zichtbaarheid: welk platform ..."
+  }
+ ]
+}

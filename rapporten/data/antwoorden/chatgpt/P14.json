@@ -1,0 +1,138 @@
+{
+ "id": "P14",
+ "engine": "chatgpt",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse ondernemers zijn een goed voorbeeld van autoriteit opbouwen op LinkedIn in B2B? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hier zijn enkele Nederlandse ondernemers en leiders die een uitstekend voorbeeld vormen van het opbouwen van autoriteit op LinkedIn in de B2B-sector:\n\n1. **Marcel van Oost**  \n   Marcel van Oost is een prominente FinTech-expert en angel investor. Hij deelt regelmatig diepgaande inzichten over financiële technologie, investeringen en trends. Met een indrukwekkend bereik van ongeveer 43 miljoen views en een LinkedIn Score van 100/100, is hij een toonaangevend voorbeeld van hoe inhoudelijke expertise en consistentie leiden tot autoriteit op LinkedIn. ([favikon.com](https://www.favikon.com/blog/top-b2b-influencers-netherlands?utm_source=openai))\n\n2. **Pieter Levels**  \n   Als oprichter van Nomad List, Remote OK en andere online ventures, deelt Pieter Levels waardevolle content over startups, AI, investeren, reizen en techcultuur. Hij staat bovenaan de Favikon-lijst van B2B-influencers in Nederland voor 2026, met een hoge Authority Score. ([favikon.com](https://www.favikon.com/blog/top-b2b-influencers-netherlands?utm_source=openai))\n\n3. **René van der Zel**  \n   René van der Zel, oprichter van XXL Nutrition, is een voorbeeld van een ondernemer die zijn persoonlijke merk inzet als groeiversneller. Hij behaalt een LinkedIn Score van 99,5/100 en genereert miljoenen views via zijn content. ([nl.linkedin.com](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf?utm_source=openai))\n\n4. **Pieter Zwart**  \n   De oprichter en CEO van Coolblue is een klassiek voorbeeld van een zichtbare CEO op LinkedIn. Met bijna 165.000 volgers en een LinkedIn Score van 99/100, deelt hij op een toegankelijke manier ‘kijkjes achter de schermen’, wat vertrouwen en betrokkenheid oproept. ([mtsprout.nl](https://mtsprout.nl/leiderschap/persoonlijk-leiderschap/linkedin-ceo-top-100-2026?utm_source=openai))\n\n5. **Dolf van den Brink**  \n   Als CEO van Heineken heeft Dolf van den Brink een LinkedIn Score van 99,2/100. Hij laat zien hoe een CEO van een wereldmerk persoonlijk en benaderbaar kan zijn op LinkedIn, wat bijdraagt aan zowel imago als autoriteit. ([nl.linkedin.com](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf?utm_source=openai))\n\n6. **Rutger Bregman en Alexander Klöpping**  \n   Hoewel zij niet primair ondernemers zijn, zijn ze invloedrijke thought leaders op LinkedIn. Rutger Bregman (historicus/auteur) en Alexander Klöpping (uitgever/AI-expert) hebben beide een LinkedIn Score van 100/100 en bereiken miljoenen mensen met hun ideeën en analyses. ([nl.linkedin.com](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf?utm_source=openai))\n\n7. **Michiel Verstraten**  \n   Michiel wordt gezien als een van de topexperts op het gebied van LinkedIn in Nederland. Hij is uitgeroepen tot #2 LinkedIn Expert van Nederland en top business influencer. Hij helpt B2B-merken hun verhaal geloofwaardig te delen via zijn eigen netwerk, waardoor zij autoriteit kunnen lenen via associatie. ([youlynq.me](https://youlynq.me/nl/linkedin-influencer-samenwerking-b2b/?utm_source=openai))\n\n8. **Koen Gehrels**  \n   Koen is LinkedIn-ghostwriter en contentstrateeg die meer dan 2.000 LinkedIn-posts heeft geschreven en meer dan 30 ondernemers heeft geholpen om hun autoriteit op te bouwen. Hij ontwikkelde de zogenaamde C.A.C.-methode om content strategisch in te zetten voor conversie en zichtbaarheid. ([koengehrels.nl](https://www.koengehrels.nl/?utm_source=openai))\n\n9. **Miranda Tijink (Sterk in Sales)**  \n   Miranda ondersteunt B2B-ondernemers bij het opbouwen van personal branding, dagelijkse leadgeneratie en autoriteit via LinkedIn. Haar content wordt gevolgd door ruim 19.000 ondernemers en dienstverleners, wat haar tot een invloedrijke speler maakt in de B2B-leadgeneratie via LinkedIn. ([inntwente.nl](https://inntwente.nl/wp-content/uploads/2026/01/INNtwente-20-digitaal.pdf?utm_source=openai))\n\n10. **Nick Broekema, Martijn Verspeek, Wouter Born e.a.**  \n    Deze LinkedIn-native creators hebben hun platform grotendeels via LinkedIn zelf opgebouwd. Zij genereren gemiddeld meer views dan bekende namen en tonen aan dat consistentie en inhoud belangrijker zijn dan bestaande bekendheid. ([linkedin.com](https://www.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf/?utm_source=openai))\n\n---\n\nSamenvattend: deze ondernemers en leiders tonen aan dat je op LinkedIn autoriteit kunt opbouwen door:\n\n- Consistent waardevolle en inhoudelijke content te delen (zoals Marcel van Oost, René van der Zel).\n- Je persoonlijke merk in te zetten als verlengstuk van je organisatie (zoals Pieter Zwart, Dolf van den Brink).\n- Thought leadership te tonen via diepgaande analyses en ideeën (zoals Rutger Bregman, Alexander Klöpping).\n- Strategische contentcreatie en storytelling te gebruiken om vertrouwen te winnen (zoals Michiel Verstraten, Koen Gehrels, Miranda Tijink).\n- Zelf als LinkedIn-native creator te groeien door authenticiteit en engagement (zoals Nick Broekema, Martijn Verspeek, Wouter Born).\n\nLaat me weten als je voorbeelden zoekt binnen specifieke sectoren of met bepaalde contentstrategieën!",
+ "entities": [
+  {
+   "name": "Marcel van Oost",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Pieter Levels",
+   "type": "persoon",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Favikon",
+   "type": "platform",
+   "position": 3,
+   "domain": "favikon.com"
+  },
+  {
+   "name": "René van der Zel",
+   "type": "persoon",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Pieter Zwart",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Dolf van den Brink",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Rutger Bregman",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Alexander Klöpping",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Michiel Verstraten",
+   "type": "persoon",
+   "position": 9,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "Koen Gehrels",
+   "type": "persoon",
+   "position": 10,
+   "domain": "koengehrels.nl"
+  },
+  {
+   "name": "Miranda Tijink",
+   "type": "persoon",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Sterk in Sales",
+   "type": "bureau",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Nick Broekema",
+   "type": "persoon",
+   "position": 13,
+   "domain": null
+  },
+  {
+   "name": "Martijn Verspeek",
+   "type": "persoon",
+   "position": 14,
+   "domain": null
+  },
+  {
+   "name": "Wouter Born",
+   "type": "persoon",
+   "position": 15,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-b2b-influencers-netherlands",
+   "title": "Top 20 B2B Influencers in the Netherlands in 2026 [🏆Rating] - Favikon"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf",
+   "title": "De top 50 invloedrijkste LinkedIn'ers van Nederland"
+  },
+  {
+   "domain": "mtsprout.nl",
+   "url": "https://mtsprout.nl/leiderschap/persoonlijk-leiderschap/linkedin-ceo-top-100-2026",
+   "title": "Deze Nederlandse ceo's scoren op Linkedin"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/linkedin-influencer-samenwerking-b2b/",
+   "title": "LinkedIn Influencer Samenwerking voor B2B | Michiel Verstraten"
+  },
+  {
+   "domain": "koengehrels.nl",
+   "url": "https://www.koengehrels.nl/",
+   "title": "Haal meer autoriteit, bereik en klanten uit LinkedIn | Koen Gehrels"
+  },
+  {
+   "domain": "inntwente.nl",
+   "url": "https://inntwente.nl/wp-content/uploads/2026/01/INNtwente-20-digitaal.pdf",
+   "title": "INNtwente 20 digitaal (pdf)"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf/",
+   "title": "De top 50 invloedrijkste LinkedIn'ers van Nederland"
+  }
+ ]
+}

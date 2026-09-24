@@ -1,0 +1,96 @@
+{
+ "id": "P22",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Hoe vaak moet een B2B-bedrijf posten op LinkedIn om autoriteit op te bouwen, en welke bronnen onderbouwen dat?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een B2B-bedrijf dat autoriteit (thought leadership) wil opbouwen op LinkedIn, ligt de ideale postfrequentie tussen de **2 en 5 keer per week**. \n\nDe consensus in de meest recente B2B-marketingstudies is dat **consistentie en inhoudelijke kwaliteit** zwaarder wegen dan pure kwantiteit. Het algoritme en B2B-beslissers straffen 'loze' content om maar aan een dagelijkse quota te voldoen namelijk snel af.\n\nHieronder staat een overzicht van wat de data zegt, welke bronnen dit onderbouwen, en hoe dit specifiek werkt voor het opbouwen van autoriteit.\n\n---\n\n### 1. Wat zegt de data? (De optimale frequentie)\n\n* **De 'Sweet Spot': 2 tot 5 keer per week**\n  Dit is de officiële aanbeveling van LinkedIn zelf. B2B-pagina's en -profielen die deze frequentie aanhouden, zien een aanzienlijke stijging in bereik en interactie zonder dat het publiek vermoeid raakt. \n* **Persoonlijke profielen vs. Bedrijfspagina's**\n  * **Persoonlijke profielen van experts/directie (Thought Leadership):** **3 tot 5 keer per week**. Autoriteit wordt in B2B voornamelijk opgebouwd door *mensen*, niet door logo's. \n  * **Bedrijfspagina's:** **2 tot 4 keer per week**. Bedrijfspagina's hebben organisch een lager bereik; hier is de focus op extreem hoogwaardige updates (zoals whitepapers, case studies of product-updates) nog belangrijker.\n* **Meer is mogelijk, mits de kwaliteit extreem hoog blijft**\n  Als een organisatie de capaciteit heeft om vaker te posten (bijvoorbeeld 6 tot 10 keer per week), stijgt het cumulatieve wekelijkse bereik doorgaans wel. Echter, zodra de kwaliteit verwatert en posts 'vulling' worden, dalen de engagement-ratio's en daarmee de autoriteit.\n\n---\n\n### 2. Welke bronnen onderbouwen dit?\n\nDe richtlijn van 2 tot 5 keer per week wordt ondersteund door diverse toonaangevende onderzoeken en platform-analyses:\n\n* **Buffer (Grootschalig Data-onderzoek)**\n  Buffer analyseerde meer dan **2 miljoen LinkedIn-posts** van ruim 94.000 accounts. De data laat zien dat de overstap van 1 post per week naar **2 tot 5 posts per week** een enorme \"schakelaar\" is voor het algoritme. Dit levert gemiddeld een flinke boost op in impressies per post (+1.182) en een stijging in de engagement rate (+0,23%).\n* **LinkedIn (Eigen data)**\n  LinkedIn geeft zelf aan dat een frequentie van **2 tot 5 keer per week** optimaal is. Volgens statistieken van het platform genereren creators/pagina's die minstens twee keer per week posten gemiddeld tot **5x meer profielweergaven**. Daarnaast stelt LinkedIn dat wekelijks posten de volgersgroei met een factor 5,6 versnelt ten opzichte van minder frequente updates.\n* **MagicPost (Data-analyse onder B2B-creators)**\n  Uit een analyse van 26.428 creators bleek dat accounts die **2 tot 4 keer per week** posten, ongeveer **5 keer zoveel wekelijkse interactie (engagement)** ontvangen als accounts die minder dan twee keer per maand posten. Het onderzoek toont aan dat de wekelijkse winst in zichtbaarheid bij een hogere frequentie altijd groter is, mits de creator de frequentie langdurig kan volhouden.\n* **Edelman & LinkedIn Thought Leadership Study**\n  Dit rapport toont aan *waarom* kwaliteit zwaarder weegt dan kwantiteit voor autoriteit. Maar liefst **53% van de B2B-besluitvormers** geeft aan dat kwalitatieve thought leadership belangrijker is bij het evalueren van leveranciers dan algemene merkbekendheid. Te vaak posten met oppervlakkige content schaadt de reputatie, terwijl 2 tot 3 diepgaande, op data of ervaring gebaseerde posts per week juist de autoriteit claimen.\n\n---\n\n### 3. Waarom de werking van het algoritme consistentie vereist\n\nB2B-autoriteit opbouwen is een kwestie van de lange adem. Het LinkedIn-algoritme beloont een vast ritme om de volgende redenen:\n\n1. **Het 'Trust Signal':** Het algoritme ziet een voorspelbaar schema als een betrouwbaarheidssignaal. Accounts die consistent posten, krijgen bij een nieuwe post sneller een groter testpubliek toegewezen dan accounts die in 'salvo's' posten (bijvoorbeeld 5 posts in één week en daarna drie weken stilte).\n2. **De 'Dwell Time' & Interactie:** LinkedIn optimaliseert voor de tijd die iemand besteedt aan het lezen van een post (*dwell time*) en voor inhoudelijke reacties. Eén diepgaande casestudy per week die aanzet tot discussie in de comments bouwt meer autoriteit op dan vijf oppervlakkige quotes [1.1.",
+ "entities": [
+  {
+   "name": "Buffer",
+   "type": "tool",
+   "position": 1,
+   "domain": "buffer.com"
+  },
+  {
+   "name": "MagicPost",
+   "type": "tool",
+   "position": 2,
+   "domain": "magicpost.in"
+  },
+  {
+   "name": "Edelman",
+   "type": "overig",
+   "position": 3,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "connectsafely.ai",
+   "url": "https://connectsafely.ai/articles/how-often-to-post-on-linkedin-2026",
+   "title": "connectsafely.ai"
+  },
+  {
+   "domain": "webprofit.nl",
+   "url": "https://www.webprofit.nl/blog/hoe-vaak-posten-op-linkedin",
+   "title": "webprofit.nl"
+  },
+  {
+   "domain": "jaapvanzessen.nl",
+   "url": "https://www.jaapvanzessen.nl/tips/hoe-vaak-moet-je-posten-op-linkedin-dit-zegt-linkedin-zelf/",
+   "title": "jaapvanzessen.nl"
+  },
+  {
+   "domain": "gtmstack.blog",
+   "url": "https://www.gtmstack.blog/how-often-to-post-on-linkedin",
+   "title": "gtmstack.blog"
+  },
+  {
+   "domain": "pharmamarketeer.nl",
+   "url": "https://www.pharmamarketeer.nl/hoe-vaak-moet-je-posten-op-linkedin-in-2025-data-uit-meer-dan-2-miljoen-posts/",
+   "title": "pharmamarketeer.nl"
+  },
+  {
+   "domain": "inspiredmarketingb2b.com",
+   "url": "https://inspiredmarketingb2b.com/how-often-should-b2b-companies-post-on-linkedin-the-data-backed-answer/",
+   "title": "inspiredmarketingb2b.com"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "magicpost.in"
+  },
+  {
+   "domain": "buffer.com",
+   "url": "https://buffer.com/resources/how-often-to-post-on-linkedin/",
+   "title": "buffer.com"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/hoe-vaak-moet-je-posten-op-linkedin",
+   "title": "magicpost.in"
+  },
+  {
+   "domain": "socialmediatoday.com",
+   "url": "https://www.socialmediatoday.com/news/report-shows-posting-frequency-key-to-linkedin-success/758918/",
+   "title": "socialmediatoday.com"
+  },
+  {
+   "domain": "leadcrm.io",
+   "url": "https://www.leadcrm.io/blog/how-often-to-post-on-linkedin-strategy/",
+   "title": "leadcrm.io"
+  },
+  {
+   "domain": "thinkpodagency.com",
+   "url": "https://thinkpodagency.com/how-often-should-b2b-companies-post-on-linkedin-and-other-platforms-a-practical-guide/",
+   "title": "thinkpodagency.com"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/blog/how-often-should-you-post-on-linkedin",
+   "title": "postiv.ai"
+  }
+ ]
+}

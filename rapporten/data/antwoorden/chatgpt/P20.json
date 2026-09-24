@@ -1,0 +1,119 @@
+{
+ "id": "P20",
+ "engine": "chatgpt",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse bureaus of experts worden aanbevolen voor founder-led content op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van **Nederlandse bureaus en experts** die gespecialiseerd zijn in **founder-led content op LinkedIn**. Deze partijen helpen founders en ondernemers om authentieke, persoonlijke content te creëren die zichtbaarheid, autoriteit en leads genereert.\n\n---\n\n##  Aanbevolen bureaus en experts\n\n**1. Snippetly (Rotterdam)**  \n- Gespecialiseerd in short-form video’s voor LinkedIn met de founder of CEO in beeld.  \n- Biedt formats zoals “Founder-shorts”, “Case-shorts” en “Hot takes”.  \n- Focus op storytelling, pipeline-denken en native LinkedIn-stijl.  \n([snippetly.nl](https://snippetly.nl/linkedin-video?utm_source=openai))\n\n**2. Solvex**  \n- Richt zich op B2B-ondernemers, advocaten, consultants en zakelijke dienstverleners.  \n- Maandelijks interview (60 min) om 4–8 posts in jouw stem te creëren.  \n- Beheer van bedrijfspagina en connectiestrategie, met focus op founder-content.  \n([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai))\n\n**3. Dark Horse (Clem)**  \n- Full-service aanpak: strategie, contentcreatie en thought leadership ads.  \n- Intake via workshop, daarna kant-en-klare posts in jouw tone-of-voice.  \n- Maandelijks 8 posts, vanaf €1.400 per maand; inclusief advertentie-opties.  \n([dark-horse.nl](https://dark-horse.nl/?utm_source=openai))\n\n**4. Evertising (Michael Wiersma)**  \n- Biedt positionering, founder-led content, LinkedIn & search ads, funnels en CRM-workflows.  \n- Produceren van founder-led video’s en content op locatie of remote.  \n([evertising.agency](https://evertising.agency/?utm_source=openai))\n\n**5. DGTLoperations (Stijn IJzelenberg)**  \n- Werkt met gevestigde creators (20K+ volgers) als verdienpartner.  \n- Geen voorafbetaling; verdienmodel gebaseerd op omzetdeel.  \n([dgtloperations.com](https://dgtloperations.com/nl/?utm_source=openai))\n\n**6. iReclam**  \n- LinkedIn marketing bureau voor B2B MKB in Nederland.  \n- Beheert bedrijfspagina, LinkedIn Ads en thought leadership content.  \n- Gericht op zichtbaarheid en leadgeneratie via content in jouw stem.  \n([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai))\n\n**7. Graphix Lab Designs (White-label)**  \n- White-label social media management voor Nederlandse bureaus.  \n- AVG-conform, Nederlandstalige content, thought leadership en leadgeneratie.  \n- Alles onder jouw merknaam, met hoge engagementgroei.  \n([social.graphixlabdesigns.com](https://social.graphixlabdesigns.com/netherlands/?utm_source=openai))\n\n**8. Maxiality**  \n- Biedt founder-led go-to-market (GTM) strategieën, inclusief LinkedIn video’s.  \n- Klantcases tonen snelle zichtbaarheid en leadgeneratie via expertvideo’s.  \n([maxiality.com](https://maxiality.com/about/?utm_source=openai))\n\n---\n\n##  Vergelijkingstabel\n\n| Bureau / Expert         | Focus / Specialisatie                                      | Formaat / Werkwijze                             |\n|-------------------------|------------------------------------------------------------|--------------------------------------------------|\n| Snippetly               | Short-form video’s met founder in beeld                    | Videoformats zoals “Founder-shorts”              |\n| Solvex                  | Founder-content via interviews en posts                    | Maandelijkse interviews, content in jouw stem    |\n| Dark Horse              | Strategie + contentcreatie + ads                          | Workshops, posts, thought leadership ads         |\n| Evertising              | Video, funnels, ads, CRM-integratie                       | Founder-led video + marketing automation         |\n| DGTLoperations          | Verdienpartner voor creators met groot bereik             | Omzetgebaseerd model, geen voorafbetaling        |\n| iReclam                 | LinkedIn marketing & thought leadership content           | Ads, bedrijfspagina, content in jouw stem        |\n| Graphix Lab Designs     | White-label LinkedIn content voor Nederlandse bureaus     | AVG-conform, native content, onder jouw merk     |\n| Maxiality               | GTM-strategie + LinkedIn video’s                          | Expertvideo’s die zichtbaarheid en leads opleveren |\n\n---\n\n##  Welke partij past bij jouw situatie?\n\n- **Wil je vooral video-content met jezelf in beeld?**  \n  Kies voor **Snippetly**, **Evertising** of **Maxiality**.\n\n- **Zoek je een full-service aanpak inclusief strategie en ads?**  \n  Overweeg **Dark Horse**, **Solvex** of **iReclam**.\n\n- **Werk je als bureau en wil je white-label content leveren?**  \n  **Graphix Lab Designs** is dan een uitstekende keuze.\n\n- **Heb je al een groot bereik en wil je zonder voorafkosten samenwerken?**  \n  Kijk dan naar **DGTLoperations**.\n\n---\n\nLaat me weten als je hulp wilt bij het kiezen van de beste match voor jouw specifieke doelen, sector of budget!",
+ "entities": [
+  {
+   "name": "Snippetly",
+   "type": "bureau",
+   "position": 1,
+   "domain": "snippetly.nl"
+  },
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 2,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "Dark Horse",
+   "type": "bureau",
+   "position": 3,
+   "domain": "dark-horse.nl"
+  },
+  {
+   "name": "Clem",
+   "type": "persoon",
+   "position": 4,
+   "domain": "dark-horse.nl"
+  },
+  {
+   "name": "Evertising",
+   "type": "bureau",
+   "position": 5,
+   "domain": "evertising.agency"
+  },
+  {
+   "name": "Michael Wiersma",
+   "type": "persoon",
+   "position": 6,
+   "domain": "evertising.agency"
+  },
+  {
+   "name": "DGTLoperations",
+   "type": "bureau",
+   "position": 7,
+   "domain": "dgtloperations.com"
+  },
+  {
+   "name": "Stijn IJzelenberg",
+   "type": "persoon",
+   "position": 8,
+   "domain": "dgtloperations.com"
+  },
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 9,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "Graphix Lab Designs",
+   "type": "bureau",
+   "position": 10,
+   "domain": "graphixlabdesigns.com"
+  },
+  {
+   "name": "Maxiality",
+   "type": "bureau",
+   "position": 11,
+   "domain": "maxiality.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "snippetly.nl",
+   "url": "https://snippetly.nl/linkedin-video",
+   "title": "LinkedIn video bureau | B2B short form video | Snippetly"
+  },
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "dark-horse.nl",
+   "url": "https://dark-horse.nl/",
+   "title": "Je weet dat je als founder zichtbaar moet zijn op LinkedIn"
+  },
+  {
+   "domain": "evertising.agency",
+   "url": "https://evertising.agency/",
+   "title": "Evertising · Word dé speler in jouw niche"
+  },
+  {
+   "domain": "dgtloperations.com",
+   "url": "https://dgtloperations.com/nl/",
+   "title": "DGTLoperations: Verdienpartner voor gevestigde creators"
+  },
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  },
+  {
+   "domain": "social.graphixlabdesigns.com",
+   "url": "https://social.graphixlabdesigns.com/netherlands/",
+   "title": "White Label Social Media Bureau Nederland | GDPR Marketing Outsourcing — Graphix Lab Designs"
+  },
+  {
+   "domain": "maxiality.com",
+   "url": "https://maxiality.com/about/",
+   "title": "About - Maxiality B2B SaaS Authority Marketing"
+  }
+ ]
+}

@@ -1,0 +1,319 @@
+{
+ "id": "P18",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse marketeers zijn autoriteit op het gebied van AI-zichtbaarheid en GEO, en delen dat op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Op basis van deze resultaten springen vooral **TEAM LEWIS**, **Clarius AI**, **Itonomy**, **Follo Agency**, **HV Media** en **Kwalitiv** eruit als Nederlandse partijen die zich profileren op **AI-zichtbaarheid** en **GEO**. Ze worden in een Nederlands overzicht expliciet genoemd als sterke of vroege GEO-spelers, met nadruk op content, AI-vindbaarheid, digitale PR en frameworks.[1]\n\nAls je specifiek zoekt naar **Nederlandse marketeers** die hier ook **op LinkedIn over delen**, dan geven de resultaten vooral de bureaus en enkele namen achter die bureaus prijs, maar niet direct een volledig geverifieerde LinkedIn-lijst. De sterkst onderbouwde namen uit deze resultaten zijn:\n\n- **Lotte Seinen** van **Mediabirds**: genoemd als Marketing Lead bij een bureau dat zich als GEO-bureau profileert.[2]\n- **Niels Teunissen** van **Mediabirds**: eveneens genoemd in de contactinformatie van hetzelfde GEO-bureau.[2]\n- **Matt Timmermans** van **Timmermans Media**: wordt genoemd als auteur die sinds 2018 SEO-content schrijft en zich richt op zichtbaarheid, in een context van GEO-diensten.[4]\n- **Vincent Castenmiller** van **Ipsis**: genoemd als directeur-eigenaar op een GEO-bureaupagina.[5]\n- **Rick Zuidbroek** van **Doublesmart**: komt naar voren in een artikel over een GEO-experiment en AI-zoekmachines.[16]\n- **Clarissa Filius** en **Jens Michiels** van **iO**: worden genoemd als SEO/marketing-experts in een event over AI Search en merkzichtbaarheid.[17]\n\nVoor **LinkedIn-activiteit** zelf laten deze zoekresultaten vooral indirecte signalen zien: bedrijven als TEAM LEWIS publiceren veel onderzoek en frameworks rond GEO,[1] en partijen als Think Online, Fingerspitz en Clarity positioneren zich inhoudelijk sterk rond AI-zoekzichtbaarheid.[6][13][20] Dat maakt het waarschijnlijk dat hun marketeers erover posten, maar in de aangeleverde resultaten wordt dat niet per individu hard bevestigd.\n\nAls je wilt, kan ik hierna een **kortere, gerangschikte shortlist maken van 5–10 Nederlandse LinkedIn-profielen** die je waarschijnlijk het beste kunt volgen, op basis van publieke zichtbaarheid, GEO-expertise en regelmatige content over AI-search.",
+ "entities": [
+  {
+   "name": "TEAM LEWIS",
+   "type": "bureau",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Clarius AI",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Itonomy",
+   "type": "bureau",
+   "position": 3,
+   "domain": "itonomy.nl"
+  },
+  {
+   "name": "Follo Agency",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "HV Media",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Kwalitiv",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Lotte Seinen",
+   "type": "persoon",
+   "position": 7,
+   "domain": "mediabirds.nl"
+  },
+  {
+   "name": "Mediabirds",
+   "type": "bureau",
+   "position": 8,
+   "domain": "mediabirds.nl"
+  },
+  {
+   "name": "Niels Teunissen",
+   "type": "persoon",
+   "position": 9,
+   "domain": "mediabirds.nl"
+  },
+  {
+   "name": "Matt Timmermans",
+   "type": "persoon",
+   "position": 10,
+   "domain": "timmermansmedia.nl"
+  },
+  {
+   "name": "Timmermans Media",
+   "type": "bureau",
+   "position": 11,
+   "domain": "timmermansmedia.nl"
+  },
+  {
+   "name": "Vincent Castenmiller",
+   "type": "persoon",
+   "position": 12,
+   "domain": "ipsis.nl"
+  },
+  {
+   "name": "Ipsis",
+   "type": "bureau",
+   "position": 13,
+   "domain": "ipsis.nl"
+  },
+  {
+   "name": "Rick Zuidbroek",
+   "type": "persoon",
+   "position": 14,
+   "domain": null
+  },
+  {
+   "name": "Doublesmart",
+   "type": "bureau",
+   "position": 15,
+   "domain": null
+  },
+  {
+   "name": "Clarissa Filius",
+   "type": "persoon",
+   "position": 16,
+   "domain": null
+  },
+  {
+   "name": "Jens Michiels",
+   "type": "persoon",
+   "position": 17,
+   "domain": null
+  },
+  {
+   "name": "iO",
+   "type": "bureau",
+   "position": 18,
+   "domain": null
+  },
+  {
+   "name": "Think Online",
+   "type": "bureau",
+   "position": 19,
+   "domain": "think-online.nl"
+  },
+  {
+   "name": "Fingerspitz",
+   "type": "bureau",
+   "position": 20,
+   "domain": "fingerspitz.nl"
+  },
+  {
+   "name": "Clarity",
+   "type": "tool",
+   "position": 21,
+   "domain": "clarity.global"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "itonomy.nl",
+   "url": "https://www.itonomy.nl/top-10-geo-bureaus-nederland/",
+   "title": "Top 10 geo bureaus Nederland - Itonomy"
+  },
+  {
+   "domain": "mediabirds.nl",
+   "url": "https://mediabirds.nl/diensten/marketing/geo/",
+   "title": "GEO Bureau | Digital Agency Ede & Amsterdam"
+  },
+  {
+   "domain": "geohero.nl",
+   "url": "https://www.geohero.nl/",
+   "title": "GEO Marketingbureau | Marketing Bureau GEO, SEO, AEO en VIO"
+  },
+  {
+   "domain": "timmermansmedia.nl",
+   "url": "https://www.timmermansmedia.nl/diensten/geo/",
+   "title": "GEO-bureau: vindbaar worden in ChatGPT"
+  },
+  {
+   "domain": "ipsis.nl",
+   "url": "https://www.ipsis.nl/geo-bureau/",
+   "title": "GEO bureau | GEO uitbesteden aan specialisten - ipsis"
+  },
+  {
+   "domain": "think-online.nl",
+   "url": "https://think-online.nl/blog/gevonden-worden-in-chatgpt",
+   "title": "Gevonden worden in AI: Hoe word je zichtbaar in ChatGPT?"
+  },
+  {
+   "domain": "kersversdigital.nl",
+   "url": "https://kersversdigital.nl/development/generative-engine-optimization/",
+   "title": "Generative Engine Optimization | Scoor in AI - Kersvers Digital"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/diensten/online-marketing/vindbaar-in-ai-geo/zichtbaar-in-chatgpt",
+   "title": "Zorg dat jouw merk wordt genoemd in ChatGPT"
+  },
+  {
+   "domain": "adformatie.nl",
+   "url": "https://www.adformatie.nl/tech/data-en-insights/clarity-software-geeft-merken-inzicht-in-ai-zichtbaarheid",
+   "title": "GEO-software van Clarity geeft merken inzicht in hoe ze ... - Adformatie"
+  },
+  {
+   "domain": "brandmerck.nl",
+   "url": "https://www.brandmerck.nl/ai-versnelt-aao-geo-google-ads-en-nl-marketeers/",
+   "title": "AI versnelt: AAO, GEO, Google Ads en NL-marketeers - Brandmerck"
+  },
+  {
+   "domain": "marketingcollega.nl",
+   "url": "https://www.marketingcollega.nl/generative-engine-optimization/",
+   "title": "GEO uitbesteden | Expert in Generative Engine Optimization"
+  },
+  {
+   "domain": "youvia.nl",
+   "url": "https://www.youvia.nl/diensten/geo-bureau/",
+   "title": "GEO Marketing - Jouw bedrijf als bron voor AI"
+  },
+  {
+   "domain": "fingerspitz.nl",
+   "url": "https://fingerspitz.nl/diensten/geo-ai-seo/",
+   "title": "GEO AI optimalisatie voor meer zichtbaarheid in AI? | Fingerspitz"
+  },
+  {
+   "domain": "adformatie.nl",
+   "url": "https://www.adformatie.nl/tech/artificial-intelligence/ai-vindbaardheid-wordt-een-platformspel",
+   "title": "AI-vindbaardheid wordt een platformspel"
+  },
+  {
+   "domain": "economy.nl",
+   "url": "https://www.economy.nl/dienst/generative-engine-optimization-geo/ai-vindbaarheid-meten/",
+   "title": "AI-vindbaarheid Meten | Economy"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/07/03/geo-experiment-inzichten-seo-strategie/",
+   "title": "Pas je SEO-strategie aan: 5 belangrijke inzichten uit een ..."
+  },
+  {
+   "domain": "emerce.nl",
+   "url": "https://www.emerce.nl/agenda/toekomst-seo-scoren-merken-benelux-nu-al-ai-search",
+   "title": "Zo scoren merken in de Benelux nu al met AI Search"
+  },
+  {
+   "domain": "emerce.nl",
+   "url": "https://www.emerce.nl/wire/smartranking-lanceert-eerste-nederland-generative-engine-optimization-geo",
+   "title": "SmartRanking lanceert als eerste in Nederland Generative ..."
+  },
+  {
+   "domain": "youvia.nl",
+   "url": "https://www.youvia.nl/blog/lokale-vindbaarheid-ai-geo/",
+   "title": "10 tips om lokaal beter gevonden te worden in AI-resultaten"
+  },
+  {
+   "domain": "clarity.global",
+   "url": "https://www.clarity.global/nl/geo",
+   "title": "B2B Generatieve motoroptimalisatie (GEO)"
+  },
+  {
+   "domain": "searchenginejournal.com",
+   "url": "https://www.searchenginejournal.com/chatgpt-ads-geo-a-roundtable-with-go-fish-digital-openai/",
+   "title": "ChatGPT Ads & GEO: A Roundtable With Go Fish Digital & OpenAI"
+  },
+  {
+   "domain": "welingelichtekringen.nl",
+   "url": "https://www.welingelichtekringen.nl/partnerposting/google-krijgt-concurrentie-steeds-meer-mensen-zoeken-met-ai",
+   "title": "Google krijgt concurrentie: steeds meer mensen zoeken met AI"
+  },
+  {
+   "domain": "marketing-interactive.com",
+   "url": "https://www.marketing-interactive.com/we-communications-rolls-out-ai-platform-to-help-brands-stay-visible-in-generative-search",
+   "title": "We. Communications rolls out AI platform to help brands ..."
+  },
+  {
+   "domain": "handelsblatt.com",
+   "url": "https://www.handelsblatt.com/adv/firmen/sichtbarkeit-in-der-ki-suche.html",
+   "title": "Dank Life of Media 360 und GEO in KI-Antworten sichtbar werden"
+  },
+  {
+   "domain": "nerdbot.com",
+   "url": "https://nerdbot.com/2026/09/21/19-best-answer-engine-optimization-tools-in-2026-ranked-by-us/",
+   "title": "19 Best Answer Engine Optimization Tools in 2026 (Ranked by us)"
+  },
+  {
+   "domain": "analyticsinsight.net",
+   "url": "https://www.analyticsinsight.net/photo/5-ai-visibility-platforms-to-track-for-generative-engine-optimization-in-2026",
+   "title": "5 AI Visibility Platforms to Track for Generative Engine ..."
+  },
+  {
+   "domain": "unternehmen.n-tv.de",
+   "url": "https://unternehmen.n-tv.de/geo-agentur.html",
+   "title": "Die 5 besten GEO-Agenturen in Deutschland im Vergleich"
+  },
+  {
+   "domain": "digiday.com",
+   "url": "https://digiday.com/marketing/in-graphic-detail-inside-the-scramble-to-measure-a-brands-ai-visibility/",
+   "title": "In Graphic Detail: Inside the scramble to measure a brand’s AI visibility"
+  },
+  {
+   "domain": "nutraingredients.com",
+   "url": "https://www.nutraingredients.com/Article/2026/09/11/ai-shelf-space-seeks-greater-visibility-for-supplement-companies/",
+   "title": "AI Shelf Space seeks greater visibility for supplement ..."
+  },
+  {
+   "domain": "markets.businessinsider.com",
+   "url": "https://markets.businessinsider.com/news/stocks/peakmetrics-launches-ai-perceptions-a-new-geo-platform-purpose-built-for-communications-teams-1036553576",
+   "title": "PeakMetrics Launches AI Perceptions, a New GEO Platform ..."
+  },
+  {
+   "domain": "digiday.com",
+   "url": "https://digiday.com/media-buying/marketers-are-using-ai-search-concerns-to-argue-for-higher-media-budgets/",
+   "title": "CMOs use AI search concerns to argue for higher media budgets"
+  },
+  {
+   "domain": "markets.businessinsider.com",
+   "url": "https://markets.businessinsider.com/news/stocks/geolix-ai-joins-airwallex-to-show-why-ranking-1-on-google-no-longer-puts-a-brand-in-the-ai-answer-1036541448",
+   "title": "Geolix.ai Joins Airwallex to Show Why Ranking #1 on Google No Longer Puts a Brand in the AI Answer"
+  },
+  {
+   "domain": "openai.com",
+   "url": "https://openai.com/nl-NL/index/chatgpt-ads-expands-across-europe/",
+   "title": "ChatGPT-advertenties breiden uit in Europa"
+  },
+  {
+   "domain": "miragenews.com",
+   "url": "https://www.miragenews.com/top-12-geo-agencies-ranked-by-ai-data-pricing-1744115/",
+   "title": "Top 12 GEO Agencies Ranked by AI Data, Pricing, Methods"
+  },
+  {
+   "domain": "agerpres.ro",
+   "url": "https://agerpres.ro/ots/optimizare-pentru-ai-geo-cum-ajuta-gr-ai-brandurile-romanesti-sa-apara-in-chatgpt-gemini-si-perplexi--661720",
+   "title": "cum ajută gr.AI brandurile românești să apară în ChatGPT, Gemini ..."
+  },
+  {
+   "domain": "v.daum.net",
+   "url": "https://v.daum.net/v/20260916100152514",
+   "title": "인사메디AI, SEO 넘어 GEO 마케팅 확대…병원 AI 검색 대응 - Daum"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "P25",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Hoe haal ik als B2B-bedrijf leads uit LinkedIn zonder advertenties? Noem Nederlandse bureaus of bronnen die dit uitleggen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als B2B-bedrijf kun je enorm veel waardevolle leads uit LinkedIn halen zonder ook maar één euro aan advertenties te besteden. Organische LinkedIn-leadgeneratie draait volledig om **zichtbaarheid**, **autoriteit (thought leadership)** en **slim netwerken**.\n\nHieronder staat het stappenplan hoe je dit aanpakt, inclusief Nederlandse bureaus en bronnen die hierin gespecialiseerd zijn.\n\n### Stappenplan: Organische B2B Leads uit LinkedIn\n\n#### 1. Optimaliseer je profiel als landingspagina\n\nJouw persoonlijke profiel (en dat van je directie/sales) is geen cv, maar een landingspagina.\n\n- **De kopregel (Headline):** Vermeld niet alleen je functie, maar wie je helpt en welk probleem je oplost (bijv. *\"Ik help B2B-bedrijven met X zonder Y\"*).\n- **De sectie 'Uitgelicht' (Featured):** Zet hier een directe call-to-action (CTA) neer, zoals een link naar een gratis whitepaper, een scorecard of een planningslink om een kennismakingsgesprek in te plannen.\n\n#### 2. Zet in op Thought Leadership-content\n\nDe tijd van saaie bedrijfspagina-updates is voorbij. Mensen kopen van mensen.\n\n- **Persoonlijke profielen:** Post vanuit het profiel van de oprichter, directeur of experts binnen het bedrijf.\n- **De juiste mix:** Deel verhalen uit de praktijk, lessen uit mislukkingen, visie op de markt en concrete tips.\n- **Waardegedreven:** Zorg dat elke post de lezer direct iets oplevert (inzicht of herkenning), zonder dat je meteen iets verkoopt.[[1]](https://webnexus.nl/diensten/linkedin-marketing/)\n\n#### 3. Slim gebruik van LinkedIn Sales Navigator\n\nMet **Sales Navigator** (het betaalde zoek- en filterinstrument van LinkedIn) kun je organischargets haarscherp targeten.[[1]](https://webnexus.nl/diensten/linkedin-marketing/)\n\n- Bouw lijsten van beslissers op basis van branche, bedrijfsomvang, functie en locatie.\n- Ga de interactie aan met hun content *voordat* je ze een connectieverzoek stuurt (reageer waardevol op hun posts).\n\n#### 4. Social Selling & Warme Outreach\n\nStuur nooit direct een verkooppitch na een connectieverzoek; dat voelt als spam.\n\n- Stuur een persoonlijk connectieverzoek zonder pitch (of verwijs naar een gedeelde interesse/reactie op een post).\n- Start een open gesprek zodra ze accepteren. Stel vragen over hun uitdagingen in plaats van je product te promoten.\n- Pas **Social Selling** toe: reageer consistent onder de posts van jouw ideale klanten, zodat jouw naam en gezicht bekend gaan voelen.\n\n### Nederlandse bureaus en bronnen die dit uitleggen\n\nVerschillende Nederlandse bureaus en platforms zijn gespecialiseerd in organische B2B-leadgeneratie en personal branding via LinkedIn:\n\n- **[Sculpt Studios](https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/):** Opgericht door Roy van Beelen. Dit bureau helpt Nederlandse B2B-founders en directeuren om organisch autoriteit te worden in hun markt en zo gekwalificeerde leads binnen te halen zonder advertentiebudget. Ze delen op hun site concrete artikelen over hoe je dit aanpakt.[[1]](https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/)\n- **[Webnexus](https://webnexus.nl/diensten/linkedin-marketing/):** Biedt diepgaande inzichten en diensten over organische B2B-leadgeneratie, contentstrategieën en het inzetten van *employee advocacy* (medewerkers die als ambassadeur optreden).[[1]](https://webnexus.nl/diensten/linkedin-marketing/)\n- **[Met Brigitte](https://metbrigitte.nl/b2b-leadgeneratie-op-linkedin/):** Gespecialiseerd in organische en sales-gedreven strategieën op LinkedIn i.c.m. Sales Navigator voor ondernemers die hun netwerk willen omzetten in klanten.[[1]](https://metbrigitte.nl/b2b-leadgeneratie-op-linkedin/)\n\nWil je dieper ingaan op een specifiek onderdeel? Laat me weten:\n\n- Wat is de **branche** waarin je B2B-bedrijf actief is?\n- Wie is je **ideale klant** (functie/doelgroep)?\n\nIk kan dan een **voorstel voor een content- of outreach-strategie** voor je uitschrijven.",
+ "entities": [
+  {
+   "name": "Sales Navigator",
+   "type": "tool",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Sculpt Studios",
+   "type": "bureau",
+   "domain": "sculptstudios.nl",
+   "position": 2
+  },
+  {
+   "name": "Roy van Beelen",
+   "type": "persoon",
+   "domain": "sculptstudios.nl",
+   "position": 3
+  },
+  {
+   "name": "Webnexus",
+   "type": "platform",
+   "domain": "webnexus.nl",
+   "position": 4
+  },
+  {
+   "name": "Met Brigitte",
+   "type": "bureau",
+   "domain": "metbrigitte.nl",
+   "position": 5
+  }
+ ],
+ "sources": [
+  {
+   "domain": "webnexus.nl",
+   "url": "https://webnexus.nl/diensten/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Lead Generation - Webnexus"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "Hoe Nederlandse B2B-founders leads genereren via LinkedIn ..."
+  },
+  {
+   "domain": "metbrigitte.nl",
+   "url": "https://metbrigitte.nl/b2b-leadgeneratie-op-linkedin/",
+   "title": "B2B Leadgeneratie op LinkedIn | Met Brigitte"
+  }
+ ]
+}

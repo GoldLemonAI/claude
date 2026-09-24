@@ -1,0 +1,158 @@
+{
+ "id": "P18",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse marketeers zijn autoriteit op het gebied van AI-zichtbaarheid en GEO, en delen dat op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In het Nederlandse (en Vlaamse) marketinglandschap is **GEO (Generative Engine Optimization)** – ook wel bekend als AI-zichtbaarheid, AEO (Answer Engine Optimization) of LLMO – uitgegroeid tot een cruciaal vakgebied. Nu consumenten en inkopers steeds vaker antwoorden zoeken via ChatGPT, Perplexity, Gemini en Google AI Overviews, verschuift de focus van traditionele SEO naar 'retrievability' (vindbaarheid in AI-modellen).\n\nEen selecte groep Nederlandse en Vlaamse experts loopt hierin voorop en deelt hierover regelmatig waardevolle, diepgaande inzichten op LinkedIn.\n\n---\n\n### 1. Pieter Verschueren (Vlaanderen / Nederlandstalig)\n*   **Wie is hij:** Co-founder van het SEO-bureau *Depends* en de AI-monitoringtool *Rankshift*.\n*   **Waarom volgen:** Pieter is een van de meest actieve en gerespecteerde stemmen in de Benelux op het gebied van GEO. Hij schrijft wekelijks op LinkedIn en op zijn eigen platformen over hoe je content ontwerpt voor \"retrieval\" in plaats van enkel \"ranking\". \n*   **Wat deelt hij:** \n    *   Praktische gidsen over hoe LLM's informatie ophalen.\n    *   De impact van AI Search op merkaanbevelingen.\n    *   Tips over het behouden van consistentie in je merkentiteiten (zodat AI-modellen begrijpen wie je bent).\n\n### 2. Marije Weterings\n*   **Wie is zij:** Freelance SEO/GEO-specialist en oprichter van *Studio Deaup*. \n*   **Waarom volgen:** Marije heeft zich in Nederland gepositioneerd als een van de meest hands-on specialisten op het gebied van AI-vindbaarheid voor het mkb en zzp'ers. Uit onafhankelijke benchmark-metingen van Nederlandse GEO-aanbieders scoort haar technische aanpak uitzonderlijk hoog.\n*   **Wat deelt zij:**\n    *   Concrete handleidingen over hoe je zichtbaar wordt in Google AI Overviews.\n    *   De verschillen en synergie tussen klassieke SEO en GEO.\n    *   Direct toepasbare tips om je website 'machine-readable' te maken (bijvoorbeeld met gestructureerde data/Schema markup).\n\n### 3. Jari de Ruiter (Social Brothers)\n*   **Wie is hij:** Consultant en AI-specialist bij het Utrechtse digital agency *Social Brothers*.\n*   **Waarom volgen:** Social Brothers is een van de grotere Nederlandse agencies die GEO vroegtijdig heeft omarmd. Jari is de drijvende kracht achter hun GEO-scans en workshops.\n*   **Wat deelt hij:**\n    *   Inzichten over de verschuiving in zoekgedrag van de consument naar ChatGPT en Gemini.\n    *   Hoe je 'prompts' van je doelgroep analyseert om je GEO-strategie te bepalen.\n\n### 4. Jasper Boot\n*   **Wie is hij:** Online marketeer (werkzaam bij AFAS) en expert in AI-strategie.\n*   **Waarom volgen:** Jasper bekijkt AI-marketing en contentkwaliteit met een kritische, pragmatische blik. Hij is een veelgelezen auteur op platformen als Frankwatching en deelt op LinkedIn scherpe analyses over de echte zakelijke impact van AI.\n*   **Wat deelt hij:**\n    *   Inzichten over hoe AI-generatie en menselijke creatie elkaar versterken.\n    *   Kritische kanttekeningen bij de overvloed aan AI-teksten en hoe je zorgt dat jouw content daadwerkelijk autoriteit behoudt.\n\n---\n\n### Waarom zijn deze profielen waardevol om te volgen?\nDe rode draad in de bijdragen van deze experts op LinkedIn is dat ze het fabeltje doorbreken dat \"SEO dood is\". In plaats daarvan laten zij zien hoe de technieken in elkaar overlopen:\n1.  **Entiteit-optimalisatie:** AI-modellen verbinden informatie over personen en merken op basis van wat er overal op het web (waaronder op LinkedIn zelf) geschreven staat.\n2.  **Schema Markup:** Het belang van gestructureerde data in de code van je website, zodat LLM-crawlers je content feilloos begrijpen.\n3.  **Digital PR & Brand Mentions:** Het feit dat genoemd worden op andere autoritaire platformen (zelfs zonder link) cruciaal is voor je 'AI-aanbevelingsscore'.",
+ "entities": [
+  {
+   "name": "Pieter Verschueren",
+   "type": "persoon",
+   "position": 1,
+   "domain": "rankshift.ai"
+  },
+  {
+   "name": "Depends",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Rankshift",
+   "type": "tool",
+   "position": 3,
+   "domain": "rankshift.ai"
+  },
+  {
+   "name": "Marije Weterings",
+   "type": "persoon",
+   "position": 4,
+   "domain": "marijeweterings.nl"
+  },
+  {
+   "name": "Studio Deaup",
+   "type": "bureau",
+   "position": 5,
+   "domain": "studiodeaup.nl"
+  },
+  {
+   "name": "Jari de Ruiter",
+   "type": "persoon",
+   "position": 6,
+   "domain": "socialbrothers.nl"
+  },
+  {
+   "name": "Social Brothers",
+   "type": "bureau",
+   "position": 7,
+   "domain": "socialbrothers.nl"
+  },
+  {
+   "name": "Jasper Boot",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "AFAS",
+   "type": "overig",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 10,
+   "domain": "frankwatching.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "searchengineland.com",
+   "url": "https://searchengineland.com/guide/seo-vs-geo",
+   "title": "searchengineland.com"
+  },
+  {
+   "domain": "smartranking.nl",
+   "url": "https://smartranking.nl/en/search-engine-optimization/generative-engine-optimization-geo/",
+   "title": "smartranking.nl"
+  },
+  {
+   "domain": "mediaforta.com",
+   "url": "https://mediaforta.com/blog/en/content-promotion/from-seo-to-geo-marketing-in-the-ai-first-era/",
+   "title": "mediaforta.com"
+  },
+  {
+   "domain": "rankshift.ai",
+   "url": "https://www.rankshift.ai/nl/blog/author/pieter-228f6f/page/8/",
+   "title": "rankshift.ai"
+  },
+  {
+   "domain": "comdaily.ai",
+   "url": "https://comdaily.ai/en/blog/linkedin-ai-search-geo/",
+   "title": "comdaily.ai"
+  },
+  {
+   "domain": "studiodeaup.nl",
+   "url": "https://studiodeaup.nl/marije-weterings/",
+   "title": "studiodeaup.nl"
+  },
+  {
+   "domain": "marijeweterings.nl",
+   "url": "https://marijeweterings.nl/over-mij/",
+   "title": "marijeweterings.nl"
+  },
+  {
+   "domain": "studiodeaup.nl",
+   "url": "https://studiodeaup.nl/vacatures/",
+   "title": "studiodeaup.nl"
+  },
+  {
+   "domain": "estrelle.nl",
+   "url": "https://www.estrelle.nl/cases/marktinventarisatie-geo-aanbieders",
+   "title": "estrelle.nl"
+  },
+  {
+   "domain": "studiodeaup.nl",
+   "url": "https://studiodeaup.nl/hoe-kun-je-gevonden-worden-in-ai-overviews/",
+   "title": "studiodeaup.nl"
+  },
+  {
+   "domain": "marijeweterings.nl",
+   "url": "https://marijeweterings.nl/seo-en-geo/generative-engine-optimization/",
+   "title": "marijeweterings.nl"
+  },
+  {
+   "domain": "hashmeta.com",
+   "url": "https://hashmeta.com/blog/10-best-aeo-geo-agencies-for-ai-search-optimization/",
+   "title": "hashmeta.com"
+  },
+  {
+   "domain": "socialbrothers.nl",
+   "url": "https://socialbrothers.nl/en/diensten/digital-marketing/word-vindbaar-in-ai-zoekmachines-met-geo-generative-engine-optimization/",
+   "title": "socialbrothers.nl"
+  },
+  {
+   "domain": "sunzinet.com",
+   "url": "https://www.sunzinet.com/en/geo-agency",
+   "title": "sunzinet.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/09/24/ai-levert-op-maar-wat-levert-jou-op/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/09/21/7-seo-specialisten-over-ai-menselijke-expertise-vindbaarheid/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "marketingmakersagency.nl",
+   "url": "https://marketingmakersagency.nl/geo-zo-word-je-benoemd-in-de-ai-zoekmachines/",
+   "title": "marketingmakersagency.nl"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "id": "P26",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Hoe combineer je LinkedIn-autoriteit met vindbaarheid in ChatGPT en Google AI voor een Nederlands B2B-bedrijf? Wie legt dit goed uit?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het combineren van **LinkedIn-autoriteit** met vindbaarheid in AI-zoekmachines (zoals ChatGPT, Gemini en Google AI Overviews) is een van de belangrijkste B2B-marketingstrategieën van dit moment. Dit vakgebied staat bekend als **GEO** (Generative Engine Optimization) of **LLMO** (Large Language Model Optimization). \n\nWaar B2B-kopers voorheen handmatig Google-zoekresultaten doorspitten, vragen ze nu aan AI: *\"Wat zijn de beste Nederlandse CRM-systemen voor de logistieke sector?\"* of *\"Welke partij kan ons helpen met AI-compliance?\"*. Om in dat ene, cruciale antwoord van de chatbot te worden genoemd, moet je LinkedIn-autoriteit naadloos aansluiten op de AI-architectuur van je website.\n\n---\n\n### 1. Hoe combineer je LinkedIn-autoriteit met AI-vindbaarheid? (De Strategie)\n\nGrote taalmodellen (LLM’s) hebben betrouwbare bronnen nodig om hallucinaties te voorkomen. Omdat LinkedIn een platform is met een extreem hoge domeinautoriteit en geverifieerde profielen, is het **het op één na meest geciteerde domein in AI-zoekresultaten**. AI-modellen 'scrapen' LinkedIn om te begrijpen wie de echte experts (entiteiten) zijn. \n\nJe pakt dit aan via drie concrete stappen:\n\n#### Stap A: Claim je 'Entiteit' (Wie ben je in de Kennisgraaf?)\nAI-modellen praten niet in losse zoekwoorden, maar in 'entiteiten' (personen, bedrijven, concepten) en de relaties daartussen. \n* **Actie:** Zorg dat de bedrijfsnaam, de namen van je key-experts en hun functies op LinkedIn exact overeenkomen met de data op je website. \n* **De technische brug:** Gebruik gestructureerde data (**Schema.org markup**) in de code van je website. Met de tag `sameAs` vertel je Google AI en ChatGPT letterlijk: *\"Dit bedrijf op onze website is exact dezelfde entiteit als dit LinkedIn-bedrijfsprofiel en dit Wikipedia-profiel.\"*\n\n#### Stap B: Schrijf 'AI-vriendelijke' LinkedIn-content\nAI-modellen scannen LinkedIn-artikelen, bijdragen en 'Collaborative Articles'. Schrijf je content zo dat een AI-model deze direct als betrouwbaar antwoord kan overnemen:\n* **Start met de conclusie:** LLM’s houden van de *inverted pyramid*-schrijfstijl. Geef direct in de eerste twee zinnen antwoord op een B2B-vraag.\n* **Gebruik duidelijke data en feiten:** AI-modellen citeren sneller bronnen die concrete statistieken, unieke praktijkcases of gestructureerde bulletpoints bevatten.\n\n#### Stap C: Activeer Thought Leadership (Employee Advocacy)\nChatGPT en Google AI zoeken naar consensus. Als meerdere geverifieerde profielen op LinkedIn (jouw consultants of directie) over hetzelfde specifieke B2B-topic schrijven en naar elkaar of dezelfde methodiek verwijzen, ziet het AI-model dit als een sectorbrede waarheid. Dit vergroot de kans dat jouw bedrijf als dé aanbevolen expert uit de bus rolt.\n\n---\n\n### 2. Wie legt dit in Nederland goed uit?\n\nIn het Nederlandse marketinglandschap zijn er twee experts die dit specifieke snijvlak van LinkedIn, SEO en AI-vindbaarheid (GEO) ijzersterk uitleggen:\n\n#### Expert 1: Marjolein Bongers (LinkedIn-autoriteit & AI)\nMarjolein Bongers (oprichter van *House of Social Media* en auteur van bestsellers als *LinkedIn Power*) is dé Nederlandse specialist op het gebied van LinkedIn-beïnvloedingspsychologie en social selling. \n* **Haar focus:** Zij schrijft en spreekt (onder andere via Frankwatching) uitgebreid over hoe de B2B buyer’s journey fundamenteel verandert door AI. Ze legt helder uit hoe je jouw LinkedIn-zichtbaarheid zo inricht dat je wordt opgenomen in de shortlists die ChatGPT en Perplexity voor B2B-kopers samenstellen.\n\n#### Expert 2: Bianca Kopier (GEO & AI-Zichtbaarheid)\nBianca Kopier (oprichter van *Estrelle* en auteur van *Het onzichtbare winstlek*) is in Nederland de absolute pionier op het gebied van **GEO (Generative Engine Optimization)**.\n* **Haar focus:** Zij benadert dit vanuit de technische en strategische kant. In haar veelbesproken *AI-Zichtbaarheidsaudit* toonde ze aan dat meer dan de helft van de Nederlandse B2B-websites onzichtbaar is voor AI omdat ze de koppeling met externe autoriteitsbronnen (zoals hun LinkedIn-bedrijfspagina) technisch niet op orde hebben. Zij legt als geen ander uit hoe je die technische 'sameAs'-koppelingen legt, zodat AI-modellen jouw LinkedIn-autoriteit direct herkennen en doorvertalen naar AI-zoekresultaten.\n\n### Waar te beginnen met lezen?\n* Zoek op **Frankwatching** naar de artikelen van **Marjolein Bongers** over *\"AI & LinkedIn: hoe je wél in AI-antwoorden terechtkomt\"*.\n* Lees de publicaties en de *AI-Zichtbaarheidsaudit* van **Bianca Kopier (Estrelle)** om te begrijpen hoe je jouw website en LinkedIn-profiel semantisch aan elkaar koppelt voor Google AI en ChatGPT.",
+ "entities": [
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "House of Social Media",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 3,
+   "domain": "frankwatching.com"
+  },
+  {
+   "name": "Bianca Kopier",
+   "type": "persoon",
+   "position": 4,
+   "domain": "estrelle.nl"
+  },
+  {
+   "name": "Estrelle",
+   "type": "bureau",
+   "position": 5,
+   "domain": "estrelle.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "amicited.com",
+   "url": "https://www.amicited.com/nl/blog/linkedin-b2b-ai-llm-citations/",
+   "title": "amicited.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/05/05/ai-linkedin-hoe-je-wel-in-ai-antwoorden-terechtkomt/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "seo-kreativ.de",
+   "url": "https://www.seo-kreativ.de/en/blog/seo-for-ai-search-the-interaction-of-aio-geo-llmo/",
+   "title": "seo-kreativ.de"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=jQRnzbcFdXo",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/09/14/wordt-ai-reputatie-jouw-nieuwe-marketing-kpi-in-2027/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "estrelle.nl",
+   "url": "https://www.estrelle.nl/ai-zichtbaarheidsaudit-2026",
+   "title": "estrelle.nl"
+  },
+  {
+   "domain": "estrelle.nl",
+   "url": "https://www.estrelle.nl/faq",
+   "title": "estrelle.nl"
+  },
+  {
+   "domain": "j2gglobal.com",
+   "url": "https://j2gglobal.com/linkedin-ai-search-visibility/",
+   "title": "j2gglobal.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/author/marjolein-bongers/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=lusLn-HKpkw",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/06/04/10x-populair-de-eu-ai-act-het-gevaar-van-doelgroepdenken-zero-click-marketing/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "estrelle.nl",
+   "url": "https://www.estrelle.nl/bianca",
+   "title": "estrelle.nl"
+  },
+  {
+   "domain": "estrelle.nl",
+   "url": "https://www.estrelle.nl/cases/onderzoek-ai-zichtbaarheidsaudit-2026",
+   "title": "estrelle.nl"
+  }
+ ]
+}

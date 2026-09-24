@@ -1,0 +1,64 @@
+{
+ "id": "P02",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Wat is het beste LinkedIn marketing bureau van Nederland voor B2B-bedrijven? Geef een top 5 met namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hier is een actuele en goed onderbouwde top 5 van de beste LinkedIn-marketingbureaus in Nederland, specifiek gericht op B2B-bedrijven. De selectie is gebaseerd op recente ranglijsten, reviews en specialisaties:\n\n1. **WADM | B2B Agency**  \n   - Gespecialiseerd in B2B merkstrategie, demand generation en digitale groei. Werkt voor klanten zoals Vanderlande, VDL, Unica, Prysmian en Aliaxis. Hun methodiek BrainSells® is gebaseerd op hoe B2B-kopers écht beslissen.([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))  \n   - Score: 4,8 (56 reviews).([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))\n\n2. **Novicom Marketing Group®**  \n   - Creatieve en data-gedreven aanpak door ex-Googlers. Combineert strategie, content en data-analyse in winnende campagnes.([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))  \n   - Score: 4,9 (30 reviews).([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))\n\n3. **Dapper – The Demand Agency**  \n   - Expert in demand generation met een team van specialisten. Biedt volledige ondersteuning van copywriting tot paid advertising.([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))  \n   - Score: 5 (11 reviews).([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))\n\n4. **Wemessage**  \n   - Performance marketingbureau dat zich richt op meetbare resultaten via LinkedIn, social advertising, SEO en conversie-optimalisatie.([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))  \n   - Score: 5 (10 reviews).([sortlist.com](https://www.sortlist.com/s/linkedin-marketing/netherlands-nl?utm_source=openai))\n\n5. **Unmuted**  \n   - Gespecialiseerd in high-value B2B SaaS-marketing. Biedt een volledig transparante methodiek (GTM Resonance) en publiceert concrete resultaten zoals een groei van 95% in gekwalificeerde inbound pipeline.([thegrowthsyndicate.com](https://www.thegrowthsyndicate.com/agencies/best-b2b-marketing-agencies-netherlands?utm_source=openai))\n\nExtra vermelding: **iReclam**  \n- Gericht op MKB-B2B in Nederland. Biedt LinkedIn Ads, thought leadership content en bedrijfspagina-optimalisatie met resultaat binnen 90 dagen.([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai))\n\n---\n\nSamenvattend:\n\nTop 5 LinkedIn-marketingbureaus voor B2B in Nederland:\n1. WADM | B2B Agency  \n2. Novicom Marketing Group®  \n3. Dapper – The Demand Agency  \n4. Wemessage  \n5. Unmuted  \n\nExtra optie voor MKB: iReclam\n\nLaat me weten als je meer details wilt over tarieven, cases of specifieke diensten van een van deze bureaus!",
+ "entities": [
+  {
+   "name": "WADM",
+   "type": "bureau",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Novicom",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Wemessage",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Unmuted",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 6,
+   "domain": "ireclam.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/linkedin-marketing/netherlands-nl",
+   "title": "The 10 Best LinkedIn Marketing Agencies in the Netherlands - 2026 Reviews"
+  },
+  {
+   "domain": "thegrowthsyndicate.com",
+   "url": "https://www.thegrowthsyndicate.com/agencies/best-b2b-marketing-agencies-netherlands",
+   "title": "Best B2B Marketing Agencies in the Netherlands (2026)"
+  },
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  }
+ ]
+}

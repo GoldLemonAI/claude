@@ -1,0 +1,47 @@
+{
+ "id": "P11",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Welk bureau adviseer je voor LinkedIn-strategie aan een zakelijke dienstverlener in Nederland met 20 medewerkers?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een selectie van Nederlandse bureaus die je kunnen adviseren en ondersteunen bij een effectieve LinkedIn-strategie voor een zakelijke dienstverlener met ongeveer 20 medewerkers. Ik heb bureaus gekozen die gespecialiseerd zijn in B2B, MKB en LinkedIn-marketing, en die qua omvang en aanpak goed aansluiten bij jouw organisatie.\n\n---\n\n**1. iReclam – LinkedIn Marketing Bureau voor B2B MKB**  \n- Gespecialiseerd in LinkedIn-marketing voor MKB, met focus op leadgeneratie via gerichte advertenties, thought leadership en bedrijfspagina-optimalisatie.([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai))  \n- Werkt maandelijks opzegbaar, vanaf ongeveer €599 per maand, met duidelijke rapportage en meetbare resultaten.([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai))  \n- Ideaal voor zakelijke dienstverleners die via LinkedIn zichtbaar willen worden bij beslissers en leads willen genereren.\n\n**2. WADM | B2B Agency**  \n- Biedt B2B merkstrategie, demand generation en digitale groei. Werkt met methodiek BrainSells®, gericht op hoe B2B-kopers beslissingen nemen.([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/nederland-nl?utm_source=openai))  \n- Teamgrootte 11–50 medewerkers, gevestigd in Barendrecht. Start LinkedIn-projecten vanaf circa €2.000.([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/nederland-nl?utm_source=openai))  \n- Geschikt voor organisaties die naast leadgeneratie ook merkpositionering en strategische groei willen versterken.\n\n**3. Wemessage**  \n- Performance marketingbureau met focus op meetbare resultaten via kanalen zoals social advertising (inclusief LinkedIn), SEO en conversie-optimalisatie.([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/nederland-nl?utm_source=openai))  \n- Teamgrootte 11–50 medewerkers, gevestigd in Deventer. LinkedIn-projecten vanaf ongeveer €500.([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/nederland-nl?utm_source=openai))  \n- Interessant als je zoekt naar een kostenefficiënte partner met brede performance marketingervaring.\n\n**4. LAAIEND online marketing**  \n- Combineert strategie, creativiteit en data voor online groei. Biedt social (paid & organic), contentcreatie, performance campagnes en optimalisatie.([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/nederland-nl?utm_source=openai))  \n- Teamgrootte 11–50 medewerkers, gevestigd in Utrecht. LinkedIn-projecten vanaf circa €1.000.([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/nederland-nl?utm_source=openai))  \n- Past goed bij bedrijven die een creatieve en datagedreven aanpak zoeken voor hun LinkedIn-strategie.\n\n---\n\n**Vergelijking in één oogopslag**\n\n- iReclam: specialist in LinkedIn, maandelijks opzegbaar, vanaf €599/mnd.  \n- WADM: strategisch B2B bureau, vanaf €2.000 per project.  \n- Wemessage: performance marketing, vanaf €500 per project.  \n- LAAIEND: creatieve en data-gedreven aanpak, vanaf €1.000 per project.\n\n---\n\n**Aanbeveling op basis van jouw situatie (20 medewerkers, zakelijke dienstverlening)**\n\n- **iReclam** is een uitstekende keuze als je specifiek op zoek bent naar een bureau dat zich volledig richt op LinkedIn en B2B-leadgeneratie, met flexibiliteit en duidelijke rapportage.  \n- **WADM** is geschikt als je naast leadgeneratie ook merkstrategie en positionering wilt versterken.  \n- **Wemessage** biedt een betaalbare instap en brede performance marketingervaring.  \n- **LAAIEND** is ideaal als je een creatieve, datagedreven aanpak wilt met focus op content en engagement.\n\n---\n\n**Volgende stappen**\n\n1. Bepaal je prioriteiten: puur leadgeneratie, merkstrategie, creatieve content of performance marketing?  \n2. Vraag bij de bureaus een kennismakingsgesprek of offerte aan. Vergelijk hun aanpak, tarieven en cases.  \n3. Let op contractvoorwaarden: iReclam biedt maandelijks opzegbaar, anderen werken projectmatig.  \n4. Kies een bureau dat past bij jullie cultuur, ambities en budget.\n\nLaat het me weten als je hulp wilt bij het opstellen van vragen voor een intakegesprek of bij het vergelijken van offertes!",
+ "entities": [
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 1,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "WADM",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Wemessage",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "LAAIEND",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 Reviews"
+  }
+ ]
+}

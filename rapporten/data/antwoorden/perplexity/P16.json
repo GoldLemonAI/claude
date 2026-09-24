@@ -1,0 +1,191 @@
+{
+ "id": "P16",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse specialisten schrijven over personal branding en thought leadership op LinkedIn? Noem namen en websites.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hier zijn enkele **Nederlandse specialisten** die zichtbaar schrijven of werken rond **personal branding** en/of **thought leadership op LinkedIn**, met hun naam en website waar die uit de resultaten blijkt:\n\n- **Linda Abrams** — website: **lincompany.nl** en **touchofsway.nl**. Zij wordt genoemd als trainer/specialist **Personal Branding & Impact** en als owner van **LinCompany | persoonlijke branding, selling & impact**.[1]\n- **Chantal Van Koesveld** — website: **followchantal.com**. Haar LinkedIn-profiel noemt haar werk rond **Social Selling & Thought Leadership Programs**, **personal branding** en **employee advocacy**.[5]\n- **Marlies van den Langenberg** — website: **lnkdn.nl**. De site noemt expliciet het bouwen van een sterk **personal brand** en groei als **Thought Leader**.[12]\n- **Corinne Keijzer** — website: **digitalmoves.nl**. Zij wordt daar omschreven als LinkedIn-specialist, trainer en spreker op het gebied van **personal branding**, **social selling**, **employee advocacy** en **contentstrategie**.[11]\n- **Sabina De Groot-van Der Hoeven** — werkgever/organisatie: **Personally**. Haar LinkedIn-profiel noemt haar **Personal Brand Manager** en focust op **PR & personal branding for entrepreneurs**.[3]\n- **Susanne Bavinck Bender** — website: **sbbcomms** (via haar LinkedIn-profiel staat **SBB Comms**). Zij profileert zich op **marketing, communications and personal branding**.[10]\n- **Floris Ten Kate** — bedrijf: **Orange Dolphins**. Zijn profiel noemt hem **Personal Branding Coach** en iemand die helpt je propositie aan te scherpen en zichtbaarheid op LinkedIn te vergroten.[13]\n- **Itzik Amiel** — geen website in de resultaten genoemd, wel gevestigd in Nederland. Zijn profiel noemt **Personal Branding** en autoriteitsopbouw als kernonderdeel van zijn werk.[14]\n- **Marlou Volkerink** — website: **marlou.nl**. Haar LinkedIn-profiel noemt haar **Business Mentor & Personal Branding Expert**.[20]\n\nAls je wilt, kan ik hier ook een **strakkere shortlist van alleen echte LinkedIn-experts** van maken, of een **tabel met focusgebied, website en type aanbod**.",
+ "entities": [
+  {
+   "name": "Linda Abrams",
+   "type": "persoon",
+   "position": 1,
+   "domain": "lincompany.nl"
+  },
+  {
+   "name": "LinCompany",
+   "type": "bureau",
+   "position": 2,
+   "domain": "lincompany.nl"
+  },
+  {
+   "name": "Chantal Van Koesveld",
+   "type": "persoon",
+   "position": 3,
+   "domain": "followchantal.com"
+  },
+  {
+   "name": "Marlies van den Langenberg",
+   "type": "persoon",
+   "position": 4,
+   "domain": "lnkdn.nl"
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 5,
+   "domain": "digitalmoves.nl"
+  },
+  {
+   "name": "Sabina De Groot-van Der Hoeven",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Susanne Bavinck Bender",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "SBB Comms",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Floris Ten Kate",
+   "type": "persoon",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Orange Dolphins",
+   "type": "bureau",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Itzik Amiel",
+   "type": "persoon",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Marlou Volkerink",
+   "type": "persoon",
+   "position": 13,
+   "domain": "marlou.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/labrams",
+   "title": "Linda Abrams | LinkedIn"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-branding-experts-netherlands",
+   "title": "Top 20 Branding Experts in the Netherlands in 2026 - Favikon"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/sabinavdh",
+   "title": "Sabina De Groot-van Der Hoeven | LinkedIn"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://www.sandrastassar.nl/Over-mij-in-detail/",
+   "title": "LinkedIn Personal Branding expert van Brabant | Eindhoven"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/chantalvankoesveld",
+   "title": "Chantal Van Koesveld | LinkedIn"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "8. Marjolein Bongers"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/robertacarlucci",
+   "title": "Roberta Carlucci | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/richloen",
+   "title": "Rich Loen | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/tkanova",
+   "title": "Alex T | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/susanne-bavinck-bender-marketing-personal-branding",
+   "title": "Susanne Bavinck Bender | LinkedIn"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/trainers-sprekers-en-partners/",
+   "title": "TRAINERS, SPREKERS EN EXPERTS - Digital Moves"
+  },
+  {
+   "domain": "lnkdn.nl",
+   "url": "https://www.lnkdn.nl/",
+   "title": "Marlies van den Langenberg | LinkedIn Specialist"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/floristenkate",
+   "title": "Floris Ten Kate | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/itzikamiel",
+   "title": "Itzik Amiel | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/de-personal-branding-coach-bv",
+   "title": "De Personal Branding Coach BV | Business Consulting and Services"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/elwinkuipers",
+   "title": "Elwin Kuipers | LinkedIn"
+  },
+  {
+   "domain": "mtsprout.nl",
+   "url": "https://mtsprout.nl/partners/leiderschapsontwikkeling/personal-branding-8-leiders",
+   "title": "Personal branding? Deze 8 leiders hebben dat goed voor elkaar"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/jildouoostenbrug",
+   "title": "Jildou Oostenbrug | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/trudelies-van-der-poel-4118252",
+   "title": "Trudelies Van Der Poel | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/marlouvolkerink",
+   "title": "Marlou Volkerink | LinkedIn"
+  }
+ ]
+}

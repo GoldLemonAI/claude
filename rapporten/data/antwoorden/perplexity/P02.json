@@ -1,0 +1,144 @@
+{
+ "id": "P02",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Wat is het beste LinkedIn marketing bureau van Nederland voor B2B-bedrijven? Geef een top 5 met namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor **B2B LinkedIn marketing** in Nederland is er niet één objectieve “beste” partij; op basis van de meegegeven rankings en agency-profielen komen deze 5 namen het sterkst naar voren voor B2B-doelstellingen.[2][3][6][19]\n\n1. **The Growth Syndicate** — volgens een recente B2B-agency-ranglijst de nummer 1 voor complexe, technische bedrijven en internationale groei; sterk in content, ABM en paid media.[2]\n2. **Unmuted** — door dezelfde bron genoemd als de beste keuze voor **high-value B2B SaaS**, met LinkedIn, content en paid als kernkanalen.[2]\n3. **SPOTONVISION** — genoemd als sterke optie voor **enterprise ABM**; relevant als LinkedIn onderdeel is van account-based marketing en sales enablement.[2]\n4. **Novicom Marketing Group®** — verschijnt meerdere keren hoog in Sortlist-overzichten voor LinkedIn marketing, LinkedIn strategie en LinkedIn reclame in Nederland.[3][7][14]\n5. **WADM | B2B Agency** — staat prominent in de Sortlist B2B-marketing-ranking en is daarmee een sterke allround B2B-optie, ook als LinkedIn in de campagne mix zit.[19]\n\nAls je wilt, kan ik hierna ook een **top 5 specifiek voor LinkedIn Ads / lead generation** maken, of een **top 5 voor NL-bureaus met focus op SaaS, industrie of consultancy**.",
+ "entities": [
+  {
+   "name": "The Growth Syndicate",
+   "type": "bureau",
+   "position": 1,
+   "domain": "thegrowthsyndicate.com"
+  },
+  {
+   "name": "Unmuted",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "SPOTONVISION",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Novicom",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "position": 5,
+   "domain": "sortlist.nl"
+  },
+  {
+   "name": "WADM",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "thegrowthsyndicate.com",
+   "url": "https://www.thegrowthsyndicate.com/agencies/best-b2b-marketing-agencies-netherlands",
+   "title": "Best B2B Marketing Agencies in the Netherlands (2026)"
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/linkedin-marketing/netherlands-nl",
+   "title": "The 10 Best LinkedIn Marketing Agencies in the Netherlands"
+  },
+  {
+   "domain": "feedbax.nl",
+   "url": "https://feedbax.nl/linkedin-bureau/nederland",
+   "title": "De 20 beste LinkedIn-bureaus in Nederland - 2026-ranking"
+  },
+  {
+   "domain": "ensun.io",
+   "url": "https://ensun.io/search/linkedin-marketing/netherlands",
+   "title": "Top LinkedIn Marketing Companies in Netherlands"
+  },
+  {
+   "domain": "themanifest.com",
+   "url": "https://themanifest.com/nl/social-media/linkedin/agencies",
+   "title": "Top 100 LinkedIn Advertising Companies in the Netherlands"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/nederland-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "yourfellow.nl",
+   "url": "https://yourfellow.nl/services/social-media-marketing/linkedin-advertising/",
+   "title": "LinkedIn advertising agency voor B2B leads"
+  },
+  {
+   "domain": "whello.nl",
+   "url": "https://whello.nl/social-media-bureau/linkedin-advertenties",
+   "title": "LinkedIn Campagne Specialist | 10+ jaar ervaring"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "LinkedIn Ads Bureau | B2B Adverteren op LinkedIn - Searchlab"
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/i/s/linkedin-advertising/netherlands-nl",
+   "title": "The 10 Best LinkedIn Ads Agencies in the Netherlands - 2025 Reviews"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/b2b-marketing-bureau",
+   "title": "B2B Marketing Bureau | Het B2B Marketing Bureau met Eigen AI ..."
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-reclame/nederland-nl",
+   "title": "De 10 beste LinkedIn Reclame Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/social-marketing/linkedin-adverteren/",
+   "title": "LinkedIn bureau gezocht? | Hulp van ervaren marketeers"
+  },
+  {
+   "domain": "wux.nl",
+   "url": "https://wux.nl/online-marketing/linkedin-adverteren",
+   "title": "LinkedIn adverteren voor B2B groei - Wux"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "LinkedIn Marketing Uitbesteden voor B2B | GHO Agency"
+  },
+  {
+   "domain": "digitalinside.nl",
+   "url": "https://www.digitalinside.nl/b2b-marketing-bureau/",
+   "title": "B2B marketing bureau | Online marketing voor B2B - Digital Inside"
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/b2b-marketing/netherlands-nl",
+   "title": "The 10 Best B2B Marketing Agencies in the Netherlands"
+  }
+ ]
+}

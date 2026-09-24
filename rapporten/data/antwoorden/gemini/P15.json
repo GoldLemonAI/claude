@@ -1,0 +1,160 @@
+{
+ "id": "P15",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Wie moet ik volgen op LinkedIn als ik meer wil leren over B2B-marketing voor het MKB in Nederland?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als je specifiek meer wilt leren over **B2B-marketing voor het MKB in Nederland**, is LinkedIn een goudmijn. Het mkb vraagt namelijk om een heel andere aanpak dan grote corporates: de budgetten zijn kleiner, de salescycles korter en persoonlijke relaties (en *founder-led marketing*) spelen een cruciale rol. \n\nHier zijn de belangrijkste Nederlandse experts, bureaus en thought leaders die je op LinkedIn moet volgen om praktische tips, strategieën en praktijkvoorbeelden te krijgen:\n\n### 1. De B2B & Growth Marketing Experts\n*   **Jordi Bron**: De oprichter van *Red Panda Works* en schrijver van het boek *Full System Marketing*. Hij deelt constant zeer concrete, no-nonsense tips over leadgeneratie, cold outreach, LinkedIn-campagnes en hoe je als mkb-bedrijf je marketing- en salasteam op elkaar afstemt.\n*   **Corinne Keijzer**: Als een van de bekendste LinkedIn-experts van Nederland en officieel LinkedIn-ambassadeur, is zij dé persoon om te volgen als je wilt leren hoe je LinkedIn organisch inzet voor B2B. Ze deelt veel over *social selling*, het algoritme en hoe je je medewerkers activeert (employee advocacy).\n*   **Joris de Bruijne** & **Niek van den Bosch** (van *BLURR Marketing*): Dit bureau is gespecialiseerd in LinkedIn Ads voor B2B-bedrijven. Ze delen ontzettend waardevolle, visuele bijdragen over hoe je campagnes bouwt die daadwerkelijk gekwalificeerde leads opleveren (zonder je budget te verspillen).\n\n### 2. Specialisten in Organische B2B-groei & 'Founder-led' Marketing\n*   **Tycho Luijten**: Een absolute aanrader als je wilt leren hoe je als mkb-ondernemer of marketingmanager zelf autoriteit opbouwt op LinkedIn. Hij deelt concrete blauwdrukken, schrijftips en formats om je persoonlijke profiel te transformeren tot een leadgenerator.\n*   **Brigitte van der Pluijm** (bekend van *Met Brigitte*): Specialist op het gebied van B2B-leadgeneratie en LinkedIn Ads voor het mkb. Ze legt op een laagdrempelige manier uit hoe je met een beperkter budget (wat typisch is voor het mkb) toch een hoge ROI uit je campagnes haalt.\n\n### 3. Bedrijven en Platforms om te volgen\n*   **Marketingfacts**: Hoewel dit een breder platform is, delen zij regelmatig sterke diepte-artikelen over B2B-marketingtrends in Nederland, de impact van AI op het mkb en case studies van Nederlandse bodem.\n*   **SaaS- en B2B-bureaus** (zoals *Plan B Digital Marketing* of *Dapper*): De oprichters en pagina’s van dit soort gespecialiseerde bureaus delen wekelijks inzichten over de verschuiving in hoe de moderne B2B-koper zich online oriënteert (bijvoorbeeld via AI-zoekmachines en 'zero-click' content).\n\n### Wat ga je leren door hen te volgen?\nAls je deze mix van experts volgt, krijg je een goed beeld van de belangrijkste B2B-marketingthema's van dit moment:\n*   **Demand Generation vs. Lead Generation:** Waarom het 'vangen' van e-mailadressen via whitepapers minder goed werkt, en hoe je ervoor zorgt dat potentiële klanten uit zichzelf contact met je opnemen.\n*   **Social Selling & Personal Branding:** Hoe je als directeur of specialist van een mkb-bedrijf betrouwbaarheid uitstraalt, zodat prospects al warm zijn voordat het eerste verkoopgesprek begint.\n*   **Praktische AI-toepassingen:** Hoe je als klein marketingteam AI slim inzet voor contentcreatie en marktonderzoek zonder dat je accounts gaan aanvoelen als een spam-machine.",
+ "entities": [
+  {
+   "name": "Jordi Bron",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 3,
+   "domain": "corinnekeijzer.nl"
+  },
+  {
+   "name": "Joris de Bruijne",
+   "type": "persoon",
+   "position": 4,
+   "domain": "blurrmarketing.nl"
+  },
+  {
+   "name": "Niek van den Bosch",
+   "type": "persoon",
+   "position": 5,
+   "domain": "blurrmarketing.nl"
+  },
+  {
+   "name": "BLURR Marketing",
+   "type": "bureau",
+   "position": 6,
+   "domain": "blurrmarketing.nl"
+  },
+  {
+   "name": "Tycho Luijten",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Brigitte van der Pluijm",
+   "type": "persoon",
+   "position": 8,
+   "domain": "metbrigitte.nl"
+  },
+  {
+   "name": "Met Brigitte",
+   "type": "bureau",
+   "position": 9,
+   "domain": "metbrigitte.nl"
+  },
+  {
+   "name": "Marketingfacts",
+   "type": "platform",
+   "position": 10,
+   "domain": "marketingfacts.nl"
+  },
+  {
+   "name": "Plan B Digital Marketing",
+   "type": "bureau",
+   "position": 11,
+   "domain": "planbdigitalmarketing.nl"
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 12,
+   "domain": "dapper.agency"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/auteur/55950/jordi-bron",
+   "title": "managementboek.nl"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/uitdaging_oplossing/marketing_en_klantrelaties/hoe_zet_ik_linkedin_effectief_in_voor_mijn_bedrijf",
+   "title": "managementboek.nl"
+  },
+  {
+   "domain": "corinnekeijzer.nl",
+   "url": "https://www.corinnekeijzer.nl/",
+   "title": "corinnekeijzer.nl"
+  },
+  {
+   "domain": "somebooks.nl",
+   "url": "https://somebooks.nl/linkedin-voor-bedrijven-corinne-keijzer/",
+   "title": "somebooks.nl"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/social-media-blogs/",
+   "title": "digitalmoves.nl"
+  },
+  {
+   "domain": "blurrmarketing.nl",
+   "url": "https://blurrmarketing.nl/diensten/linkedin-ads/",
+   "title": "blurrmarketing.nl"
+  },
+  {
+   "domain": "cxl.com",
+   "url": "https://cxl.com/blog/top-b2b-marketers-on-linkedin/",
+   "title": "cxl.com"
+  },
+  {
+   "domain": "metbrigitte.nl",
+   "url": "https://metbrigitte.nl/b2b-leadgeneratie-op-linkedin/",
+   "title": "metbrigitte.nl"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/6-trends-in-b2b-marketing-volgens-linkedin/",
+   "title": "marketingfacts.nl"
+  },
+  {
+   "domain": "planbdigitalmarketing.nl",
+   "url": "https://planbdigitalmarketing.nl/branches/b2b-marketingbureau/",
+   "title": "planbdigitalmarketing.nl"
+  },
+  {
+   "domain": "dapper.agency",
+   "url": "https://www.dapper.agency/expertise/b2b-saas",
+   "title": "dapper.agency"
+  },
+  {
+   "domain": "mavaconcepts.nl",
+   "url": "https://www.mavaconcepts.nl/expertise",
+   "title": "mavaconcepts.nl"
+  },
+  {
+   "domain": "pma-solutions.eu",
+   "url": "https://www.pma-solutions.eu/nl/services/linkedin-marketing/",
+   "title": "pma-solutions.eu"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/blog/linkedin-b2b-marketing/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "aigroeigids.nl",
+   "url": "https://aigroeigids.nl/artikel/linkedin-ai-leadgeneratie-voor-b2b-mkb-in-2026-van-connectie-naar-klantgesprek",
+   "title": "aigroeigids.nl"
+  }
+ ]
+}

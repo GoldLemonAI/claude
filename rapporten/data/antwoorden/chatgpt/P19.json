@@ -1,0 +1,51 @@
+{
+ "id": "P19",
+ "engine": "chatgpt",
+ "cat": "expert",
+ "prompt": "Wie geeft in Nederland de beste LinkedIn-trainingen voor directeuren en managementteams?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vindt u een overzicht van gerenommeerde aanbieders van LinkedIn-trainingen in Nederland, specifiek gericht op directieleden en managementteams. Ik heb gezocht naar aanbieders met bewezen ervaring, maatwerk en relevantie voor uw doelgroep.\n\n1. TTM Communicatie – LinkedIn in‑company training  \n   - Biedt een beproefde training van 3,5 uur op locatie, met focus op directie en MT. De inhoud is kort, strategisch en praktisch: wat levert het op, wat kost het aan tijd, en welke rol speelt u zelf? ([linkedine-learning.nl](https://www.linkedine-learning.nl/linkedin-in-company/?utm_source=openai))  \n   - De training wordt op maat gemaakt voor uw organisatie, met eigen profielen en bedrijfspagina’s als uitgangspunt. ([linkedine-learning.nl](https://www.linkedine-learning.nl/linkedin-in-company/?utm_source=openai))\n\n2. Social Selling Coach  \n   - Biedt een specifieke LinkedIn-training voor directie, MT en college van bestuur. De training richt zich op zichtbaarheid, imago, interne en externe communicatie, en hoe om te gaan met risico’s zoals negatieve reacties. ([socialsellingcoach.nl](https://socialsellingcoach.nl/linkedin-voor-directie-mt-college-van-bestuur/?utm_source=openai))  \n   - In-company vorm, afgestemd op de behoeften van leidinggevenden en organisatiecontext. ([socialsellingcoach.nl](https://socialsellingcoach.nl/linkedin-voor-directie-mt-college-van-bestuur/?utm_source=openai))\n\n3. Digital Moves – LinkedIn training en opleiding  \n   - Gegeven door officiële LinkedIn-ambassadeurs van Nederland. Biedt inspiratiesessies, trainingen, programma’s en privélessen, ook specifiek voor managers, eigenaren en CEO’s. ([nl.linkedin.com](https://nl.linkedin.com/school/digital-moves-linkedin-training/?utm_source=openai))  \n   - Focus op social selling, employee advocacy, arbeidsmarktcommunicatie, contentstrategie en marketing. ([nl.linkedin.com](https://nl.linkedin.com/school/digital-moves-linkedin-training/?utm_source=openai))\n\n4. LinkedIn Learning – voor Business / Executives  \n   - Online platform met een uitgebreide bibliotheek aan cursussen, waaronder programma’s voor uitvoerend management en leiderschap. Ideaal voor managementteams die flexibel willen leren. ([learning.linkedin.com](https://learning.linkedin.com/nl-nl/resources/leadership-training/executive-leadership-training?ss=1&utm_source=openai))  \n   - Biedt leertrajecten zoals “Uitvoerend management”, “20 aspecten van uitvoerend management” en “Leiderschapskwaliteiten ontwikkelen”. ([learning.linkedin.com](https://learning.linkedin.com/nl-nl/resources/leadership-training/executive-leadership-training?ss=1&utm_source=openai))\n\nVergelijking en aanbevelingen:\n\n- **TTM Communicatie** is ideaal als u een korte, krachtige en strategische sessie zoekt op locatie, met directe toepasbaarheid voor directie en MT.\n- **Social Selling Coach** biedt een diepgaande training gericht op zichtbaarheid en risicomanagement voor topmanagement, met aandacht voor persoonlijke stijl en organisatiecultuur.\n- **Digital Moves** is geschikt voor wie een bredere aanpak zoekt, inclusief contentstrategie, social selling en individuele coaching voor leidinggevenden.\n- **LinkedIn Learning** biedt flexibiliteit en schaalbaarheid via online leertrajecten, ideaal voor managementteams die zelfstandig willen leren, eventueel gecombineerd met interne sessies.\n\nAdvies op maat:\n\n- Wilt u een korte, krachtige sessie met focus op strategie en impact? Kies dan voor **TTM Communicatie**.\n- Heeft u behoefte aan een training die zichtbaarheid, imago en persoonlijke stijl centraal stelt? **Social Selling Coach** is dan een goede keuze.\n- Wilt u een bredere, inhoudelijke aanpak met aandacht voor content, social selling en individuele begeleiding? Overweeg **Digital Moves**.\n- Zoekt u flexibiliteit en schaalbaarheid via online leren, eventueel gecombineerd met interne coaching? Dan is **LinkedIn Learning** zeer geschikt.\n\nLaat me weten als u hulp wilt bij het vergelijken van tarieven, het aanvragen van offertes of het selecteren van een aanbieder die het beste bij uw organisatie past.",
+ "entities": [
+  {
+   "name": "TTM Communicatie",
+   "type": "bureau",
+   "position": 1,
+   "domain": "linkedine-learning.nl"
+  },
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "position": 2,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedine-learning.nl",
+   "url": "https://www.linkedine-learning.nl/linkedin-in-company/",
+   "title": "LinkedIn in-company training voor teams | Op uw eigen kantoor"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/linkedin-voor-directie-mt-college-van-bestuur/",
+   "title": "Linkedin voor directie / MT / college van bestuur - Social Selling Coach"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/school/digital-moves-linkedin-training/",
+   "title": "Digital Moves - LinkedIn training en opleiding - Medewerkers, locatie en alumni | LinkedIn"
+  },
+  {
+   "domain": "learning.linkedin.com",
+   "url": "https://learning.linkedin.com/nl-nl/resources/leadership-training/executive-leadership-training?ss=1",
+   "title": "Cursussen uitvoerend management | LinkedIn Learning"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "id": "P17",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Wie zijn in Nederland de experts op het gebied van social selling via LinkedIn voor B2B?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een actieve groep specialisten, trainers en strategen die zich nadrukkelijk bezighoudt met **social selling** en B2B-leadgeneratie via LinkedIn. Omdat de markt breed is en varieert van persoonlijke profilering tot grootschalige sales- en AI-implementaties, worden de volgende namen en bureaus vaak erkend als gevestigde experts in het veld:[[1]](https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp)[[2]](https://www.favikon.com/blog/top-linkedin-experts-netherlands)\n\n### Bekende Experts en Trainers\n\n- **Corinne Keijzer** : Al sinds 2010 actief als LinkedIn-trainer en strateeg. Ze staat bekend als een van de vroege pioniers op het gebied van LinkedIn-marketing en personal branding in Nederland, en schreef diverse boeken over het platform.[[1]](https://www.corinnekeijzer.nl/)[[2]](https://www.digitalmoves.nl/gratis-handleiding-linkedin-corinne-keijzer/)\n- **Jan Willem Alphenaar** : Een veelgevraagd spreker en trainer die al vele organisaties en professionals op weg heeft geholpen met LinkedIn-strategieën, social selling en de koppeling met moderne technologieën en AI-adoptie binnen sales.[[1]](https://nl.linkedin.com/in/jwalphenaar-ai-explorer-ai-trainer/nl)[[2]](https://www.linkedinpro.nl/author/admin/)[[3]](https://www.linkedin-trainer.nl/)[[4]](https://www.linkedin-trainer.nl/)\n- **Guy Strijbosch** : Gespecialiseerd in B2B-marketing, personal branding en social selling voor met name de technische en industriële markten. Hij helpt bedrijven al langere tijd bij het opzetten van een commerciële positie via het platform.[[1]](https://www.favikon.com/blog/top-linkedin-experts-netherlands)[[2]](https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp)\n- **Trudy Pannekeet & Victor Huiting** : Specialisten die al jarenlang meedraaien in het LinkedIn- en social selling-domein en bedrijven adviseren over de praktische vertaling van content naar B2B-klantrelaties.[[1]](https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp)\n- **Miranda Molenaar** : Richt zich sterk op het helpen van professionals, coaches en ondernemers bij het opbouwen van een gestructureerd content- en social selling-systeem op LinkedIn.[[1]](https://www.favikon.com/blog/top-linkedin-experts-netherlands)\n\n### Hoe onderscheid je de juiste expert?\n\nIn de praktijk hangt de keuze voor een geschikte specialist sterk af van de doelstelling van een organisatie:\n\n- **Strategie en MT-begeleiding:** Richt zich op het meekrijgen van de directie of het management (personal branding op directieniveau).\n- **Salesteams (Social Selling):** Richt zich op het trainen van complete salesafdelingen om cold outreach te vervangen door warme, op relaties en content gebaseerde acquisitie.\n- **Technische/Niche B2B:** Vraagt vaak om specialisten die begrijpen hoe een complex of langdurig B2B-verkooptraject werkt.[[1]](https://socialsellingcoach.nl/)[[2]](https://www.favikon.com/blog/top-linkedin-experts-netherlands)[[3]](https://www.leadscraper.de/nl/blog/social-selling-linkedin)[[4]](https://www.brightsocial.nl/trainingen/linkedin-training-voor-de-technische-sector/)[[5]](https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp)\n\nWil je weten welke expert het beste past bij jouw specifieke situatie? Vertel me gerust:\n\n- Of het gaat om training voor een **compleet sales(of marketing)team** of **individuele profilering** voor directie/MT\n- Wat de **sector** is waarin je actief bent (bijv. tech, industrie, dienstverlening)\n\nDan kan ik een gerichtere aanbeveling doen.",
+ "entities": [
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "domain": "corinnekeijzer.nl",
+   "position": 1
+  },
+  {
+   "name": "Jan-Willem Alphenaar",
+   "type": "persoon",
+   "domain": "linkedinpro.nl",
+   "position": 2
+  },
+  {
+   "name": "Guy Strijbosch",
+   "type": "persoon",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "Trudy Pannekeet",
+   "type": "persoon",
+   "domain": null,
+   "position": 4
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "domain": null,
+   "position": 5
+  },
+  {
+   "name": "Miranda Molenaar",
+   "type": "persoon",
+   "domain": null,
+   "position": 6
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp",
+   "title": "Top 20 LinkedIn Experts in the Netherlands in 2026 ‍[ Rating]‍"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "Top 20 LinkedIn Experts in the Netherlands in 2026 ‍[🏆Rating]‍ - Favikon"
+  },
+  {
+   "domain": "corinnekeijzer.nl",
+   "url": "https://www.corinnekeijzer.nl/",
+   "title": "Corinne Keijzer - LinkedIn trainer én LinkedIn expert"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/gratis-handleiding-linkedin-corinne-keijzer/",
+   "title": "Download hier de Gratis Handleiding LinkedIn - Corinne Keijzer"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/jwalphenaar-ai-explorer-ai-trainer/nl",
+   "title": "Jan Willem Alphenaar - AI spreker, trainer en consultant. Haal ..."
+  },
+  {
+   "domain": "linkedinpro.nl",
+   "url": "https://www.linkedinpro.nl/author/admin/",
+   "title": "Jan Willem Alphenaar | Linkedinpro.nl"
+  },
+  {
+   "domain": "linkedin-trainer.nl",
+   "url": "https://www.linkedin-trainer.nl/",
+   "title": "Home | Training voor bedrijven over het gebruik van LinkedIn"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/",
+   "title": "Social Selling Coach - Voor organisaties die meer willen ..."
+  },
+  {
+   "domain": "leadscraper.de",
+   "url": "https://www.leadscraper.de/nl/blog/social-selling-linkedin",
+   "title": "Social Selling LinkedIn: B2B leidt via relaties - LeadScraper"
+  },
+  {
+   "domain": "brightsocial.nl",
+   "url": "https://www.brightsocial.nl/trainingen/linkedin-training-voor-de-technische-sector/",
+   "title": "LinkedIn training voor de technische B2B sector | BrightSocial"
+  }
+ ]
+}

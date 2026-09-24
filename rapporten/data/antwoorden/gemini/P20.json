@@ -1,0 +1,169 @@
+{
+ "id": "P20",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse bureaus of experts worden aanbevolen voor founder-led content op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is de vraag naar **founder-led content** en **personal branding** op LinkedIn de afgelopen jaren enorm gestegen. Organisaties beseffen dat persoonlijke profielen van leiders en oprichters tot wel 5 tot 10 keer meer organisch bereik en engagement genereren dan traditionele bedrijfspagina's. \n\nVoor hulp bij de strategie, het interviewen (om jouw authentieke 'stem' te vangen) en de uiteindelijke contentcreatie (ghostwriting), worden in Nederland de volgende gespecialiseerde bureaus en experts sterk aanbevolen:\n\n---\n\n### 1. Gespecialiseerde Bureau's (Personal & Founder Branding)\n\n#### **Personally** (Amsterdam)\n* **Wie:** Geleid door Bieke Groenink, David Wagemaker en Maaike van der Linden.\n* **Wat ze doen:** Personally is een high-end agency in Amsterdam dat zich volledig focust op personal branding en LinkedIn-ghostwriting voor founders, executives en ondernemers. \n* **Aanpak:** Ze werken veel met diepte-interviews om de exacte *tone of voice*, humor en unieke visie van de founder op papier te krijgen. Naast contentcreatie begeleiden ze founders ook bij bredere PR-kansen (zoals podcastoptredens en media-aandacht).\n* **Geschikt voor:** C-level executives en gevestigde founders die hun autoriteit willen claimen en volledig ontzorgd willen worden op LinkedIn.\n\n#### **Het Personal Branding Instituut** (Rotterdam)\n* **Wie:** Opgericht door Lotte de Man.\n* **Wat ze doen:** Dit bureau helpt ondernemers en leiders bij het bouwen van een krachtig, consistent en herkenbaar merk (online én offline). \n* **Aanpak:** Ze kijken breder dan alleen tekstjes op LinkedIn. Hun aanpak omvat merkstrategie, fotografie, video en contentcreatie. Ze focussen op *founder branding* die direct bijdraagt aan zakelijke groei, kortere salestrajecten en betere leadgeneratie.\n* **Geschikt voor:** Ondernemers en leiders die hun persoonlijke merk professioneel willen structureren met behulp van een allround team (van copywriters tot fotografen).\n\n#### **GHO Agency (Ghostwriting Agency)**\n* **Wie:** Een team van LinkedIn-specialisten en ghostwriters.\n* **Wat ze doen:** Dit bureau is volledig ingericht op het schrijven van hoogwaardige LinkedIn-content voor B2B-bedrijven en founders om leads en autoriteit te genereren.\n* **Aanpak:** GHO Agency hanteert een gestructureerde methode waarbij ze content categoriseren (bijvoorbeeld: persoonlijke verhalen, klantcases, specifieke expertise) om een evenwichtig en converterend profiel op te bouwen.\n* **Geschikt voor:** B2B-ondernemers en SaaS-founders die LinkedIn actief willen inzetten als een leadgeneratie-kanaal.\n\n---\n\n### 2. B2B & SaaS Experts (Strategie & Uitvoering)\n\n#### **Frank Husmann (Maxiality)**\n* **Wie:** B2B-marketeer, SaaS-expert en voormalig software-founder.\n* **Wat hij doet:** Frank is een autoriteit op het gebied van *founder-led marketing* en *authority marketing* in de B2B- en SaaS-sector.\n* **Aanpak:** Met zijn bureau Maxiality helpt hij tech-founders om hun expertise om te zetten in een 'GTM-engine' (Go-To-Market). Hij gelooft sterk in het maandelijks interviewen van de founder, om die content vervolgens op te splitsen in LinkedIn-posts, thought-leader advertenties, en nieuwsbrieven.\n* **Geschikt voor:** B2B Tech- en SaaS-founders die een strategisch framework zoeken om hun persoonlijke merk direct te koppelen aan productgroei en pipeline.\n\n#### **Sandra Stassar (Stassar Branding & Coaching)**\n* **Wie:** LinkedIn-trainer en personal branding specialist.\n* **Wat ze doet:** Gevestigd in de regio Eindhoven (Brainport), helpt ze ondernemers, consultants en B2B-experts om hun 'unieke cocktail' aan eigenschappen te vertalen naar LinkedIn-zichtbaarheid.\n* **Aanpak:** Ze biedt 1-op-1 trajecten waarin ze samen met de founder een contentstrategie, herkenbare content-formats en een geoptimaliseerd profiel opzet. \n* **Geschikt voor:** Solopreneurs, consultants en MKB-ondernemers die willen leren hoe ze zélf (of met minimale ondersteuning) authentieke content kunnen creëren.\n\n---\n\n### Waar moet je op letten bij het kiezen van een partner?\n\n1. **De 'Tone of Voice' test:** Het grootste risico bij founder-led content is dat het te corporate, klinisch of \"AI-gegenereerd\" gaat klinken. Vraag een bureau altijd naar hun proces voor het afnemen van interviews. Als ze simpelweg vragen om een mailtje te sturen met 'wat updates', is de kans op generieke content groot. De beste bureaus plannen (twee)wekelijks of maandelijks een live (video)gesprek om je letterlijke bewoordingen en emotie op te vangen.\n2. **Koppeling met Paid Media (Thought Leader Ads):** LinkedIn biedt de optie om organische posts van persoonlijke profielen te promoten via advertentiebudget (Thought Leader Ads). Als je een groter bereik wilt in een specifieke doelgroep,",
+ "entities": [
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 1,
+   "domain": "personally.team"
+  },
+  {
+   "name": "Bieke Groenink",
+   "type": "persoon",
+   "position": 2,
+   "domain": "personally.team"
+  },
+  {
+   "name": "David Wagemaker",
+   "type": "persoon",
+   "position": 3,
+   "domain": "personally.team"
+  },
+  {
+   "name": "Maaike van der Linden",
+   "type": "persoon",
+   "position": 4,
+   "domain": "personally.team"
+  },
+  {
+   "name": "Het Personal Branding Instituut",
+   "type": "bureau",
+   "position": 5,
+   "domain": "personalbrandinginstituut.nl"
+  },
+  {
+   "name": "Lotte de Man",
+   "type": "persoon",
+   "position": 6,
+   "domain": "personalbrandinginstituut.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 7,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Frank Husmann",
+   "type": "persoon",
+   "position": 8,
+   "domain": "frankhusmann.nl"
+  },
+  {
+   "name": "Maxiality",
+   "type": "bureau",
+   "position": 9,
+   "domain": "maxiality.com"
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 10,
+   "domain": "sandrastassar.nl"
+  },
+  {
+   "name": "Stassar Branding & Coaching",
+   "type": "bureau",
+   "position": 11,
+   "domain": "sandrastassar.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "emerce.nl",
+   "url": "https://www.emerce.nl/achtergrond/van-zichtbaarheid-naar-vertrouwen-de-rol-van-founders-in-marketing",
+   "title": "emerce.nl"
+  },
+  {
+   "domain": "post-bee.de",
+   "url": "https://www.post-bee.de/blog/linkedin-ghostwriting-b2b-fuehrungskraefte",
+   "title": "post-bee.de"
+  },
+  {
+   "domain": "personally.team",
+   "url": "https://www.personally.team/",
+   "title": "personally.team"
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-ghostwriter/",
+   "title": "frankhusmann.nl"
+  },
+  {
+   "domain": "adformatie.nl",
+   "url": "https://www.adformatie.nl/media/carriere/bieke-groenink-nieuwe-partner-managing-director-personally",
+   "title": "adformatie.nl"
+  },
+  {
+   "domain": "marieclaire.nl",
+   "url": "https://marieclaire.nl/artikel/694023/zo-ziet-de-werkweek-van-het-personal-branding-instituut-founder-lotte-de-man-eruit",
+   "title": "marieclaire.nl"
+  },
+  {
+   "domain": "personalbrandinginstituut.nl",
+   "url": "https://www.personalbrandinginstituut.nl/founder-branding",
+   "title": "personalbrandinginstituut.nl"
+  },
+  {
+   "domain": "personalbrandinginstituut.nl",
+   "url": "https://www.personalbrandinginstituut.nl/",
+   "title": "personalbrandinginstituut.nl"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/linkedin-ghostwriter",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "maxiality.com",
+   "url": "https://maxiality.com/team-3/",
+   "title": "maxiality.com"
+  },
+  {
+   "domain": "robertplank.com",
+   "url": "https://www.robertplank.com/1051-lead-generation-marketing-frank-husmann/",
+   "title": "robertplank.com"
+  },
+  {
+   "domain": "sproutworth.com",
+   "url": "https://www.sproutworth.com/authority-marketing/",
+   "title": "sproutworth.com"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/Personal-Branding/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/LinkedIn/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "stopthescroll.io",
+   "url": "https://www.stopthescroll.io/linkedin-ghostwriter",
+   "title": "stopthescroll.io"
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/blog/founder-led-marketing-snelst-groeiende-b2b-saas/",
+   "title": "frankhusmann.nl"
+  },
+  {
+   "domain": "understoryagency.com",
+   "url": "https://www.understoryagency.com/blog/best-linkedin-ghostwriting-agencies-b2b-saas",
+   "title": "understoryagency.com"
+  }
+ ]
+}

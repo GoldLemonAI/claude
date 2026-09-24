@@ -1,0 +1,56 @@
+{
+ "id": "P22",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Hoe vaak moet een B2B-bedrijf posten op LinkedIn om autoriteit op te bouwen, en welke bronnen onderbouwen dat?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een B2B-bedrijf dat **autoriteit en thought leadership** wil opbouwen op LinkedIn, is de optimale frequentie **2 tot 4 kwalitatieve posts per week** (voor bedrijfspagina's) of **3 tot 4 posts per week** (voor persoonlijke profielen van C-level/experts).[[1]](https://searchlab.nl/statistieken/linkedin-statistieken-2026)[[2]](https://www.linkboost.co/blog/linkedin-posting-frequency-best-practices-2026/)\n\n1 post per week is vaak te weinig om zichtbaar te blijven in het dynamische algoritme, terwijl vaker dan 5 keer per week posten bij bedrijfspagina's kan leiden tot 'cannabisering' van je eigen bereik (waarbij posts met elkaar concurreren om de aandacht van dezelfde volgers).[[1]](https://www.linkboost.co/blog/linkedin-posting-frequency-best-practices-2026/)\n\n### Het ideale ritme op een rij\n\n- **De \"Sweet Spot\" (2-4 keer per week):** Dit geeft het algoritme voldoende signalen van consistentie, zorgt voor een groter cumulatief bereik en geeft elke post genoeg tijd (minimaal 12 tot 18 uur) om te ‘ademen’ en interactie te genereren zonder dat je je doelgroep vermoeit.[[1]](https://connectsafely.ai/articles/how-often-to-post-on-linkedin-2026)[[2]](https://www.linkboost.co/blog/linkedin-posting-frequency-best-practices-2026/)\n- **Kwaliteit boven kwantiteit:** Het algoritme van LinkedIn beloont *dwell time* (hoe lang iemand stilstaat bij je post) en vroege interactie (de eerste 60 tot 90 minuten). Eén sterke, diepgaande inhoudelijke post met eigen visie bouwt meer autoriteit op dan drie generieke bedrijfsuitingen.[[1]](https://www.linkboost.co/blog/linkedin-posting-frequency-best-practices-2026/)[[2]](https://connectsafely.ai/articles/how-often-to-post-on-linkedin-2026)\n- **Consistentie is koning:** Wekelijks 2 keer posten, het hele jaar door, levert exponentieel meer resultaat op dan een maand lang elke dag posten en daarna stilvallen.[[1]](https://www.linkboost.co/blog/linkedin-posting-frequency-best-practices-2026/)\n\n### Onderbouwende bronnen en onderzoeken\n\nDe aanbeveling van 2 à 4 posts per week wordt ondersteund door toonaangevende social media-data en algoritme-onderzoeken:\n\n1. **Richard van der Blom (*Algorithm Insights* / Just Connecting):** \n\t- Zijn grootschalige onderzoeken naar honderdduizenden tot miljoenen LinkedIn-posts tonen aan dat de stap van 1 keer per week naar **2 à 5 keer per week** posten een duidelijke omslag in het algoritme triggert. LinkedIn begint je content breder te distribueren zodra je dit ritme consequent aanhoudt. Ook waarschuwt hij dat persoonlijke profielen en bedrijfspagina's binnen een frequentie van 3 à 4 keer per week de hoogste stabiliteit in bereik en autoriteit behouden.[[1]](https://www.pharmamarketeer.nl/hoe-vaak-moet-je-posten-op-linkedin-in-2025-data-uit-meer-dan-2-miljoen-posts/)[[2]](https://searchlab.nl/statistieken/linkedin-statistieken-2026)\n2. **Hootsuite (*LinkedIn Algorithm & Social Media Trends*):** \n\t- Hootsuite’s data-analyses bevestigen dat een frequentie van **2 tot 5 posts per week** optimaal is voor bedrijfspagina's om een \"always-on\" aanwezigheid te behouden zonder dat het engagement per post daalt. Dagelijks posten laat op bedrijfsniveau vaak juist een afname in relatieve interactie per post zien.[[1]](https://blog.hootsuite.com/how-often-to-post-on-social-media/)[[2]](https://searchlab.nl/statistieken/linkedin-statistieken-2026)\n3. **LinkedIn Marketing Platform / Interne data:** \n\t- LinkedIn geeft zelf aan dat leden en pagina's die consistent minimaal tweemaal per week publiceren een aanmerkelijk grotere groei doormaken in profiel- en paginabezoek en een stabielere organische distributie genieten.\n\nWil je je contentstrategie verder aanscherpen? Laat me weten:\n\n- Of het gaat om de **bedrijfspagina** of de **persoonlijke profielen** van jullie experts\n- Wat jullie huidige **capaciteit** is qua contentcreatie\n\nDan kan ik een **concreet weekschema** voor jullie opstellen.",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Hootsuite",
+   "type": "tool",
+   "domain": "hootsuite.com",
+   "position": 3
+  }
+ ],
+ "sources": [
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/statistieken/linkedin-statistieken-2026",
+   "title": "LinkedIn Statistieken 2026 | 50+ Cijfers over Bereik, Ads & B2B"
+  },
+  {
+   "domain": "linkboost.co",
+   "url": "https://www.linkboost.co/blog/linkedin-posting-frequency-best-practices-2026/",
+   "title": "LinkedIn Posting Frequency Best Practices for 2026 - Linkboost"
+  },
+  {
+   "domain": "connectsafely.ai",
+   "url": "https://connectsafely.ai/articles/how-often-to-post-on-linkedin-2026",
+   "title": "How Often to Post on LinkedIn: What the Data Says"
+  },
+  {
+   "domain": "pharmamarketeer.nl",
+   "url": "https://www.pharmamarketeer.nl/hoe-vaak-moet-je-posten-op-linkedin-in-2025-data-uit-meer-dan-2-miljoen-posts/",
+   "title": "Hoe vaak moet je posten op LinkedIn in 2025? Data uit meer ..."
+  },
+  {
+   "domain": "blog.hootsuite.com",
+   "url": "https://blog.hootsuite.com/how-often-to-post-on-social-media/",
+   "title": "How often should a business post on social media? [2025 data]"
+  }
+ ]
+}

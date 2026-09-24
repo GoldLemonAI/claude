@@ -1,0 +1,77 @@
+{
+ "id": "P01",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welke bureaus of specialisten in Nederland helpen B2B-MKB bedrijven met autoriteit opbouwen op LinkedIn? Noem concrete namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor B2B-MKB bedrijven die hun autoriteit, zichtbaarheid en *thought leadership* op LinkedIn willen vergroten, zijn er in Nederland verschillende gespecialiseerde bureaus en experts actief. Het opbouwen van autoriteit vraagt doorgaans om een combinatie van sterke organische content (vaak via personal branding van directie of experts), doordachte strategische positionering, en gerichte distributie (betaalde campagnes / ABM).[[1]](https://searchlab.nl/linkedin-ads-bureau)[[2]](https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin)[[3]](https://nl.linkedin.com/posts/frankwatching_b2b-thought-leadership-op-linkedin-7-tips-activity-7302960081787080704-qmCa)[[4]](https://nl.linkedin.com/in/tara-milou-galamolina)\n\nConcrete namen van bureaus en specialisten in Nederland die hierin ondersteunen:\n\n### 1. Strategie, Content & Demand Generation (Organisch & Thought Leadership)\n\n- **Dapper (Rotterdam):** Een vooraanstaand B2B-demand-generation-bureau dat bedrijven helpt met heldere positionering, messaging en contentstrategieën. Ze richten zich sterk op het herkenbaar en waardevol maken van B2B-merken in de markt, wat de basis vormt voor autoriteit op LinkedIn.[[1]](https://nl.linkedin.com/company/dapperdemandagency)[[2]](https://nl.linkedin.com/in/tara-milou-galamolina)\n- **Unmuted (Amsterdam):** Gespecialiseerd in B2B- en SaaS-marketing. Ze helpen tech- en kenniggedreven MKB-bedrijven om hun complexe proposities te vertalen naar begrijpelijke en pakkende content, waaronder thought-leadership-video's, podcasts en socialmediaclips voor LinkedIn.[[1]](https://nl.linkedin.com/company/unmuted-b2b-saas-marketing)[[2]](https://nl.linkedin.com/in/lou-van-vijfeijken-b31081196)\n\n### 2. LinkedIn Advertising & Betaalde Autoriteitsopbouw\n\n- **[Searchlab](https://searchlab.nl/linkedin-ads-bureau):** Een bureau dat zich focust op B2B-paid-social en LinkedIn-advertenties. Ze combineren full-funnel-strategieën (van awareness tot conversie) met AI-gedreven targeting om de juiste beslissers binnen de doelgroep te bereiken en de naamsbekendheid en autoriteit van het MKB te vergroten.[[1]](https://searchlab.nl/linkedin-ads-bureau)[[2]](https://searchlab.nl/linkedin-ads-bureau)\n- **[Next Business Agency](https://nextbusinessagency.com/):** Een specialist op het gebied van LinkedIn Advertising in Europa. Naast het volledig uit handen nemen van campagnes, bieden zij ook gerichte trainingen en begeleiding aan interne teams om zelf de vindbaarheid en impact op LinkedIn te vergroten.[[1]](https://nl.linkedin.com/showcase/next-business-agency/)\n\nWil je je autoriteit met name opbouwen via **persoonlijke profielen (personal branding)** van de directie/experts, of zoek je juist naar een partij voor **betaalde campagnes en leadgeneratie** via de bedrijfspagina? Dan kan ik het overzicht gerichter voor je **toespitsen op die specifieke aanpak**.",
+ "entities": [
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Unmuted",
+   "type": "bureau",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "domain": "searchlab.nl",
+   "position": 3
+  },
+  {
+   "name": "Next Business Agency",
+   "type": "bureau",
+   "domain": "nextbusinessagency.com",
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "LinkedIn Ads Bureau | B2B Adverteren op LinkedIn - Searchlab"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin",
+   "title": "Boost je personal branding en thought leadership op LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/frankwatching_b2b-thought-leadership-op-linkedin-7-tips-activity-7302960081787080704-qmCa",
+   "title": "7 tips om wél impact te maken | Frankwatching - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/tara-milou-galamolina",
+   "title": "Tara-Milou Gala Molina - B2B Marketer @ Dapper - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/dapperdemandagency",
+   "title": "Dapper - the demand agency - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/unmuted-b2b-saas-marketing",
+   "title": "Unmuted | B2B SaaS Marketing - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/lou-van-vijfeijken-b31081196",
+   "title": "Lou van Vijfeijken - B2B SaaS Marketing - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/showcase/next-business-agency/",
+   "title": "Next Business Agency - Beste bureau voor LinkedIn Advertising"
+  }
+ ]
+}

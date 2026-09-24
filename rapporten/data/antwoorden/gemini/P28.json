@@ -1,0 +1,118 @@
+{
+ "id": "P28",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Hoe meet je of je autoriteit op LinkedIn groeit? Welke Nederlandse experts of bureaus schrijven hierover?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het meten van je autoriteit op LinkedIn (ook wel *thought leadership* of *expertstatus* genoemd) is deels kwantitatief en deels kwalitatief. Waar 'vanity metrics' zoals likes je ego strelen, vertelt de kwaliteit van je interacties en de conversie naar zakelijke kansen of uitnodigingen of je écht als autoriteit wordt gezien.\n\nHieronder lees je hoe je deze groei meetbaar maakt en welke Nederlandse experts en bureaus hierover publiceren.\n\n---\n\n### Deel 1: Hoe meet je of je autoriteit op LinkedIn groeit?\n\n#### 1. De directe LinkedIn-statistieken (Kwantitatief)\n* **De Social Selling Index (SSI-score):** LinkedIn heeft een eigen (gratis) meetinstrument: de SSI-score (te vinden via `linkedin.com/sales/ssi`). Deze score van 0 tot 100 is gebaseerd op 4 pijlers (elk 25 punten):\n  1. *Establish your professional brand* (hoe compleet en professioneel is je profiel).\n  2. *Find the right people* (hoe gericht leg je contact).\n  3. *Engage with insights* (hoe relevant is de content die je deelt en hoe reageer je op anderen).\n  4. *Build relationships* (hoe sterk is je netwerk en hoe goed onderhoud je dat).\n  *Een score boven de 70 tot 75 (inclusief een hoge ranking binnen je eigen branche) wijst op een sterke autoriteitspositie.*\n* **Profielbezoeken en demografie:** Groeit het aantal mensen dat je profiel bekijkt? En belangrijker: *wie* zijn dit? LinkedIn laat zien in welke sectoren en functies (bijv. 'Directeur', 'Inkooppartner') je bezoekers actief zijn. Als de beslissers uit jouw doelgroep je profiel bezoeken, groeit je autoriteit onder de juiste mensen.\n* **Kwalitatief bereik (Impressies vs. Engagement):** Hoge weergaven (impressies) zijn leuk, maar een stijgende *engagement rate* (interacties gedeeld door impressies) bewijst dat je content aanzet tot nadenken.\n\n#### 2. Kwalitatieve indicatoren (De 'echte' autoriteit)\nEchte autoriteit herken je niet aan cijfers alleen, maar aan veranderend gedrag in je netwerk:\n* **Kwaliteit van de reacties:** Krijg je alleen \"Mooi gesproken!\" of reageren vakgenoten inhoudelijk met eigen visies en discussies onder je posts?\n* **Inbound connectieverzoeken:** Krijg je wekelijks gerichte connectieverzoeken van potentiële klanten of partners die expliciet refereren naar een post die je hebt geschreven?\n* **DM's met hulpvragen:** Sturen mensen je privéberichten met vragen als: *\"Ik zag je post over X, hoe kijk jij aan tegen situatie Y in ons bedrijf?\"* Dit is de ultieme indicator dat ze je als expert beschouwen.\n* **Externe uitnodigingen:** Word je gevraagd als gast in een podcast, voor een interview, of als spreker op een event? Dit is de offline vertaling van je online autoriteit.\n\n---\n\n### Deel 2: Welke Nederlandse experts en bureaus schrijven hierover?\n\nIn Nederland is er een actieve groep LinkedIn-specialisten en marketingbureaus die regelmatig schrijven over personal branding, social selling, thought leadership en het meetbaar maken van deze metrics:\n\n#### Bekende Nederlandse LinkedIn-experts:\n* **Marjolein Bongers:** Auteur van boeken zoals *LinkedIn Power* en een veelgevraagd expert op het gebied van LinkedIn-strategie, personal branding en social selling. Ze deelt op haar profiel en blog praktische tips over hoe je je expertise psychologisch en strategisch vertaalt naar autoriteit.\n* **Victor Huiting:** Een bekende LinkedIn-trainer en specialist die veel schrijft over profieloptimalisatie, thought leadership en het zakelijk verzilveren van je LinkedIn-netwerk.\n* **Jorrit Drieenhuizen (Social Selling Coach):** Schrijft en traint specifiek op het gebied van B2B-leadgeneratie via LinkedIn en hoe je met waardevolle content autoriteit opbouwt binnen je niche.\n* **Patrick Petersen:** Docent (o.a. Beeckestijn Business School) en auteur van het boek *Social Selling met LinkedIn*. Hij combineert marketingtheorie met praktische modellen om LinkedIn-succes meetbaar te maken.\n* **Pieter Res:** Richt zich met name op directeuren en sales-teams om LinkedIn-activiteit om te zetten in meetbare omzet en autoriteit.\n\n#### Gespecialiseerde Nederlandse bureaus:\n* **Red Panda Works:** Een bekend growth hacking bureau in Amsterdam dat veel content publiceert over B2B-marketing. Ze schrijven regelmatig over hoe je met 'organic social' en thought leadership van medewerkers (employee advocacy) autoriteit bouwt en meet.\n* **Dapper (The Demand Agency):** Dit B2B-marketingbureau focust sterk op 'demand generation' en deelt regelmatig visies over hoe thought leadership op LinkedIn bijdraagt aan de merkvoorkeur bij potentiële klanten.\n* **Made2Reach:** Een agency dat zich specifiek richt op organische groei op LinkedIn en ghostwriting voor ondernemers. Zij schrijven veel over de vertaling van expertise naar wekelijkse zichtbaarheid en autoriteit.",
+ "entities": [
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Jorrit Drieenhuizen",
+   "type": "persoon",
+   "position": 3,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "position": 4,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Patrick Petersen",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Beeckestijn Business School",
+   "type": "overig",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Pieter Res",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Made2Reach",
+   "type": "bureau",
+   "position": 10,
+   "domain": "made2reach.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedhelper.com",
+   "url": "https://www.linkedhelper.com/de/blog/linkedin-ssi-score",
+   "title": "linkedhelper.com"
+  },
+  {
+   "domain": "levr.de",
+   "url": "https://www.levr.de/blog/linkedin-social-selling-index",
+   "title": "levr.de"
+  },
+  {
+   "domain": "alivello.com",
+   "url": "https://alivello.com/de/news/detail/social-selling-auf-linkedin-so-messen-sie-den-erfolg",
+   "title": "alivello.com"
+  },
+  {
+   "domain": "kanbox.io",
+   "url": "https://www.kanbox.io/blog/linkedin-ssi-score",
+   "title": "kanbox.io"
+  },
+  {
+   "domain": "made2reach.com",
+   "url": "https://made2reach.com/groeiversnellers/linkedin-organisch/",
+   "title": "made2reach.com"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "favikon.com"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/contact-met-social-selling-coach/",
+   "title": "socialsellingcoach.nl"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/uitdaging_oplossing/marketing_en_klantrelaties/hoe_kan_ik_linkedin_gebruiken_om_meer_te_verkopen",
+   "title": "managementboek.nl"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "marketingxperts.nl"
+  }
+ ]
+}

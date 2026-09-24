@@ -1,0 +1,96 @@
+{
+ "id": "P10",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Welke bureaus in Nederland combineren LinkedIn content met SEO en zichtbaarheid in AI-zoekmachines voor B2B-MKB? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van Nederlandse bureaus die zich richten op B2B-MKB en die LinkedIn-content combineren met SEO en zichtbaarheid in AI-zoekmachines (GEO). Elk bureau heeft een korte toelichting op hun aanpak:\n\n• Gold Lemon  \n  - Contentmarketingbureau voor B2B-MKB dat vakcontent produceert: 2–4 LinkedIn-posts per week, 1–2 vakblogs per maand en longtail SEO-pagina’s per use-case.  \n  - Hun content is geoptimaliseerd voor zowel Google als AI-zoekmachines zoals ChatGPT, Gemini en Perplexity.([goldlemon.nl](https://goldlemon.nl/content-marketing-bureau/?utm_source=openai))\n\n• Klusio  \n  - Biedt een “Groeimotor” die zichtbaarheid vergroot in Google én AI-antwoorden.  \n  - Integreert LinkedIn-content (via “Porthos”) in één doorlopende aanpak met SEO, AI-zichtbaarheid en meetbare resultaten.([klusio.nl](https://klusio.nl/?utm_source=openai))\n\n• Strategie.nl  \n  - Online marketingbureau voor MKB dat SEO-strategie combineert met AI-zichtbaarheid in ChatGPT en Gemini.  \n  - Biedt ook socialmediastrategie, waaronder LinkedIn, als onderdeel van een geïntegreerde aanpak.([strategie.nl](https://strategie.nl/?utm_source=openai))\n\n• Generativ  \n  - SEO- en GEO-bureau uit Amsterdam dat zichtbaarheid in Google én AI-platformen zoals ChatGPT, Gemini en Perplexity combineert.  \n  - Maakt gebruik van structured data (JSON‑LD), entity-first aanpak en is OpenAI Select Partner.([generativ.nl](https://generativ.nl/?utm_source=openai))\n\n• DataDrift Digital  \n  - Gespecialiseerd in AI-vindbaarheid voor Nederlandse MKB-bedrijven.  \n  - Meet en verbetert zichtbaarheid in ChatGPT, Claude, Perplexity en Google AI Overviews via maandelijkse cycles.([datadriftdigital.nl](https://datadriftdigital.nl/ai-vindbaarheid/?utm_source=openai))\n\n• HelloSEO.nl  \n  - SEO-studio voor MKB met focus op contentstructuren en “AI-proof SEO”.  \n  - Richt zich op zichtbaarheid in Google én AI-zoekmachines zoals ChatGPT, Gemini en Perplexity.([helloseo.nl](https://helloseo.nl/seo-en-content-marketing/?utm_source=openai))\n\n• SEOJuice  \n  - SEO-bureau voor het MKB dat sinds kort ook GEO (AI-zoekmachines) aanbiedt.  \n  - Combineert SEO, GEO en social media (waaronder LinkedIn) in één samenhangend groeisysteem.([seojuice.nl](https://seojuice.nl/?utm_source=openai))\n\nSamenvattend, de bureaus die LinkedIn-content combineren met SEO en AI-zichtbaarheid voor B2B-MKB in Nederland zijn:\n\n- Gold Lemon  \n- Klusio  \n- Strategie.nl  \n- Generativ  \n- DataDrift Digital  \n- HelloSEO.nl  \n- SEOJuice\n\nLaat het me weten als je meer wilt weten over tarieven, cases of welke het beste past bij jouw specifieke situatie!",
+ "entities": [
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 1,
+   "domain": "goldlemon.nl"
+  },
+  {
+   "name": "Klusio",
+   "type": "bureau",
+   "position": 2,
+   "domain": "klusio.nl"
+  },
+  {
+   "name": "Porthos",
+   "type": "tool",
+   "position": 3,
+   "domain": "klusio.nl"
+  },
+  {
+   "name": "Strategie.nl",
+   "type": "bureau",
+   "position": 4,
+   "domain": "strategie.nl"
+  },
+  {
+   "name": "Generativ",
+   "type": "bureau",
+   "position": 5,
+   "domain": "generativ.nl"
+  },
+  {
+   "name": "DataDrift Digital",
+   "type": "bureau",
+   "position": 6,
+   "domain": "datadriftdigital.nl"
+  },
+  {
+   "name": "HelloSEO.nl",
+   "type": "bureau",
+   "position": 7,
+   "domain": "helloseo.nl"
+  },
+  {
+   "name": "SEOJuice",
+   "type": "bureau",
+   "position": 8,
+   "domain": "seojuice.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/content-marketing-bureau/",
+   "title": "Contentmarketingbureau voor B2B-MKB | Gold Lemon"
+  },
+  {
+   "domain": "klusio.nl",
+   "url": "https://klusio.nl/",
+   "title": "Klusio | Het doorlopende groeisysteem voor zichtbaarheid in Google en AI"
+  },
+  {
+   "domain": "strategie.nl",
+   "url": "https://strategie.nl/",
+   "title": "Strategie.nl: online marketingbureau voor het MKB"
+  },
+  {
+   "domain": "generativ.nl",
+   "url": "https://generativ.nl/",
+   "title": "Generativ, SEO bureau met GEO-expertise"
+  },
+  {
+   "domain": "datadriftdigital.nl",
+   "url": "https://datadriftdigital.nl/ai-vindbaarheid/",
+   "title": "AI-Vindbaarheid | DataDrift Digital, Eindhoven"
+  },
+  {
+   "domain": "helloseo.nl",
+   "url": "https://helloseo.nl/seo-en-content-marketing/",
+   "title": "SEO & Content Marketing voor MKB – Vindbaar in Google én AI | HelloSEO.nl"
+  },
+  {
+   "domain": "seojuice.nl",
+   "url": "https://seojuice.nl/",
+   "title": "SEO- en GEO-bureau voor groei in Google en AI | SEOJuice"
+  }
+ ]
+}

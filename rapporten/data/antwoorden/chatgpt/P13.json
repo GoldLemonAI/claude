@@ -1,0 +1,149 @@
+{
+ "id": "P13",
+ "engine": "chatgpt",
+ "cat": "expert",
+ "prompt": "Wie zijn de bekendste LinkedIn-experts en trainers in Nederland? Noem minimaal tien namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van bekende LinkedIn-experts en -trainers in Nederland. Ik heb minimaal tien namen opgenomen, gebaseerd op recente bronnen (2026) en verschillende ranglijsten en publicaties:\n\n1. Richard van der Blom – LinkedIn-strateeg en algoritme-expert, oprichter van Just Connecting. Hij publiceert jaarlijks het veelgeciteerde *Algorithm Insights Report* en is internationaal actief met trainingen in meerdere talen ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n2. Michiel Verstraten – Ondernemer, oprichter van YouLynq.me, columnist bij MarketingTribune en erkend als top LinkedIn Growth Thought Leader in Nederland ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n3. Nick Broekema – Content designer en coach voor founders, coaches en creators. Hij biedt coaching en programma’s gericht op contentdesign en leadgeneratie via LinkedIn ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n4. Carolina Posma – Oprichter van Postiv AI, gespecialiseerd in het creëren van consistente LinkedIn-content met behulp van AI, gericht op professionals en B2B-teams ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n5. Wendy van Gilst – LinkedIn-marketingexpert uit Amsterdam, met ervaring bij LinkedIn zelf. Ze helpt bedrijven met zowel organische strategieën als advertenties ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n6. Robin Peek – Coach voor solo-ondernemers, ontwikkelaar van het programma *Rebel With A Cause*, met focus op contentstrategie en leadgeneratie via LinkedIn ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n7. Anneke van der Voort – LinkedIn-strateeg met meer dan 20 jaar ervaring in B2B-marketing. Ze helpt consultants en adviesbureaus bij het structureren van authentieke profielen en content ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n8. Marjolein Bongers – LinkedIn-trainer, keynote speaker en oprichter van House of Social Media. Ze heeft meer dan 15.000 professionals getraind en is auteur van *LinkedIn Power & Sales zonder Bullshit* ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n9. Martijn Holtes – Strategist en COO van Just Connecting. Hij ontwikkelde het VIBE-framework (Voice, Influence, Boost, Engage) en heeft duizenden professionals en honderden bedrijven geholpen met LinkedIn-marketing en employee advocacy ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\n10. Guy Strijbosch – LinkedIn-strateeg en personal branding expert met meer dan 15 jaar ervaring. Hij geeft in-company trainingen en keynote speeches, onder andere op Uplift Live 2026 ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n\nDaarnaast zijn er nog andere relevante namen die vaak genoemd worden in rankings en expertlijsten:\n\n11. Jasper Spanjaart – Bekende Nederlandse LinkedIn-expert en trainer, actief op het gebied van audience building en personal branding ([llmo.nl](https://llmo.nl/rankings/audience-building-experts.php?utm_source=openai)).\n\n12. Natasja Hoogenboom – LinkedIn-trainer en expert in personal branding, adviseert veel Nederlandse bedrijven over online zichtbaarheid ([llmo.nl](https://llmo.nl/rankings/audience-building-experts.php?utm_source=openai)).\n\n13. Corinne Keijzer – LinkedIn-expert en auteur, gespecialiseerd in het opbouwen van een professioneel publiek via sociale media ([llmo.nl](https://llmo.nl/rankings/audience-building-experts.php?utm_source=openai)).\n\n14. Suzanne Kelderman – LinkedIn-trainer en personal branding expert die workshops geeft over online zichtbaarheid ([llmo.nl](https://llmo.nl/rankings/audience-building-experts.php?utm_source=openai)).\n\n15. Erno Hannink – LinkedIn-expert en trainer, gespecialiseerd in employee advocacy en personal branding voor bedrijven ([llmo.nl](https://llmo.nl/rankings/audience-building-experts.php?utm_source=openai)).\n\nSamenvattend:\n\n- De eerste tien namen zijn afkomstig uit een recente top-20 lijst van Favikon (2026), waarin experts worden gerangschikt op autoriteitsscore ([favikon.com](https://www.favikon.com/blog/top-linkedin-experts-netherlands?utm_source=openai)).\n- De aanvullende vijf namen komen uit de LLMO.nl ranking van audience-building-experts, waarin Nederlandse LinkedIn-trainers en -experts worden genoemd ([llmo.nl](https://llmo.nl/rankings/audience-building-experts.php?utm_source=openai)).\n\nLaat het gerust weten als je meer informatie wilt over specifieke experts, hun aanbod of hoe je contact met hen kunt opnemen!",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Michiel Verstraten",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Nick Broekema",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Carolina Posma",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Postiv AI",
+   "type": "tool",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Wendy van Gilst",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Robin Peek",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Anneke van der Voort",
+   "type": "persoon",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "House of Social Media",
+   "type": "bureau",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Martijn Holtes",
+   "type": "persoon",
+   "position": 13,
+   "domain": null
+  },
+  {
+   "name": "Guy Strijbosch",
+   "type": "persoon",
+   "position": 14,
+   "domain": null
+  },
+  {
+   "name": "Jasper Spanjaart",
+   "type": "persoon",
+   "position": 15,
+   "domain": null
+  },
+  {
+   "name": "Natasja Hoogenboom",
+   "type": "persoon",
+   "position": 16,
+   "domain": null
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 17,
+   "domain": null
+  },
+  {
+   "name": "Suzanne Kelderman",
+   "type": "persoon",
+   "position": 18,
+   "domain": null
+  },
+  {
+   "name": "Erno Hannink",
+   "type": "persoon",
+   "position": 19,
+   "domain": null
+  },
+  {
+   "name": "Favikon",
+   "type": "platform",
+   "position": 20,
+   "domain": "favikon.com"
+  },
+  {
+   "name": "LLMO.nl",
+   "type": "platform",
+   "position": 21,
+   "domain": "llmo.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "Top 20 LinkedIn Experts in the Netherlands in 2026 ‍[🏆Rating]‍ - Favikon"
+  },
+  {
+   "domain": "llmo.nl",
+   "url": "https://llmo.nl/rankings/audience-building-experts.php",
+   "title": "AI Rankings: Audience-building-experts | LLMO.nl"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "P27",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Wat kost het om LinkedIn content uit te besteden aan een bureau in Nederland? Noem aanbieders en prijzen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het uitbesteden van LinkedIn-content (zoals bedrijfspagina's of personal branding voor founders/directeurs) aan een bureau in Nederland varieert sterk in prijs . Gemiddeld liggen de kosten tussen de **€400 en €5.000 per maand** , afhankelijk van de omvang van de dienstverlening.[[1]](https://www.gho.agency/blogs/waarom-linkedin-marketing-uitbesteden-je-omzet-vergroot)[[2]](https://searchspotlightsolutions.nl/wat-kost-social-media-uitbesteden/)\n\n### Prijsindicaties per niveau\n\n- **Klein/Basis (Vanaf ca. €400 – €600 per maand):** \n\t- Geschikt voor 1 profiel of een kleine bedrijfspagina.\n\t- Inclusief ca. 4 posts per maand (1 keer per week), basisteksten en eenvoudige visuals/graphics, contentkalender en planning.[[1]](https://www.gho.agency/blogs/posten-op-linkedin)[[2]](https://solvex.nl/diensten/linkedin-uitbesteden)[[3]](https://www.gho.agency/blogs/waarom-linkedin-marketing-uitbesteden-je-omzet-vergroot)\n- **Midden/Intensief (Ca. €800 – €2.500 per maand):** \n\t- Uitgebreider beheer van bedrijfspagina's of meerdere personal/thought leadership-profielen.\n\t- Inclusief 8 tot 12 posts per maand, interviews voor input, maatwerk design (carrousels, video-editwerk) en soms basisadvertentiebeheer.[[1]](https://zoutmedia.nl/linkedin-uitbesteden/)[[2]](https://www.gho.agency/blogs/waarom-linkedin-marketing-uitbesteden-je-omzet-vergroot)[[3]](https://searchspotlightsolutions.nl/wat-kost-social-media-uitbesteden/)[[4]](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-adverteren-kosten-wat-betaal-je-echt/)\n- **Volledig uitbesteed & Premium (Ca. €3.000 – €5.000+ per maand):** \n\t- Volledige B2B-contentstrategie, inclusief actieve leadgeneratie (social selling / lead nurturing), grootschalige contentproductie (video's op locatie, fotoshoots) en geavanceerde advertentiebudgetten en -campagnes.[[1]](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-adverteren-kosten-wat-betaal-je-echt/)[[2]](https://www.gho.agency/blogs/waarom-linkedin-marketing-uitbesteden-je-omzet-vergroot)[[3]](https://searchspotlightsolutions.nl/wat-kost-social-media-uitbesteden/)\n\n### Voorbeelden van aanbieders en hun werkwijze\n\n- **[Solvex](https://solvex.nl/diensten/linkedin-uitbesteden):** Biedt pakketten voor het uitbesteden van LinkedIn bedrijfspagina's vanaf ca. **€495 per maand** voor zo'n 4 posts per maand.[[1]](https://solvex.nl/diensten/linkedin-uitbesteden)\n- **[Zout Media](https://zoutmedia.nl/linkedin-uitbesteden/):** Hanteert tarieven zoals een batch van 8 posts (inclusief idee, tekst, vormgeving en inroosteren) voor **€480** . Het starten van een gerichte advertentiecampagne kost bij hen eveneens rond de **€480** (exclusief het daadwerkelijke advertentiebudget).[[1]](https://zoutmedia.nl/linkedin-uitbesteden/)\n- **[GHO Agency](https://www.gho.agency/blogs/posten-op-linkedin):** Biedt personal branding en contentopties voor persoonlijke profielen vanaf **€420 per maand** (1 post per week), met uitgebreide marketingpakketten die kunnen oplopen tot **€3.000 à €5.000 per maand** voor intensieve campagnes en lead nurturing.[[1]](https://www.gho.agency/blogs/waarom-linkedin-marketing-uitbesteden-je-omzet-vergroot)[[2]](https://www.gho.agency/blogs/posten-op-linkedin)\n\n*Let op: Adverteren via het platform zelf (LinkedIn Ads) komt bijna altijd **bovenop** de maandelijkse agency-fee voor contentcreatie, waarbij je in Nederland rekening moet houden met een gemiddelde Cost Per Click (CPC) van €3,00 tot €8,00 (of hoger bij C-level targeting).* [[1]](https://searchlab.nl/kosten/wat-kost-linkedin-adverteren)[[2]](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-adverteren-kosten-wat-betaal-je-echt/)\n\nWil je je richten op een **bedrijfspagina** of juist op **personal branding** voor directieleden, en hoeveel **posts per week** heb je in gedachten? Dan kan ik een gerichter kostenplaatje schetsen.",
+ "entities": [
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "domain": "solvex.nl",
+   "position": 1
+  },
+  {
+   "name": "Zout Media",
+   "type": "bureau",
+   "domain": "zoutmedia.nl",
+   "position": 2
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "domain": "gho.agency",
+   "position": 3
+  }
+ ],
+ "sources": [
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/waarom-linkedin-marketing-uitbesteden-je-omzet-vergroot",
+   "title": "LinkedIn marketing uitbesteden: wat levert het op?"
+  },
+  {
+   "domain": "searchspotlightsolutions.nl",
+   "url": "https://searchspotlightsolutions.nl/wat-kost-social-media-uitbesteden/",
+   "title": "Wat kost social media uitbesteden? Prijzen 2026"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/posten-op-linkedin",
+   "title": "Posten op LinkedIn: zelf doen of uitbesteden? - GHO Agency"
+  },
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "zoutmedia.nl",
+   "url": "https://zoutmedia.nl/linkedin-uitbesteden/",
+   "title": "LinkedIn uitbesteden - Hoe werkt het en wat kost het?"
+  },
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-adverteren-kosten-wat-betaal-je-echt/",
+   "title": "LinkedIn adverteren kosten: wat betaal je echt?"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/kosten/wat-kost-linkedin-adverteren",
+   "title": "Wat Kost LinkedIn Adverteren in 2026? Prijzen, CPC ..."
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "id": "P01",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Welke bureaus of specialisten in Nederland helpen B2B-MKB bedrijven met autoriteit opbouwen op LinkedIn? Noem concrete namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van concrete bureaus en specialisten in Nederland die B2B-MKB bedrijven helpen met het opbouwen van autoriteit op LinkedIn. De selectie is gebaseerd op recente informatie (2026) en richt zich op partijen die zich expliciet richten op LinkedIn-strategie, content, thought leadership, leadgeneratie of positionering via dit platform.\n\n---\n\n**1. iReclam**  \n- Gespecialiseerd LinkedIn-marketingbureau voor B2B-MKB in heel Nederland.  \n- Biedt diensten zoals gerichte LinkedIn Ads, thought leadership content, en bedrijfspagina-optimalisatie.  \n- Resultaatgericht met maandelijkse rapportage en geen contractverplichting. ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai))\n\n**2. Amelung Marketing**  \n- Richt zich specifiek op technische B2B-bedrijven.  \n- Biedt een complete LinkedIn-aanpak: doelgroepanalyse, profieloptimalisatie, contentcreatie, netwerkuitbreiding.  \n- Maakt zichtbaar als kennisexpert en genereert structureel afspraken en naamsbekendheid. ([amelungmarketing.nl](https://amelungmarketing.nl/?utm_source=openai))\n\n**3. Strategie.nl (Bouke Majoor)**  \n- Senior online marketing specialist uit Groningen met focus op MKB.  \n- Biedt socialmediastrategie inclusief LinkedIn: strategie voor bedrijfspagina én sleutelpersonen, wekelijkse content, LinkedIn Ads, en maandelijkse rapportage op leads. ([strategie.nl](https://strategie.nl/social/?utm_source=openai))\n\n**4. Gold Lemon**  \n- B2B-marketingbureau voor MKB met lange salescycli.  \n- LinkedIn is het hoofdkanaal voor contentmarketing.  \n- Biedt SEO, contentmarketing, leadgeneratie en LinkedIn-aanwezigheid in één geïntegreerd systeem. ([goldlemon.nl](https://goldlemon.nl/b2b-marketing-bureau/?utm_source=openai))\n\n**5. Merkelijkheid**  \n- Groeipartner voor B2B-MKB, gevestigd in Halfweg.  \n- Combineert strategie, contentcreatie, online marketing, dashboards en AI-tools.  \n- Gericht op geïntegreerde groeimachine, inclusief LinkedIn als onderdeel van online marketing. ([nl.linkedin.com](https://nl.linkedin.com/company/merkelijkheid?utm_source=openai))\n\n**6. Make Marketing Magic**  \n- B2B-marketingbureau in Amsterdam.  \n- Werkt via maandabonnement: content, advertising en leadgeneratie.  \n- Hoewel niet exclusief LinkedIn, biedt het wel contentmarketing en paid social, wat vaak LinkedIn omvat. ([marketingburos.nl](https://www.marketingburos.nl/bureau/make-marketing-magic-bv-509928?utm_source=openai))\n\n**7. MarketingXperts (via platform)**  \n- Platform dat diverse bureaus matcht op basis van expertise.  \n- Enkele voorbeelden met LinkedIn-marketing:  \n  - Dapper – The Demand Agency (Rotterdam)  \n  - Tasmanic (Eindhoven)  \n  - Unmuted (Amsterdam)  \n  - Red Panda Works (Amsterdam)  \n  - Fingerspritz (Eindhoven/Breda)  \n  - PostAds (Breda) ([marketingxperts.nl](https://www.marketingxperts.nl/linkedin/?utm_source=openai))\n\n---\n\n**Kort overzicht per bureau:**\n\n- **iReclam** – LinkedIn-specialist voor B2B-MKB, inclusief Ads en thought leadership.  \n- **Amelung Marketing** – Technische B2B-focus, complete LinkedIn-aanpak.  \n- **Strategie.nl (Bouke Majoor)** – Senior marketeer, strategie + uitvoering voor bedrijf en personen.  \n- **Gold Lemon** – Inzet van LinkedIn als kernkanaal binnen geïntegreerd B2B-marketingmodel.  \n- **Merkelijkheid** – Geïntegreerde groeistrategie met LinkedIn als onderdeel van bredere aanpak.  \n- **Make Marketing Magic** – Maandabonnement voor content en advertising, inclusief LinkedIn.  \n- **MarketingXperts-platform** – Diverse bureaus met LinkedIn-marketingexpertise in verschillende regio’s.\n\n---\n\n**Aanbeveling:**  \nKijk goed naar je specifieke behoeften: wil je vooral thought leadership en content, of juist leadgeneratie via Ads? Heb je een technische niche of juist brede B2B-markt? Kies een bureau dat past bij jouw branche, budget en gewenste aanpak. Laat het me weten als je hulp wilt bij het vergelijken of contact opnemen met een van deze partijen!",
+ "entities": [
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 1,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "Amelung Marketing",
+   "type": "bureau",
+   "position": 2,
+   "domain": "amelungmarketing.nl"
+  },
+  {
+   "name": "Strategie.nl",
+   "type": "bureau",
+   "position": 3,
+   "domain": "strategie.nl"
+  },
+  {
+   "name": "Bouke Majoor",
+   "type": "persoon",
+   "position": 4,
+   "domain": "strategie.nl"
+  },
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 5,
+   "domain": "goldlemon.nl"
+  },
+  {
+   "name": "Merkelijkheid",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Make Marketing Magic",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "MarketingXperts",
+   "type": "platform",
+   "position": 8,
+   "domain": "marketingxperts.nl"
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Tasmanic",
+   "type": "bureau",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Unmuted",
+   "type": "bureau",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Fingerspritz",
+   "type": "bureau",
+   "position": 13,
+   "domain": null
+  },
+  {
+   "name": "PostAds",
+   "type": "bureau",
+   "position": 14,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  },
+  {
+   "domain": "amelungmarketing.nl",
+   "url": "https://amelungmarketing.nl/",
+   "title": "Amelung. - LinkedIn Marketing Bureau"
+  },
+  {
+   "domain": "strategie.nl",
+   "url": "https://strategie.nl/social/",
+   "title": "Social Media Strategie LinkedIn & Instagram | Strategie.nl"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/b2b-marketing-bureau/",
+   "title": "B2B Marketingbureau voor MKB | Gold Lemon"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/merkelijkheid",
+   "title": "Merkelijkheid | LinkedIn"
+  },
+  {
+   "domain": "marketingburos.nl",
+   "url": "https://www.marketingburos.nl/bureau/make-marketing-magic-bv-509928",
+   "title": "Make Marketing Magic, marketingbureau in Amsterdam · Marketingburos"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "Linkedin marketing bureau specialisten - MarketingXperts"
+  }
+ ]
+}

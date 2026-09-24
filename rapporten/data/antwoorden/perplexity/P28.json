@@ -1,0 +1,161 @@
+{
+ "id": "P28",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Hoe meet je of je autoriteit op LinkedIn groeit? Welke Nederlandse experts of bureaus schrijven hierover?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Je meet groei van **autoriteit op LinkedIn** vooral aan signalen van *zichtbaarheid, vertrouwen en inbound interesse*: meer **profielbezoeken**, **inbound berichten**, **klikacties**, relevante **comments/saves**, en vaker genoemd worden als expert binnen je niche.[16][9][1] Nederlandse bronnen benadrukken daarnaast dat autoriteit niet één “harde score” heeft, maar ontstaat uit een combinatie van **consistentie**, **inhoudelijke diepgang**, **een scherp profiel** en **relevante interactie**.[4][6][3]\n\nPraktisch kun je dit meten met deze indicatoren:\n- **Profielbezoeken**: stijgen mensen je profiel vaker binnen na posts of comments?[16][8]\n- **Inbound DM’s / aanvragen**: krijg je meer vragen, kennismakingen of samenwerkingen zonder dat je zelf eerst contact zoekt?[16][7]\n- **Postprestaties**: groeien **weergaven, reacties, saves en klikken**, vooral op posts die je expertise laten zien?[9][16]\n- **Kwaliteit van engagement**: reageren mensen inhoudelijk, stellen ze vragen en verwijzen ze naar jouw expertise?[1][4]\n- **Herkenning in je niche**: word je vaker getagd, geciteerd of uitgenodigd voor gesprekken, podcasts of bijdragen?[6][11]\n- **Contentconsistentie**: bouw je zichtbaar rondom vaste thema’s en een duidelijke positionering?[1][4][11]\n\nWelke Nederlandse experts of bureaus schrijven hierover:\n- **Frankwatching**: legt uit dat autoriteit op LinkedIn wordt gebouwd met **bewijs, consistentie en authenticiteit**.[6]\n- **Leadworks**: schrijft over autoriteit via **professionele social selling**, met nadruk op **consistentie, specificiteit, praktijkkennis en interactie**.[4]\n- **BlinktUit**: behandelt LinkedIn-autoriteit in relatie tot **netwerk, content, gesprek en consistentie**.[3]\n- **Skillable**: noemt **regelmatige publicaties**, deelname aan discussies en netwerkopbouw als basis voor autoriteit.[7]\n- **ContentKantoor**: koppelt autoriteit aan het **LinkedIn-algoritme**, met focus op **niche, consistentie en echte gesprekken**.[10]\n- **Linqed.io**: publiceert over **thought leadership** en noemt **niche, publicatiefrequentie en engagement** als kernfactoren.[11]\n- **Team Lewis Nederland**: bespreekt in 2026 vooral **thematische consistentie**, **dwell time** en **saves** als moderne signalen van autoriteit.[9]\n- **Informatiegidsen Nederland**: noemt expliciet meetpunten zoals **profielbezoeken, inbound berichten en klikacties**.[16]\n\nAls je wilt, kan ik hierna ook een **klein LinkedIn-dashboard** voor je maken met 5 KPI’s om autoriteitsgroei per maand te volgen.",
+ "entities": [
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 1,
+   "domain": "frankwatching.com"
+  },
+  {
+   "name": "Leadworks",
+   "type": "bureau",
+   "position": 2,
+   "domain": "leadworks.nl"
+  },
+  {
+   "name": "BlinktUit",
+   "type": "bureau",
+   "position": 3,
+   "domain": "blinktuit.nl"
+  },
+  {
+   "name": "Skillable",
+   "type": "bureau",
+   "position": 4,
+   "domain": "skillable.nl"
+  },
+  {
+   "name": "ContentKantoor",
+   "type": "bureau",
+   "position": 5,
+   "domain": "contentkantoor.nl"
+  },
+  {
+   "name": "Linqed",
+   "type": "tool",
+   "position": 6,
+   "domain": "linqed.io"
+  },
+  {
+   "name": "TEAM LEWIS",
+   "type": "bureau",
+   "position": 7,
+   "domain": "teamlewis.com"
+  },
+  {
+   "name": "Informatiegidsen Nederland",
+   "type": "platform",
+   "position": 8,
+   "domain": "informatiegidsen-nederland.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/top-content/career/building-professional-credibility/how-to-build-authority-on-linkedin/",
+   "title": "How to Build Authority on LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/muazma-batool_how-to-build-authority-on-linkedin-from-scratch-activity-7333107208701771778-9Q0b",
+   "title": "How to build authority on LinkedIn from scratch | Muazma ..."
+  },
+  {
+   "domain": "blinktuit.nl",
+   "url": "https://www.blinktuit.nl/blogs/linkedin-autoriteit-opbouwen/",
+   "title": "LinkedIn en SEO: Waarom deze kanalen zo op elkaar lijken - BlinktUit"
+  },
+  {
+   "domain": "leadworks.nl",
+   "url": "https://leadworks.nl/hoe-snel-bouw-je-autoriteit-op-via-professionele-social-selling/",
+   "title": "Hoe snel bouw je autoriteit op via professionele social selling? - Leadworks"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/top-content/career/building-professional-credibility/how-to-build-authority-with-content/",
+   "title": "How to Build Authority with Content"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/10/22/autoriteit-op-linkedin-geloofwaardigheid/",
+   "title": "Voorkom deze fout voor je autoriteit op LinkedIn - Frankwatching"
+  },
+  {
+   "domain": "skillable.nl",
+   "url": "https://skillable.nl/blog/succes-op-linkedin-werk-aan-vertrouwen-en-autoriteit/",
+   "title": "Succes op LinkedIn: Werk aan vertrouwen en autoriteit - Skillable"
+  },
+  {
+   "domain": "ranktracker.com",
+   "url": "https://www.ranktracker.com/nl/blog/building-brand-authority-on-linkedin-5-proven-strategies-to-establish-yourself-as-a-thought-leader/",
+   "title": "Merkautoriteit opbouwen op LinkedIn"
+  },
+  {
+   "domain": "teamlewis.com",
+   "url": "https://www.teamlewis.com/nl/magazine/thought-leadership-op-linkedin/",
+   "title": "Thought leadership op LinkedIn in 2026: evolutie"
+  },
+  {
+   "domain": "contentkantoor.nl",
+   "url": "https://contentkantoor.nl/linkedin-algoritme-2025/",
+   "title": "LinkedIn algoritme 2025: wat werkt nog (en wat niet meer)"
+  },
+  {
+   "domain": "linqed.io",
+   "url": "https://linqed.io/academy/thought-leadership-linkedin-autoriteit-opbouwen",
+   "title": "Thought Leadership op LinkedIn | Autoriteit Opbouwen - Linqed.io"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/blog/linkedin-thought-leadership",
+   "title": "LinkedIn Thought Leadership: How to Build Authority in 2026"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/hoe-genereer-je-leads-via-linkedin-franck-fielemon-grmbf",
+   "title": "Hoe genereer je leads via LinkedIn?"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/waarom-niemand-zit-te-wachten-op-jouw-expertise-en-hoe-je-dat-verandert/",
+   "title": "Waarom niemand zit te wachten op jouw expertise (en hoe ..."
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "LinkedIn Thought Leadership: Hoe je autoriteit opbouwt in ..."
+  },
+  {
+   "domain": "informatiegidsen-nederland.nl",
+   "url": "https://informatiegidsen-nederland.nl/algemeen/thought-leadership-linkedin/",
+   "title": "Thought leadership op LinkedIn: van visie naar zichtbare autoriteit"
+  },
+  {
+   "domain": "money.udn.com",
+   "url": "https://money.udn.com/money/story/122331/9752096",
+   "title": "數位行銷／善用 LinkedIn 把人脈變金脈 | 經營管理 | OFF學 | 經濟日報"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/monday-wonderings-49-3-manieren-om-te-zorgen-dat-je-eigen-de-raedt-4ugje",
+   "title": "Monday Wonderings #49: 3 manieren om te zorgen dat je LinkedIn-profiel autoriteit uitstraalt + eigen voorbeeld"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/d%C3%A9-kracht-van-linkedin-business-een-handleiding-voor-fielemon",
+   "title": "Dé kracht van LinkedIn for Business - een handleiding"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/hoe-je-een-autoriteit-wordt-op-linkedin-maurice-van-dinther",
+   "title": "Hoe je een autoriteit wordt op LinkedIn"
+  }
+ ]
+}

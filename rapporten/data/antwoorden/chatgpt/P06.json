@@ -1,0 +1,169 @@
+{
+ "id": "P06",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Wie helpt in Nederland ondernemers met personal branding op LinkedIn? Noem bureaus en coaches.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een actueel overzicht (september 2026) van bureaus en coaches in Nederland die ondernemers helpen met personal branding op LinkedIn. Ik heb per organisatie kort beschreven wat ze doen en waar ze gevestigd zijn.\n\nBureaus en coaches in Nederland die ondernemers helpen met personal branding op LinkedIn:\n\n• Image Companion (Alphen aan den Rijn) – Gespecialiseerd in trainingen op het gebied van persoonlijke presentatie, zichtbaarheid en personal branding.([nl.linkedin.com](https://nl.linkedin.com/company/imagecompanion?utm_source=openai))  \n• Het Plan Personal Branding (Spaarndam-West) – Janke Papa helpt zelfstandig trainers, coaches en consultants met personal branding, online marketing en business coaching.([nl.linkedin.com](https://nl.linkedin.com/company/het-plan-personal-branding?utm_source=openai))  \n• Stassar Branding & Coaching (Eindhoven) – Sandra Stassar biedt personal branding, contentstrategie, communicatie, coaching en training aan ondernemers.([nl.linkedin.com](https://nl.linkedin.com/company/stassar-branding-coaching?utm_source=openai))  \n• Het Personal Branding Instituut – Het eerste full-service personal branding instituut in Nederland, met een team van strategen, fotografen, videografen, copywriters, stylisten en coaches.([personalbrandinginstituut.nl](https://www.personalbrandinginstituut.nl/?utm_source=openai))  \n• PersonalBranding (via Bureaubeaufort, Amsterdam) – Biedt personal branding diensten aan professionals, met een focus op het ontwikkelen van een sterk persoonlijk merk.([nl.linkedin.com](https://nl.linkedin.com/showcase/personalbranding/?utm_source=openai))  \n• The Alliance (Eindhoven) – Personal branding bureau voor missiegedreven ondernemers (wereldverbeteraars), met strategie, zichtbaarheid en content als kern.([the-alliance.nl](https://www.the-alliance.nl/?utm_source=openai))  \n• BLinked.Studio – Gespecialiseerd in LinkedIn: personal branding van ondernemers en medewerkers, branding van kantoren, leadgeneratie en training.([consultancy.nl](https://www.consultancy.nl/adviesbureaus/blinkedstudio?utm_source=openai))  \n• ID ELEVN – Biedt LinkedIn ghostwriting, personal branding, profieloptimalisatie, contentstrategie, planning en beheer voor ondernemers.([id-elevn.nl](https://www.id-elevn.nl/?utm_source=openai))  \n• Doelgroepbereikt (Joure) – LinkedIn coaching op maat voor ondernemers en teams, inclusief personal branding, zichtbaarheid, social selling en contentcreatie.([doelgroepbereikt.nl](https://doelgroepbereikt.nl/linkedin/linkedin-coaching/?utm_source=openai))  \n• Buro Aangenaam – Helpt directeuren en managers met personal branding via LinkedIn, inclusief contentcreatie, columns, profieloptimalisatie en rapportage.([buroaangenaam.nl](https://buroaangenaam.nl/diensten/personal-branding/?utm_source=openai))  \n• Kleurkeuze Image Consulting (Amsterdam) – Imago coach en trainer die personal branding combineert met kleuradvies en stijladvies.([nl.linkedin.com](https://nl.linkedin.com/company/kleurkeuze?utm_source=openai))  \n• ReBBels (Jocelyn Rebbens) – Brandingbureau met expertise in communicatie, personal branding, praktische psychologie en ondernemerschap, via advies, training en coaching.([rebbels.com](https://rebbels.com/wp-content/uploads/2024/10/Powerboek-Personal-Branding-JR-2012.pdf?utm_source=openai))  \n\nSamenvattend:\n\n- Full-service instituten zoals Het Personal Branding Instituut bieden een geïntegreerde aanpak met een team van specialisten.\n- Bureaus zoals The Alliance richten zich op missiegedreven ondernemers.\n- LinkedIn-specialisten zoals BLinked.Studio en ID ELEVN bieden specifieke diensten zoals ghostwriting, beheer en leadgeneratie.\n- Coaches en kleinere bureaus zoals Het Plan, Stassar, Buro Aangenaam en ReBBels bieden meer persoonlijke begeleiding en maatwerk.\n- Kleurkeuze voegt een visuele en imago-component toe aan personal branding.\n\nLaat me weten als je interesse hebt in een specifieke aanpak of regio, dan kan ik je verder helpen met bijvoorbeeld contactgegevens of een vergelijking op basis van tarieven en werkwijze.",
+ "entities": [
+  {
+   "name": "Image Companion",
+   "type": "bureau",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Het Plan Personal Branding",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Janke Papa",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Stassar Branding & Coaching",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Het Personal Branding Instituut",
+   "type": "bureau",
+   "position": 6,
+   "domain": "personalbrandinginstituut.nl"
+  },
+  {
+   "name": "PersonalBranding",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Bureaubeaufort",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "The Alliance",
+   "type": "bureau",
+   "position": 9,
+   "domain": "the-alliance.nl"
+  },
+  {
+   "name": "BLinked.Studio",
+   "type": "bureau",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "ID ELEVN",
+   "type": "bureau",
+   "position": 11,
+   "domain": "id-elevn.nl"
+  },
+  {
+   "name": "Doelgroepbereikt",
+   "type": "bureau",
+   "position": 12,
+   "domain": "doelgroepbereikt.nl"
+  },
+  {
+   "name": "Buro Aangenaam",
+   "type": "bureau",
+   "position": 13,
+   "domain": "buroaangenaam.nl"
+  },
+  {
+   "name": "Kleurkeuze Image Consulting",
+   "type": "bureau",
+   "position": 14,
+   "domain": null
+  },
+  {
+   "name": "ReBBels",
+   "type": "bureau",
+   "position": 15,
+   "domain": "rebbels.com"
+  },
+  {
+   "name": "Jocelyn Rebbens",
+   "type": "persoon",
+   "position": 16,
+   "domain": "rebbels.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/imagecompanion",
+   "title": "Image Companion | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/het-plan-personal-branding",
+   "title": "Het Plan Personal Branding | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/stassar-branding-coaching",
+   "title": "Stassar Branding & Coaching | LinkedIn"
+  },
+  {
+   "domain": "personalbrandinginstituut.nl",
+   "url": "https://www.personalbrandinginstituut.nl/",
+   "title": "Het Personal Branding Instituut | Wij bouwen echte merken van mensen."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/showcase/personalbranding/",
+   "title": "PersonalBranding | LinkedIn"
+  },
+  {
+   "domain": "the-alliance.nl",
+   "url": "https://www.the-alliance.nl/",
+   "title": "Personal Branding bureau voor impactondernemers"
+  },
+  {
+   "domain": "consultancy.nl",
+   "url": "https://www.consultancy.nl/adviesbureaus/blinkedstudio",
+   "title": "BLinked.Studio | Consultancy Nederland"
+  },
+  {
+   "domain": "id-elevn.nl",
+   "url": "https://www.id-elevn.nl/",
+   "title": "ID ELEVN | Personal branding & LinkedIn beheer"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/linkedin/linkedin-coaching/",
+   "title": "LinkedIn coaching op maat | Voor ondernemers en teams"
+  },
+  {
+   "domain": "buroaangenaam.nl",
+   "url": "https://buroaangenaam.nl/diensten/personal-branding/",
+   "title": "Hulp nodig bij personal branding? Buro Aangenaam helpt jou graag!"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/kleurkeuze",
+   "title": "Kleurkeuze Image Consulting | LinkedIn"
+  },
+  {
+   "domain": "rebbels.com",
+   "url": "https://rebbels.com/wp-content/uploads/2024/10/Powerboek-Personal-Branding-JR-2012.pdf",
+   "title": "Personal branding"
+  }
+ ]
+}

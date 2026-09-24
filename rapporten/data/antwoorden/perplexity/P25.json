@@ -1,0 +1,139 @@
+{
+ "id": "P25",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Hoe haal ik als B2B-bedrijf leads uit LinkedIn zonder advertenties? Noem Nederlandse bureaus of bronnen die dit uitleggen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als B2B-bedrijf haal je leads uit LinkedIn **zonder advertenties** vooral via een combinatie van **profieloptimalisatie, relevante content, actief netwerken, gepersonaliseerde outreach en strakke opvolging**. Nederlandse bronnen leggen dit vooral uit als *social selling* of een leadgeneratie-systeem met autoriteit, zichtbaarheid en vertrouwen.[1][10][16]\n\nDe kernaanpak is meestal deze:\n- **Optimaliseer je profiel en bedrijfspagina** zodat direct duidelijk is voor wie je werkt en welk probleem je oplost.[8][9]\n- **Plaats consistente content** die expertise laat zien, bijvoorbeeld cases, inzichten, standpunten en probleemherkenning.[1][10]\n- **Ga gericht in gesprek** met prospects door hun content te liken, erop te reageren en daarna pas een gepersonaliseerd connectieverzoek of DM te sturen.[12][13]\n- **Gebruik LinkedIn Sales Navigator** om doelgroepen te filteren en lijsten van prospects op te bouwen.[8][9][16]\n- **Werk met opvolging in CRM of salesproces** zodat reacties, meetings en deals worden bijgehouden.[4][7]\n\nNederlandse bureaus en bronnen die dit uitleggen:\n- **Sculpt Studios**: beschrijft een LinkedIn leadgeneratie-systeem voor Nederlandse B2B-founders met content, engagement en opvolging.[1]\n- **YouLynq**: biedt B2B leadgeneratie via LinkedIn en noemt expliciet dat zij het eerste contact met leads ondersteunen.[2]\n- **COSEOM**: legt uit wat werkt in de Nederlandse B2B-markt en benadrukt het fundament en CRM-opvolging.[4]\n- **Salesflare**: geeft praktische uitleg over LinkedIn leadgeneratie, profilering, Sales Navigator en social proof.[8][14][16]\n- **MagicPost**: deelt tactieken rond social selling, korte DM’s en opvolging zonder koude salesaanpak.[5]\n- **Leadinfo**: publiceert een actieplan voor social selling via LinkedIn voor B2B-bedrijven.[16]\n\nAls je wilt, kan ik hier ook een **concreet 30-dagen LinkedIn-prospectieplan zonder advertenties** van maken, specifiek voor jouw sector.",
+ "entities": [
+  {
+   "name": "Sculpt Studios",
+   "type": "bureau",
+   "position": 1,
+   "domain": "sculptstudios.nl"
+  },
+  {
+   "name": "YouLynq",
+   "type": "bureau",
+   "position": 2,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "COSEOM",
+   "type": "bureau",
+   "position": 3,
+   "domain": "coseom.com"
+  },
+  {
+   "name": "Salesflare",
+   "type": "tool",
+   "position": 4,
+   "domain": "salesflare.com"
+  },
+  {
+   "name": "MagicPost",
+   "type": "tool",
+   "position": 5,
+   "domain": "magicpost.in"
+  },
+  {
+   "name": "Leadinfo",
+   "type": "tool",
+   "position": 6,
+   "domain": "leadinfo.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "Hoe Nederlandse B2B-founders leads genereren via LinkedIn ..."
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/b2b-leadgeneratie/",
+   "title": "B2B Leadgeneratie via LinkedIn | Meer kwalitatieve leads"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/vijf-manieren-om-leads-te-genereren-op-linkedin-franck-fielemon",
+   "title": "Vijf manieren om leads te genereren op LinkedIn"
+  },
+  {
+   "domain": "coseom.com",
+   "url": "https://www.coseom.com/nl/b2b-leadgeneratie/",
+   "title": "B2B-leadgeneratie: wat werkt in de Nederlandse markt | COSEOM®"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/hoe-om-b2b-leads-te-generatoren-op-linkedin",
+   "title": "Hoe B2B-leads te genereren op LinkedIn - MagicPost"
+  },
+  {
+   "domain": "lemlist.com",
+   "url": "https://www.lemlist.com/nl/blog/linkedin-lead-generation-tools",
+   "title": "Top 11 tools voor het genereren van leads op LinkedIn in ..."
+  },
+  {
+   "domain": "business.linkedin.com",
+   "url": "https://business.linkedin.com/advertise/resources/lead-generation",
+   "title": "Lead Generation | LinkedIn Marketing Solutions"
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/linkedin-leadgeneratie",
+   "title": "LinkedIn Leads Genereren: Hoe kwaliteitsleads genereren [2026]"
+  },
+  {
+   "domain": "folk.app",
+   "url": "https://www.folk.app/nl/articles/linkedin-b2b-lead-generation",
+   "title": "LinkedIn B2B-leadgeneratie: 11 strategieën (2026)"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/hoe-genereer-je-leads-via-linkedin-franck-fielemon-grmbf",
+   "title": "Hoe genereer je leads via LinkedIn?"
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/b2b-bedrijven-voor-het-genereren-van-leads",
+   "title": "20+ beste bedrijven en diensten voor B2B-leadgeneratie ..."
+  },
+  {
+   "domain": "ecommercefastlane.com",
+   "url": "https://ecommercefastlane.com/nl/LinkedIn-voor-B2B-leadgeneratie/",
+   "title": "Hoe LinkedIn te gebruiken voor B2B-leadgeneratie zonder spam te zijn | Ecommerce Fastlane"
+  },
+  {
+   "domain": "thunderbit.com",
+   "url": "https://thunderbit.com/nl/blog/linkedin-lead-gen-strategies",
+   "title": "Top 30 LinkedIn Lead Gen Strategieën om Meer Leads te ..."
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/hoofdlijst",
+   "title": "Hoe je jouw B2B-leadlijst opbouwt - Salesflare Blog"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/klinge-leads-",
+   "title": "Paul Klinge | LinkedIn"
+  },
+  {
+   "domain": "leadinfo.com",
+   "url": "https://www.leadinfo.com/nl/blog/social-selling-via-linkedin-het-ultieme-actieplan-voor-b2b-bedrijven/",
+   "title": "Social Selling via LinkedIn: Het ultieme actieplan voor B2B ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/hoe-je-dagelijks-de-beste-leads-krijgt-via-linkedin-7-succesvolle-",
+   "title": "Hoe je dagelijks de beste Leads krijgt via LinkedIn: 7 succesvolle strategieën voor het genereren van leads"
+  },
+  {
+   "domain": "business.linkedin.com",
+   "url": "https://business.linkedin.com/nl-nl/marketing-solutions/lead-generation",
+   "title": "Advertenties voor het genereren van leads"
+  }
+ ]
+}

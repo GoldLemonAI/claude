@@ -1,0 +1,56 @@
+{
+ "id": "P29",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Wat is thought leadership op LinkedIn en hoe begint een MKB-ondernemer ermee? Noem Nederlandse voorbeelden en bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "### Wat is Thought Leadership op LinkedIn?\n\n**Thought leadership** is `het strategisch delen van je expertise, visie en unieke inzichten om jezelf of je bedrijf te vestigen als een gezaghebbende autoriteit in je vakgebied`.[[1]](https://nl.linkedin.com/pulse/what-thought-leadership-content-how-create-strategy-rachel-b-lee?tl=nl)[[2]](https://nl.linkedin.com/pulse/5-steps-build-thought-leadership-strategy-linkedin-purpleplanet-bdqpc?tl=nl)\n\n- **Geen platte reclame:** Het draait niet om het direct verkopen van je producten of diensten, maar om het helpen van je doelgroep. Je deelt meningen over markttrends, geeft antwoord op complexe vraagstukken en durft een uitgesproken (onderbouwd) standpunt in te nemen.[[1]](https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/)[[2]](https://nl.linkedin.com/pulse/what-thought-leadership-content-how-create-strategy-rachel-b-lee?tl=nl)\n- **Mens-tot-mens:** Op LinkedIn volgen mensen *mensen* , geen logo’s. Als MKB-ondernemer ben jij het gezicht van je onderneming; jouw persoonlijke profiel is hiervoor het krachtigste middel.[[1]](https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/)\n\n### Hoe begint een MKB-ondernemer ermee? (Stappenplan)\n\nAls ondernemer heb je het druk. Een vliegende start op LinkedIn vraagt om focus in plaats van tijdverspilling:\n\n1. **Kies je niche en kernwaardes:** Probeer niet overal iets van te vinden. Focus op 2 à 3 sub-onderwerpen binnen jouw vakgebied waar je echt verstand van hebt en een passie voor deelt.\n2. **Deel je perspectief, geen open deuren:** Iedereen kan een algemeen nieuwsbericht delen. Voeg waarde toe door te vertellen *wat dit betekent voor jouw klanten of branche* . (\"Dit is de trend, en dit is waarom 90% van de bedrijven dit verkeerd aanpakt...\").[[1]](https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/)\n3. **Kwaliteit boven kwantiteit:** Post liever 1 à 2 keer per week een doordachte, diepgaande post dan elke dag een loze kreet. Gebruik afwisselend:\n\t- Tekstposts met een prikkelende openingszin (hook).\n\t- Persoonlijke verkenningen van een mislukking of geleerde les.\n\t- Carrousels (PDF's) met praktische stappenplannen.[[1]](https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/)\n4. **Ga de interactie aan:** Thought leadership is een tweerichtingsverkeer. Reageer actief en inhoudelijk op posts van andere experts in jouw sector. Beantwoord elke reactie onder je eigen posts om het algoritme én de relatie te voeden.\n\n### Nederlandse voorbeelden\n\n- **Cor Hospes:** Bekend als expert in storytelling en marketing. Hij deelt op persoonlijke en vaak rebelse wijze inzichten over menselijke communicatie in het bedrijfsleven.\n- **MKB-ondernemers & DGA's:** Veel succesvolle MKB-ers in bijvoorbeeld de IT, de bouw of de zakelijke dienstverlening gebruiken hun eigen naam om openheid te geven over de uitdagingen van het ondernemerschap (personeelstekorten, AI-integratie, opvolging). Ze bouwen daarmee direct lokaal en nationaal gunfactor en opdrachten op.\n\n### Relevante bronnen & verder lezen\n\n- Lees praktische handvatten en diepgaande analyses over B2B-content via [Frankwatching](https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/).\n- Bekijk inzichten over hoe je als ondernemer impact maakt op [Kennisleiderschap.nl](https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/).\n- Verdiep je in de theoretische definitie en achtergrond via de officiële [LinkedIn Marketing Blog](https://www.linkedin.com/business/marketing/blog/content-marketing/7-examples-of-powerful-thought-leadership-on-linkedin).[[1]](https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/)[[2]](https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/)[[3]](https://www.linkedin.com/business/marketing/blog/content-marketing/7-examples-of-powerful-thought-leadership-on-linkedin)\n\nWil je dat we samen een **concreet contentplan** of een **eerste conceptpost** opstellen voor jouw specifieke MKB-bedrijf? Vertel me dan kort **wat je bedrijf doet** en **wie je doelgroep is**.",
+ "entities": [
+  {
+   "name": "Cor Hospes",
+   "type": "persoon",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "domain": "frankwatching.com",
+   "position": 2
+  },
+  {
+   "name": "Kennisleiderschap.nl",
+   "type": "platform",
+   "domain": "kennisleiderschap.nl",
+   "position": 3
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/what-thought-leadership-content-how-create-strategy-rachel-b-lee?tl=nl",
+   "title": "Wat is de inhoud van thought leadership en hoe creëer je een ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/5-steps-build-thought-leadership-strategy-linkedin-purpleplanet-bdqpc?tl=nl",
+   "title": "5 stappen om een thought leadership-strategie op LinkedIn op ..."
+  },
+  {
+   "domain": "kennisleiderschap.nl",
+   "url": "https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/",
+   "title": "Zo word je als mkb'er thought leader in je niche"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/",
+   "title": "B2B-thought leadership op LinkedIn: 7 tips om wél impact te ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/content-marketing/7-examples-of-powerful-thought-leadership-on-linkedin",
+   "title": "7 Examples of Powerful Thought Leadership on LinkedIn"
+  }
+ ]
+}

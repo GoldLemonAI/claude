@@ -1,0 +1,121 @@
+{
+ "id": "P17",
+ "engine": "chatgpt",
+ "cat": "expert",
+ "prompt": "Wie zijn in Nederland de experts op het gebied van social selling via LinkedIn voor B2B?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van toonaangevende Nederlandse experts en organisaties op het gebied van social selling via LinkedIn voor B2B. Deze professionals onderscheiden zich door hun ervaring, methodieken en bewezen resultaten:\n\n• **Corinne Keijzer (Digital Moves)**  \n  Corinne Keijzer is een van de bekendste en meest ervaren LinkedIn-experts in Nederland. Vanuit haar bedrijf Digital Moves geeft zij sinds 2010 trainingen en sprekerssessies op het gebied van social selling, employee advocacy, contentmarketing en personal branding. Ze is auteur van bestsellers zoals *Meer succes met LinkedIn!* en *400 tips en ideeën voor je LinkedIn-posts*, en haar gratis LinkedIn-handleiding is zeer bekend in Nederland ([managementboek.nl](https://www.managementboek.nl/auteur/25943?utm_source=openai)).\n\n• **Marc van der Woude & Jonathan Fokker (LinkedIn voor Ondernemers)**  \n  Dit duo vormt het gezicht van LinkedIn voor Ondernemers, een organisatie die sinds 2010 Nederlandse ondernemers en mkb ondersteunt met LinkedIn-strategie. Marc van der Woude is gespecialiseerd in sales-strategie via LinkedIn en contentkalenders voor het mkb, terwijl Jonathan Fokker zich richt op LinkedIn-advertenties, recruitment-strategie en algoritme-inzichten ([linkedinvoorondernemers.nl](https://linkedinvoorondernemers.nl/overons/?utm_source=openai)).\n\n• **Richard van der Blom (Just Connecting BV)**  \n  Richard van der Blom is een veelgevraagd LinkedIn- en social selling-expert. Hij heeft sinds 2009 meer dan 500 bedrijven in binnen- en buitenland geholpen met LinkedIn voor sales en marketing. Hij ontwikkelde de B.E.S.T. Social Selling-methodiek en de S.T.E.P.S. Social Selling-strategie. Daarnaast is hij lid van een Europese LinkedIn-denktank en meerdere jaren verkozen tot Top-5 spreker NIMA ([marketingfacts.nl](https://www.marketingfacts.nl/profiel/richard-van-der-blom/?utm_source=openai)).\n\n• **Marjolein Bongers (House of Social Media / Quality Bookings)**  \n  Marjolein Bongers is een bekende LinkedIn- en social selling-expert en veelgevraagd spreker. Ze is auteur van het boek *LinkedIn Power*, dat meerdere drukken beleefde. Ze staat bekend om haar praktische aanpak: “Niemand gaat naar huis zonder dat diegene iets geleerd heeft dat direct toepasbaar is.” ([quality-bookings.nl](https://www.quality-bookings.nl/sprekers/marjolein-bongers/?utm_source=openai)).\n\n• **Jorrit Drieënhuizen (Social Selling Coach)**  \n  Jorrit Drieënhuizen is actief als social selling coach en LinkedIn-expert in Apeldoorn. Hij biedt maatwerktrajecten aan, waaronder trainingen in LinkedIn Sales Navigator, account-based marketing, videocontent en online ambassadeurs. Hij publiceert regelmatig artikelen over praktische LinkedIn-tips ([socialsellingcoach.nl](https://socialsellingcoach.nl/?utm_source=openai)).\n\n• **Social.ONE (Haarlem)**  \n  Social.ONE is een organisatie gespecialiseerd in het gebruik van LinkedIn Sales Navigator voor B2B. Ze bieden trainingen, coaching en strategiegesprekken aan om verkoopteams te helpen betere leads te vinden in minder tijd. Ze zijn gevestigd in Haarlem en actief sinds 2007 ([nl.linkedin.com](https://nl.linkedin.com/company/social.one?utm_source=openai)).\n\n---\n\nSamenvattend:\n\nExpert / Organisatie | Specialisatie\n--- | ---\nCorinne Keijzer (Digital Moves) | Social selling, employee advocacy, contentmarketing, personal branding\nMarc van der Woude & Jonathan Fokker (LinkedIn voor Ondernemers) | LinkedIn-strategie, sales, contentkalender, advertenties, recruitment\nRichard van der Blom (Just Connecting) | Social selling methodieken (B.E.S.T., S.T.E.P.S.), keynote spreker\nMarjolein Bongers (House of Social Media) | Praktische LinkedIn-trainingen, spreker, auteur\nJorrit Drieënhuizen (Social Selling Coach) | Maatwerk social selling, Sales Navigator, ABM, videocontent\nSocial.ONE | LinkedIn Sales Navigator, leadgeneratie, coaching\n\nLaat me weten als je meer wilt weten over hun aanpak, tarieven of beschikbaarheid!",
+ "entities": [
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Marc van der Woude",
+   "type": "persoon",
+   "position": 3,
+   "domain": "linkedinvoorondernemers.nl"
+  },
+  {
+   "name": "Jonathan Fokker",
+   "type": "persoon",
+   "position": 4,
+   "domain": "linkedinvoorondernemers.nl"
+  },
+  {
+   "name": "LinkedIn voor Ondernemers",
+   "type": "bureau",
+   "position": 5,
+   "domain": "linkedinvoorondernemers.nl"
+  },
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "House of Social Media",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Quality Bookings",
+   "type": "platform",
+   "position": 10,
+   "domain": "quality-bookings.nl"
+  },
+  {
+   "name": "Jorrit Drieënhuizen",
+   "type": "persoon",
+   "position": 11,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "position": 12,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Social.ONE",
+   "type": "bureau",
+   "position": 13,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/auteur/25943",
+   "title": "Corinne Keijzer - Managementboek.nl"
+  },
+  {
+   "domain": "linkedinvoorondernemers.nl",
+   "url": "https://linkedinvoorondernemers.nl/overons/",
+   "title": "Over ons — LinkedIn voor Ondernemers"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/profiel/richard-van-der-blom/",
+   "title": "Richard van der Blom, auteur op Marketingfacts"
+  },
+  {
+   "domain": "quality-bookings.nl",
+   "url": "https://www.quality-bookings.nl/sprekers/marjolein-bongers/",
+   "title": "Marjolein Bongers als spreker | LinkedIn Spreker"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/",
+   "title": "Social Selling Coach - Voor organisaties die meer willen halen uit LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/social.one",
+   "title": "Social.ONE - LinkedIn Sales Navigator Made SImple | LinkedIn"
+  }
+ ]
+}

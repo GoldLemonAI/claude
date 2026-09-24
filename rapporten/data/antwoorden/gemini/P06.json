@@ -1,0 +1,231 @@
+{
+ "id": "P06",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Wie helpt in Nederland ondernemers met personal branding op LinkedIn? Noem bureaus en coaches.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een bloeiende markt van specialisten die ondernemers, directeuren en B2B-professionals helpen met hun **personal branding op LinkedIn**. De hulp varieert van 1-op-1 coaching en strategische trainingen tot volledige ontzorging (waarbij de content voor je wordt geschreven via *ghostwriting*). \n\nHieronder vind je een overzicht van toonaangevende bureaus en bekende coaches/experts in Nederland die zich hierop richten.\n\n---\n\n### 1. Gespecialiseerde Bureaus & Agencies\nDeze bureaus richten zich vaak op het complete plaatje: van positionering en profieloptimalisatie tot het structureel schrijven en inplannen van je LinkedIn-posts (LinkedIn-ghostwriting).\n\n*   **Personally (Amsterdam):** Een high-end bureau dat zich volledig focust op personal branding, PR en reputatiemanagement voor ondernemers, oprichters en executives. Ze bieden strategische sessies, maar treden ook op als ghostwriter om je persoonlijke tone of voice consistent op LinkedIn te vertalen.\n*   **GHO Agency:** Een strategisch B2B-marketingbureau dat gespecialiseerd is in *thought leadership* en personal branding op LinkedIn. Ze helpen ondernemers en directieleden met profieloptimalisatie, contentcreatie en professionele ghostwriting om leads te genereren.\n*   **YouLynq.me:** Dit bureau helpt professionals en ondernemers om LinkedIn strategisch in te zetten voor relatieopbouw en netwerkgroei zonder 'salesy' over te komen. Ze bieden zowel trainingen als hands-on ondersteuning.\n*   **InboxLeads:** Richt zich sterk op de combinatie van LinkedIn personal branding en leadgeneratie. Ze helpen founders en consultants bij het schrijven van autoriteitscontent en het gecontroleerd laten groeien van een relevant netwerk.\n*   **Virtuele Helden:** Een bureau dat onder leiding van **Roel Willemse** ondernemers helpt om via contentmarketing een \"heldenstatus\" (autoriteit) te bereiken in hun netwerk op LinkedIn. Ze bieden onder andere 1-op-1 coaching en een 'Personal Branding Strippenkaart'.\n\n---\n\n### 2. LinkedIn & Personal Branding Coaches (1-op-1 & Strategie)\nWerk je liever nauw samen met een individuele expert om zelf de kneepjes van het vak te leren en je eigen stem te vinden? Dan zijn deze coaches en specialisten uitstekende keuzes:\n\n*   **Richard van der Blom (Just Connecting):** Wereldwijd en in Nederland een van de absolute autoriteiten op het gebied van LinkedIn. Hij staat bekend om zijn diepgaande jaarlijkse onderzoeken naar het LinkedIn-algoritme. Hij coacht (top)ondernemers en B2B-teams om via data-driven strategieën maximale organische zichtbaarheid en social selling-succes te behalen.\n*   **Corinne Keijzer (Digital Moves):** Een van de bekendste LinkedIn-pioniers en -trainers van Nederland. Ze schreef meerdere bestsellers over LinkedIn en personal branding. Corinne helpt ondernemers om hun profiel ijzersterk in te richten en leert ze hoe ze met psychologische breinkennis content maken die écht converteert.\n*   **Sandra Stassar (Eindhoven / Brainport):** Een ervaren personal branding specialist die ondernemers, consultants en trainers helpt hun unieke 'merkidentiteit' te vertalen naar LinkedIn. Ze start vaak met een diepgaande 'personal brand scan' om jouw unieke kwaliteiten en verhalen te vangen in een concreet contentplan.\n*   **Anneke van der Voort-Kruk (PRminded):** Als personal branding coach helpt zij ondernemers om hun echte, authentieke verhaal te durven delen op LinkedIn. Haar focus ligt op het overwinnen van drempels rondom zichtbaarheid en het omzetten van die zichtbaarheid in concrete leads en klanten.\n*   **Pinar Tas (Copiene):** Een scherpe communicatieadviseur en ghostwriter die ondernemers helpt zich krachtig te positioneren. Ze schrijft geen gladde marketingteksten, maar vertaalt de visie van de ondernemer in rake en authentieke LinkedIn-posts.\n*   **Damian Altenburg (DoelgroepBereikt):** Biedt no-nonsense 1-op-1 LinkedIn-coaching voor ondernemers. Hij helpt je bij personal branding, het vergroten van je zichtbaarheid en het inzetten van handige tools (zoals Sales Navigator en AI) om tijd te besparen.\n*   **Maartje Blijleven:** Hoewel zij ook bekendstaat als community-expert, coacht ze veel ondernemers op hun persoonlijke positionering en contentstrategie online, waarbij LinkedIn een cruciale rol speelt om een trouw publiek op te bouwen.\n\n### Waar moet je op letten bij je keuze?\n1.  **Doen of leren?** Wil je het schrijven van posts volledig uitbesteden? Kies dan voor een bureau met sterke **ghostwriters** (zoals *Personally*, *GHO Agency* of *Copiene*). Wil je het juist zelf leren en een vaardigheid voor het leven opbouwen? Kies dan voor een **1-op-1",
+ "entities": [
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 1,
+   "domain": "personally.team"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 2,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "position": 3,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "InboxLeads",
+   "type": "bureau",
+   "position": 4,
+   "domain": "inboxleads.nl"
+  },
+  {
+   "name": "Virtuele Helden",
+   "type": "bureau",
+   "position": 5,
+   "domain": "virtuelehelden.nl"
+  },
+  {
+   "name": "Roel Willemse",
+   "type": "persoon",
+   "position": 6,
+   "domain": "virtuelehelden.nl"
+  },
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 7,
+   "domain": "richardvanderblom.com"
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 11,
+   "domain": "sandrastassar.nl"
+  },
+  {
+   "name": "Anneke van der Voort-Kruk",
+   "type": "persoon",
+   "position": 12,
+   "domain": "pr-minded.nl"
+  },
+  {
+   "name": "PRminded",
+   "type": "bureau",
+   "position": 13,
+   "domain": "pr-minded.nl"
+  },
+  {
+   "name": "Pinar Tas",
+   "type": "persoon",
+   "position": 14,
+   "domain": "copiene.com"
+  },
+  {
+   "name": "Copiene",
+   "type": "bureau",
+   "position": 15,
+   "domain": "copiene.com"
+  },
+  {
+   "name": "Damian Altenburg",
+   "type": "persoon",
+   "position": 16,
+   "domain": "doelgroepbereikt.nl"
+  },
+  {
+   "name": "DoelgroepBereikt",
+   "type": "bureau",
+   "position": 17,
+   "domain": "doelgroepbereikt.nl"
+  },
+  {
+   "name": "Maartje Blijleven",
+   "type": "persoon",
+   "position": 18,
+   "domain": "welovecommunities.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "inboxleads.nl",
+   "url": "https://inboxleads.nl/linkedin-personal-branding/",
+   "title": "inboxleads.nl"
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-ghostwriter/",
+   "title": "frankhusmann.nl"
+  },
+  {
+   "domain": "personally.team",
+   "url": "https://www.personally.team/",
+   "title": "personally.team"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/linkedin-ghostwriter",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/cases/linkedin-personal-branding-workshop-bij-brunel-relaties-opbouwen-zonder-te-verkopen/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "virtuelehelden.nl",
+   "url": "https://virtuelehelden.nl/personal-branding/personal-branding-coach/",
+   "title": "virtuelehelden.nl"
+  },
+  {
+   "domain": "virtuelehelden.nl",
+   "url": "https://virtuelehelden.nl/personal-branding/linkedin-marketing/",
+   "title": "virtuelehelden.nl"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=5RV3ocahva8",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "podcast.creatorscience.com",
+   "url": "https://podcast.creatorscience.com/richard-van-der-blom/",
+   "title": "creatorscience.com"
+  },
+  {
+   "domain": "virtualbadge.io",
+   "url": "https://www.virtualbadge.io/case-studies/linkedin-certificates-richard-van-der-blom",
+   "title": "virtualbadge.io"
+  },
+  {
+   "domain": "richardvanderblom.com",
+   "url": "https://richardvanderblom.com/",
+   "title": "richardvanderblom.com"
+  },
+  {
+   "domain": "dreamdata.io",
+   "url": "https://dreamdata.io/blog/linkedin-algorithm-2024-richard-van-der-blom",
+   "title": "dreamdata.io"
+  },
+  {
+   "domain": "somebooks.nl",
+   "url": "https://somebooks.nl/meer-succes-met-linkedin-corinne-keijzer/",
+   "title": "somebooks.nl"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/boek/9789083495002/handleiding-linkedin-corinne-keijzer",
+   "title": "managementboek.nl"
+  },
+  {
+   "domain": "bruna.nl",
+   "url": "https://www.bruna.nl/boeken/handleiding-linkedin-9789083495002",
+   "title": "bruna.nl"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/LinkedIn/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/Personal-Branding/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "pr-minded.nl",
+   "url": "https://pr-minded.nl/krijg-meer-leads-en-klanten-via-linkedin/",
+   "title": "pr-minded.nl"
+  },
+  {
+   "domain": "copiene.com",
+   "url": "https://copiene.com/linkedin-ghostwriting/",
+   "title": "copiene.com"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/linkedin/linkedin-coaching/",
+   "title": "doelgroepbereikt.nl"
+  },
+  {
+   "domain": "welovecommunities.nl",
+   "url": "https://welovecommunities.nl/groei/",
+   "title": "welovecommunities.nl"
+  }
+ ]
+}

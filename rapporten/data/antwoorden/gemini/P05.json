@@ -1,0 +1,184 @@
+{
+ "id": "P05",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welke Nederlandse bureaus zijn goed in thought leadership op LinkedIn voor B2B-bedrijven? Noem namen en waarom.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In de Nederlandse B2B-markt is de verschuiving van corporate, afstandelijke content naar menselijke, op ervaring gebaseerde expertise inmiddels de standaard. Omdat \"mensen zaken doen met mensen\", is LinkedIn hét platform voor B2B thought leadership geworden. \n\nVerschillende Nederlandse bureaus blinken uit in het strategisch positioneren van directieleden, oprichters en materiedeskundigen (Subject Matter Experts) op LinkedIn. Hieronder vind je een overzicht van de sterkste bureaus op dit gebied en waarom zij zo goed zijn:\n\n---\n\n### 1. Personally (Amsterdam)\n**Waarom zij goed zijn:**  \nPersonally is een niche-bureau dat zich volledig focust op *personal branding* en *reputatiemanagement* voor founders, C-level executives en ondernemers. Ze begrijpen als geen ander dat thought leadership niet draait om snelle verkoopboodschappen, maar om het laden van een uniek perspectief en langetermijnvisie. \n* **Sterke punten:** Ze zijn meesters in ghostwriting. Ze interviewen hun cliënten intensief om de exacte 'tone-of-voice' over te nemen, inclusief iemands specifieke humor en nuances. Daarnaast trekken ze het thought leadership breder dan alleen LinkedIn, door het te koppelen aan PR-kansen, keynotes en media-optredens.\n\n### 2. GHO Agency (Veenendaal)\n**Waarom zij goed zijn:**  \nGHO Agency is een snelgroeiend B2B LinkedIn-marketingbureau dat thought leadership heel sterk combineert met tastbare commerciële groei. Ze zijn wars van generiek, door AI gegenereerd geklets (\"AI-gebrabbel\") en focussen zich op authentieke verhalen die de doelgroep dwingen om te stoppen met scrollen.\n* **Sterke punten:** Ze blinken uit in het doorvertalen van complexe B2B- en logistieke of technische sectoren naar menselijke content. Een bekend voorbeeld is hun thought leadership-aanpak voor Nick Melis (directeur Melis Logistics), waarmee ze miljoenen organische weergaven en sterke inbound leads genereerden. Ze zijn sterk in het structureren van contentthema's en ghostwriting voor CEO's die zelf geen tijd hebben om te schrijven.\n\n### 3. YouLynq.me (Amsterdam)\n**Waarom zij goed zijn:**  \nYouLynq.me, opgericht door de broers Michiel en Maarten Verstraten, benadert LinkedIn vanuit het principe van *Magnetic Networking*. Ze helpen B2B-professionals niet alleen om zélf thought leader te worden, maar zetten ook hun eigen netwerk en eigen Top Voices (zoals Michiel Verstraten zelf) in om merken organisch te versterken.\n* **Sterke punten:** Ze focussen zich sterk op employee advocacy en thought leadership via teams. Hun programma's trainen hele groepen professionals binnen een organisatie om actief en met autoriteit op te treden op LinkedIn. Ze leveren een totaalpakket van profieloptimalisatie, contentstrategie en het bouwen van een relevant B2B-netwerk.\n\n### 4. TEAM LEWIS (Eindhoven & Amsterdam)\n**Waarom zij goed zijn:**  \nAls groter, internationaal PR- en marketingbureau heeft TEAM LEWIS een zeer sterke visie op thought leadership. Zij zijn met name geschikt voor grotere (tech) B2B-bedrijven en multinationals die thought leadership strategisch willen integreren in hun bredere marketing- en PR-funnel.\n* **Sterke punten:** Ze zijn zeer datagedreven en spelen direct in op de nieuwste features van LinkedIn. TEAM LEWIS is uitstekend in staat om thought leadership te koppelen aan zwaardere B2B-campagnes, marktanalyses en trendrapporten. Ze zijn met name sterk in sectoren als B2B tech, healthcare en corporate services.\n\n### 5. YourFellow / Frank Husmann (Utrecht)\n**Waarom zij goed zijn:**  \nYourFellow is een specialistisch B2B LinkedIn-agency dat bekend staat om hun diepgaande kennis van **LinkedIn Thought Leader Ads**. Dit is momenteel een van de krachtigste B2B-marketinginstrumenten: het promoten van content via de persoonlijke profielen van medewerkers in plaats van de onpersoonlijke bedrijfspagina.\n* **Sterke punten:** Oprichter Frank Husmann en zijn team schrijven zelf veelvuldig over B2B SaaS-groei en thought leadership. Ze zijn dé partij als je kwalitatieve, opgebouwde expertise via persoonlijke profielen direct wilt versterken met betaalde LinkedIn-campagnes om beslissers te bereiken en te converteren.\n\n---\n\n### Waar moet je op letten bij je keuze?\n* Zoek je een **full-service PR-bureau** voor een grotere corporate? Kies dan **TEAM LEWIS**.\n* Wil je puur focussen op de **persoonlijke positionering** van de directie/founders (inclusief events en media)? Dan is **Personally** de beste fit.\n* Wil je thought leadership direct inzetten voor **warme leadgeneratie en social selling**? Dan zijn **GHO Agency** of **YouLynq.me** uitstekende keuzes.\n* Wil je thought leadership schalen via **Paid Advertising** (Thought Leader Ads)? Kijk dan naar **YourFellow** of bureaus als **Whello** [1.2.6, 1.",
+ "entities": [
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 1,
+   "domain": "personally.team"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 2,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Nick Melis",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Melis Logistics",
+   "type": "overig",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "position": 5,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "Michiel Verstraten",
+   "type": "persoon",
+   "position": 6,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "Maarten Verstraten",
+   "type": "persoon",
+   "position": 7,
+   "domain": "youlynq.me"
+  },
+  {
+   "name": "TEAM LEWIS",
+   "type": "bureau",
+   "position": 8,
+   "domain": "teamlewis.com"
+  },
+  {
+   "name": "YourFellow",
+   "type": "bureau",
+   "position": 9,
+   "domain": "yourfellow.nl"
+  },
+  {
+   "name": "Frank Husmann",
+   "type": "persoon",
+   "position": 10,
+   "domain": "frankhusmann.nl"
+  },
+  {
+   "name": "Whello",
+   "type": "bureau",
+   "position": 11,
+   "domain": "whello.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "magicpost.in"
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/blog/gids-voor-linkedin-thought-leadership-ads-b2b-saas/",
+   "title": "frankhusmann.nl"
+  },
+  {
+   "domain": "whello.nl",
+   "url": "https://whello.nl/marketing-tips/social-media/thought-leader-ads",
+   "title": "whello.nl"
+  },
+  {
+   "domain": "blinktuit.nl",
+   "url": "https://www.blinktuit.nl/blogs/personal-branding-op-linkedin/",
+   "title": "blinktuit.nl"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "personally.team",
+   "url": "https://www.personally.team/",
+   "title": "personally.team"
+  },
+  {
+   "domain": "prospeo.io",
+   "url": "https://prospeo.io/c/personally-email-format",
+   "title": "prospeo.io"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/b2b-leadgeneratie",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/waarom-steeds-meer-ceos-kiezen-voor-linkedin-ghostwriting",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/about/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/landing/linkedin-influencer-post-b2b/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/cases/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/cases/250-professionals-wereldwijd-inspireren-met-linkedin-en-personal-branding/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/landing/linkedin-masterclass-for-teams/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/linkedin-leadgeneratie/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/werving/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "teamlewis.com",
+   "url": "https://www.teamlewis.com/nl/magazine/thought-leadership-op-linkedin/",
+   "title": "teamlewis.com"
+  },
+  {
+   "domain": "teamlewis.com",
+   "url": "https://www.teamlewis.com/be-nl/magazine/thought-leadership-op-linkedin/",
+   "title": "teamlewis.com"
+  },
+  {
+   "domain": "yourfellow.nl",
+   "url": "https://yourfellow.nl/services/social-media-marketing/linkedin-advertising/",
+   "title": "yourfellow.nl"
+  },
+  {
+   "domain": "traffictoday.nl",
+   "url": "https://www.traffictoday.nl/blog/thought-leadership-ads-linkedin/",
+   "title": "traffictoday.nl"
+  }
+ ]
+}

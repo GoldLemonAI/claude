@@ -1,0 +1,235 @@
+{
+ "id": "P13",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Wie zijn de bekendste LinkedIn-experts en trainers in Nederland? Noem minimaal tien namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hier zijn **minimaal tien bekende LinkedIn-experts en trainers in Nederland** die vaak in overzichten en vakmedia terugkomen, op basis van recente ranglijsten en profielbeschrijvingen:[1][2][4][7][9][13]\n\n- **Richard van der Blom** — bekend als LinkedIn-strateeg en expert in algoritmes en social selling.[1][13]\n- **Corinne Keijzer** — een van de bekendste LinkedIn-experts van Nederland en officieel ambassadeur van LinkedIn Benelux; geeft al sinds 2010 trainingen.[2][7][9]\n- **Marjolein Bongers** — LinkedIn-autoriteit en officieel ambassadeur van LinkedIn Benelux.[2][4]\n- **Brendy Batenburg** — LinkedIn-trainer en career coach, gericht op ondernemers en professionals.[1][4][8]\n- **Victor Huiting** — gecertificeerd LinkedIn-specialist en trainer, gericht op leadgeneratie en personal branding.[1]\n- **Michel Mousa** — genoemd in een top-20-overzicht van LinkedIn-experts in Nederland.[4][8]\n- **Angela Nijs** — genoemd in een top-20-overzicht van LinkedIn-experts in Nederland.[4][8]\n- **Virginie Versteegh** — genoemd in een top-20-overzicht van LinkedIn-experts in Nederland.[4][8]\n- **Raymon Truijen** — genoemd in een top-20-overzicht van LinkedIn-experts in Nederland.[4][8]\n- **Anneke van der Voort-Kruk** — genoemd in een top-20-overzicht van LinkedIn-experts in Nederland.[4]\n- **Claudio Fray** — genoemd in een top-20-overzicht van LinkedIn-experts in Nederland.[4][8]\n- **Stijn Verhagen** — genoemd in een top-20-overzicht van LinkedIn-experts in Nederland.[4][8]\n\nAndere namen die ook duidelijk als LinkedIn-professionals naar voren komen zijn **Wessel Hebing**, **Wendy van Gilst**, **Rik Renzenbrink**, **Pieter Res**, **Martijn Holtes**, **Guy Strijbosch**, **Mieke Langenhuizen**, **Jesse Bak**, **Lucia Sandaal** en **René Delescen**.[4][8]\n\nAls je wilt, kan ik dit ook omzetten naar:\n- een **top 10 met korte uitleg per persoon**,\n- een **lijst met alleen trainers/coaches**,\n- of een **lijst met de meest actieve Nederlandse LinkedIn-accounts om te volgen**.",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Brendy Batenburg",
+   "type": "persoon",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Michel Mousa",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Angela Nijs",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Virginie Versteegh",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Raymon Truijen",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Anneke van der Voort-Kruk",
+   "type": "persoon",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Claudio Fray",
+   "type": "persoon",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Stijn Verhagen",
+   "type": "persoon",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Wessel Hebing",
+   "type": "persoon",
+   "position": 13,
+   "domain": null
+  },
+  {
+   "name": "Wendy van Gilst",
+   "type": "persoon",
+   "position": 14,
+   "domain": null
+  },
+  {
+   "name": "Rik Renzenbrink",
+   "type": "persoon",
+   "position": 15,
+   "domain": null
+  },
+  {
+   "name": "Pieter Res",
+   "type": "persoon",
+   "position": 16,
+   "domain": null
+  },
+  {
+   "name": "Martijn Holtes",
+   "type": "persoon",
+   "position": 17,
+   "domain": null
+  },
+  {
+   "name": "Guy Strijbosch",
+   "type": "persoon",
+   "position": 18,
+   "domain": null
+  },
+  {
+   "name": "Mieke Langenhuizen",
+   "type": "persoon",
+   "position": 19,
+   "domain": null
+  },
+  {
+   "name": "Jesse Bak",
+   "type": "persoon",
+   "position": 20,
+   "domain": null
+  },
+  {
+   "name": "Lucia Sandaal",
+   "type": "persoon",
+   "position": 21,
+   "domain": null
+  },
+  {
+   "name": "René Delescen",
+   "type": "persoon",
+   "position": 22,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "Top 20 LinkedIn Experts in the Netherlands in 2026"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/vraag_antwoord/marketing_en_klantrelaties/hoe_kan_ik_linkedin_gebruiken_om_meer_te_verkopen",
+   "title": "LinkedIn inzetten om meer te verkopen: van connectie naar klant"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/linkedin-top-voices-netherlands",
+   "title": "‍Who are the LinkedIn Top Voices in the Netherlands? - Favikon"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/nielshoekman_here-are-the-top-20-linkedin-experts-in-the-activity-7384201308372779009-QOrv",
+   "title": "Here are the top 20 LinkedIn experts in the Netherlands ..."
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/trefwoord/contentcreatie",
+   "title": "Contentcreatie: van idee tot publicatie - Managementboek.nl"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/de-nederlandse-linkedin-top-voices-van-mei-experts-leiders-ouhfc",
+   "title": "De LinkedIn Top Voices van mei 2026 in Nederland"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/trefwoord/linkedin",
+   "title": "LinkedIn: de beste boeken over het zakelijke netwerk"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/barrypiatoff_top-20-linkedin-experts-in-the-netherlands-activity-7374096362063175680-RoKp",
+   "title": "Barry Piatoff's Post"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/auteur/25943/corinne-keijzer",
+   "title": "Corinne Keijzer"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-influencers-netherlands",
+   "title": "Top 20 LinkedIn Influencers in the Netherlands in 2026 - Favikon"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/linkedin-top-voices-loopbaan-10-nederlandse-profielen-",
+   "title": "LinkedIn Top Voices Loopbaan: 10 Nederlandse profielen om te volgen"
+  },
+  {
+   "domain": "adformatie.nl",
+   "url": "https://www.adformatie.nl/communicatie/gedragsverandering/dit-zijn-nederlands-most-engaged-marketeers",
+   "title": "Dit zijn Nederlands most engaged marketeers"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/profiel/richard-van-der-blom/",
+   "title": "Richard van der Blom"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/storymattersonline_meet-the-netherlands-100-most-influential-activity-7387428770925916161-WO_u",
+   "title": "Meet the Netherlands' 100 most influential ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/linkedin-top-voices-2020-nederland-liza-jansen",
+   "title": "LinkedIn Top Voices 2020: Nederland"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/robbert-van-empel_32-ai-experts-die-je-m%C3%B3et-volgen-d%C3%A9-top-activity-7323571929968271360-PUVc",
+   "title": "\"32 AI-experts die je móet volgen\" (dé top voices van ..."
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/lessen-in-leiderschap-5-nederlandse-ceos-op-linkedin-die-het-verschil-maken/",
+   "title": "Lessen in leiderschap: 5 Nederlandse CEO's op LinkedIn ..."
+  },
+  {
+   "domain": "feedbax.nl",
+   "url": "https://feedbax.nl/linkedin-bureau/nederland",
+   "title": "De 20 beste LinkedIn-bureaus in Nederland - 2026-ranking"
+  }
+ ]
+}

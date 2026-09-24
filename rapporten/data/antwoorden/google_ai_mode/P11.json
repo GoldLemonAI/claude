@@ -1,0 +1,51 @@
+{
+ "id": "P11",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welk bureau adviseer je voor LinkedIn-strategie aan een zakelijke dienstverlener in Nederland met 20 medewerkers?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een zakelijke dienstverlener met 20 medewerkers is de juiste keuze van een LinkedIn-partner sterk afhankelijk van jullie primaire doel: gaat het om **thought leadership & persoonlijke branding** voor de consultants/directie, of ligt de focus op **leadgeneratie en B2B-advertenties (LinkedIn Ads)**?[[1]](https://www.sortlist.nl/s/linkedin-strategie/nederland-nl)[[2]](https://www.tasmanic.nl/linkedin-adverteren-uitbesteden/)\n\nOmdat er in Nederland verschillende gespecialiseerde bureaus actief zijn, is het slim om te vergelijken op basis van je specifieke wensen. Je kunt een goed overzicht van ervaren specialisten en hun klantbeoordelingen vinden via platforms zoals het Overzicht van LinkedIn Strategie Bureaus op Sortlist of de Ranking van LinkedIn-bureaus op Feedbax.[[1]](https://www.sortlist.nl/s/linkedin-strategie/nederland-nl)[[2]](https://feedbax.nl/linkedin-bureau/nederland)\n\n### Waar je op kunt letten bij een bureau voor ~20 medewerkers:\n\n1. **Persoonlijke branding vs. Bedrijfspagina:** Voor een zakelijke dienstverlener komt de meeste interactie vaak via de persoonlijke profielen van medewerkers (employee advocacy). Zoek een bureau dat niet alleen adverteren of bedrijfspagina-posts doet, maar ook trainingen geeft in personal branding.[[1]](https://www.clickforest.com/online-marketing/linkedin)\n2. **B2B-ervaring:** Vraag specifiek naar cases binnen de zakelijke dienstverlening (consultancy, juridisch, finance of IT-dienstverlening).\n3. **Gerichte leadgeneratie:** Bureaus die werken met een combinatie van organische content, gerichte advertenties (Tasmanic LinkedIn Adverteren ) en Sales Navigator-outreach leveren voor dit segment doorgaans het meeste rendement op.[[1]](https://www.tasmanic.nl/linkedin-adverteren-uitbesteden/)[[2]](https://www.clickforest.com/online-marketing/linkedin)\n\nWil je dat ik met je meedenk over een specifiek type bureau (bijvoorbeeld puur gericht op adverteren of juist op content en training), of heb je hulp nodig bij het opstellen van criteria voor een pitch?",
+ "entities": [
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "domain": "sortlist.nl",
+   "position": 1
+  },
+  {
+   "name": "Feedbax",
+   "type": "platform",
+   "domain": "feedbax.nl",
+   "position": 2
+  },
+  {
+   "name": "Tasmanic",
+   "type": "bureau",
+   "domain": "tasmanic.nl",
+   "position": 3
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "tasmanic.nl",
+   "url": "https://www.tasmanic.nl/linkedin-adverteren-uitbesteden/",
+   "title": "Linkedin adverteren uitbesteden - Tasmanic"
+  },
+  {
+   "domain": "feedbax.nl",
+   "url": "https://feedbax.nl/linkedin-bureau/nederland",
+   "title": "De 20 beste LinkedIn-bureaus in Nederland - 2026-ranking"
+  },
+  {
+   "domain": "clickforest.com",
+   "url": "https://www.clickforest.com/online-marketing/linkedin",
+   "title": "LinkedIn marketing bureau voor B2B-campagnes en Ads"
+  }
+ ]
+}

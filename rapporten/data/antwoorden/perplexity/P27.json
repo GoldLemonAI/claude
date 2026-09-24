@@ -1,0 +1,161 @@
+{
+ "id": "P27",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Wat kost het om LinkedIn content uit te besteden aan een bureau in Nederland? Noem aanbieders en prijzen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland kost LinkedIn-content uitbesteden meestal **ongeveer €400 tot €1.500 per maand** voor basis tot middelzware contentproductie; voor bredere **LinkedIn marketing** met strategie, ads of leadgeneratie loopt dat vaak op tot **€2.000–€5.000+ per maand**.[2][3][6]\n\nHieronder staan concrete **aanbieders en prijzen** uit de gevonden resultaten:\n\n| Aanbieder | Prijs | Wat je krijgt |\n|---|---:|---|\n| **Solvex** | vanaf **€495 p/m** | Bedrijfspagina-beheer en 4 posts; pakketten van **€850** en **€1.250 p/m** voor meer posten/adverteren, exclusief advertentiebudget.[1] |\n| **GHO Agency** | vanaf **€420 p/m** | Uitbesteden van LinkedIn-content voor 1 persoonlijk profiel, met 1 post per week.[5] |\n| **Search Spotlight Solutions** | **€500 p/m** | 8 posts per maand met tekst en beeld/ontwerp, contentplanning, goedkeuring en publicatie.[12] |\n| **The Creators Hub** | vanaf **€599 p/m** | Social media beheer; prijs hangt af van aantal kanalen, contentfrequentie en advertentiebeheer.[15] |\n| **TTM Communicatie** | **€795 p/m** | MKB-pakket social media uitbesteden, inclusief vormgeving van beelden, accountoptimalisatie en stockfoto’s.[19] |\n| **Zout Media** | **€480** per batch van 8 posts | Idee, tekst, vormgeving en planning; vacature-advertentiecampagne kost ook **€480**, exclusief advertentiebudget.[13] |\n| **Dash of Ginger** | vanaf **€500** | LinkedIn uitbesteden aan een copywriter; ook een LinkedIn-strategie vanaf **€400**.[7] |\n| **Omzetcoach** | **€3.997–€8.997 ex. btw** | Duurder traject voor LinkedIn-content/omzetverhoging, duidelijk in het hogere segment.[9] |\n\nPraktisch gezien kun je de markt grofweg zo indelen:\n\n- **Basis contentbeheer**: **€400–€1.000 p/m** voor posts, planning en publicatie.[3][5][12]\n- **MKB-bureaupakketten**: **€500–€2.500 p/m** voor content, strategie en vaak meerdere platformen.[4][15][19]\n- **Full-service LinkedIn marketing**: **€2.000–€5.000+ p/m** als je ook advertenties, outreach, nurturing of analyse wilt.[2][6]\n\nAls je wilt, kan ik hierna ook een **kort overzicht maken per type aanbieder** — bijvoorbeeld *freelancer vs bureau vs full-service* — of een **advies geven wat een redelijke prijs is voor jouw situatie**.",
+ "entities": [
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 1,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 2,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Search Spotlight Solutions",
+   "type": "bureau",
+   "position": 3,
+   "domain": "searchspotlightsolutions.nl"
+  },
+  {
+   "name": "The Creators Hub",
+   "type": "bureau",
+   "position": 4,
+   "domain": "thecreatorshub.nl"
+  },
+  {
+   "name": "TTM Communicatie",
+   "type": "bureau",
+   "position": 5,
+   "domain": "ttmcommunicatie.nl"
+  },
+  {
+   "name": "Zout Media",
+   "type": "bureau",
+   "position": 6,
+   "domain": "zoutmedia.nl"
+  },
+  {
+   "name": "Dash of Ginger",
+   "type": "bureau",
+   "position": 7,
+   "domain": "dashofginger.nl"
+  },
+  {
+   "name": "Omzetcoach",
+   "type": "bureau",
+   "position": 8,
+   "domain": "omzetcoach.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "studiolee.nl",
+   "url": "https://www.studiolee.nl/blog/linkedin-marketing-uitbesteden-b2b-mkb",
+   "title": "LinkedIn marketing uitbesteden voor B2B-MKB — STUDIOLEE"
+  },
+  {
+   "domain": "searchspotlightsolutions.nl",
+   "url": "https://searchspotlightsolutions.nl/wat-kost-social-media-uitbesteden/",
+   "title": "Wat kost social media uitbesteden? Prijzen 2026"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/kosten/wat-kost-social-media-marketing-uitbesteden",
+   "title": "wat kost social media marketing uitbesteden in 2026?"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/posten-op-linkedin",
+   "title": "Posten op LinkedIn: zelf doen of uitbesteden? - GHO Agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/waarom-linkedin-marketing-uitbesteden-je-omzet-vergroot",
+   "title": "LinkedIn marketing uitbesteden: wat levert het op?"
+  },
+  {
+   "domain": "dashofginger.nl",
+   "url": "https://www.dashofginger.nl/linkedin-uitbesteden/",
+   "title": "LinkedIn uitbesteden aan een copywriter"
+  },
+  {
+   "domain": "andries-advies.nl",
+   "url": "https://www.andries-advies.nl/abonnement-contentcreatie-linkedin/",
+   "title": "Abonnement contentcreatie LinkedIn"
+  },
+  {
+   "domain": "omzetcoach.nl",
+   "url": "https://omzetcoach.nl/product/uitbesteden-linkedin-content/",
+   "title": "Uitbesteden LinkedIn content - Omzetcoach - Verhoog je omzet en verkoopeffectiviteit"
+  },
+  {
+   "domain": "ugc4you.nl",
+   "url": "https://ugc4you.nl/social-media-uitbesteden",
+   "title": "Social Media Uitbesteden: Wat Kost Het? Prijzen 2026 | UGC4you"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/linkedin-personal-brand-engine/",
+   "title": "LinkedIn Leadgeneratie Uitbesteden - Sculpt Studios"
+  },
+  {
+   "domain": "searchspotlightsolutions.nl",
+   "url": "https://searchspotlightsolutions.nl/social-media-uitbesteden/",
+   "title": "Social media uitbesteden - Search Spotlight Solutions"
+  },
+  {
+   "domain": "zoutmedia.nl",
+   "url": "https://zoutmedia.nl/linkedin-uitbesteden/",
+   "title": "LinkedIn uitbesteden - Hoe werkt het en wat kost het?"
+  },
+  {
+   "domain": "buildsocial.nl",
+   "url": "https://www.buildsocial.nl/linkedin/linkedin-beheer/",
+   "title": "LinkedIn Beheer uitbesteden v.a. 8 euro per dag"
+  },
+  {
+   "domain": "thecreatorshub.nl",
+   "url": "https://www.thecreatorshub.nl/diensten/social-media-beheer",
+   "title": "Social media uitbesteden | Social media beheer vanaf 599 p/m"
+  },
+  {
+   "domain": "saleswizard.nl",
+   "url": "https://www.saleswizard.nl/online-marketing/social-media/social-media-uitbesteden/",
+   "title": "Social Media Uitbesteden"
+  },
+  {
+   "domain": "roxtar.nl",
+   "url": "https://roxtar.nl/social-media-adverteren/",
+   "title": "Social media adverteren uitbesteden | Meta en TikTok"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/kosten/wat-kost-leadgeneratie-uitbesteden",
+   "title": "wat kost leadgeneratie uitbesteden in 2026? - Searchlab"
+  },
+  {
+   "domain": "ttmcommunicatie.nl",
+   "url": "https://www.ttmcommunicatie.nl/social-media-uitbesteden/paketten/mkb/",
+   "title": "MKB pakket - Social Media uitbesteden"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/statistieken/linkedin-statistieken-2026",
+   "title": "LinkedIn Statistieken 2026 | 50+ Cijfers over Bereik, Ads & B2B"
+  }
+ ]
+}

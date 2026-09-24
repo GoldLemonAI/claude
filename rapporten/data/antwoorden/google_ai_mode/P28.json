@@ -1,0 +1,47 @@
+{
+ "id": "P28",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Hoe meet je of je autoriteit op LinkedIn groeit? Welke Nederlandse experts of bureaus schrijven hierover?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het meten van **autoriteit (thought leadership) op LinkedIn** doe je niet primair door te staren naar ijdelheidsmetriekjes (vanity metrics) zoals het totale aantal volgers of losse likes, maar `door te kijken naar kwalitatieve interactie, profielgroei van de juiste doelgroep en inbound kansen`.[[1]](https://nl.linkedin.com/posts/dennis-van-de-weerd-proud-to-share_welke-kpis-doen-er-echt-toe-op-linkedin-activity-7381202980055756800-GImF)\n\n### Hoe meet je of je autoriteit groeit?\n\nOm je groeiende expertstatus te kwantificeren en kwalificeren, hanteer je een combinatie van metingen uit de LinkedIn Analytics en je eigen praktijk:\n\n1. **Kwaliteit van profielbezoeken en connecties** \n\t- *Wat meet je:* Wie bekijken je profiel en wie sturen je connectieverzoeken? Groeit de autoriteit, dan zie je dat besluitvormers, CEO’s of vakgenoten uit je nissenmarkt je profiel bezoeken en connecties aanvragen mét een persoonlijk bericht.[[1]](https://nl.linkedin.com/posts/dennis-van-de-weerd-proud-to-share_welke-kpis-doen-er-echt-toe-op-linkedin-activity-7381202980055756800-GImF)\n2. **Inbound berichten en samenwerkingen** \n\t- *Wat meet je:* Het aantal DM's waarin mensen je specifiek om advies vragen, inhuren voor spreekbeurten, of noemen naar aanleiding van jouw artikelen. Dit is de ultieme *lagging indicator* van echte autoriteit.\n3. **Engagement-to-reach ratio (Betrokkenheid)** \n\t- *Wat meet je:* Het aantal reacties, oprechte discussies en shares (in plaats van alleen lege likes) ten opzichte van je totale bereik. Autoriteit lokt discussie en inhoudelijke verdieping uit.[[1]](https://nl.linkedin.com/posts/dennis-van-de-weerd-proud-to-share_welke-kpis-doen-er-echt-toe-op-linkedin-activity-7381202980055756800-GImF)\n4. **Impressies van content per pijler** \n\t- *Wat meet je:* Of je consistente bereik groeit op de specifieke vakkennis-onderwerpen (thought leadership-pijlers) die je deelt.[[1]](https://nl.linkedin.com/posts/dennis-van-de-weerd-proud-to-share_welke-kpis-doen-er-echt-toe-op-linkedin-activity-7381202980055756800-GImF)\n5. **Mentions en 'Social Selling Index' (SSI)** \n\t- *Wat meet je:* Hoe vaak andere gebruikers je taggen in posts of je naam laten vallen in commentsecties als antwoord op een vraag binnen jouw expertise.\n\n### Nederlandse experts en bureaus die hierover schrijven\n\nVerschillende Nederlandse bureaus, trainers en strategen publicerenvrij en diepgaand over personal branding, contentmarketing en het opbouwen van autoriteit op LinkedIn:\n\n- **Dennis van de Weerd** : Schrijft en deelt regelmatig praktische analyses over welke KPI's (zoals weergaven, profielbezoeken en connectie-kwaliteit) er nu echt toe doen op LinkedIn om impact te maken.[[1]](https://nl.linkedin.com/posts/dennis-van-de-weerd-proud-to-share_welke-kpis-doen-er-echt-toe-op-linkedin-activity-7381202980055756800-GImF)\n- **Made2Reach** : Een Nederlands bureau dat gespecialiseerd is in organische LinkedIn-groeistrategieën, profielpositionering en contentcreatie/ghostwriting om B2B-autoriteit te versterken.\n- **Bureau Snugger** : Deelt visies en interviews over hoe je met praktijkvoorbeelden en het beantwoorden van klantvragen werkt aan een duurzame expertstatus.[[1]](https://bureausnugger.nl/beste-linkedin-tips/)\n- **Lieke Crouwel / diverse LinkedIn-trainers** : Er zijn door heel Nederland diverse gespecialiseerde trainers actief (vaak te vinden via actieve content hubs op het platform zelf) die methodes aanreiken om via *Social Selling* en doelgerichte content je autoriteit te bewijzen.",
+ "entities": [
+  {
+   "name": "Dennis van de Weerd",
+   "type": "persoon",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Made2Reach",
+   "type": "bureau",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Bureau Snugger",
+   "type": "bureau",
+   "domain": "bureausnugger.nl",
+   "position": 3
+  },
+  {
+   "name": "Lieke Crouwel",
+   "type": "persoon",
+   "domain": null,
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/dennis-van-de-weerd-proud-to-share_welke-kpis-doen-er-echt-toe-op-linkedin-activity-7381202980055756800-GImF",
+   "title": "Welke KPI's doen er echt toe op LinkedIn? Veel mensen ..."
+  },
+  {
+   "domain": "bureausnugger.nl",
+   "url": "https://bureausnugger.nl/beste-linkedin-tips/",
+   "title": "De beste LinkedIn tips van een expert - interview"
+  }
+ ]
+}

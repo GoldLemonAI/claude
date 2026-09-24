@@ -1,0 +1,191 @@
+{
+ "id": "P06",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Wie helpt in Nederland ondernemers met personal branding op LinkedIn? Noem bureaus en coaches.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland zijn er verschillende **bureaus** en **coaches** die ondernemers helpen met **personal branding op LinkedIn**. Op basis van de zoekresultaten springen onder meer deze partijen eruit:[1][2][3][6][7][9][14][17][19]\n\n| Type | Naam | Wat ze doen |\n|---|---|---|\n| Bureau | **Personally** | Personal branding bureau in Amsterdam/Haarlem; combineert LinkedIn-content met PR en media-aandacht om founders en ondernemers zichtbaarder te maken.[10][12] |\n| Bureau | **Branding Diva NL** | Helpt ondernemers en coaches met een duidelijke boodschap, professionele uitstraling en online zichtbaarheid; noemt ook LinkedIn-expertise.[2] |\n| Bureau/house of personal brands | **dipiti / house of personal brands** | Richt zich op personal brands, contentstrategie en online marketing voor ondernemers.[3] |\n| Bureau | **Twist Marketing** | Biedt een traject rond LinkedIn, organische marketing en personal branding voor ondernemers.[7][8] |\n| Bureau | **LinkedIn Brothers** | Positioneert zich als specialist in LinkedIn-leadgeneratie en personal branding voor B2B-ondernemers.[17] |\n| Bureau | **MijnPersonalBrand** | LinkedIn-bedrijf in Amsterdam; vermeld als personal branding-gerelateerd bedrijf.[18] |\n| Coach / trainer | **Sandra Stassar** | Personal branding- en contentstrateeg; helpt ondernemers zichtbaar worden op LinkedIn.[9][15][16] |\n| Coach / trainer | **De Personal Branding Coach BV** | Helpt ondernemers hun personal brand en verhaal helder te krijgen.[14] |\n| Coach / trainer | **Charona van Hattem / Grow & Glow** | Coach en trainer in sales, personal branding en business development; noemt LinkedIn expliciet als verkoopkanaal.[19] |\n| Coach / personal brand manager | **Sabina de Groot-van der Hoeven** | Werkt bij Personally en helpt ondernemers met merkidentiteit en personal branding.[1] |\n\nEen paar concrete voorbeelden uit de resultaten:\n\n- **Personally** noemt zichzelf “the go-to agency specialized in personal branding” en werkt met LinkedIn-content, PR en media-aandacht.[10][12]\n- **Wahine Marketing** biedt personal branding-trajecten “om meer uit LinkedIn te halen” en richt zich op online marketing en zichtbaarheid.[6]\n- **Sculpt Studios** biedt LinkedIn-leadgeneratie uitbesteden, van strategie tot content en engagement.[13]\n\nAls je wilt, kan ik hierna ook een **korter lijstje maken per categorie**:\n- **beste bureaus**\n- **1-op-1 coaches**\n- **partijen met focus op LinkedIn leadgeneratie**\n- **partijen in Amsterdam/Utrecht/Eindhoven/Rotterdam**",
+ "entities": [
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 1,
+   "domain": "personally.team"
+  },
+  {
+   "name": "Branding Diva NL",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "dipiti",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Twist Marketing",
+   "type": "bureau",
+   "position": 4,
+   "domain": "dewinnendeondernemer.nl"
+  },
+  {
+   "name": "LinkedIn Brothers",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "MijnPersonalBrand",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 7,
+   "domain": "sandrastassar.nl"
+  },
+  {
+   "name": "De Personal Branding Coach",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Charona van Hattem",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Grow & Glow",
+   "type": "bureau",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Sabina de Groot-van der Hoeven",
+   "type": "persoon",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Wahine Marketing",
+   "type": "bureau",
+   "position": 12,
+   "domain": "wahinemarketing.nl"
+  },
+  {
+   "name": "Sculpt Studios",
+   "type": "bureau",
+   "position": 13,
+   "domain": "sculptstudios.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/sabinavdh",
+   "title": "Sabina de Groot-van der Hoeven - PR & personal branding ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/brandingdiva",
+   "title": "Branding Diva NL | Public Relations and Communications Services"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/dipitinl",
+   "title": "dipiti / house of personal brands | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/lotte-de-man-personal-branding",
+   "title": "Lotte De Man | LinkedIn"
+  },
+  {
+   "domain": "senssbranding.nl",
+   "url": "https://senssbranding.nl/",
+   "title": "Branding Agency Senss"
+  },
+  {
+   "domain": "wahinemarketing.nl",
+   "url": "https://www.wahinemarketing.nl/",
+   "title": "Krijg meer klanten via LinkedIn door personal branding | Wahine Marketing"
+  },
+  {
+   "domain": "dewinnendeondernemer.nl",
+   "url": "https://dewinnendeondernemer.nl/",
+   "title": "Twist Marketing"
+  },
+  {
+   "domain": "dewinnendeondernemer.nl",
+   "url": "https://dewinnendeondernemer.nl/over/",
+   "title": "Over ons"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/",
+   "title": "Stassar Branding & Coaching | Personal branding & Contentstrateeg | LinkedIn personal branding | Eindhoven"
+  },
+  {
+   "domain": "fonkmagazine.nl",
+   "url": "https://fonkmagazine.nl/artikelen/mensen/pr-vrouw-bieke-groenink-nieuwe-managing-director-personally-74423.html",
+   "title": "PR-vrouw Bieke Groenink nieuwe managing director ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/bieke-groenink",
+   "title": "Bieke Groenink - PR & personal branding voor ondernemers"
+  },
+  {
+   "domain": "personally.team",
+   "url": "https://www.personally.team/",
+   "title": "We’re Personally. Based in Amsterdam, specialized in personal ..."
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/linkedin-personal-brand-engine/",
+   "title": "LinkedIn Leadgeneratie Uitbesteden - Sculpt Studios"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/de-personal-branding-coach-bv",
+   "title": "De Personal Branding Coach BV | Business Consulting and Services"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/LinkedIn/",
+   "title": "Hulp bij LinkedIn Personal Branding | Sandra Stassar"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://www.sandrastassar.nl/Over-mij-in-detail/",
+   "title": "LinkedIn Personal Branding expert van Brabant | Eindhoven"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/tombrinkhuis",
+   "title": "Tom Brinkhuis | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/mijnpersonalbrand",
+   "title": "MijnPersonalBrand | advertising services"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/coachingcharona",
+   "title": "Charona Van Hattem | LinkedIn"
+  },
+  {
+   "domain": "adformatie.nl",
+   "url": "https://www.adformatie.nl/communicatie/gedragsverandering/de-voordelen-en-aandachtspunten-van-personal-branding",
+   "title": "De voordelen en aandachtspunten van personal branding, volgens een expert"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "id": "P30",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Is LinkedIn ghostwriting verstandig voor een B2B-ondernemer, of beter zelf schrijven? Welke Nederlandse bureaus en experts hebben hier een mening over?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een **B2B-ondernemer** is LinkedIn-ghostwriting vaak **verstandig als je wel ideeën en expertise hebt, maar structureel te weinig tijd hebt om consistent te posten**. Als je nog in een vroege fase zit en je persoonlijke stijl nog moet worden aangescherpt, is **zelf schrijven** meestal beter; meerdere aanbieders benadrukken namelijk dat ghostwriting het beste werkt wanneer jouw stem eerst goed wordt vastgelegd via interviews, voice-capture en redactionele feedback.[10][5][18]\n\nDe kernafweging is dus niet *ghostwriting versus authenticiteit*, maar *output versus leercurve*: ghostwriting kan snelheid, consistentie en zichtbaarheid opleveren, terwijl zelf schrijven vaak beter is voor het ontwikkelen van je eigen positionering en schrijfstem.[10][18][17]\n\n**Wat Nederlandse bureaus en experts erover zeggen:**\n\n- **Dimpekt** positioneert LinkedIn-ghostwriting expliciet voor B2B-bedrijven met ambitie en noemt het “structureel waardevolle content publiceren onder jouw naam, in jouw stijl, met jouw expertise”.[5]\n- **Famefact** stelt dat LinkedIn-ghostwriting een “waardevolle investering” is voor leiders die hun personal brand en zichtbaarheid op LinkedIn strategisch willen versterken.[12]\n- **GhostwritingAgency.nl** zegt dat hun team de complete productie verzorgt, van copywriting tot contentstrategie, wat wijst op een full-service benadering voor ondernemers die ontzorging zoeken.[17]\n- **Doelgroep Bereikt** noemt LinkedIn-ghostwriting “ideaal” voor ondernemers en mensen in sales die zichtbaarheid en autoriteit willen vergroten zonder zelf consequent te posten.[18]\n- **Contendi** zet de dienst neer als iets dat al snel serieus budget vraagt; zij noemen kosten voor een freelance copywriter of content marketeer van ongeveer **€9.000 tot €13.000 per maand** bij 32 uur per week.[9]\n\n**Wanneer ghostwriting logisch is voor een B2B-ondernemer:**\n\n- Je hebt **een duidelijke visie** of praktijkervaring, maar weinig tijd om die zelf uit te schrijven.[1][10]\n- Je wilt **consistentie** opbouwen in plaats van af en toe een goede post plaatsen.[5][17]\n- Je gebruikt LinkedIn als onderdeel van **leadgeneratie, thought leadership of personal branding**.[8][12][16]\n- Je wilt content die is afgestemd op **pipeline, vertrouwen en positionering**, niet alleen op likes.[8][14]\n\n**Wanneer zelf schrijven beter is:**\n\n- Je wilt je **eigen voice** nog ontdekken of aanscherpen.\n- Je hebt nog weinig bewijs wat werkt bij je doelgroep en wilt snel leren van directe feedback.\n- Je wilt maximale controle over nuance, toon en persoonlijke overtuiging.\n- Je hebt nog niet genoeg budget voor een goede ghostwriter; meerdere bronnen geven aan dat serieuze ghostwriting al snel van enkele duizenden euro’s per maand kan zijn.[8][19][20]\n\n**Praktisch advies:**  \nVoor veel B2B-ondernemers werkt een **hybride model** het best: jij bepaalt de standpunten en ervaringen, een ghostwriter structureert en redigeert ze. Dat sluit aan bij hoe bureaus als Reachly, YellowInk en Concurate hun dienst beschrijven: interviewgedreven, in jouw stem, en gericht op business outcomes.[1][2][8]\n\nAls je wilt, kan ik hierna ook een **selectie van Nederlandse bureaus en zelfstandige experts** maken met een korte vergelijking op **prijs, doelgroep, en stijl**.",
+ "entities": [
+  {
+   "name": "Dimpekt",
+   "type": "bureau",
+   "position": 1,
+   "domain": "dimpekt.com"
+  },
+  {
+   "name": "Famefact",
+   "type": "bureau",
+   "position": 2,
+   "domain": "famefact.com"
+  },
+  {
+   "name": "Ghostwriting Agency",
+   "type": "bureau",
+   "position": 3,
+   "domain": "ghostwritingagency.nl"
+  },
+  {
+   "name": "Doelgroep Bereikt",
+   "type": "bureau",
+   "position": 4,
+   "domain": "doelgroepbereikt.nl"
+  },
+  {
+   "name": "Contendi",
+   "type": "bureau",
+   "position": 5,
+   "domain": "contendi.io"
+  },
+  {
+   "name": "Reachly",
+   "type": "bureau",
+   "position": 6,
+   "domain": "reachly.co"
+  },
+  {
+   "name": "YellowInk",
+   "type": "bureau",
+   "position": 7,
+   "domain": "yellowinkdigital.com"
+  },
+  {
+   "name": "Concurate",
+   "type": "bureau",
+   "position": 8,
+   "domain": "concurate.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "reachly.co",
+   "url": "https://www.reachly.co/linkedin-ghostwriting",
+   "title": "LinkedIn Ghostwriting Agency and Services - Reachly"
+  },
+  {
+   "domain": "yellowinkdigital.com",
+   "url": "https://yellowinkdigital.com/services/linkedin-marketing/linkedin-ghostwriting/",
+   "title": "LinkedIn Ghostwriting Agency for Founders & Executives | YellowInk"
+  },
+  {
+   "domain": "understoryagency.com",
+   "url": "https://www.understoryagency.com/blog/best-linkedin-ghostwriting-agencies-b2b-saas",
+   "title": "Best LinkedIn Ghostwriting Agencies for B2B SaaS [2026] | Understory"
+  },
+  {
+   "domain": "demandbird.com",
+   "url": "https://demandbird.com/resources/top-linkedin-ghostwriters/",
+   "title": "Top LinkedIn Ghostwriters (2026): 19 Best Picks for ..."
+  },
+  {
+   "domain": "dimpekt.com",
+   "url": "https://dimpekt.com/linkedin-ghostwriter/",
+   "title": "Dé LinkedIn ghostwriter voor B2B bedrijven met ambitie - Dimpekt"
+  },
+  {
+   "domain": "2caweb.com",
+   "url": "https://2caweb.com/leadership-linkedin/",
+   "title": "Ghostwriter LinkedIn pour consultants et dirigeants B2B"
+  },
+  {
+   "domain": "cleverly.co",
+   "url": "https://www.cleverly.co/linkedin-content-ghostwriting",
+   "title": "LinkedIn Content Ghostwriting Service for B2B Companies"
+  },
+  {
+   "domain": "concurate.com",
+   "url": "https://concurate.com/top-linkedin-ghostwriting-agencies-for-executives/",
+   "title": "Top 5 LinkedIn Ghostwriting Agencies for Founders and Executives"
+  },
+  {
+   "domain": "contendi.io",
+   "url": "https://contendi.io/nl/linkedin-ghostwriting/",
+   "title": "B2B Linkedin Ghostwriting"
+  },
+  {
+   "domain": "rethoric.com",
+   "url": "https://www.rethoric.com/linkedin-ghostwriting-for-founders",
+   "title": "LinkedIn Ghostwriting for Founders - Rethoric"
+  },
+  {
+   "domain": "viralbrain.ai",
+   "url": "https://www.viralbrain.ai/blog/best-linkedin-ghostwriting-services",
+   "title": "7 Best LinkedIn Ghostwriting Services &…"
+  },
+  {
+   "domain": "famefact.com",
+   "url": "https://famefact.com/linkedin-ghostwriter/",
+   "title": "LinkedIn Ghostwriter Agentur | CEO Content & Personal Branding"
+  },
+  {
+   "domain": "acad-write.com",
+   "url": "https://www.acad-write.com/b2b/linkedin-ghostwriting/",
+   "title": "LinkedIn Ghostwriting mit ACAD WRITE b2b - Erfahrung seit 2004"
+  },
+  {
+   "domain": "concurate.com",
+   "url": "https://concurate.com/linkedin-ghostwriting-agencies-for-sales-leaders/",
+   "title": "Top 5 LinkedIn Ghostwriting Agencies for Sales Leaders"
+  },
+  {
+   "domain": "windmillgrowth.com",
+   "url": "https://windmillgrowth.com/blogseo/best-linkedin-ghostwriting-agencies-founders",
+   "title": "Best LinkedIn Ghostwriting Agencies for B2B SaaS Founders (2026)"
+  },
+  {
+   "domain": "salesbread.com",
+   "url": "https://salesbread.com/linkedin-ghostwriters/",
+   "title": "Best LinkedIn Ghostwriters to Hire in 2026 - SalesBread"
+  },
+  {
+   "domain": "ghostwritingagency.nl",
+   "url": "https://www.ghostwritingagency.nl/",
+   "title": "LinkedIn ghostwriting | Samen groeien op LinkedIn"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/linkedin/linkedin-ghostwriting/",
+   "title": "LinkedIn Ghostwriting | Voor ondernemers en sales"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-schaduwschrijven",
+   "title": "LinkedIn-ghostwriting: Hoe je in 2026 kunt opbouwen en ..."
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/ghostwriting-linkedin",
+   "title": "LinkedIn-ghostwriting: Hoe je in 2026 kunt opbouwen en opschalen"
+  }
+ ]
+}

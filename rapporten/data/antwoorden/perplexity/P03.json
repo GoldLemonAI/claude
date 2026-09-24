@@ -1,0 +1,185 @@
+{
+ "id": "P03",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Ik zoek een LinkedIn ghostwriter voor de directeur van een Nederlands IT-bedrijf. Welke bureaus of freelancers kun je aanbevelen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Ja — voor een **directeur van een Nederlands IT-bedrijf** zou ik vooral kiezen voor partijen die expliciet **B2B**, **thought leadership** en/of **executive ghostwriting** noemen, omdat die beter aansluiten op een technisch en zakelijk publiek.[3][4][6][12][14]\n\nDe meest relevante opties uit de zoekresultaten zijn:\n\n- **Ghostin.nl / Peter van der Meer** — noemt zichzelf LinkedIn ghostwriter en zegt te werken aan het verbeteren en actiever maken van LinkedIn, met focus op het aantrekken van toptalent; volledig remote.[1]\n- **Ghostly** — profileert zich met LinkedIn strategie, ghostwriting, content creatie en thought leadership; lijkt geschikt voor een bredere content- en positioneringsaanpak.[3]\n- **Executive Ghostwriting NL** — speciaal gericht op leidinggevenden en oprichters in innovatieve sectoren zoals **SaaS, AI, fintech, zorg en klimaattech**, dus inhoudelijk sterk passend bij een IT-directeur.[4]\n- **Dimpekt** — positioneert zich als LinkedIn ghostwriter voor **B2B-bedrijven met ambitie** en benadrukt structureel schrijven in iemands eigen stijl.[6]\n- **Ghostwriting Agency** — biedt naast copywriting ook **visual design** en **contentstrategie**, wat handig is als je een volledig LinkedIn-programma zoekt.[12]\n- **Frank Husmann** — legt uit hoe je een goede LinkedIn ghostwriter kiest en noemt expliciet dat specialisatie in **B2B**, **SaaS** of technische onderwerpen belangrijk is.[14]\n\nEnkele freelancers die op basis van de resultaten ook interessant lijken:\n\n- **Cedric Van Kesteren** — LinkedIn ghostwriter met ervaring bij “20+ ondernemers”, gepositioneerd op meer bereik, autoriteit en klanten.[8]\n- **Thomas Gaertman** — richt zich op **B2B-bedrijven uit industrie en energie**; mogelijk interessant als de IT-directeur in een industriële of technische niche zit.[13]\n- **Flomenco** — zegt te ghostwriten voor onder andere directeuren, inclusief wekelijkse LinkedIn-posts en persoonlijke artikelen.[7]\n- **Contendi** — biedt **B2B LinkedIn ghostwriting** en accepteert input via video, audio, schetsen of PowerPoint; handig voor een drukke directeur die weinig tijd heeft.[9]\n- **Inner Stories** — noemt “ghostwriting & LinkedIn verhalen”; minder specifiek op IT, maar mogelijk passend als storytelling belangrijk is.[2]\n\nAls je wilt selecteren op geschiktheid voor een IT-directeur, zou ik deze volgorde aanhouden:\n\n| Prioriteit | Type | Waarom |\n|---|---|---|\n| 1 | **Executive Ghostwriting NL** | Het meest expliciet gericht op leidinggevenden in innovatieve sectoren.[4] |\n| 2 | **Dimpekt** | Sterke B2B-positionering en focus op consistente thought leadership.[6] |\n| 3 | **Ghostwriting Agency** | Interessant als je ook strategie en visuele ondersteuning wilt.[12] |\n| 4 | **Ghostly** | Brede LinkedIn-strategie en contentaanpak.[3] |\n| 5 | **Ghostin.nl** | Praktische LinkedIn-ondersteuning met nadruk op zichtbaarheid en talent.[1] |\n\nWaar je op moet letten bij je keuze:\n\n- **Technische inhoud begrijpen**: vraag om voorbeelden van eerdere posts voor IT, SaaS, software of digitale dienstverlening.[14]\n- **Executive voice matching**: laat de ghostwriter eerst 20–30 oude posts, mails of presentaties analyseren om de schrijfstijl goed te vangen.[17]\n- **Strategie vs. alleen schrijven**: voor een directeur is alleen “mooie teksten” meestal niet genoeg; strategie en positionering zijn vaak belangrijker.[12][14]\n- **Proces en inputvorm**: als de directeur weinig tijd heeft, is een partij die met audio, video of korte input werkt vaak efficiënter.[9]\n- **Budgetindicatie**: volgens de resultaten zitten freelancers vaak grofweg rond **€50–€100 per uur** of **€500–€2.000 per maand**, terwijl agencies hoger uitkomen afhankelijk van volume en strategie.[14][17]\n\nAls je wilt, kan ik hierna ook een **korte shortlist van 3 beste keuzes** maken op basis van jouw budget, gewenste tone of voice en hoeveel input de directeur zelf wil leveren.",
+ "entities": [
+  {
+   "name": "Ghostin.nl",
+   "type": "bureau",
+   "position": 1,
+   "domain": "ghostin.nl"
+  },
+  {
+   "name": "Peter van der Meer",
+   "type": "persoon",
+   "position": 2,
+   "domain": "ghostin.nl"
+  },
+  {
+   "name": "Ghostly",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Executive Ghostwriting NL",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Dimpekt",
+   "type": "bureau",
+   "position": 5,
+   "domain": "dimpekt.com"
+  },
+  {
+   "name": "Ghostwriting Agency",
+   "type": "bureau",
+   "position": 6,
+   "domain": "ghostwritingagency.nl"
+  },
+  {
+   "name": "Frank Husmann",
+   "type": "persoon",
+   "position": 7,
+   "domain": "frankhusmann.nl"
+  },
+  {
+   "name": "Cedric Van Kesteren",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Thomas Gaertman",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Flomenco",
+   "type": "bureau",
+   "position": 10,
+   "domain": "flomenco.nl"
+  },
+  {
+   "name": "Contendi",
+   "type": "bureau",
+   "position": 11,
+   "domain": "contendi.io"
+  },
+  {
+   "name": "Inner Stories",
+   "type": "bureau",
+   "position": 12,
+   "domain": "innerstories.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "ghostin.nl",
+   "url": "https://ghostin.nl/",
+   "title": "Ghostin.nl: Peter van der Meer - Ik maak LinkedIn gemakkelijk."
+  },
+  {
+   "domain": "innerstories.nl",
+   "url": "https://www.innerstories.nl/linkedin-posts",
+   "title": "Ghostwriting & LinkedIn verhalen"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/getghostly",
+   "title": "Ghostly | Writing and Editing"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/executive-ghostwriting-nl",
+   "title": "Executive Ghostwriting NL | marketing services"
+  },
+  {
+   "domain": "penpixels.nl",
+   "url": "https://www.penpixels.nl/linkedin-strategie-ghostwriting",
+   "title": "LinkedIn strategie & ghostwriting | Meer zichtbaarheid en leads — Pen & Pixels"
+  },
+  {
+   "domain": "dimpekt.com",
+   "url": "https://dimpekt.com/linkedin-ghostwriter/",
+   "title": "Dé LinkedIn ghostwriter voor B2B bedrijven met ambitie - Dimpekt"
+  },
+  {
+   "domain": "flomenco.nl",
+   "url": "https://www.flomenco.nl/ghostwriting",
+   "title": "Ghostwriting voor ondernemers – LinkedIn posts in jouw toon"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/cedric-van-kesteren-",
+   "title": "Cedric Van Kesteren | LinkedIn"
+  },
+  {
+   "domain": "contendi.io",
+   "url": "https://contendi.io/nl/linkedin-ghostwriting/",
+   "title": "B2B Linkedin Ghostwriting"
+  },
+  {
+   "domain": "estherbekkerfotografie.nl",
+   "url": "https://www.estherbekkerfotografie.nl/linkedin-ghostwriter/",
+   "title": "LinkedIn Ghostwriter"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/linkedin/linkedin-ghostwriting/",
+   "title": "LinkedIn Ghostwriting | Voor ondernemers en sales"
+  },
+  {
+   "domain": "ghostwritingagency.nl",
+   "url": "https://www.ghostwritingagency.nl/",
+   "title": "LinkedIn ghostwriting | Samen groeien op LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/thomas-gaertman-ghostwriter-industrie",
+   "title": "Thomas Gaertman | LinkedIn"
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-ghostwriter/",
+   "title": "LinkedIn ghostwriter voor een goede B2B marketingstrategie"
+  },
+  {
+   "domain": "ghostwritingllc.com",
+   "url": "https://ghostwritingllc.com/nl/LinkedIn-ghostwriting/",
+   "title": "Professionele LinkedIn Ghostwriting voor Profielen, Posts ..."
+  },
+  {
+   "domain": "traffictoday.nl",
+   "url": "https://www.traffictoday.nl/zoekmachine-optimalisatie/content-marketing/ghostwriting/",
+   "title": "Ghostwriting: tips & uitvoering door Traffic Today!"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/ghostwriting-linkedin-voor-oprichters-en-directie",
+   "title": "LinkedIn-ghostwriting voor oprichters en directie"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/services/ghostwriters",
+   "title": "Hire Top Ghostwriters LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/wat-ghostwriting-een-ghostwriter-inhuren-voor-je-teksten-copyrobin",
+   "title": "Wat is ghostwriting? Een ghostwriter inhuren voor je teksten"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/waar-mijn-ghostwriter-als-ik-m-nodig-heb-pauline-van-die",
+   "title": "Waar is mijn ghostwriter als ik ‘m nodig heb?"
+  }
+ ]
+}

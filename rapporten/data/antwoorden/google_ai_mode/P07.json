@@ -1,0 +1,57 @@
+{
+ "id": "P07",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welke partij kan een LinkedIn-training geven aan het salesteam van een B2B-MKB bedrijf in Nederland? Geef concrete aanbieders.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor het trainen van een B2B-salesteam in Nederland op het gebied van LinkedIn en Social Selling zijn er verschillende gespecialiseerde bureaus en experts die incompany-trainingen op maat aanbieden.\n\nHier zijn enkele concrete en gerenommeerde aanbieders die zich richten op de B2B-markt en het MKB:\n\n- **René Schipper (LinkedIn & Social Selling voor B2B)** \n\t- **Focus:** Richt zich specifiek op incompany-trainingen en workshops voor B2B-salesteams en management. Van compacte sessies tot intensieve trajecten om de B2B-omzet via LinkedIn te verhogen.\n\t- **Website:** Bekijk de opties via René Schipper LinkedIn Training.[[1]](https://reneschipper.nl/linkedin-training-social-selling-b2b)\n- **BrightSocial** \n\t- **Focus:** Biedt gerichte LinkedIn-trainingen aan voor de B2B-sector (met sterke focus op o.a. de technische en complexere markten) om sales- en marketingteams te versterken als expert.\n\t- **Website:** Meer informatie is te vinden bij [BrightSocial Trainingen](https://www.brightsocial.nl/trainingen/linkedin-training-voor-de-technische-sector/).[[1]](https://www.brightsocial.nl/trainingen/linkedin-training-voor-de-technische-sector/)\n- **Sociomerce** \n\t- **Focus:** Gespecialiseerd in B2B-social selling en account-based marketing voor middelgrote bedrijven en langere salescycli (zoals IT, telecom, software en zakelijke dienstverlening).\n\t- **Website:** Bekijk hun aanpak via [Sociomerce Social Selling Training](https://sociomerce.com/nl/oplossing/social-selling-training).[[1]](https://sociomerce.com/nl/oplossing/social-selling-training)\n- **Lawaaimaker** \n\t- **Focus:** Biedt diverse B2B-salestrainingen en praktijkgerichte masterclasses of 'powersessies' over LinkedIn en social selling specifiek ontworpen om salessteams direct resultaat te laten halen.\n\t- **Website:** Bekijk het overzicht op [Lawaaimaker Sales Trainingen](https://www.lawaaimaker.nl/services/).[[1]](https://www.lawaaimaker.nl/services/)\n\nWil je dat ik deze aanbieders filter op basis van **specifieke wensen** , zoals:\n\n- De **grootte** van je salesteam\n- Of de training **fysiek op locatie** of deels online moet zijn\n- De **branche** waarin jullie B2B-MKB bedrijf actief is?",
+ "entities": [
+  {
+   "name": "Rene Schipper",
+   "type": "persoon",
+   "domain": "reneschipper.nl",
+   "position": 1
+  },
+  {
+   "name": "BrightSocial",
+   "type": "bureau",
+   "domain": "brightsocial.nl",
+   "position": 2
+  },
+  {
+   "name": "Sociomerce",
+   "type": "bureau",
+   "domain": "sociomerce.com",
+   "position": 3
+  },
+  {
+   "name": "Lawaaimaker",
+   "type": "bureau",
+   "domain": "lawaaimaker.nl",
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "reneschipper.nl",
+   "url": "https://reneschipper.nl/linkedin-training-social-selling-b2b",
+   "title": "LinkedIn Training voor B2B Teams | Social Selling voor MKB"
+  },
+  {
+   "domain": "brightsocial.nl",
+   "url": "https://www.brightsocial.nl/trainingen/linkedin-training-voor-de-technische-sector/",
+   "title": "LinkedIn training voor de technische B2B sector | BrightSocial"
+  },
+  {
+   "domain": "sociomerce.com",
+   "url": "https://sociomerce.com/nl/oplossing/social-selling-training",
+   "title": "Social Selling Training - Build relations and drive sales at scale"
+  },
+  {
+   "domain": "lawaaimaker.nl",
+   "url": "https://www.lawaaimaker.nl/services/",
+   "title": "B2B Social Selling | LinkedIn | Sales Trainingen - Lawaaimaker"
+  }
+ ]
+}

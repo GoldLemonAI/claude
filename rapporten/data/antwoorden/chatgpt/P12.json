@@ -1,0 +1,123 @@
+{
+ "id": "P12",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Welke Nederlandse bureaus bouwen een compleet leadgeneratiesysteem voor B2B-MKB waarin LinkedIn een hoofdrol speelt? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van Nederlandse bureaus die een volledig leadgeneratiesysteem voor B2B-MKB bouwen waarbij LinkedIn een centrale rol speelt. Deze bureaus combineren vaak LinkedIn‑outreach, -advertising, contentstrategie en automatisering om een gestructureerde en schaalbare leadflow te realiseren:\n\n• **Dapper – the demand agency** (Rotterdam)  \n Gespecialiseerd in B2B demand generation en het bouwen van “marketing engines” voor complexe B2B-producten en -diensten. LinkedIn Advertising is één van hun kernspecialismen. ([nl.linkedin.com](https://nl.linkedin.com/company/dapperdemandagency?utm_source=openai))\n\n• **Leadworks** (Den Haag)  \n Biedt “B2B smart leadgeneratie” met een combinatie van LinkedIn, e-mail en telemarketing. Ze richten zich op persoonlijke outreach via LinkedIn‑campagnes en -advertising. ([nl.linkedin.com](https://nl.linkedin.com/company/leadworksb2b?utm_source=openai))\n\n• **De Klantenfixer** (Almelo)  \n Richt zich specifiek op LinkedIn‑leadgeneratie voor salesprofessionals en ondernemers. Ze gebruiken tools zoals Sales Navigator en automatiseren gepersonaliseerde uitnodigingen, reminders en opvolging. ([nl.linkedin.com](https://nl.linkedin.com/company/deklantenfixer?utm_source=openai))\n\n• **First Leads** (Hattem)  \n Neemt het volledige leadgeneratieproces uit handen via LinkedIn en e-mail. Ze hanteren een workflow met hypergepersonaliseerde berichten en opvolging tot aan de afspraak. ([nl.linkedin.com](https://nl.linkedin.com/company/firstleads?utm_source=openai))\n\n• **iReclam** (landelijk)  \n Een LinkedIn‑marketingbureau dat zich richt op B2B‑MKB. Ze verzorgen LinkedIn Ads, thought leadership content en beheer van bedrijfspagina’s, met meetbare leadgeneratie. ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai))\n\n• **MarqetInge** (Geldrop)  \n Biedt marketingautomatisering met onder andere LinkedIn Automation. Ze combineren strategie en implementatie, inclusief CRM, e-mailflows en lead nurturing. ([nl.linkedin.com](https://nl.linkedin.com/company/marqetinge?utm_source=openai))\n\n• **Dimpekt** (Woerden)  \n Een LinkedIn‑marketingbureau dat via het profiel van de directeur structureel afspraken en naamsbekendheid genereert. Ze verzorgen content, netwerkuitbreiding en connectiecampagnes. ([dimpekt.com](https://dimpekt.com/?utm_source=openai))\n\n• **SalesIO** (Rotterdam)  \n Bouwt multichannel outbound‑salesmachines via LinkedIn en e-mail. Ze helpen bij het opzetten van geautomatiseerde outreachcampagnes en het opvolgen tot afspraken. ([salesio.nl](https://salesio.nl/?utm_source=openai))\n\n• **SCA Agency** (landelijk)  \n Biedt een geïntegreerd systeem (“The SCA System™”) waarin LinkedIn, e-mail en telefoon in vaste cadans worden ingezet. Reacties worden binnen 5 minuten opgevolgd en afspraken worden direct gepland. ([scagency.nl](https://www.scagency.nl/diensten/b2b-leadgeneratie.html?utm_source=openai))\n\n• **Coalead** (landelijk)  \n Levert LinkedIn‑outreachsoftware voor B2B, gecombineerd met e-mail. Automatisering van connectieverzoeken, berichten, follow‑ups en realtime dashboards voor monitoring. ([coalead.nl](https://coalead.nl/?utm_source=openai))\n\n---\n\nSamenvattend: deze bureaus bieden allemaal een compleet of grotendeels geautomatiseerd leadgeneratiesysteem voor B2B-MKB, met LinkedIn als kernkanaal. Ze variëren in aanpak van softwaregedreven automatisering (zoals Coalead) tot full-service strategie en uitvoering (zoals Dapper, Leadworks, SalesIO en SCA Agency). Laat me weten als je een vergelijking wilt op basis van prijs, aanpak of branche‑ervaring!",
+ "entities": [
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Leadworks",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "De Klantenfixer",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "First Leads",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 5,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "MarqetInge",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Dimpekt",
+   "type": "bureau",
+   "position": 7,
+   "domain": "dimpekt.com"
+  },
+  {
+   "name": "SalesIO",
+   "type": "bureau",
+   "position": 8,
+   "domain": "salesio.nl"
+  },
+  {
+   "name": "SCA Agency",
+   "type": "bureau",
+   "position": 9,
+   "domain": "scagency.nl"
+  },
+  {
+   "name": "Coalead",
+   "type": "tool",
+   "position": 10,
+   "domain": "coalead.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/dapperdemandagency",
+   "title": "Dapper - the demand agency | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/leadworksb2b",
+   "title": "Leadworks | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/deklantenfixer",
+   "title": "De Klantenfixer | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/firstleads",
+   "title": "First Leads | LinkedIn"
+  },
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/marqetinge",
+   "title": "MarqetInge | LinkedIn"
+  },
+  {
+   "domain": "dimpekt.com",
+   "url": "https://dimpekt.com/",
+   "title": "Dimpekt-LinkedIn marketing bureau voor B2B-leadgeneratie"
+  },
+  {
+   "domain": "salesio.nl",
+   "url": "https://salesio.nl/",
+   "title": "SalesIO — B2B leadgeneratie via LinkedIn & email"
+  },
+  {
+   "domain": "scagency.nl",
+   "url": "https://www.scagency.nl/diensten/b2b-leadgeneratie.html",
+   "title": "B2B leadgeneratie die afspraken oplevert · SCA Agency"
+  },
+  {
+   "domain": "coalead.nl",
+   "url": "https://coalead.nl/",
+   "title": "Coalead - Lead Systems for Agencies"
+  }
+ ]
+}

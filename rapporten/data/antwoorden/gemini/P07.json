@@ -1,0 +1,106 @@
+{
+ "id": "P07",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welke partij kan een LinkedIn-training geven aan het salesteam van een B2B-MKB bedrijf in Nederland? Geef concrete aanbieders.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een B2B-MKB bedrijf in Nederland is een LinkedIn-training (vaak ingestoken als **Social Selling** of **LinkedIn Sales Navigator** training) een uitstekende manier om koude acquisitie te transformeren naar warme leads. \n\nOmdat B2B-sales specifieke expertise vereist (lange salescycli, beslisbomen/DMU's en gerichte account-targeting), is het verstandig om te kiezen voor een partij die hierin gespecialiseerd is.\n\nHieronder staat een overzicht van concrete, gerenommeerde Nederlandse aanbieders die incompany-trainingen verzorgen voor salesteams in het B2B-MKB:\n\n---\n\n### 1. Gespecialiseerde B2B Social Selling Trainers (Persoonlijke aanpak)\n\nDeze partijen zijn volledig gespecialiseerd in LinkedIn en richten zich specifiek op het vertalen van de B2B-propositie naar concrete leads.\n\n*   **Rene Schipper (B2B LinkedIn & Social Selling)**\n    *   **Voor wie:** B2B-bedrijven en MKB-teams.\n    *   **Wat ze doen:** Rene Schipper biedt incompany LinkedIn-trajecten aan. Hij richt zich niet op een eenmalige 'prikkel', maar helpt salesteams om LinkedIn te veranderen in een voorspelbaar saleskanaal door middel van profieloptimalisatie, contentstrategie en prospectie.\n    *   **Uniek:** Sterke focus op 'warm' connecten zonder pusherig over te komen.\n\n*   **LvO (LinkedIn voor Ondernemers - Marc & Jonathan)**\n    *   **Voor wie:** Nederlandse MKB-teams van 4 tot 20 personen.\n    *   **Wat ze doen:** Zij verzorgen zeer praktische, 1-daagse incompany trainingen die specifiek zijn afgestemd op de proposities en klanten van jouw bedrijf. Ze bieden naast de basistraining ook specifieke modules voor adverteren of recruitment.\n    *   **Uniek:** Geen theoretisch verhaal, maar inclusief werkboeken met direct toepasbare scripts, templates en een follow-up call na 30 dagen om de voortgang te borgen.\n\n*   **Social Selling Coach (door Victor Huiting)**\n    *   **Voor wie:** Sales- en accountmanagementteams in het MKB.\n    *   **Wat ze doen:** Victor en zijn team verzorgen diverse incompany trainingen op maat, variërend van de basisprincipes van Social Selling tot geavanceerde trainingen over **LinkedIn Sales Navigator**. \n    *   **Uniek:** Heeft specifieke programma’s om sales en marketing beter te laten samenwerken en biedt diepgaande kennis over de betaalde Sales Navigator-tool.\n\n---\n\n### 2. Commerciële Trainingsbureaus (Breder salesperspectief)\n\nAls je de LinkedIn-training wilt inbedden in een bredere sales- of acquisitiemethodiek, zijn grotere trainingsbureaus een goede optie.\n\n*   **Acquiro (Richard van Kray / team)**\n    *   **Voor wie:** Commerciële professionals en B2B-sales-teams die hun acquisitie willen moderniseren.\n    *   **Wat ze doen:** Acquiro biedt specifieke *Social Selling LinkedIn* trainingen (zowel Basis als Advanced). Ze focussen op het integreren van LinkedIn in de dagelijkse routine van de accountmanager.\n    *   **Uniek:** Uitstekend te combineren met hun beproefde methodieken rondom klantgericht en 'hartelijk' verkopen.\n\n*   **ISA Training & Coaching**\n    *   **Voor wie:** Accountmanagers, B2B-salesprofessionals en consultants.\n    *   **Wat ze doen:** ISA verzorgt incompany trainingen waarbij LinkedIn wordt ingezet als strategisch onderdeel van de commerciële mix. Ze behandelen profieloptimalisatie (personal branding), contentcreatie en leadgeneratie.\n    *   **Uniek:** De focus ligt sterk op het veranderen van het gedrag van de salesmedewerker, zodat LinkedIn ook echt een vaste routine wordt in plaats van een eenmalige actie.\n\n*   **MKB Cursus & Training**\n    *   **Voor wie:** Specifiek gericht op (kleinere) MKB-bedrijven.\n    *   **Wat ze doen:** Zij verzorgen de eendaagse praktijktraining \"Effectief gebruik van LinkedIn\", die zowel via open inschrijving als volledig incompany (op maat gemaakt voor jouw team) te boeken is.\n    *   **Uniek:** Zeer laagdrempelig, hands-on (laptops open en direct doen) en scherp geprijsd.\n\n---\n\n### Waar moet je op letten bij de keuze?\n\n1.  **Gebruiken jullie LinkedIn Sales Navigator?** \n    Als het salesteam al met Sales Navigator werkt (of dit overweegt), kies dan specifiek voor een partij die hier gecertificeerd in is (zoals *Social Selling Coach* of *Acquiro*). De gratis versie van LinkedIn vereist namelijk een heel andere aanpak dan de betaalde Sales Navigator.\n2.  **Borging (Follow-up):**\n    Een LinkedIn-training is vaak leuk op de dag zelf, maar de waan van de dag regeert snel daarna. Kies voor een aanbieder die huiswerkopdrachten meegeeft en een terugkom- of coachingsmoment (bijvoorbeeld na 30 dagen) aanbiedt.\n3.  **Incompany vs. Open inschrijving:**\n    Voor een salesteam is een **incompany-training** (op jullie eigen locatie) veruit het meest effect",
+ "entities": [
+  {
+   "name": "Rene Schipper",
+   "type": "persoon",
+   "position": 1,
+   "domain": "reneschipper.nl"
+  },
+  {
+   "name": "LinkedIn voor Ondernemers",
+   "type": "bureau",
+   "position": 2,
+   "domain": "linkedinvoorondernemers.nl"
+  },
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "position": 3,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "position": 4,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Acquiro",
+   "type": "bureau",
+   "position": 5,
+   "domain": "acquiro.nl"
+  },
+  {
+   "name": "Richard van Kray",
+   "type": "persoon",
+   "position": 6,
+   "domain": "acquiro.nl"
+  },
+  {
+   "name": "ISA Training & Coaching",
+   "type": "bureau",
+   "position": 7,
+   "domain": "isatraining.nl"
+  },
+  {
+   "name": "MKB Cursus & Training",
+   "type": "bureau",
+   "position": 8,
+   "domain": "mkbct.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "reneschipper.nl",
+   "url": "https://reneschipper.nl/linkedin-training-social-selling-b2b",
+   "title": "reneschipper.nl"
+  },
+  {
+   "domain": "linkedinvoorondernemers.nl",
+   "url": "https://linkedinvoorondernemers.nl/incompanytraining/",
+   "title": "linkedinvoorondernemers.nl"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/linkedin-trainingen/",
+   "title": "socialsellingcoach.nl"
+  },
+  {
+   "domain": "isatraining.nl",
+   "url": "https://isatraining.nl/communicatietraining/social-selling-linkedin/",
+   "title": "isatraining.nl"
+  },
+  {
+   "domain": "acquiro.nl",
+   "url": "https://acquiro.nl/social-selling-linkedin-training-advanced/",
+   "title": "acquiro.nl"
+  },
+  {
+   "domain": "acquiro.nl",
+   "url": "https://acquiro.nl/social-selling-linkedin-training/",
+   "title": "acquiro.nl"
+  },
+  {
+   "domain": "mkbct.nl",
+   "url": "https://www.mkbct.nl/cursus/workshop-effectief-gebruik-van-linkedin/",
+   "title": "mkbct.nl"
+  },
+  {
+   "domain": "nextbusinessacademy.nl",
+   "url": "https://nextbusinessacademy.nl/linkedin-training-voor-sales-2026/",
+   "title": "nextbusinessacademy.nl"
+  },
+  {
+   "domain": "desocialmediatraining.nl",
+   "url": "https://www.desocialmediatraining.nl/social-media-trainingen/linkedin-trainingen/",
+   "title": "desocialmediatraining.nl"
+  }
+ ]
+}

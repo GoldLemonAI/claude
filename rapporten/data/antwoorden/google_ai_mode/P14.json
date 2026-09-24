@@ -1,0 +1,80 @@
+{
+ "id": "P14",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse ondernemers zijn een goed voorbeeld van autoriteit opbouwen op LinkedIn in B2B? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In de Nederlandse B2B-sector zijn er verschillende ondernemers en thought leaders die ijzersterk zijn in het opbouwen van autoriteit via LinkedIn. Ze doen dit niet door te 'zenden', maar door diepgaande kennis, scherpe analyses of een unieke blik op hun vakgebied te delen.\n\nEnkele sterke voorbeelden van Nederlandse ondernemers en experts die hun autoriteit volledig of grotendeels opbouwden via het platform:\n\n- **Marcel van Oost** (Fintech / [Marcel van Oost op LinkedIn](https://nl.linkedin.com/in/marcelvanoost))\n\t- *Hoe hij autoriteit opbouwt:* Hij groeide uit tot een van de meest bekeken en invloedrijke 'LinkedIn-native' creators van Nederland in de tech- en fintech-hoek. Zonder luide consumentenmarketing deelt hij dagelijks scherpe, consistente analyses en sector-updates over betalingsverkeer en fintech. Zijn kracht zit in extreme consistentie en hyperrelevante vakinhoudelijke curatie.[[1]](https://nl.linkedin.com/in/marcelvanoost)[[2]](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf)[[3]](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf)\n- **Danielle Braun** (Corporate Antropologie / Danielle Braun op LinkedIn)\n\t- *Hoe zij autoriteit opbouwt:* Als directeur van de Academie voor Organisatiecultuur vertaalt zij abstracte vraagstukken over organisatiecultuur, leiderschap en onderstroom in bedrijven naar rake, herkenbare praktijkvoorbeelden en verhalen. Ze combineert diepgang met een groot bereik en gebruikt LinkedIn als haar primaire podium voor haar boeken, trainingen en advieswerk.[[1]](https://nl.linkedin.com/in/daniellebraundr)[[2]](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf)[[3]](https://nl.linkedin.com/posts/daniellebraundr_hoe-wij-antropologisch-cultuuronderzoek-doen-activity-7338792169203265536-4bxx)[[4]](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf)\n- **Richard van der Blom** (Social Selling & LinkedIn Strategy / Richard van der Blom op LinkedIn)\n\t- *Hoe hij autoriteit opbouwt:* Als oprichter van onder meer *The Social Club* is hij internationaal (maar vanuit een Nederlandse basis) de onbetwiste data-autoriteit als het gaat om het LinkedIn-algoritme en social selling in B2B. Door jaarlijks grondig onderzoek te publiceren ('The LinkedIn Algorithm Research') dwingt hij een positie af waarin nergens in Europa om hem heen te worden gekeken als het over B2B-leadgeneratie op het platform gaat.[[1]](https://www.linkedin.com/posts/nielshoekman_here-are-the-top-20-linkedin-experts-in-the-activity-7384201308372779009-QOrv)\n- **Pieter Zwart** (Coolblue / Pieter Zwart op LinkedIn)\n\t- *Hoe hij autoriteit opbouwt:* Een voorbeeld van een traditionele ondernemer/CEO die LinkedIn inzet om een inkijkje te geven in ondernemerschap, cultuur en operationele keuzes achter een groot Nederlands B2C/B2B-bedrijf. Zijn posts zijn vaak pragmatisch, menselijk en spiegelen het Coolblue-DNA, wat enorm bijdraagt aan de reputatie van het moederbedrijf en zijn positie als ondernemer.[[1]](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf)[[2]](https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf)\n\nWil je dieper ingaan op de **strategieën** van een van deze ondernemers, of ben je op zoek naar voorbeelden binnen een **specifieke B2B-branche** (zoals SaaS, productie of consultancy)?",
+ "entities": [
+  {
+   "name": "Marcel van Oost",
+   "type": "persoon",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Danielle Braun",
+   "type": "persoon",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Academie voor Organisatiecultuur",
+   "type": "bureau",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "domain": null,
+   "position": 4
+  },
+  {
+   "name": "The Social Club",
+   "type": "bureau",
+   "domain": null,
+   "position": 5
+  },
+  {
+   "name": "Pieter Zwart",
+   "type": "persoon",
+   "domain": null,
+   "position": 6
+  },
+  {
+   "name": "Coolblue",
+   "type": "overig",
+   "domain": null,
+   "position": 7
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/marcelvanoost",
+   "title": "Marcel van Oost - Connecting the dots in FinTech... - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/de-top-50-invloedrijkste-linkediners-van-nederland-van-geenhuizen-wtpqf",
+   "title": "De top 50 invloedrijkste LinkedIn'ers van Nederland"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/daniellebraundr",
+   "title": "Danielle Braun dr. | LinkedIn - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/daniellebraundr_hoe-wij-antropologisch-cultuuronderzoek-doen-activity-7338792169203265536-4bxx",
+   "title": "Hoe wij antropologisch cultuuronderzoek doen? Nou zo ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/nielshoekman_here-are-the-top-20-linkedin-experts-in-the-activity-7384201308372779009-QOrv",
+   "title": "Here are the top 20 LinkedIn experts in the Netherlands (worth ..."
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "id": "P09",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welk marketingbureau in Haarlem of Noord-Holland helpt B2B-bedrijven met LinkedIn en autoriteit opbouwen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Een duidelijke match is **Gold Lemon** in Haarlem: dit bureau noemt expliciet dat het **B2B-MKB** helpt met **LinkedIn-autoriteit opbouwen** en werkt vanuit Haarlem.[1][2][3][6][8]  \n\nAndere bureaus in **Haarlem / Noord-Holland** die in de resultaten naar voren komen als relevant voor **B2B marketing** of **LinkedIn** zijn onder meer **Noble Digital** (Haarlem, gespecialiseerd in o.a. B2B-vraagstukken), **Blauwe Monsters** (Haarlem), **Emogy** (regio Haarlem, full-service B2B marketing) en via Sortlist bureaus zoals **Novicom Marketing Group**, **WADM**, **Bright8** en andere Haarlem-gevestigde agencies.[9][10][14][13][12][4][5]  \n\nAls je specifiek zoekt naar een bureau dat **LinkedIn + autoriteit/positionering** als kernpropositie heeft, springt **Gold Lemon** het meest duidelijk eruit op basis van de gevonden informatie.[1][2][3][6][8]",
+ "entities": [
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 1,
+   "domain": "goldlemon.nl"
+  },
+  {
+   "name": "Noble Digital",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Blauwe Monsters",
+   "type": "bureau",
+   "position": 3,
+   "domain": "blauwemonsters.nl"
+  },
+  {
+   "name": "Emogy",
+   "type": "bureau",
+   "position": 4,
+   "domain": "emogy.nl"
+  },
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "position": 5,
+   "domain": "sortlist.nl"
+  },
+  {
+   "name": "Novicom",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "WADM",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Bright8",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/wat-we-doen/",
+   "title": "Wat we doen | Gold Lemon · Marketing als bezit voor B2B-MKB"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/content-marketing-bureau/",
+   "title": "Content Marketing Bureau voor B2B-MKB - Gold Lemon Haarlem"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/b2b-marketing-bureau/",
+   "title": "B2B Marketingbureau voor MKB - Gold Lemon"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/nederland-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/online-marketing-haarlem/",
+   "title": "Online marketing Haarlem: uitvoering B2B-MKB - Gold Lemon"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/marketing-bureau-assistent",
+   "title": "Marketing Bureau Assistent | White Label SEO & Linkbuilding ondersteuning | Technology, Information and Internet"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/",
+   "title": "B2B-marketingbureau Haarlem voor tech-MKB | Gold Lemon"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/noble-digital-growth",
+   "title": "Noble Digital | Marketing Services"
+  },
+  {
+   "domain": "blauwemonsters.nl",
+   "url": "https://blauwemonsters.nl/",
+   "title": "Blauwe Monsters | Resultaatgericht Online Marketing Bureau"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/seo-bureau-haarlem/",
+   "title": "SEO Bureau Haarlem voor B2B-MKB - Gold Lemon"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/haarlem-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Haarlem - 2026 Reviews"
+  },
+  {
+   "domain": "emogy.nl",
+   "url": "https://www.emogy.nl/marketingbureau-haarlem/",
+   "title": "Marketingbureau Haarlem | Full-Service B2B Marketing - Emogy"
+  },
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/online-marketing-bureau-noord-holland/",
+   "title": "Online marketing bureau Noord-Holland – Regionale groei"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/den-haag-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Den Haag - 2026 Reviews"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/goeiezaak-com-digital-agency",
+   "title": "Goeiezaak.com - Internet Marketing Bureau | advertising services"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-reclame/nederland-nl",
+   "title": "De 10 beste LinkedIn Reclame Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/haarlemmarketing",
+   "title": "Haarlem Marketing | advertising services"
+  }
+ ]
+}

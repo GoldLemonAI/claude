@@ -1,0 +1,228 @@
+{
+ "id": "P24",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Moet een B2B-MKB bedrijf inzetten op het persoonlijke profiel van de oprichter of op de bedrijfspagina op LinkedIn? Welke Nederlandse bronnen zeggen daar iets over?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een **B2B-MKB**-bedrijf is het meest verdedigbare antwoord: **zet primair in op het persoonlijke profiel van de oprichter of experts, en gebruik de bedrijfspagina ondersteunend**. Nederlandse bronnen die hierover spreken, benadrukken vrijwel allemaal dat persoonlijke profielen meer bereik, interactie en verbinding opleveren, terwijl de bedrijfspagina vooral nuttig is voor merkuitingen, geloofwaardigheid en een officiële aanwezigheid[1][11][13][17][20].\n\nWat de Nederlandse bronnen concreet zeggen:\n\n- **Persoonlijk profiel eerst / meer impact**: The Marketing Boosters stelt dat persoonlijke profielen **5–10x meer bereik** krijgen dan bedrijfspagina’s en adviseert voor MKB eerst de eigenaar of expert persoonlijk te laten posten[1].\n- **Founder-profiel als belangrijkste asset**: Solvex schrijft dat founder-profielen op dezelfde content **5 tot 10 keer meer bereik** halen dan company pages en noemt de founder-account de belangrijkste asset[3].\n- **Persoonlijk profiel belangrijker voor verbinding**: Corinne Keijzer zegt dat het persoonlijke profiel “**véél belangrijker**” is omdat je daar bereik, interactie en verbinding creëert[17].\n- **Mix met duidelijke rolverdeling**: GHO Agency adviseert een mix, maar gebruikt persoonlijke profielen voor verhalen, actualiteiten, klantcases en expertise; de bedrijfspagina is voor updates over bedrijf, producten en diensten[11].\n- **Beide nodig, maar elk met eigen functie**: MarketingTribune schrijft dat je persoonlijke profiel relaties en bereik bouwt, terwijl de bedrijfspagina merk en professionaliteit versterkt; beide hebben een rol, maar het persoonlijke profiel heeft vaak de grotere impact op directe relaties en interactie[13].\n- **LinkedIn zelf onderscheidt beide**: LinkedIn legt uit dat profielen individuen vertegenwoordigen en pagina’s collectieve organisaties; een profiel is een plek om je persoonlijke merk te beheren[20].\n\nPraktisch vertaald voor een B2B-MKB-bedrijf:\n\n- **Kies de oprichter of een zichtbare expert als gezicht van content.**\n- **Gebruik de bedrijfspagina als basis voor geloofwaardigheid, vacatures, productupdates en advertenties.**\n- **Laat persoonlijke content de organische groei trekken; laat de bedrijfspagina ondersteunen.**\n\nDe meest consistente lijn in de Nederlandse bronnen is dus: **niet óf-óf, maar wel: persoonlijk profiel als hoofdmotor, bedrijfspagina als ondersteunende laag**[1][11][13][17][20].\n\nAls je wilt, kan ik hierna ook een **korte bronnenvergelijking in tabelvorm** maken met per bron: standpunt, kernquote en bruikbaarheid voor jouw situatie.",
+ "entities": [
+  {
+   "name": "The Marketing Boosters",
+   "type": "bureau",
+   "position": 1,
+   "domain": "themarketingboosters.com"
+  },
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 2,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 3,
+   "domain": "corinnekeijzer.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 4,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "MarketingTribune",
+   "type": "platform",
+   "position": 5,
+   "domain": "marketingtribune.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "themarketingboosters.com",
+   "url": "https://themarketingboosters.com/insights/linkedin-marketing",
+   "title": "LinkedIn marketing 2026: B2B-gids voor MKB | TMB"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "Hoe Nederlandse B2B-founders leads genereren via LinkedIn ..."
+  },
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "adspower.com",
+   "url": "https://www.adspower.com/nl/blog/how-to-create-linkedin-account-for-business",
+   "title": "Hoe maak je een LinkedIn-account voor bedrijven aan (handleiding ..."
+  },
+  {
+   "domain": "shopify.com",
+   "url": "https://www.shopify.com/nl/blog/linkedin-bedrijfspagina",
+   "title": "Zo maak (en gebruik) je een LinkedIn bedrijfspagina - Shopify"
+  },
+  {
+   "domain": "digitalapplied.com",
+   "url": "https://www.digitalapplied.com/blog/linkedin-personal-profiles-vs-company-pages-8x-engagement",
+   "title": "LinkedIn Personal vs Company Pages: 8x Engagement Guide"
+  },
+  {
+   "domain": "focusopbusiness.nl",
+   "url": "https://focusopbusiness.nl/hoe-maak-je-een-linkedin-strategie-voor-mkb/",
+   "title": "Hoe maak je een LinkedIn strategie voor MKB? - Focus Op Business"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/heb-ik-een-bedrijfspagina-op-linkedin-nodig-corinne-keijzer",
+   "title": "Heb ik een bedrijfspagina op LinkedIn nodig"
+  },
+  {
+   "domain": "go-to-agency.com",
+   "url": "https://go-to-agency.com/nl/blog/content-marketing-nederlandse-mkb-2026-linkedin-podcasts",
+   "title": "Content marketing voor Nederlandse MKB in 2026"
+  },
+  {
+   "domain": "corinnekeijzer.nl",
+   "url": "https://www.corinnekeijzer.nl/2022/06/22/groep-of-bedrijfspagina-op-linkedin-de-verschillen-uitgelegd/",
+   "title": "Persoonlijk profiel, groep of bedrijfspagina op LinkedIn"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/posten-via-de-bedrijfspagina-of-via-persoonlijk-profielen",
+   "title": "Posten via de bedrijfspagina of via persoonlijk profielen?"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/help/linkedin/answer/a541785/maak-een-linkedin-pagina?lang=nl",
+   "title": "Maak een LinkedIn-pagina"
+  },
+  {
+   "domain": "marketingtribune.nl",
+   "url": "https://www.marketingtribune.nl/content/weblog/2025/01/column-linkedin-het-verschil-tussen-je-persoonlijke-en-je-bedrijfspagina/index.xml",
+   "title": "[column] LinkedIn: het verschil tussen je persoonlijke en je ..."
+  },
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/",
+   "title": "LinkedIn Company Page vs. persoonlijk profiel: wat werkt beter?"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-bedrijfspagina",
+   "title": "Hoe een LinkedIn Bedrijfspagina te maken en ..."
+  },
+  {
+   "domain": "money.udn.com",
+   "url": "https://money.udn.com/money/story/122331/9752096",
+   "title": "數位行銷／善用 LinkedIn 把人脈變金脈 | 經營管理 | OFF學 | 經濟日報"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/wel-geen-bedrijfspagina-op-linkedin-corinne-keijzer",
+   "title": "Wel of geen bedrijfspagina op LinkedIn"
+  },
+  {
+   "domain": "kinsta.com",
+   "url": "https://kinsta.com/nl/blog/een-bedrijfspagina-maken-op-linkedin/",
+   "title": "Een bedrijfspagina maken op LinkedIn (stap-voor- ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/help/linkedin/answer/a6242788?lang=nl-NL",
+   "title": "Verschillen tussen een LinkedIn-profiel en een LinkedIn- ..."
+  },
+  {
+   "domain": "excite.co.jp",
+   "url": "https://www.excite.co.jp/news/article/Prtimes_2026-09-01-185670-2/",
+   "title": "「紹介がなくても、信用はつくれる」     LinkedInを活用したBtoB ..."
+  },
+  {
+   "domain": "manager-magazin.de",
+   "url": "https://www.manager-magazin.de/hbm/marketing/linkedin-sichtbar-werden-auch-wenn-sie-social-media-nicht-moegen-a-18ea33cd-93f4-4413-b755-54e63a6fa4a2",
+   "title": "(HBm+) LinkedIn: Sichtbar werden, auch wenn Sie Social Media nicht mögen"
+  },
+  {
+   "domain": "tomtunguz.com",
+   "url": "https://tomtunguz.com/",
+   "title": "Tomasz Tunguz"
+  },
+  {
+   "domain": "businessinsider.com",
+   "url": "https://www.businessinsider.com/linkedin-posting-go-direct-ai-slop-hiring-2026-9",
+   "title": "Why becoming a LinkedIn lunatic might save your career"
+  },
+  {
+   "domain": "forbes.com",
+   "url": "https://www.forbes.com/councils/forbescoachescouncil/2026/09/18/how-to-get-more-recruiter-outreach-on-linkedin/",
+   "title": "How To Get More Recruiter Outreach On LinkedIn - Forbes"
+  },
+  {
+   "domain": "globalbankingandfinance.com",
+   "url": "https://www.globalbankingandfinance.com/financial-regulation-articles/",
+   "title": "Financial Regulation Articles"
+  },
+  {
+   "domain": "leparisien.fr",
+   "url": "https://www.leparisien.fr/economie/entreprise/reseaux-sociaux-pourquoi-les-patrons-de-pme-ont-interet-a-prendre-la-parole-15-09-2026-BGOAE7QCBVGQZI34W2SGJWTTNU.php",
+   "title": "Réseaux sociaux : pourquoi les patrons de PME ont intérêt à prendre la parole"
+  },
+  {
+   "domain": "techcrunch.com",
+   "url": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
+   "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories"
+  },
+  {
+   "domain": "apnews.com",
+   "url": "https://apnews.com/press-release/send2press/press-release-9bab61fec31e0c0a6ef3de639051b16d",
+   "title": "LinkedIn Activity Predicts Revenue More Than Website Traffic, shows 42DM’s GTM Benchmark Research into 100 B2B AI Companies"
+  },
+  {
+   "domain": "bbc.com",
+   "url": "https://www.bbc.com/news/videos/ck7v409pzv38o",
+   "title": "What this LinkedIn boss wants you to know about networking"
+  },
+  {
+   "domain": "businessinsider.de",
+   "url": "https://www.businessinsider.de/karriere/karriere-mehr-chancen-oder-mehr-risiko-so-veraendert-linkedin-eure-karriere/",
+   "title": "Karriere: Mehr Chancen oder mehr Risiko? So verändert Linkedin eure Karriere"
+  },
+  {
+   "domain": "heute.at",
+   "url": "https://www.heute.at/i/auf-jobsuche-deshalb-lohnt-sich-ein-linkedin-profil-100105522/doc-1ejrucv4m1",
+   "title": "Viele Firmen engagieren sogenannte Recruiter, die via LinkedIn und Co. auf Talentsuche gehen. | Heute.at"
+  },
+  {
+   "domain": "news.crunchbase.com",
+   "url": "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/",
+   "title": "The Only 2 Moats That Actually Work In The AI Era"
+  },
+  {
+   "domain": "businessinsider.com",
+   "url": "https://www.businessinsider.com/linkedin-personal-brand-how-to-post-engagement-2026-8",
+   "title": "The fine line between getting noticed and getting embarrassed on LinkedIn"
+  },
+  {
+   "domain": "globalbankingandfinance.com",
+   "url": "https://www.globalbankingandfinance.com/distributable-net-income-articles/",
+   "title": "Distributable Net Income Articles"
+  },
+  {
+   "domain": "inc42.com",
+   "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+   "title": "Indian Startup IPO Tracker 2026"
+  },
+  {
+   "domain": "hindi.moneycontrol.com",
+   "url": "https://hindi.moneycontrol.com/trends/linkedin-cold-message-rs-6-lakh-to-rs-17-lakh-job-offer-article-2441339.html",
+   "title": "न नौकरी की तलाश, न कोई पहचान... फिर CMO को भेजा एक मैसेज और मिल गया ₹17 लाख का ऑफर"
+  },
+  {
+   "domain": "businessam.be",
+   "url": "https://businessam.be/partners-gocar/42950/",
+   "title": "De Fleet EV Experience Days keren terug: de elektrische auto op de ..."
+  }
+ ]
+}

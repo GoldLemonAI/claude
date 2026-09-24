@@ -1,0 +1,126 @@
+{
+ "id": "P14",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse ondernemers zijn een goed voorbeeld van autoriteit opbouwen op LinkedIn in B2B? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Enkele **Nederlandse ondernemers en CEO’s** die vaak worden gezien als goede voorbeelden van **autoriteit opbouwen op LinkedIn in B2B** zijn **Adriaan Mol**, **Dolf van den Brink** en **Marit van Egmond**.[13]\n\nWaarom zij relevant zijn:\n- **Adriaan Mol** wordt in een overzicht over Nederlandse CEO’s op LinkedIn genoemd als iemand die het verschil maakt door zichtbaarheid en leiderschap uit te dragen.[13]\n- **Dolf van den Brink** wordt genoemd vanwege regelmatige posts over strategie, zakelijke cijfers en een persoonlijke insteek; dat wordt in het artikel expliciet gekoppeld aan autoriteit en klantloyaliteit.[13]\n- **Marit van Egmond** wordt eveneens genoemd als voorbeeld van iemand die LinkedIn inzet om leiderschap en zichtbaarheid te versterken.[13]\n\nAls je wilt, kan ik hier ook een langere lijst van **10 Nederlandse B2B-ondernemers** bij maken, inclusief *waarom* ze sterk zijn op LinkedIn en welke contentstijl ze gebruiken.",
+ "entities": [
+  {
+   "name": "Adriaan Mol",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Dolf van den Brink",
+   "type": "persoon",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Marit van Egmond",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "exclusiefnetwerknederland.nl",
+   "url": "https://exclusiefnetwerknederland.nl/kennisbank/kennis/linkedin-strategie-voor-ondernemers/",
+   "title": "LinkedIn strategie voor ondernemers - ENN"
+  },
+  {
+   "domain": "robuustmarketing.nl",
+   "url": "https://robuustmarketing.nl/en/blog/social-media-marketing/linkedin-b2b-strategy",
+   "title": "LinkedIn B2B Strategy: Generate Leads and Build Authority"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "Hoe Nederlandse B2B-founders leads genereren via LinkedIn ..."
+  },
+  {
+   "domain": "cherry-marketing.nl",
+   "url": "https://cherry-marketing.nl/online-marketing/linkedin-strategie/",
+   "title": "LinkedIn-strategie & campagnes | Groei met Cherry"
+  },
+  {
+   "domain": "robuustmarketing.nl",
+   "url": "https://robuustmarketing.nl/nl/blog/social-media-marketing/linkedin-strategie-b2b",
+   "title": "LinkedIn B2B Strategie: Genereer Leads en Bouw Autoriteit"
+  },
+  {
+   "domain": "linkleads.nl",
+   "url": "https://www.linkleads.nl/linkedin-playbook-een-stappenplan-voor-meer-succes/",
+   "title": "LinkedIn Playbook: een stappenplan voor meer succes"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/hoe-genereer-je-leads-via-linkedin-franck-fielemon-grmbf",
+   "title": "Hoe genereer je leads via LinkedIn?"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/van-profiel-naar-autoriteit-linkedin-als-groeimotor/",
+   "title": "Van profiel naar autoriteit, LinkedIn als groeimotor - Marketingfacts"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/nl/blog/linkedin-voor-b2b-leadgeneratie",
+   "title": "LinkedIn voor B2B leadgeneratie: de bewezen gids | Postiv AI Blog"
+  },
+  {
+   "domain": "informatiegidsen-nederland.nl",
+   "url": "https://informatiegidsen-nederland.nl/algemeen/thought-leadership-linkedin/",
+   "title": "Thought leadership op LinkedIn: van visie naar zichtbare autoriteit"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/hoe-ook-jij-als-ondernemer-meer-uit-linkedin-kan-halen-umbau-agency-tzlue",
+   "title": "Hoe ook jij als ondernemer meer uit LinkedIn kan halen"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/8-stappen-1-geheim-voor-meer-omzet-uit-linkedin-massimo-gagliotti",
+   "title": "8 stappen + 1 geheim voor meer omzet uit LinkedIn"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/lessen-in-leiderschap-5-nederlandse-ceos-op-linkedin-die-het-verschil-maken/",
+   "title": "Lessen in leiderschap: 5 Nederlandse CEO's op LinkedIn die het ..."
+  },
+  {
+   "domain": "waalaxy.com",
+   "url": "https://www.waalaxy.com/nl/blog/b2b-verkoop-leadgeneratie/leadgeneratie-linkedin",
+   "title": "Hoe gemakkelijk B2B LinkedIn leadgeneratie in 2026?"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/d%C3%A9-kracht-van-linkedin-business-een-handleiding-voor-fielemon",
+   "title": "Dé kracht van LinkedIn for Business - een handleiding"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/9-bouwstenen-voor-een-succesvolle-aanpak-van-linkedin-van-der-voort",
+   "title": "9 bouwstenen voor een succesvolle aanpak van LinkedIn voor ambitieuze ondernemers"
+  },
+  {
+   "domain": "shopify.com",
+   "url": "https://www.shopify.com/nl/blog/hoe-linkedin-voor-bedrijven-te-gebruiken",
+   "title": "Hoe kun je LinkedIn gebruiken om je bedrijf te laten groeien? - Shopify"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/uitdaging_oplossing/marketing_en_klantrelaties/hoe_kan_ik_linkedin_gebruiken_om_meer_te_verkopen",
+   "title": "LinkedIn inzetten om meer te verkopen: van connectie naar ..."
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/",
+   "title": "B2B-thought leadership op LinkedIn: 7 tips om wél impact ..."
+  }
+ ]
+}

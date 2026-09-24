@@ -1,0 +1,144 @@
+{
+ "id": "P04",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welk bureau in Nederland kan LinkedIn content voor een MKB-bedrijf volledig uitbesteed verzorgen, inclusief posts voor de oprichter?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Ja: **Solvex** lijkt het meest direct te passen bij je vraag, omdat zij expliciet aanbieden om LinkedIn **volledig te beheren** voor B2B- en MKB-ondernemers, inclusief **founder-posts**, de company page en een connectiestrategie.[1]\n\nAndere bureaus in Nederland die LinkedIn-content voor MKB grotendeels kunnen uitbesteden zijn:\n\n- **Cridea**: biedt een MKB social-media pakket met LinkedIn, contentkalender, 6–8 posts per maand en beheer van reacties en volgers.[2]\n- **GHO Agency**: zegt LinkedIn strategie, content en dagelijkse interactie volledig over te nemen.[5]\n- **Mind Your Business Agency**: noemt dit de meest volledige vorm en neemt het hele LinkedIn-growthsysteem over, inclusief strategie, contentproductie, distributie en outbound.[10]\n- **MvH Media**: biedt LinkedIn-uitbesteding aan met contentcreatie, advertentiecampagnes, profielbeheer en rapportage.[15]\n- **Brul Media**: biedt LinkedIn-pakketten voor volledige productie en groeistrategieën.[8]\n\nAls je specifiek zoekt naar **posts voor de oprichter/founder** naast het bedrijfsprofiel, dan springt **Solvex** er het duidelijkst uit omdat dit letterlijk genoemd wordt.[1] Als je wilt, kan ik hieruit ook een **korte shortlist maken op prijs, doelgroep en mate van ontzorging**.",
+ "entities": [
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 1,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "Cridea",
+   "type": "bureau",
+   "position": 2,
+   "domain": "cridea.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 3,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Mind Your Business Agency",
+   "type": "bureau",
+   "position": 4,
+   "domain": "mindyourbusiness-agency.com"
+  },
+  {
+   "name": "MvH Media",
+   "type": "bureau",
+   "position": 5,
+   "domain": "mvhmedia.nl"
+  },
+  {
+   "name": "Brul Media",
+   "type": "bureau",
+   "position": 6,
+   "domain": "brulmedia.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "cridea.nl",
+   "url": "https://cridea.nl/social-media/linkedin-uitbesteden/",
+   "title": "LinkedIn uitbesteden | Cridea Online Marketing bureau"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/online-marketing-uitbesteden/",
+   "title": "Online Marketing Uitbesteden voor B2B-MKB - Gold Lemon Haarlem"
+  },
+  {
+   "domain": "yutugrow.nl",
+   "url": "https://www.yutugrow.nl/blog/marketing-uitbesteden",
+   "title": "LinkedIn Marketing Uitbesteden voor MKB Nederland - YUTU Grow"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "LinkedIn Marketing Uitbesteden voor B2B | GHO Agency"
+  },
+  {
+   "domain": "socialmediabeheerbureau.nl",
+   "url": "https://socialmediabeheerbureau.nl/",
+   "title": "Social Media Bureau voor het MKB | Vaste prijs"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/social-marketing/linkedin-adverteren/",
+   "title": "LinkedIn bureau gezocht? | Hulp van ervaren marketeers"
+  },
+  {
+   "domain": "brulmedia.nl",
+   "url": "https://brulmedia.nl/social-media/linkedin-beheer/",
+   "title": "LinkedIn Uitbesteden? Bespaar tijd en laat je netwerk groeien!"
+  },
+  {
+   "domain": "maatwerkonline.nl",
+   "url": "https://www.maatwerkonline.nl/social-media-advertising/linkedin/",
+   "title": "LinkedIn adverteren uitbesteden?"
+  },
+  {
+   "domain": "mindyourbusiness-agency.com",
+   "url": "https://www.mindyourbusiness-agency.com/",
+   "title": "LinkedIn Demand Generation voor B2B | Mind Your Business Agency"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/rotterdam-nl",
+   "title": "Beste LinkedIn Strategie Bureaus in Rotterdam - Sortlist"
+  },
+  {
+   "domain": "roxtar.nl",
+   "url": "https://roxtar.nl/social-media-adverteren/",
+   "title": "Social media adverteren uitbesteden | Meta en TikTok"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "crossinternet.nl",
+   "url": "https://www.crossinternet.nl/online-marketing/linkedin-marketing/",
+   "title": "LinkedIn marketing inzetten voor meer leads en ..."
+  },
+  {
+   "domain": "mvhmedia.nl",
+   "url": "https://www.mvhmedia.nl/diensten/social-media-marketing/linkedin-marketing/uitbesteden/",
+   "title": "Linkedin Uitbesteden? - Bereik Jouw Doelgroep - MvH Media"
+  },
+  {
+   "domain": "yourbusinessonline.nl",
+   "url": "https://www.yourbusinessonline.nl/social-media-bureau/",
+   "title": "Hét Nr1 Social Media Bureau van Nederland! Vanaf € 250,-"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/online-marketing-uitbesteden",
+   "title": "Online Marketing Uitbesteden | AI-Powered Marketing Bureau"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/thomvanderkleij_linkedin-mkb-b2b-activity-7125137344629727232-mgwn",
+   "title": "Thom van der Kleij op LinkedIn: #linkedin #mkb #b2b"
+  },
+  {
+   "domain": "trustoo.nl",
+   "url": "https://trustoo.nl/opdracht/online-marketing/content-marketing/",
+   "title": "Content marketing | Top 10 marketingbureaus | Trustoo"
+  }
+ ]
+}

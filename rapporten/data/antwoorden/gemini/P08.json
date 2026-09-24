@@ -1,0 +1,107 @@
+{
+ "id": "P08",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Aan wie kan een Nederlands MKB-bedrijf het beheer van de LinkedIn-bedrijfspagina uitbesteden? Noem bureaus.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Een Nederlands MKB-bedrijf kan het beheer van zijn LinkedIn-bedrijfspagina aan verschillende soorten partijen uitbesteden. Omdat LinkedIn een specifiek, zakelijk (B2B) karakter heeft, kiezen veel MKB-bedrijven voor gespecialiseerde bureaus die de vertaalslag kunnen maken van droge corporate info naar boeiende content.\n\nHieronder staat een overzicht van de partijen waaraan u dit kunt uitbesteden, inclusief concrete voorbeelden van Nederlandse bureaus die zich richten op het MKB.\n\n---\n\n### 1. Gespecialiseerde LinkedIn- en Social Media Bureaus (voor het MKB)\nDeze bureaus richten zich specifiek op social media beheer of hebben een sterke focus op LinkedIn. Ze begrijpen het algoritme, schrijven de content in de juiste tone-of-voice en ontwerpen de visuals.\n\n*   **BuildSocial:** Een bureau dat zich sterk richt op social media beheer (waaronder LinkedIn) voor bedrijven die wel projecten en foto's hebben, maar geen tijd om dit consistent te delen. Ze bieden beheer aan vanaf een vast tarief per dag.\n*   **Bettersocials:** Gespecialiseerd in organische marketing en personal branding op LinkedIn. Naast het beheer van de bedrijfspagina kunnen zij ook de profielen van de directie of sleutelfiguren (corporate influencers) beheren om meer bereik te genereren.\n*   **Keep It Real Marketing:** Dit bureau helpt MKB-ondernemers met LinkedIn-beheer door authentieke content te schrijven die past binnen het zakelijke format, zonder dat het saai wordt. \n*   **Start Boost Marketing:** Biedt overzichtelijke en betaalbare abonnementsvormen speciaal voor het MKB. Ze verzorgen zowel updates op de bedrijfspagina als personal branding-posts voor de ondernemer zelf.\n\n### 2. Full-service B2B Online Marketing Bureaus\nAls u LinkedIn wilt inzetten als onderdeel van een bredere marketing- of leadgeneratiestrategie (bijvoorbeeld in combinatie met Google-vindbaarheid, SEO of LinkedIn Ads), is een breder B2B-marketingbureau vaak een betere match.\n\n*   **Afdeling Online:** Een gecertificeerd LinkedIn-bureau dat MKB-bedrijven helpt met zowel de organische content op de bedrijfspagina als met gerichte B2B-advertentiecampagnes (LinkedIn Ads) om leads te genereren.\n*   **GHO Agency:** Richt zich specifiek op B2B-groei via LinkedIn. Zij nemen niet alleen het beheer en de content over, maar koppelen dit aan een actieve strategie voor leadgeneratie en outreach.\n*   **Webstijl:** Een full-service online marketingbureau dat veel met het MKB werkt. Zij helpen bedrijven die 'worstelen' met LinkedIn om via een gerichte contentstrategie structureel een groter zakelijk netwerk aan te spreken.\n\n### 3. Freelance Social Media Managers & Virtuele Assistenten (VA's)\nVoor kleinere MKB-bedrijven met een beperkt budget is een bureau soms een te grote stap. In dat geval kunt u het beheer uitbesteden aan een freelance social media specialist of een gespecialiseerde Virtuele Assistent.\n*   **Waar te vinden?** Platforms zoals *Jellow*, *Freelance.nl* of simpelweg door op LinkedIn zelf te zoeken naar een \"Freelance LinkedIn Specialist\". \n*   **Voordeel:** Vaak persoonlijker, flexibeler en voordeliger dan een groter bureau.\n\n---\n\n### Waar moet u op letten bij het uitbesteden?\n\n1.  **De 'Tone of Voice':** LinkedIn is een zakelijk platform, maar té formele posts presteren vaak slecht. Het bureau moet uw bedrijfscultuur begrijpen en menselijk kunnen verwoorden.\n2.  **Input-structuur:** Een bureau kan veel uit handen nemen, maar zij hebben wel input nodig (foto's van projecten, updates over nieuwe medewerkers, etc.). Spreek van tevoren goed af hoe deze overdracht (bijvoorbeeld via een maandelijkse call of WhatsApp-groep) verloopt.\n3.  **Bedrijfspagina vs. Persoonlijk profiel:** Berichten van persoonlijke profielen (van de directeur of accountmanagers) krijgen op LinkedIn organisch tot wel 5 tot 10 keer meer bereik dan berichten van een bedrijfspagina. Veel bureaus bieden daarom een combinatie aan waarbij ze zowel de bedrijfspagina als uw persoonlijke profiel beheren.",
+ "entities": [
+  {
+   "name": "BuildSocial",
+   "type": "bureau",
+   "position": 1,
+   "domain": "buildsocial.nl"
+  },
+  {
+   "name": "Bettersocials",
+   "type": "bureau",
+   "position": 2,
+   "domain": "bettersocials.nl"
+  },
+  {
+   "name": "Keep It Real Marketing",
+   "type": "bureau",
+   "position": 3,
+   "domain": "keepitrealmarketing.nl"
+  },
+  {
+   "name": "Start Boost Marketing",
+   "type": "bureau",
+   "position": 4,
+   "domain": "startboost.nl"
+  },
+  {
+   "name": "Afdeling Online",
+   "type": "bureau",
+   "position": 5,
+   "domain": "afdelingonline.nl"
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 6,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Webstijl",
+   "type": "bureau",
+   "position": 7,
+   "domain": "webstijl.nl"
+  },
+  {
+   "name": "Jellow",
+   "type": "platform",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Freelance.nl",
+   "type": "platform",
+   "position": 9,
+   "domain": "freelance.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "buildsocial.nl",
+   "url": "https://www.buildsocial.nl/linkedin/linkedin-beheer/",
+   "title": "buildsocial.nl"
+  },
+  {
+   "domain": "bettersocials.nl",
+   "url": "https://bettersocials.nl/linkedin-beheer/",
+   "title": "bettersocials.nl"
+  },
+  {
+   "domain": "mashup-communications.de",
+   "url": "https://www.mashup-communications.de/linkedin-beratung/",
+   "title": "mashup-communications.de"
+  },
+  {
+   "domain": "keepitrealmarketing.nl",
+   "url": "https://keepitrealmarketing.nl/linkedin-uitbesteden/",
+   "title": "keepitrealmarketing.nl"
+  },
+  {
+   "domain": "startboost.nl",
+   "url": "https://www.startboost.nl/linkedin",
+   "title": "startboost.nl"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/social-media-expert/linkedin-bureau/",
+   "title": "afdelingonline.nl"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "webstijl.nl",
+   "url": "https://www.webstijl.nl/linkedin-uitbesteden/",
+   "title": "webstijl.nl"
+  }
+ ]
+}

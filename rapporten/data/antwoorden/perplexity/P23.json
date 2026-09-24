@@ -1,0 +1,186 @@
+{
+ "id": "P23",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Wat werkt in 2026 in het LinkedIn-algoritme voor B2B-content in Nederland? Noem bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In 2026 werkt op LinkedIn voor **B2B-content in Nederland** vooral content die **relevant, deskundig en gesprekwaardig** is: posts rond een duidelijk thema, met echte inzichten, die mensen lang laten lezen of bekijken en die betekenisvolle reacties uitlokken.[2][6][13] Vooral **document/carousel-posts**, **native video** en sterke **tekstposts** doen het goed; externe links, engagement-bait en generieke AI-content worden juist minder beloond.[1][15][17]\n\nWat in de praktijk het meest lijkt te werken:\n\n- **Duidelijke niche en herhaalbare expertpositie**: LinkedIn weegt in 2026 zwaarder op relevantie en expertise dan op puur bereik, en content wordt sterker verdeeld op basis van onderwerp en interesse dan op alleen je netwerk.[2][6][18]\n- **Verblijftijd / dwell time**: content die mensen langer laat stoppen, lezen of swipen krijgt voordeel; carousels profiteren daar volgens meerdere Nederlandse en internationale analyses het meest van.[1][15][16]\n- **Inhoudelijke diepgang**: posts met eigen visie, concrete data, klantcases, frameworks of stappenplannen presteren beter dan oppervlakkige promotie.[6][7][13][18]\n- **Betekenisvolle interactie**: reacties die verder gaan dan “leuk bericht” helpen meer dan likes; het algoritme beloont gesprekken en inhoudelijke comments.[3][16][18]\n- **Persoonlijke profielen boven bedrijfspagina’s**: B2B-prestatie komt volgens meerdere bronnen vaker uit medewerkers en experts dan uit de corporate pagina zelf.[6][18]\n- **Native formats**: carousels/document posts, native video en beeldposts houden aandacht beter vast dan posts die gebruikers wegsturen naar externe links.[1][15][17]\n- **Sterke hook en scanbare opmaak**: openen met een scherpe belofte of vraag, daarna compact en visueel logisch opbouwen, werkt beter voor mobiele consumptie.[9][13]\n\nPraktisch voor Nederland in B2B:\n\n- Kies 1 tot 3 **vaste thema’s** waar je echt autoriteit op wilt bouwen.[2][16]\n- Publiceer vooral **cases, benchmarks, learnings, frameworks, opinies en data** in plaats van generieke tips.[6][7][18]\n- Gebruik **carousels** voor uitleg, stappenplannen en samenvattingen; gebruik **video** voor POV, uitleg en vertrouwen.[1][15][17]\n- Vermijd **externe links in de post**, overdreven hashtags, engagement pods en “reageer met X”-tactieken.[15][19]\n- Optimaliseer voor **saves, leestijd en inhoudelijke reacties**, niet alleen likes.[15][16][17]\n\nDe sterkste Nederlandse samenvatting is: **LinkedIn in 2026 beloont expertise die de juiste mensen lang genoeg vasthoudt om een echt gesprek te starten**.[2][11][16]\n\nBronnen die dit ondersteunen:\n- Richard van der Blom via BusinessWise over de verschuiving naar **interest graph** en minder netwerkgedreven distributie.[2]\n- Hootsuite / Social Insider samengevat in Searchlab over **dwell time** en carousels.[1]\n- CMI, Agorapulse, SocialPilot en Expandi over **relevantie, expertise, betekenisvolle engagement en format-prestaties**.[6][13][15][19]\n- Nederlandse praktijkartikelen van o.a. Frankwatching, Marketingfacts, Fingerspitz en Postiv over de 2026-trends in de feed.[8][11][14][16]\n\nAls je wilt, kan ik dit ook vertalen naar een **concrete LinkedIn-contentstrategie voor een Nederlandse B2B-organisatie** met postenrubrieken, voorbeeldformats en een 30-dagenplanning.",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "BusinessWise",
+   "type": "platform",
+   "position": 2,
+   "domain": "businesswise.nl"
+  },
+  {
+   "name": "Hootsuite",
+   "type": "tool",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Social Insider",
+   "type": "tool",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "position": 5,
+   "domain": "searchlab.nl"
+  },
+  {
+   "name": "CMI",
+   "type": "platform",
+   "position": 6,
+   "domain": "contentmarketinginstitute.com"
+  },
+  {
+   "name": "Agorapulse",
+   "type": "tool",
+   "position": 7,
+   "domain": "agorapulse.com"
+  },
+  {
+   "name": "SocialPilot",
+   "type": "tool",
+   "position": 8,
+   "domain": "socialpilot.co"
+  },
+  {
+   "name": "Expandi",
+   "type": "tool",
+   "position": 9,
+   "domain": "expandi.io"
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 10,
+   "domain": "frankwatching.com"
+  },
+  {
+   "name": "Marketingfacts",
+   "type": "platform",
+   "position": 11,
+   "domain": "marketingfacts.nl"
+  },
+  {
+   "name": "Fingerspitz",
+   "type": "bureau",
+   "position": 12,
+   "domain": "fingerspitz.nl"
+  },
+  {
+   "name": "Postiv",
+   "type": "tool",
+   "position": 13,
+   "domain": "postiv.ai"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/statistieken/linkedin-statistieken-2026",
+   "title": "LinkedIn Statistieken 2026 | 50+ Cijfers over Bereik, Ads & B2B"
+  },
+  {
+   "domain": "businesswise.nl",
+   "url": "https://www.businesswise.nl/marketing/linkedin-algoritme-richard-van-der-blom~286d0c3e",
+   "title": "Zo werkt het LinkedIn algoritme in 2026"
+  },
+  {
+   "domain": "linqed.io",
+   "url": "https://linqed.io/academy/blauwdruk/linkedin-trends-en-ontwikkelingen",
+   "title": "LinkedIn Trends | Wat Verandert er voor Agencies - Linqed.io"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/nl/blog/linkedin-contentstrategie-2025",
+   "title": "LinkedIn Contentstrategie 2025: Wat Echt Werkt (Data van 2M+ ..."
+  },
+  {
+   "domain": "sourcegeek.com",
+   "url": "https://www.sourcegeek.com/nl/news/zo-werkt-het-linkedin-algoritme-update-2026",
+   "title": "Zo werkt het LinkedIn-algoritme (update 2026) - SourceGeek"
+  },
+  {
+   "domain": "contentmarketinginstitute.com",
+   "url": "https://contentmarketinginstitute.com/social-media-content/linkedin-algorithm-marketing-strategy",
+   "title": "B2B LinkedIn Strategy for the New Algorithm"
+  },
+  {
+   "domain": "sstroop.nl",
+   "url": "https://sstroop.nl/content-voor-linkedin/",
+   "title": "Effectieve LinkedIn content en best practices in 2026"
+  },
+  {
+   "domain": "fingerspitz.nl",
+   "url": "https://fingerspitz.nl/blog/linkedin-algoritme-update/",
+   "title": "LinkedIn algoritme update 2026: 7 tips voor meer bereik - Fingerspitz"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf",
+   "title": "B2B LinkedIn Content Best Practices (2026 Update 🔴)"
+  },
+  {
+   "domain": "clickforest.com",
+   "url": "https://www.clickforest.com/blog/linkedin-marketing-strategieen-b2b-leads",
+   "title": "LinkedIn marketing voor B2B - strategie voor meer leads - ClickForest"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/linkedin-in-2026-deze-trends-gaan-voor-jou-het-verschil-maken/",
+   "title": "LinkedIn in 2026: deze trends gaan voor jou het verschil maken"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/het-linkedin-algoritme-zo-krijg-je-meer-bereik-lucia-sandaal",
+   "title": "Het LinkedIn algoritme: zo krijg je meer bereik"
+  },
+  {
+   "domain": "agorapulse.com",
+   "url": "https://www.agorapulse.com/blog/linkedin/linkedin-algorithm-2025/",
+   "title": "LinkedIn Algorithm 2026: What Has Changed and How to Stay Visible"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/12/15/linkedin-trends-2026/",
+   "title": "LinkedIn-trends 2026: zo win je in een AI-gedreven feed"
+  },
+  {
+   "domain": "socialpilot.co",
+   "url": "https://www.socialpilot.co/blog/linkedin-algorithm",
+   "title": "LinkedIn Algorithm 2026 (August): Why Your Reach Dropped"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/nl/blog/linkedin-algoritme-2026",
+   "title": "De definitieve gids voor het LinkedIn-algoritme in 2026"
+  },
+  {
+   "domain": "dataslayer.ai",
+   "url": "https://www.dataslayer.ai/blog/linkedin-algorithm-february-2026-whats-working-now",
+   "title": "LinkedIn Algorithm 2026: What Works Now (Documents ... - Dataslayer"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/linkedin-algorithm-change-you-need-know-2026-tom-martin-qrguc",
+   "title": "The LinkedIn Algorithm Change You Need to Know in 2026"
+  },
+  {
+   "domain": "expandi.io",
+   "url": "https://expandi.io/blog/linkedin-algorithm/",
+   "title": "How the LinkedIn Algorithm Works in 2026 (and ..."
+  }
+ ]
+}

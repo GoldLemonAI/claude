@@ -1,0 +1,45 @@
+{
+ "id": "P09",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welk marketingbureau in Haarlem of Noord-Holland helpt B2B-bedrijven met LinkedIn en autoriteit opbouwen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In de regio Haarlem en Noord-Holland zijn er diverse marketingbureaus die B2B-organisaties ondersteunen bij online zichtbaarheid, leadgeneratie en het vergroten van autoriteit, al dan niet specifiek via kanalen zoals LinkedIn.\n\nEen overzicht van relevante bureaus in en rondom Haarlem die hierin stappen kunnen zetten:\n\n- **SDIM Digital Marketing** (gevestigd in Haarlem): Een gevestigd full-service digital marketingbureau dat sterke roots heeft in datagedreven strategie, adverteren en social media-integratie. Ze combineren brede online marketingdisciplines met meetbare resultaten en advies op maat voor zowel B2C als B2B.[[1]](https://nl.linkedin.com/in/pieterborsthaarlem)[[2]](https://nl.linkedin.com/company/sdim-digital-marketing)\n- **CARAMBA! Mediabureau** (gevestigd in Haarlem): Dit bureau richt zich nadrukkelijk op meetbare digitale resultaten en biedt onder andere gerichte **LinkedIn Advertising** en marketing automation aan, specifiek toegespitst op zakelijke B2B-omgevingen.[[1]](https://nl.linkedin.com/posts/carambamedia_over-ons-caramba-media-activity-7201567297080033280-kSjF)[[2]](https://carambamedia.nl/en/linkedin-advertising/)\n- **Bureaus met een specifieke B2B/LinkedIn-focus** : Voor pure B2B-autoriteitsopbouw via organische LinkedIn-content, thought leadership en structurele outreach, wijken bedrijven in Noord-Holland geregeld uit naar gespecialiseerde bureaus (zoals partners in Amsterdam of landelijk opererende B2B-socialselling specialisten), omdat regionale bureaus in Haarlem vaak een breder digital/full-service palet aanbieden (SEO, SEA, social advertising).\n\nWil je je richten op **adverteren (LinkedIn Ads)** , of zoek je juist hulp bij **organische content en thought leadership** om autoriteit op te bouwen? Als je de specifieke **doelstelling** deelt, kan ik gerichter adviseren over de juiste aanpak of het type partner.",
+ "entities": [
+  {
+   "name": "SDIM",
+   "type": "bureau",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "CARAMBA!",
+   "type": "bureau",
+   "domain": "carambamedia.nl",
+   "position": 2
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/pieterborsthaarlem",
+   "title": "Pieter Borst - CEO bij SDIM Digital Marketing - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/sdim-digital-marketing",
+   "title": "SDIM » Digital Marketing Agency - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/carambamedia_over-ons-caramba-media-activity-7201567297080033280-kSjF",
+   "title": "Over ons | Caramba media - LinkedIn"
+  },
+  {
+   "domain": "carambamedia.nl",
+   "url": "https://carambamedia.nl/en/linkedin-advertising/",
+   "title": "LinkedIn Advertising | CARAMBA! mediabureau @ Haarlem"
+  }
+ ]
+}

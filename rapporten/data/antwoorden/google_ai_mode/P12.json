@@ -1,0 +1,71 @@
+{
+ "id": "P12",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welke Nederlandse bureaus bouwen een compleet leadgeneratiesysteem voor B2B-MKB waarin LinkedIn een hoofdrol speelt? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In het Nederlandse B2B-landschap richten diverse gespecialiseerde bureaus zich specifiek op het opzetten van structurele, end-to-end leadgeneratiesystemen voor het MKB, waarbij LinkedIn een centrale (of zelfs leidende) rol vervult. In plaats van losse advertenties of ad-hoc posts, bouwen zij complete funnels die targeting (vaak via Sales Navigator), content/autoriteitsbouw, outreach en conversie combineren.[[1]](https://nl.linkedin.com/in/michiel-verstraten)[[2]](https://aigroeigids.nl/artikel/linkedin-ai-leadgeneratie-voor-b2b-mkb-in-2026-van-connectie-naar-klantgesprek)[[3]](https://dewinnendeondernemer.nl/)\n\nBekende namen en specialisten op dit vlak in Nederland zijn:\n\n- **[YouLynq.me](https://youlynq.me/nl/linkedin-leadgeneratie/)** : Een prominent Nederlands bureau dat volledig gespecialiseerd is in B2B-groei en leadgeneratie via LinkedIn. Ze richten zich op het transformeren van een persoonlijk netwerk naar een voorspelbare stroom aan besluitvormers door het combineren van datagestuurde targeting, content, AI-ondersteuning en menselijke interactie.[[1]](https://nl.linkedin.com/company/youlynq-me)[[2]](https://nl.linkedin.com/in/michiel-verstraten)[[3]](https://youlynq.me/nl/linkedin-leadgeneratie/)\n- **[Sendt Media](https://sendtmedia.nl/mkb-leads/)** : Werkt met een gestructureerde systematiek (genaamd 'Growth Blocks' en de 'Sendt Leadmachine') gericht op het MKB. Ze combineren meerdere kanalen, waarbij LinkedIn vaak een aanzienlijk en meetbaar percentage van de leadinvoer voor de B2B-campagnes voor zijn rekening neemt.[[1]](https://nl.linkedin.com/company/sendt-media)[[2]](https://sendtmedia.nl/mkb-leads/)\n- **Brounz Media** : Richt zich op het inrichten van complete marketing- en leadgeneratiemodellen voor groeiende B2B-dienstverleners (voornamelijk in het MKB-segment met 10 tot 50 medewerkers), waarbij ze afstappen van losse social posts en een voorspelbare pijplijn inrichten.[[1]](https://nl.linkedin.com/in/rogier-mallant-31a7306b)\n\nWil je weten wat de globale **investeringen of abonnementskosten** zijn voor zo'n systeem, of ben je op zoek naar een bureau dat specifiek past bij jouw **branche (bijv. IT, zakelijke dienstverlening of productie)**?",
+ "entities": [
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "domain": "youlynq.me",
+   "position": 1
+  },
+  {
+   "name": "Sendt Media",
+   "type": "bureau",
+   "domain": "sendtmedia.nl",
+   "position": 2
+  },
+  {
+   "name": "Brounz Media",
+   "type": "bureau",
+   "domain": null,
+   "position": 3
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/michiel-verstraten",
+   "title": "Michiel Verstraten - Founder @ YouLynq.me - LinkedIn"
+  },
+  {
+   "domain": "aigroeigids.nl",
+   "url": "https://aigroeigids.nl/artikel/linkedin-ai-leadgeneratie-voor-b2b-mkb-in-2026-van-connectie-naar-klantgesprek",
+   "title": "LinkedIn AI leadgeneratie voor B2B mkb in 2026 - AI Groeigids"
+  },
+  {
+   "domain": "dewinnendeondernemer.nl",
+   "url": "https://dewinnendeondernemer.nl/",
+   "title": "Twist Marketing"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/youlynq-me",
+   "title": "YouLynq.me - LinkedIn"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/linkedin-leadgeneratie/",
+   "title": "LinkedIn leadgeneratie door YouLynq.me voor duurzame groei"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/sendt-media",
+   "title": "SENDT MEDIA - LinkedIn"
+  },
+  {
+   "domain": "sendtmedia.nl",
+   "url": "https://sendtmedia.nl/mkb-leads/",
+   "title": "MKB leads - Sendt Media"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/rogier-mallant-31a7306b",
+   "title": "Rogier Mallant - Founder @ Brounz Media - LinkedIn"
+  }
+ ]
+}

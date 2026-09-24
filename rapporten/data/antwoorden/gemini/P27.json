@@ -1,0 +1,108 @@
+{
+ "id": "P27",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Wat kost het om LinkedIn content uit te besteden aan een bureau in Nederland? Noem aanbieders en prijzen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het uitbesteden van LinkedIn-content aan een professioneel bureau of een specialist in Nederland kost gemiddeld tussen de **€ 500,- en € 2.500,- per maand**. De exacte prijs is sterk afhankelijk van de complexiteit, het aantal posts, of er een contentshoot (foto/video) bij zit en of het gaat om een bedrijfspagina of een persoonlijk profiel van een CEO/directeur (LinkedIn Ghostwriting).\n\nHieronder vindt u een overzicht van de gemiddelde markttarieven, concrete aanbieders in Nederland met hun prijzen, en de verschillende prijsmodellen.\n\n---\n\n### 1. Wat kost LinkedIn-beheer gemiddeld per maand? (De Markttarieven)\n\nBureaus werken vrijwel altijd met maandelijkse abonnementsvormen (retainers). De markt is grofweg op te delen in drie segmenten:\n\n*   **Instap / Basis (€ 100,- tot € 500,- per maand)**:\n    Vaak 1 tot 2 generieke posts per week op basis van door u aangeleverde tekst of stockfoto’s. Geschikt voor basis-zichtbaarheid, maar heeft weinig diepgang of persoonlijke branding.\n*   **Middenklasse / Professioneel (€ 750,- tot € 1.500,- per maand)**:\n    Dit is het meest gekozen segment voor MKB-bedrijven. U krijgt 2 tot 3 op maat gemaakte posts per week, inclusief een professionele content- of fotoshoot op locatie en persoonlijke interviews om uw 'stem' te vangen. \n*   **Premium / B2B Thought Leadership & Ghostwriting (€ 1.500,- tot € 4.000,- per maand)**:\n    Specifiek gericht op directieleden, oprichters en CEO's (personal branding). Het bureau schrijft diepgaande inhoudelijke artikelen (ghostwriting), reageert op reacties en beheert actief uw netwerk om leads te genereren.\n\n---\n\n### 2. Concrete aanbieders in Nederland en hun tarieven\n\nVeel bureaus werken met 'prijzen op aanvraag', maar een aantal transparante Nederlandse partijen publiceert hun tarieven online:\n\n#### **Bettersocials** (Specialist in persoonlijk LinkedIn-beheer & Personal Branding)\nDit bureau richt zich specifiek op het beheren van persoonlijke LinkedIn-profielen (die organisch 3 tot 5 keer meer bereik hebben dan bedrijfspagina's). Hun pakketten zijn inclusief een maandelijkse interview-sessie en een professionele fotoshoot op locatie om eigen beeldmateriaal te creëren.\n*   **1 post per week:** Vanaf **€ 750,-** per maand (excl. btw).\n*   **2 posts per week:** Vanaf **€ 1.050,-** per maand (excl. btw).\n\n#### **BrightQontent** (Social Media Bureau)\nBrightQontent verzorgt het beheer van verschillende social-mediakanalen, waaronder LinkedIn. Ze richten zich op consistente zichtbaarheid met een mix van tekst en visuals.\n*   **Middenpakket:** Vanaf **€ 980,-** per maand (excl. btw).\n    *   *Wat u krijgt:* 2 unieke berichten per week, beheer op 2 kanalen, en een contentshoot van 2 uur per kwartaal.\n\n#### **Social Media voor 99 euro** / **Top Media Groep** (Budget-aanbieders)\nVoor bedrijven die met een klein budget toch consistent aanwezig willen zijn op LinkedIn.\n*   **Social Media voor 99 euro:** Voor **€ 99,-** per maand (excl. btw) maken en plaatsen zij 2 tot 5 berichten per week in uw huisstijl (gebaseerd op templates en uw input).\n*   **Top Media Groep:** Biedt socialmedia-uitbesteding aan voor **€ 100,-** per maand, waarbij u 12 tot 16 berichten per maand op uw kanalen krijgt.\n\n#### **Kwalitiv** (Full-service online marketing)\nEen bureau dat zich richt op het mkb en diverse socialmediapakketten aanbiedt om de online aanwezigheid te versterken.\n*   **Pakket M:** Vanaf **€ 319,-** per maand (excl. btw) voor gestructureerd beheer van uw socials.\n\n---\n\n### 3. Welke factoren bepalen de prijs?\n\nAls u offertes opvraagt bij Nederlandse bureaus, let dan goed op de volgende kostenbepalers:\n\n1.  **Beeldmateriaal (Fotografie & Video):** Is de content gebaseerd op stockfoto's of komt er periodiek een fotograaf/videograaf bij u op kantoor langs voor authentieke content? (Authentiek beeld scoort vele malen beter op LinkedIn).\n2.  **Strategie & Interviews:** Moet u zelf de onderwerpen aanleveren, of houdt het bureau maandelijks een interview met u om de inhoud op te halen?\n3.  **Community Management:** Plaatst het bureau alleen de post, of reageren ze ook op de comments en connectieverzoeken?\n4.  **LinkedIn Ads (Adverteren):** Als u ook wilt adverteren, betaalt u naast de beheerkosten van het bureau (vaak **€ 750,- tot € 2.000,-** per maand) ook een direct advertentiebudget aan LinkedIn zelf (reken op minimaal **€ 600,- tot € 1.200,-** per maand aan 'ad spend' om impact",
+ "entities": [
+  {
+   "name": "Bettersocials",
+   "type": "bureau",
+   "position": 1,
+   "domain": "bettersocials.nl"
+  },
+  {
+   "name": "BrightQontent",
+   "type": "bureau",
+   "position": 2,
+   "domain": "brightqontent.nl"
+  },
+  {
+   "name": "Social Media voor 99 euro",
+   "type": "bureau",
+   "position": 3,
+   "domain": "socialmediavoor99euro.nl"
+  },
+  {
+   "name": "Top Media Groep",
+   "type": "bureau",
+   "position": 4,
+   "domain": "topmediagroep.nl"
+  },
+  {
+   "name": "Kwalitiv",
+   "type": "bureau",
+   "position": 5,
+   "domain": "kwalitiv.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/knowledge-base/linkedin/wat-zijn-de-kosten-van-linkedin-marketing/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "socialtality.nl",
+   "url": "https://socialtality.nl/wat-kost-het-uitbesteden-van-social-media-beheer/",
+   "title": "socialtality.nl"
+  },
+  {
+   "domain": "zoutmedia.nl",
+   "url": "https://zoutmedia.nl/linkedin-uitbesteden/",
+   "title": "zoutmedia.nl"
+  },
+  {
+   "domain": "bettersocials.nl",
+   "url": "https://bettersocials.nl/linkedin-beheer/",
+   "title": "bettersocials.nl"
+  },
+  {
+   "domain": "windmillgrowth.com",
+   "url": "https://windmillgrowth.com/blogseo/linkedin-ghostwriter-cost",
+   "title": "windmillgrowth.com"
+  },
+  {
+   "domain": "2xceed.nl",
+   "url": "https://2xceed.nl/nieuws/wat-kost-een-marketingbureau-in-nederland-in-2026/",
+   "title": "2xceed.nl"
+  },
+  {
+   "domain": "socialmediavoor99euro.nl",
+   "url": "https://socialmediavoor99euro.nl/",
+   "title": "socialmediavoor99euro.nl"
+  },
+  {
+   "domain": "brightqontent.nl",
+   "url": "https://brightqontent.nl/social-media-abonnement-tarieven/",
+   "title": "brightqontent.nl"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/kosten/wat-kost-linkedin-adverteren",
+   "title": "searchlab.nl"
+  },
+  {
+   "domain": "foundera.co",
+   "url": "https://www.foundera.co/blog/linkedin-ghostwriting-pricing-guide-2026",
+   "title": "foundera.co"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/posten-op-linkedin",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "topmediagroep.nl",
+   "url": "https://www.topmediagroep.nl/lp/social-media-uitbesteden.html",
+   "title": "topmediagroep.nl"
+  },
+  {
+   "domain": "kwalitiv.nl",
+   "url": "https://www.kwalitiv.nl/diensten/social-media-marketing/pakketten",
+   "title": "kwalitiv.nl"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "id": "P19",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Wie geeft in Nederland de beste LinkedIn-trainingen voor directeuren en managementteams?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een select aantal top-specialisten dat zich specifiek richt op LinkedIn-trainingen en -strategieën voor **directies, managementteams (MT’s) en boardrooms**. \n\nBij een directieteam ligt de focus van een LinkedIn-training immers niet op 'hoe werkt de knop', maar op strategische thema's zoals **Thought Leadership, Employer Branding (werknemers aantrekken), Social Selling, en reputatie- en risicomanagement**.\n\nDe beste en meest gerenommeerde partijen en trainers in Nederland die deze hoogwaardige boardroom-trainingen verzorgen:\n\n---\n\n### 1. Social Selling Coach (Jorrit Drieënhuizen)\n**Specialisatie:** Directies, MT's en Colleges van Bestuur.\n* **Waarom zij?** Jorrit Drieënhuizen biedt een speciaal programma dat volledig is afgestemd op de unieke positie van leidinggevenden. Directeuren willen (of kunnen) vaak niet op dezelfde manier posten als reguliere medewerkers. \n* **De insteek:** Er wordt gekeken naar de persoonlijke match (welke rol past bij de directeur: de visionair, de verbinder, of de inhoudelijke expert?). Ook is er veel aandacht voor reputatiemanagement, de verhouding tussen de persoonlijke pagina van de CEO en de bedrijfspagina, en hoe om te gaan met eventuele kritische of negatieve reacties op het platform.\n\n### 2. Digital Moves (Corinne Keijzer)\n**Specialisatie:** Corporates, MKB-directies en executive VIP-coaching.\n* **Waarom zij?** Corinne Keijzer is een van de bekendste LinkedIn-pioniers van Nederland, auteur van meerdere bestsellers over het platform, en officieel door LinkedIn zelf benoemd tot ambassadeur. \n* **De insteek:** Digital Moves verzorgt zowel incompany-trajecten voor directies als intensieve **1-op-1 VIP-sessies** voor CEO's en topbestuurders die in alle discretie en in korte tijd hun LinkedIn-strategie willen bepalen. De focus ligt hier sterk op het bouwen van een autoriteitspositie (Thought Leadership) en het strategisch inzetten van *Employee Advocacy* (hoe activeer je het team eronder?).\n\n### 3. LinkLeads (Victor Huiting)\n**Specialisatie:** Directie en commercieel management (Sales/Marketing).\n* **Waarom hij?** Victor Huiting is een gecertificeerd LinkedIn-specialist die bekendstaat om zijn zeer praktische, resultaatgerichte en energieke aanpak. \n* **De insteek:** Uitermate geschikt voor MT’s en directies van commerciële en groeiende organisaties. Huiting leert managementteams hoe zij LinkedIn kunnen inzetten om betere leads aan te trekken, maar integreert tegenwoordig ook moderne technologieën zoals de inzet van AI-tools (zoals ChatGPT) om snel en efficiënt content van hoog niveau te genereren zonder dat het de directeur zeeën van tijd kost.\n\n### 4. Follow Chantal (Chantal van den Berg)\n**Specialisatie:** Directie en MT's binnen de techniek, IT en specialistische B2B-sectoren.\n* **Waarom zij?** Veel directeuren in de B2B- of technische sector hebben een hekel aan 'borstklopperij' of te commerciële posts op LinkedIn. Chantal heeft zich specifiek gespecialiseerd in deze doelgroep.\n* **De insteek:** Haar trainingen voor directieteams draaien om het delen van *echte* inhoudelijke expertise. Ze helpt introverte of analytisch ingestelde leiders om op een comfortabele, geloofwaardige manier online te netwerken en het vertrouwen in de markt te vergroten.\n\n---\n\n### Waar moet u op letten bij het maken van een keuze?\n* **Wilt u 1-op-1 of met het hele MT?** Voor een CEO die puur persoonlijk wil sparren over zijn/haar profiel en visie is een **VIP-traject** (zoals bij *Digital Moves*) de beste keuze.\n* **Wat is het hoofddoel?** Moet LinkedIn dienen voor recruitment/arbeidsmarktcommunicatie? Kies dan voor een trainer die sterk is in Employer Advocacy (zoals *Social Selling Coach* of *Digital Moves*). Is het doel puur omzetgroei en B2B-leads? Dan past *LinkLeads* of *Follow Chantal* wellicht beter bij uw MT.",
+ "entities": [
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "position": 1,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Jorrit Drieënhuizen",
+   "type": "persoon",
+   "position": 2,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 3,
+   "domain": "digitalmoves.nl"
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 4,
+   "domain": "corinnekeijzer.nl"
+  },
+  {
+   "name": "LinkLeads",
+   "type": "bureau",
+   "position": 5,
+   "domain": "linkleads.nl"
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "position": 6,
+   "domain": "linkleads.nl"
+  },
+  {
+   "name": "Follow Chantal",
+   "type": "bureau",
+   "position": 7,
+   "domain": "followchantal.com"
+  },
+  {
+   "name": "Chantal van den Berg",
+   "type": "persoon",
+   "position": 8,
+   "domain": "followchantal.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/linkedin-voor-directie-mt-college-van-bestuur/",
+   "title": "socialsellingcoach.nl"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/",
+   "title": "digitalmoves.nl"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/trainingen-en-workshops/",
+   "title": "digitalmoves.nl"
+  },
+  {
+   "domain": "corinnekeijzer.nl",
+   "url": "https://www.corinnekeijzer.nl/",
+   "title": "corinnekeijzer.nl"
+  },
+  {
+   "domain": "somebooks.nl",
+   "url": "https://somebooks.nl/linkedin-voor-bedrijven-corinne-keijzer/",
+   "title": "somebooks.nl"
+  },
+  {
+   "domain": "springest.nl",
+   "url": "https://www.springest.nl/corinne-keijzer/linkedin-privetraining",
+   "title": "springest.nl"
+  },
+  {
+   "domain": "linkleads.nl",
+   "url": "https://www.linkleads.nl/linkedin-training/linkedin-training-voor-bedrijven/",
+   "title": "linkleads.nl"
+  },
+  {
+   "domain": "linkleads.nl",
+   "url": "https://www.linkleads.nl/linkedin-chatgpt-training-ijzersterke-content/",
+   "title": "linkleads.nl"
+  },
+  {
+   "domain": "followchantal.com",
+   "url": "https://followchantal.com/voor-wie/",
+   "title": "followchantal.com"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "id": "P29",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Wat is thought leadership op LinkedIn en hoe begint een MKB-ondernemer ermee? Noem Nederlandse voorbeelden en bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "**Thought leadership op LinkedIn** (in het Nederlands ook wel 'kennisleiderschap' of 'opinieleiderschap' genoemd) houdt in dat je als ondernemer of professional consequent jouw unieke visie, praktijkervaringen en diepgaande vakkennis deelt. \n\nHet doel is niet om direct je product of dienst te verkopen. Het doel is om de **go-to expert** te worden in jouw niche, zodat potentiële klanten aan jou denken op het moment dat ze een probleem hebben dat jij kunt oplossen. Uit onderzoek van LinkedIn en Edelman blijkt dat maar liefst **53% van de B2B-besluitvormers** thought leadership belangrijker vindt dan algemene naamsbekendheid bij het kiezen van een leverancier.\n\n---\n\n### Hoe begint een MKB-ondernemer ermee? (Stappenplan)\n\nAls MKB-ondernemer heb je een enorm voordeel ten opzichte van multinationals: je staat met je voeten in de klei, hebt direct klantcontact en kunt snel schakelen. Je hebt dus een schat aan praktijkverhalen. Zo begin je:\n\n#### 1. Kies een scherpe niche (je \"sweet spot\")\nGa niet overal iets van vinden. Kies één specifiek thema dat op het snijvlak ligt van:\n* Jouw diepste expertise.\n* De grootste uitdagingen van je ideale klant.\n* *Voorbeeld:* Niet algemeen \"IT-advies\", maar \"Cybersecurity-bewustzijn voor accountantskantoren\" of \"Duurzaam bouwen met een klein budget\".\n\n#### 2. Claim een origineel standpunt\nThought leadership is het tegenovergestelde van *veilig in het midden varen*. Stel jezelf de vragen:\n* Wat gebeurt er in mijn branche waar niemand over praat?\n* Waar maakt de concurrentie volgens mij een cruciale fout?\n* Welke trends zie ik voor de komende 3 jaar?\n\n#### 3. Deel je 'met moeite verdiende' lessen (Storytelling)\nMensen onthouden geen droge feiten, ze onthouden verhalen. Deel praktijkervaringen:\n* Een fout die je maakte en wat je daarvan leerde.\n* Een geanonimiseerde klantcase waarin je laat zien *hoe* je een complex probleem hebt opgelost.\n* Jouw antwoord op een vraag die een klant je die ochtend stelde.\n\n#### 4. Geef gratis waarde weg\nWees niet bang om je \"geheime recept\" te delen. Door je kennis gratis weg te geven via LinkedIn-bijdragen of *long-form* LinkedIn-artikelen, bewijs je dat je de autoriteit bent. Als mensen zien hoe goed jouw gratis advies is, betalen ze graag voor je betaalde diensten.\n\n#### 5. Schrijf zelf en blijf consistent\nEen grote valkuil voor MKB'ers is het inhuren van een marketingbureau dat namens de ondernemer generieke teksten schrijft. Dat prikt de LinkedIn-gebruiker zo doorheen. Schrijf vanuit je eigen stem (*tone of voice*). Post liever 1 à 2 keer per week een steengoede, persoonlijke post dan dagelijks een AI-gegenereerd verhaaltje.\n\n---\n\n### Nederlandse voorbeelden\n\nIn Nederland zijn er diverse ondernemers die thought leadership uitstekend toepassen op LinkedIn:\n\n1. **Bas van der Veldt (CEO van AFAS Software):** \n   Hij is het schoolvoorbeeld van authentiek leiderschap. Hij deelt geen gelikte marketingpraatjes, maar oprechte, soms tegendraadse meningen over bedrijfscultuur, werkgeverschap en digitalisering. \n2. **Jeroen van Glabbeek (CEO van CM.com):** \n   Gepositioneerd als 'LinkedIn Top Voice' op het gebied van tech. Hij neemt zijn volgers mee in de transitie van zijn bedrijf (van sms-dienst naar AI-gedreven enterprise) en deelt waardevolle lessen over scale-ups en innovatie.\n3. **Janneke Niessen (Mede-oprichter CapitalT):** \n   Zij claimt heel specifiek de thema’s diversiteit in tech, durfkapitaal (venture capital) en ondernemerschap. Door haar expertise en sterke opinie hierover te delen, is zij de absolute go-to persoon geworden in dit segment.\n4. **Bart Stuve (Manager bij Cards PLM Solutions):** \n   Een uitstekend voorbeeld van een MKB-manager in een niche. Hij deelt geen algemene posts, maar heel specifieke video's en blogs over de technische uitdagingen van zijn doelgroep, en reageert persoonlijk op iedereen die onder zijn berichten reageert.\n\n---\n\n### Nuttige Nederlandse bronnen om je in te lezen\n\n* **Frankwatching:** Hét platform in Nederland voor artikelen over B2B-marketing en social media. Zoek hier op *\"thought leadership\"* voor diepgaande stappenplannen en tips over hoe je de transitie maakt van zender naar autoriteit.\n* **Marketingfacts:** Biedt uitstekende analyses over hoe Nederlandse leiders en ondernemers LinkedIn inzetten voor reputatieopbouw en thought leadership.\n* **Boek: \"Thought Leadership\"** *(door Mignon van Halderen & Brandon Martens)*: Een van de weinige Nederlandse standaardwerken over dit onderwerp dat je helpt de theorie te vertalen naar een praktische merkstrategie.",
+ "entities": [
+  {
+   "name": "Edelman",
+   "type": "overig",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Bas van der Veldt",
+   "type": "persoon",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "AFAS Software",
+   "type": "overig",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Jeroen van Glabbeek",
+   "type": "persoon",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "CM.com",
+   "type": "overig",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Janneke Niessen",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "CapitalT",
+   "type": "overig",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Bart Stuve",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Cards PLM Solutions",
+   "type": "overig",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 10,
+   "domain": "frankwatching.com"
+  },
+  {
+   "name": "Marketingfacts",
+   "type": "platform",
+   "position": 11,
+   "domain": "marketingfacts.nl"
+  },
+  {
+   "name": "Mignon van Halderen",
+   "type": "persoon",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Brandon Martens",
+   "type": "persoon",
+   "position": 13,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "kennisleiderschap.nl",
+   "url": "https://kennisleiderschap.nl/2025/10/12/van-expertise-naar-invloed-kennisleiderschap-mkb/",
+   "title": "kennisleiderschap.nl"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "magicpost.in"
+  },
+  {
+   "domain": "sprintsandsneakers.com",
+   "url": "https://www.sprintsandsneakers.com/nl/insights/thought-leadership-b2b",
+   "title": "sprintsandsneakers.com"
+  },
+  {
+   "domain": "presult.nl",
+   "url": "https://www.presult.nl/blog/b2b-thought-leadership-de-ideale-strategie-voor-mkb-bedrijven/",
+   "title": "presult.nl"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2023/02/13/thought-leadership-linkedin-recessie/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2024/07/31/opiniestuk-inzetten-als-pr-tactiek/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-berichten-voorbeelden",
+   "title": "magicpost.in"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=xw_SQ6iNvQ4",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-artikel-schrijven-long-form-content-voor-thought-leaders/",
+   "title": "thesuccessagency.nl"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "onlinemarketing.de",
+   "url": "https://onlinemarketing.de/social-media-marketing/meinungsstark-linkedin-thought-leader-tipps",
+   "title": "onlinemarketing.de"
+  },
+  {
+   "domain": "linkleads.nl",
+   "url": "https://www.linkleads.nl/linkedin-strategie-voor-ceo/",
+   "title": "linkleads.nl"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/lessen-in-leiderschap-5-nederlandse-ceos-op-linkedin-die-het-verschil-maken/",
+   "title": "marketingfacts.nl"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/nl/blog/thought-leadership-betekenis/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2024/04/03/b2b-marketing-thought-leaders/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2023/06/28/9-boekentips-zomer/",
+   "title": "frankwatching.com"
+  }
+ ]
+}

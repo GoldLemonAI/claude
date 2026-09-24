@@ -1,0 +1,72 @@
+{
+ "id": "P18",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse marketeers zijn autoriteit op het gebied van AI-zichtbaarheid en GEO, en delen dat op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het landschap rondom **AI-zichtbaarheid**, **GEO (Generative Engine Optimization)** en **AEO (Answer Engine Optimization)** is in Nederland volop in beweging. Waar traditionele SEO zich richt op de bekende zoekresultatenpagina van Google, verschuift de focus nu naar hoe Large Language Models (zoals ChatGPT, Perplexity, Gemini en Google AI Overviews) merken aanbevelen.[[1]](https://smartranking.nl/over-ons/)[[2]](https://www.linkedin.com/company/geo-generative-engine-optimization)[[3]](https://nl.linkedin.com/in/eelcowynia/nl)[[4]](https://nl.linkedin.com/pulse/wat-het-beste-geo-bureau-nederland-voor-generative-engine-hossain-aqdqc)\n\nEnkele Nederlandse marketeers en specialisten die hier actief over publiceren, onderzoeken en thought leadership op tonen via **LinkedIn**:\n\n### 1. Jarik Oosting (Oprichter / [SmartRanking](https://smartranking.nl/))\n\n- **Waarom autoriteit:** Jarik loopt met zijn bureau voorop in de Nederlandse markt door GEO (Generative Engine Optimization) actief te integreren en te promoten . Hij schreef er zelfs het boek *GEO – Zichtbaar zijn in de antwoorden van AI* over.[[1]](https://smartranking.nl/)[[2]](https://nl.linkedin.com/posts/jerryremmers_smartranking-over-generative-engine-optimization-activity-7290402095927578625-4vhJ)[[3]](https://smartranking.nl/over-ons/)\n- **Wat je op LinkedIn kunt verwachten:** Praktische inzichten over hoe AI-zoekmachines het zoekgedrag veranderen, resultaten uit experimenten rondom AI-zichtbaarheid, en strategische lessen over hoe je zorgt dat jouw merk geciteerd wordt door LLM's.[[1]](https://smartranking.nl/over-ons/)[[2]](https://smartranking.nl/)\n- **Profiel:** Je kunt zijn updates volgen via het Jarik Oosting SmartRanking Profiel of via zijn persoonlijke LinkedIn-aanwezigheid.\n\n### 2. Eelco Wynia (E-commerce Manager & Marketing Lead)\n\n- **Waarom autoriteit:** Profileert zich scherp als *Marketing Lead voor het zero-click tijdperk* . Hij combineert brede marketingkennis (data, e-commerce, content) met de technische achtergrond van vindbaarheid in AI-tools zoals ChatGPT, Gemini en Perplexity.[[1]](https://nl.linkedin.com/in/eelcowynia/nl)[[2]](https://nl.linkedin.com/in/eelcowynia/nl)\n- **Wat je op LinkedIn kunt verwachten:** Kritische en verfrissende posts over de transitie van klassieke SEO naar GEO en AEO, over hoe je 'zero-click' overleeft, en concrete cases waarin AI-zichtbaarheid voor merken (zoals in e-commerce/skincare) meetbaar werd vergroot.[[1]](https://nl.linkedin.com/in/eelcowynia/nl)\n- **Profiel:** Te vinden op zijn Eelco Wynia LinkedIn-profiel.[[1]](https://nl.linkedin.com/in/eelcowynia/nl)\n\n### 3. Specialisten vanuit bureaus en hubs (zoals Spotler / Content- en SEO-specialisten)\n\nDaarnaast zie je dat grotere marketingkennisplatforms en agencies (zoals Spotler en diverse SEO-bureaus) steeds actiever content publiceren over *AI overviews* en merkvermeldingen binnen AI. Marketeers binnen deze geledingen delen met regelmaat praktische checklists (zoals het testen van je eigen AI-zichtbaarheid en het optimaliseren van feiten en gestructureerde data voor LLM's).[[1]](https://nl.linkedin.com/posts/spotler_ai-seo-contentmarketing-activity-7493264798730862592-VSVN)\n\nWil je dieper duiken in dit onderwerp? Laat het me weten als je zoekt naar:\n\n- Specifieke **boeken of whitepapers** over GEO\n- Tips om de **AI-zichtbaarheid** van je eigen website te testen\n- Hoe je traditionele SEO kunt combineren met **AEO / GEO**",
+ "entities": [
+  {
+   "name": "Jarik Oosting",
+   "type": "persoon",
+   "domain": "smartranking.nl",
+   "position": 1
+  },
+  {
+   "name": "SmartRanking",
+   "type": "bureau",
+   "domain": "smartranking.nl",
+   "position": 2
+  },
+  {
+   "name": "Eelco Wynia",
+   "type": "persoon",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "Spotler",
+   "type": "platform",
+   "domain": null,
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "smartranking.nl",
+   "url": "https://smartranking.nl/over-ons/",
+   "title": "100% focus op SEO met echte specialisten - Over SmartRanking"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/geo-generative-engine-optimization",
+   "title": "Generative Engine Optimization - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/eelcowynia/nl",
+   "title": "Eelco Wynia - E-commerce Manager & Marketing Lead voor ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/wat-het-beste-geo-bureau-nederland-voor-generative-engine-hossain-aqdqc",
+   "title": "Wat is het beste GEO bureau in Nederland voor Generative ..."
+  },
+  {
+   "domain": "smartranking.nl",
+   "url": "https://smartranking.nl/",
+   "title": "SmartRanking: SEO bureau met 100% focus op Google & AI"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/jerryremmers_smartranking-over-generative-engine-optimization-activity-7290402095927578625-4vhJ",
+   "title": "SmartRanking over Generative Engine Optimization - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/spotler_ai-seo-contentmarketing-activity-7493264798730862592-VSVN",
+   "title": "#ai #seo #contentmarketing #geo | Spotler Nederland B.V."
+  }
+ ]
+}

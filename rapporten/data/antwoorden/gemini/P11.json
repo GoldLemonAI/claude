@@ -1,0 +1,120 @@
+{
+ "id": "P11",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welk bureau adviseer je voor LinkedIn-strategie aan een zakelijke dienstverlener in Nederland met 20 medewerkers?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor een zakelijke dienstverlener in Nederland met **20 medewerkers** is de keuze voor het juiste LinkedIn-bureau heel specifiek. Met dit formaat organisatie (vaak een scale-up, niche-adviesbureau, IT-dienstverlener of detacheerder) heb je meestal geen behoefte aan een gigantisch, traditioneel mediabureau. Je zoekt juist een **hands-on, B2B-gespecialiseerd bureau** dat snapt hoe je leads genereert en thought leadership opbouwt.\n\nDaarnaast is er een belangrijke strategische verschuiving gaande: **mensen doen zaken met mensen, niet met logo's**. Bedrijfspagina's presteren organisch steeds minder goed. De focus moet voor een team van 20 personen liggen op een combinatie van **Social Selling** (de accounts van je consultants/directie), **Thought Leader Ads** (het adverteren met persoonlijke profielen in plaats van het bedrijfslogo) en eventueel **Employee Advocacy**.\n\nDe beste bureaus in Nederland die perfect aansluiten bij dit profiel zijn onder te verdelen in drie categorieën, afhankelijk van je specifieke doel:\n\n---\n\n### 1. Voor B2B Leadgeneratie & High-End Ads: **Searchlab**\nWanneer het primaire doel is om direct gekwalificeerde leads en afspraken uit LinkedIn te halen (en je bereid bent budget in te zetten voor advertising), is **Searchlab** een absolute aanrader.\n* **Waarom zij passen:** Zij zijn volledig gespecialiseerd in B2B en Account-Based Marketing (ABM) op LinkedIn. Ze focussen zich sterk op de nieuwere, zeer effectieve **Thought Leader Ads** (waarbij ze content van jouw directie of senior consultants promoten) en koppelen dit direct aan lead-generatieformulieren en CRM-systemen. \n* **Ideaal voor:** Dienstverleners die een duidelijk budget hebben voor LinkedIn Ads en tastbare ROI (leads/afspraken) eisen.\n\n### 2. Voor Exclusieve Focus op B2B Ads: **TriAds**\n**TriAds** is een uniek bureau in Nederland omdat het is opgericht door oud-medewerkers van LinkedIn zelf. \n* **Waarom zij passen:** Omdat zij het platform van binnenuit kennen, weten zij exact hoe het algoritme en de veilingmodellen werken. Ze richten zich uitsluitend op de B2B-markt (geen consumentenmerken) en zijn daardoor extreem bedreven in het bereiken van specifieke beslissers en DMU's (Decision Making Units) binnen de zakelijke dienstverlening.\n* **Ideaal voor:** Als je al een lopende LinkedIn-campagne hebt die te duur is (hoge Cost Per Lead) of niet converteert, en je een specialist zoekt om dit te maximaliseren.\n\n### 3. Voor Social Selling & Employee Advocacy Training: **Social Sales** of **Social Selling Coach**\nBij een bedrijf met 20 medewerkers ligt het goud vaak bij de medewerkers zelf. Als jouw consultants, partners of accountmanagers actiever moeten worden op LinkedIn om organisch leads aan te trekken, heb je een trainings- en strategiebureau nodig.\n* **Social Sales** (onder leiding van Martin van Kranenburg en zijn team) is een autoriteit op het gebied van Social Selling. Zij trainen teams in het slim inzetten van LinkedIn en *Sales Navigator* om op een niet-opdringerige manier relaties op te bouwen.\n* **Social Selling Coach** biedt uitstekende in-company trajecten specifiek gericht op \"Online Ambassadeurschap\" (Employee Advocacy). Zij helpen je 20 medewerkers te transformeren in actieve delers van jouw expertise.\n* **Ideaal voor:** Organisaties die het netwerk en de expertise van hun eigen mensen willen activeren in plaats van (alleen) te leunen op betaalde advertenties.\n\n### 4. Voor de 'Full-Service' MKB-aanpak: **Afdeling Online** of **YourFellow**\nAls je één partij zoekt die zowel de strategie schrijft, de organische content maakt én de advertenties beheert, dan zijn dit sterke middelgrote spelers.\n* **Afdeling Online** heeft veel ervaring met LinkedIn-marketing en pakt dit heel pragmatisch aan: van contentcreatie tot Thought Leader Ads en leadgeneratie. Ze delen bovendien hun kennis, zodat je team er intern ook slimmer van wordt.\n* **YourFellow** is een performance-driven B2B-bureau dat heel sterk is in het bouwen van de gehele funnel (van de eerste LinkedIn-ad tot de landingspagina).\n\n---\n\n### Advies voor de selectie: hoe maak je de keuze?\n\nMet 20 medewerkers adviseer ik je om eerst de interne ambitie te bepalen:\n\n1. **Hebben jullie geen tijd om zelf content te schrijven, maar wel budget?** Kies voor een specialist in *Thought Leader Ads* en *ABM* zoals **Searchlab**. Zij kunnen de directie interviewen, de content schrijven (ghostwriting) en deze gericht adverteren onder jullie ideale doelgroep.\n2. **Willen jullie de consultants/partners zelf positioneren als experts?** Kies voor een *Social Selling*-traject van **Social Sales**. Het structureel opleiden van je eigen team levert op de lange termijn de allerhoogste organische ROI op.",
+ "entities": [
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "position": 1,
+   "domain": "searchlab.nl"
+  },
+  {
+   "name": "TriAds",
+   "type": "bureau",
+   "position": 2,
+   "domain": "triads.now"
+  },
+  {
+   "name": "Social Sales",
+   "type": "bureau",
+   "position": 3,
+   "domain": "socialsales.eu"
+  },
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "position": 4,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Martin van Kranenburg",
+   "type": "persoon",
+   "position": 5,
+   "domain": "socialsales.eu"
+  },
+  {
+   "name": "Afdeling Online",
+   "type": "bureau",
+   "position": 6,
+   "domain": "afdelingonline.nl"
+  },
+  {
+   "name": "YourFellow",
+   "type": "bureau",
+   "position": 7,
+   "domain": "yourfellow.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/employee-advocacy-voorbeelden",
+   "title": "magicpost.in"
+  },
+  {
+   "domain": "empowers.nl",
+   "url": "https://www.empowers.nl/blogs/social-ads/thought-leader-ads-linkedin-vergroot",
+   "title": "empowers.nl"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/linkedin-trainingen/",
+   "title": "socialsellingcoach.nl"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "searchlab.nl"
+  },
+  {
+   "domain": "decommunicatiemakers.nl",
+   "url": "https://www.decommunicatiemakers.nl/blog/employee-advocacy-op-linkedin-hoe-je-collegas-je-merk-versterken/",
+   "title": "decommunicatiemakers.nl"
+  },
+  {
+   "domain": "treeonline.nl",
+   "url": "https://www.treeonline.nl/specialisatie/linkedin-bureau",
+   "title": "treeonline.nl"
+  },
+  {
+   "domain": "triads.now",
+   "url": "https://triads.now/blog/best-linkedin-ads-agencies-in-the-netherlands",
+   "title": "triads.now"
+  },
+  {
+   "domain": "socialsales.eu",
+   "url": "https://socialsales.eu/linkedin-training/",
+   "title": "socialsales.eu"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2022/05/30/employee-advocacy-social-strategie/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "yourfellow.nl",
+   "url": "https://yourfellow.nl/services/social-media-marketing/linkedin-advertising/",
+   "title": "yourfellow.nl"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/social-marketing/linkedin-adverteren/",
+   "title": "afdelingonline.nl"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/blogpost/thought-leader-ads-linkedin/",
+   "title": "afdelingonline.nl"
+  },
+  {
+   "domain": "blinktuit.nl",
+   "url": "https://www.blinktuit.nl/blogs/linkedin-bureau-voor-b2b/",
+   "title": "blinktuit.nl"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "id": "P17",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Wie zijn in Nederland de experts op het gebied van social selling via LinkedIn voor B2B?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een selecte groep experts en trainers die zich specifiek richt op **B2B Social Selling via LinkedIn**. Dit zijn de professionals die niet alleen uitleggen hoe je een profiel invult, maar die sales- en marketingteams strategisch trainen in leadgeneratie, thought leadership, het algoritme en het effectief inzetten van *LinkedIn Sales Navigator*.\n\nDe meest vooraanstaande experts en bureaus op dit gebied in Nederland zijn:\n\n### 1. De absolute autoriteiten (Top-tier experts)\n\n*   **Richard van der Blom** (Oprichter van *Just Connecting*)\n    *   **Waarom hij een expert is:** Richard is wereldwijd een van de meest gerespecteerde LinkedIn-specialisten. Hij staat internationaal bekend om zijn jaarlijkse, diepgaande *LinkedIn Algorithm Insights Report*. Met zijn bureau Just Connecting helpt hij grote B2B-organisaties en sales- en marketingteams bij het implementeren van social selling- en employee advocacy-strategieën.\n*   **Corinne Keijzer** (Oprichter van *Digital Moves*)\n    *   **Waarom zij een expert is:** Corinne is een van de bekendste LinkedIn-pioniers van Nederland en is door LinkedIn Benelux officieel benoemd tot ambassadeur. Zij schreef de bestseller *'Meer succes met LinkedIn!'* en is gespecialiseerd in de combinatie van social selling, personal branding en de psychologie achter succesvolle content. Haar focus ligt op het transformeren van profielen tot 'klantmagneten'.\n\n### 2. Gespecialiseerde B2B Social Selling Trainers\n\n*   **Rene Schipper**\n    *   **Waarom hij een expert is:** Rene richt zich puur op B2B-teams (met name in het MKB). Hij helpt salesafdelingen de stap te maken van 'koude acquisitie' naar 'warme leadgeneratie' via LinkedIn. Zijn trainingen zijn zeer praktisch en gericht op het bouwen van een voorspelbare salespipeline.\n*   **Jorrit Drieënhuizen** (Oprichter van *Social Selling Coach*)\n    *   **Waarom hij een expert is:** Jorrit is gecertificeerd als \"LinkedIn Marketing Insider\". Met zijn bedrijf helpt hij B2B-organisaties met zowel organische social selling-trajecten, het trainen van directies/MT's als met het inrichten van gerichte LinkedIn-advertentiecampagnes om leads te genereren.\n*   **Jan Willem Alphenaar** (Oprichter van *Next Business Academy*)\n    *   **Waarom hij een expert is:** Jan Willem traint al meer dan 14 jaar organisaties op het gebied van LinkedIn. Hij is een nuchtere, hands-on trainer die salesprofessionals leert hoe ze hun netwerk proactief kunnen uitbreiden en leads kunnen converteren naar fysieke of digitale afspraken.\n*   **Marjolein Bongers** (Oprichter van *House of Social Media*)\n    *   **Waarom zij een expert is:** Marjolein is auteur van het boek *'LinkedIn Power & Sales zonder Bullshit'*. Ze combineert social selling met gedragspsychologie en helpt B2B-ondernemers en salesteams om via LinkedIn op een authentieke manier autoriteit op te bouwen en deals te sluiten.\n\n### 3. Gespecialiseerde B2B Bureaus (voor schaalbaarheid en tooling)\n\nAls je social selling op grotere schaal wilt uitrollen binnen een corporate of groter B2B-bedrijf, zijn er ook bureaus die de strategie, content én tooling (zoals *Sales Navigator* en CRM-koppelingen) voor je inrichten:\n\n*   **Social Sales** (onder leiding van o.a. Martin van Kranenburg en team): Zij hebben een sterke focus op de combinatie van data, netwerk en content, en trainen B2B-sales- en marketingteams volgens een vaste 5-stappenmethode.\n*   **Sociomerce**: Dit bureau richt zich specifiek op *social selling at scale*. Zij helpen B2B-bedrijven met een methode van 'Create, React, Connect' om interactie om te zetten in concrete business.\n*   **YouLynq.me**: Een agency die B2B-ondernemers en salesafdelingen ondersteunt bij het structureel beheren en uitbesteden van hun LinkedIn-acquisitie en profieloptimalisatie.\n\n### Waar op te letten bij je keuze?\n*   **De rol van Sales Navigator:** Voor echte B2B social selling is kennis van LinkedIn Sales Navigator essentieel. Vraag een expert altijd of zij hier diepgaande training in geven.\n*   **In-company vs. 1-op-1:** Grote bureaus (zoals Just Connecting of Social Sales) zijn uitstekend voor complete transformaties van salesafdelingen, terwijl zelfstandige experts (zoals Corinne Keijzer of Rene Schipper) vaak heel sterk zijn voor gerichte strategische sessies of 1-op-1-begeleiding van key-accountmanagers en directieleden.",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Rene Schipper",
+   "type": "persoon",
+   "position": 5,
+   "domain": "reneschipper.nl"
+  },
+  {
+   "name": "Jorrit Drieënhuizen",
+   "type": "persoon",
+   "position": 6,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "position": 7,
+   "domain": "socialsellingcoach.nl"
+  },
+  {
+   "name": "Jan Willem Alphenaar",
+   "type": "persoon",
+   "position": 8,
+   "domain": "nextbusinessacademy.nl"
+  },
+  {
+   "name": "Next Business Academy",
+   "type": "bureau",
+   "position": 9,
+   "domain": "nextbusinessacademy.nl"
+  },
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "House of Social Media",
+   "type": "bureau",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Social Sales",
+   "type": "bureau",
+   "position": 12,
+   "domain": "socialsales.eu"
+  },
+  {
+   "name": "Martin van Kranenburg",
+   "type": "persoon",
+   "position": 13,
+   "domain": "socialsales.eu"
+  },
+  {
+   "name": "Sociomerce",
+   "type": "bureau",
+   "position": 14,
+   "domain": "sociomerce.com"
+  },
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "position": 15,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "favikon.com"
+  },
+  {
+   "domain": "podcast.creatorscience.com",
+   "url": "https://podcast.creatorscience.com/richard-van-der-blom/",
+   "title": "creatorscience.com"
+  },
+  {
+   "domain": "virtualbadge.io",
+   "url": "https://www.virtualbadge.io/case-studies/linkedin-certificates-richard-van-der-blom",
+   "title": "virtualbadge.io"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=w6V_JYsRp34",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/boek/9789083495002/handleiding-linkedin-corinne-keijzer",
+   "title": "managementboek.nl"
+  },
+  {
+   "domain": "somebooks.nl",
+   "url": "https://somebooks.nl/meer-succes-met-linkedin-corinne-keijzer/",
+   "title": "somebooks.nl"
+  },
+  {
+   "domain": "reneschipper.nl",
+   "url": "https://reneschipper.nl/linkedin-training-social-selling-b2b",
+   "title": "reneschipper.nl"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/advies-over-linkedin/",
+   "title": "socialsellingcoach.nl"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/adverteren-op-linkedin/",
+   "title": "socialsellingcoach.nl"
+  },
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/linkedin-trainingen/",
+   "title": "socialsellingcoach.nl"
+  },
+  {
+   "domain": "nextbusinessacademy.nl",
+   "url": "https://nextbusinessacademy.nl/linkedin-training-voor-sales-2026/",
+   "title": "nextbusinessacademy.nl"
+  },
+  {
+   "domain": "rafalszymanski.pl",
+   "url": "https://rafalszymanski.pl/en/services/b2b-sales-training-linkedin/",
+   "title": "rafalszymanski.pl"
+  },
+  {
+   "domain": "acquiro.nl",
+   "url": "https://acquiro.nl/social-selling-linkedin-training-advanced/",
+   "title": "acquiro.nl"
+  },
+  {
+   "domain": "socialsales.eu",
+   "url": "https://socialsales.eu/linkedin-training/",
+   "title": "socialsales.eu"
+  },
+  {
+   "domain": "sociomerce.com",
+   "url": "https://sociomerce.com/",
+   "title": "sociomerce.com"
+  },
+  {
+   "domain": "ensun.io",
+   "url": "https://ensun.io/search/linkedin-marketing/netherlands",
+   "title": "ensun.io"
+  }
+ ]
+}

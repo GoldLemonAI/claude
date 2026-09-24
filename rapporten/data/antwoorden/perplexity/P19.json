@@ -1,0 +1,134 @@
+{
+ "id": "P19",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Wie geeft in Nederland de beste LinkedIn-trainingen voor directeuren en managementteams?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor **directeuren en managementteams** zijn in Nederland vooral de **incompany maatwerktrainingen** het sterkst, omdat die kunnen worden afgestemd op positionering, thought leadership en teamafspraken rond LinkedIn-gebruik.[3][5][11][16] Als je één partij zoekt die in de resultaten duidelijk opvalt, dan komt **Digital Moves** het sterkst naar voren op basis van hun focus op incompany-trainingen en hun vermelde **Google review score van 4,9/5**.[3]\n\nDe meest relevante opties uit de resultaten zijn:\n\n- **Digital Moves** — expliciet gericht op **incompany LinkedIn-trainingen** en positioneert zich als aanbieder met “de beste LinkedIn trainers”; dat maakt hen sterk voor management- en directieteams die een gezamenlijke aanpak willen.[3]\n- **Social Media Salland** — noemt expliciet dat de trainingen geschikt zijn voor **directie- en MT-leden**, naast management-, marketing- en salesteams.[5]\n- **Linkleads** — biedt een **maatwerk incompany teamtraining** voor bedrijven, met een duidelijke zakelijke insteek en prijsindicatie van **€1.950 excl. btw**.[11]\n- **PRminded via LinkedIn** — biedt een **op maat traject** voor bedrijven, wat relevant is als je een training zoekt die aansluit op interne doelen en merkpositionering.[16]\n- **BTR Trainingen** — heeft brede dekking via Springest, maar de resultaten geven minder directe signalen dat zij specifiek op directie en managementteams focussen.[2][8]\n\nAls je zoekt naar de **beste keuze voor een directie of MT**, zou ik deze volgorde aanhouden:\n\n1. **Digital Moves** voor de sterkste combinatie van incompany-focus en zichtbare kwaliteitsindicator.[3]\n2. **Social Media Salland** voor duidelijke geschiktheid voor directie- en MT-leden.[5]\n3. **Linkleads** of **PRminded** als je vooral een **maatwerktraject** wilt rond zakelijke doelen.[11][16]\n\nAls je wilt, kan ik dit ook omzetten in een **korte shortlist met prijs, doelgroep, en geschikt type training** voor jullie situatie.",
+ "entities": [
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 1,
+   "domain": "digitalmoves.nl"
+  },
+  {
+   "name": "Social Media Salland",
+   "type": "bureau",
+   "position": 2,
+   "domain": "socialmediasalland.nl"
+  },
+  {
+   "name": "Linkleads",
+   "type": "bureau",
+   "position": 3,
+   "domain": "linkleads.nl"
+  },
+  {
+   "name": "PRminded",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "BTR Trainingen",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Springest",
+   "type": "platform",
+   "position": 6,
+   "domain": "springest.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "ttmcommunicatie.nl",
+   "url": "https://www.ttmcommunicatie.nl/social-media/linkedin/training/",
+   "title": "LinkedIn Training - In 3,5 uur weet u alles over LinkedIn!"
+  },
+  {
+   "domain": "springest.nl",
+   "url": "https://www.springest.nl/btr-trainingen/training-linkedin",
+   "title": "Ervaringen met Training LinkedIn klassikaal"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/trainingen-en-workshops/incompany-trainingen/",
+   "title": "incompany LinkedIn-trainingen - Digital Moves"
+  },
+  {
+   "domain": "klozers.com",
+   "url": "https://www.klozers.com/nl/verkooptrainingen/linkedin-opleiding/",
+   "title": "LinkedIn Opleiding"
+  },
+  {
+   "domain": "socialmediasalland.nl",
+   "url": "https://socialmediasalland.nl/linkedin-training/",
+   "title": "LinkedIn training - Social Media Salland"
+  },
+  {
+   "domain": "business.linkedin.com",
+   "url": "https://business.linkedin.com/nl/nl/learn/resources/leadership-training",
+   "title": "Leiderschapstraining voor leidinggevenden | LinkedIn Learning"
+  },
+  {
+   "domain": "desocialmediatraining.nl",
+   "url": "https://www.desocialmediatraining.nl/product/intensieve-linkedin-coaching-voor-managers/",
+   "title": "Intensieve Linkedin coaching voor managers"
+  },
+  {
+   "domain": "springest.nl",
+   "url": "https://www.springest.nl/internet-media/linkedin/in-company-maatwerk",
+   "title": "Vergelijk 39 Trainingen over LinkedIn - Springest"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/learning/courses",
+   "title": "Lijst met alle online cursussen | LinkedIn Learning, voorheen Lynda.com"
+  },
+  {
+   "domain": "springest.nl",
+   "url": "https://www.springest.nl/internet-media/linkedin",
+   "title": "Vergelijk 342 Trainingen over LinkedIn - Springest"
+  },
+  {
+   "domain": "linkleads.nl",
+   "url": "https://www.linkleads.nl/linkedin-training-voor-bedrijven/",
+   "title": "LinkedIn training voor bedrijven: Meer gerichte klanten"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/learning/topics/leiderschap-en-management",
+   "title": "Online trainingscursussen voor Leiderschap en management - | LinkedIn Learning, voorheen Lynda.com"
+  },
+  {
+   "domain": "springest.nl",
+   "url": "https://www.springest.nl/internet-media/linkedin/mbo",
+   "title": "Vergelijk 18 Trainingen over LinkedIn - Springest"
+  },
+  {
+   "domain": "learning.linkedin.com",
+   "url": "https://learning.linkedin.com/nl-nl/resources/leadership-training/executive-leadership-training",
+   "title": "Cursussen uitvoerend management"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/showcase/linkedin-trainingen-en-workshops/",
+   "title": "LinkedIn trainingen en workshops | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/products/prminded-linkedin-training-voor-bedrijven/",
+   "title": "LinkedIn training voor bedrijven | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/learning/topics/zakelijk",
+   "title": "Online trainingscursussen voor Zakelijk - | LinkedIn Learning, voorheen Lynda.com"
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "id": "P07",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welke partij kan een LinkedIn-training geven aan het salesteam van een B2B-MKB bedrijf in Nederland? Geef concrete aanbieders.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Ja — er zijn meerdere **concrete aanbieders in Nederland** die LinkedIn-trainingen voor een **B2B-MKB salesteam** verzorgen, vaak ook **incompany** of op locatie. Geschikte opties uit de resultaten zijn onder meer **SRF Interim Training**, **TTM Communicatie**, **Next Business Academy**, **BrightSocial**, **Trudy Pannekeet**, **A-cademy / Alwin Zandvoort**, **MKB-Trainingen** en **LinkedIn voor Ondernemers**.[1][5][12][10][6][13][14][7]\n\n| Aanbieder | Wat bieden ze aan voor salesteams / B2B-MKB | Vorm |\n|---|---|---|\n| **SRF Interim Training** | Incompany salestraining met expliciet **“LinkedIn & AI in sales”** voor MKB-teams.[1] | Incompany |\n| **TTM Communicatie** | **LinkedIn Training** die ook met een heel **sales- of directieteam** kan, op kantoor of online.[5] | Incompany / online / op locatie |\n| **Next Business Academy** | **LinkedIn voor Sales – Basic Training**, op locatie bij jullie of elders, met maatwerkvoorstel.[12] | Op locatie / maatwerk |\n| **BrightSocial** | **LinkedIn Training voor Bedrijven / LinkedIn B2B Marketing**, gericht op groei van de organisatie.[10] | Maatwerk / workshop |\n| **Trudy Pannekeet** | **Incompany LinkedIn Training** voor o.a. **salesteams/accountmanagers** en MKB-bedrijven.[6] | Incompany |\n| **A-cademy / Alwin Zandvoort** | Gespecialiseerd in **LinkedIn-trainingen voor salesteams**, met focus op **B2B**, inclusief social selling.[13] | Online / training / consultancy |\n| **MKB-Trainingen** | Trainingen zoals **LinkedIn voor sales**, **LinkedIn & Sales Navigator** en gevorderden trainingen.[14] | Training / maatwerk |\n| **LinkedIn voor Ondernemers** | Geeft trainingen en geeft aan al **200+ NL mkb-teams** te hebben getraind.[7] | Training / advies / strategie |\n\nAls je snel wilt kiezen, dan zijn deze het meest direct passend voor jouw vraag:\n- **SRF Interim Training**: duidelijk gericht op **MKB-teams** en noemt **LinkedIn & AI in sales**.[1]\n- **TTM Communicatie**: expliciet geschikt voor een **heel salesteam** en kan **op kantoor**.[5]\n- **Next Business Academy**: duidelijke **LinkedIn voor Sales**-training met **op locatie** uitvoering.[12]\n- **A-cademy / Alwin Zandvoort**: sterk profiel voor **B2B sales teams** en social selling.[13]\n\nAls je wilt, kan ik hierna ook:\n- een **top 5** maken op basis van **prijs/kwaliteit**,\n- een **selectie voor Nederland-regio** maken,\n- of een **vergelijking per aanbieder** geven op *duur, prijs, incompany, Sales Navigator en B2B-focus*.",
+ "entities": [
+  {
+   "name": "SRF Interim Training",
+   "type": "bureau",
+   "position": 1,
+   "domain": "srfinterimentraining.nl"
+  },
+  {
+   "name": "TTM Communicatie",
+   "type": "bureau",
+   "position": 2,
+   "domain": "ttmcommunicatie.nl"
+  },
+  {
+   "name": "Next Business Academy",
+   "type": "bureau",
+   "position": 3,
+   "domain": "nextbusinessacademy.nl"
+  },
+  {
+   "name": "BrightSocial",
+   "type": "bureau",
+   "position": 4,
+   "domain": "brightsocial.nl"
+  },
+  {
+   "name": "Trudy Pannekeet",
+   "type": "persoon",
+   "position": 5,
+   "domain": "trudypannekeet.nl"
+  },
+  {
+   "name": "A-cademy",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Alwin Zandvoort",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "MKB-Trainingen",
+   "type": "bureau",
+   "position": 8,
+   "domain": "mkb-trainingen.nl"
+  },
+  {
+   "name": "LinkedIn voor Ondernemers",
+   "type": "bureau",
+   "position": 9,
+   "domain": "linkedinvoorondernemers.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "srfinterimentraining.nl",
+   "url": "https://www.srfinterimentraining.nl/incompany/salestraining",
+   "title": "Salestraining Incompany voor MKB Teams"
+  },
+  {
+   "domain": "wildbos.com",
+   "url": "https://wildbos.com/trainingen.html",
+   "title": "LinkedIn Training voor Bedrijven — Online & Op Locatie - Wildbos"
+  },
+  {
+   "domain": "klozers.com",
+   "url": "https://www.klozers.com/nl/verkooptrainingen/linkedin-opleiding/",
+   "title": "LinkedIn Opleiding"
+  },
+  {
+   "domain": "presult.nl",
+   "url": "https://www.presult.nl/social-selling-op-linkedin/",
+   "title": "B2B Lead Generatie - Wij zorgen voor Meer en Betere Leads"
+  },
+  {
+   "domain": "ttmcommunicatie.nl",
+   "url": "https://www.ttmcommunicatie.nl/social-media/linkedin/training/",
+   "title": "LinkedIn Training - In 3,5 uur weet u alles over LinkedIn!"
+  },
+  {
+   "domain": "trudypannekeet.nl",
+   "url": "https://trudypannekeet.nl/linkedintraining-incompany/",
+   "title": "LinkedIn Incompany Training - Trudy ..."
+  },
+  {
+   "domain": "linkedinvoorondernemers.nl",
+   "url": "https://linkedinvoorondernemers.nl/",
+   "title": "LinkedIn voor Ondernemers, training, advies en strategie voor ..."
+  },
+  {
+   "domain": "guystrijbosch.nl",
+   "url": "https://guystrijbosch.nl/linkedin-training-bedrijven/",
+   "title": "LinkedIn Training voor bedrijven"
+  },
+  {
+   "domain": "acquiro.nl",
+   "url": "https://acquiro.nl/social-selling-linkedin-training/",
+   "title": "Social Selling LinkedIn Training (BASIS)"
+  },
+  {
+   "domain": "brightsocial.nl",
+   "url": "https://www.brightsocial.nl/trainingen/linkedin-training/",
+   "title": "LinkedIn training | Haal meer uit LinkedIn | BrightSocial"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/betergevondenworden",
+   "title": "Beter Gevonden Worden - LinkedIn training voor salesteams, ondernemers, zzp-ers | 领英"
+  },
+  {
+   "domain": "nextbusinessacademy.nl",
+   "url": "https://nextbusinessacademy.nl/linkedin-voor-sales-basic-training/",
+   "title": "LinkedIn voor Sales - Basic Training - Next Business Academy"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/alwinzandvoort",
+   "title": "Alwin Zandvoort | LinkedIn"
+  },
+  {
+   "domain": "mkb-trainingen.nl",
+   "url": "https://mkb-trainingen.nl/",
+   "title": "Welkom bij MKB-Trainingen"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/learning/topics/sales-voor-kleine-bedrijven?upsellOrderOrigin=default_guest_learning",
+   "title": "Online trainingscursussen voor Sales voor kleine bedrijven - | LinkedIn Learning, voorheen Lynda.com"
+  },
+  {
+   "domain": "springest.nl",
+   "url": "https://www.springest.nl/online-zelf-ondernemen/linkedin-basis",
+   "title": "Training: LinkedIn Basis voor ZZP'ers en het MKB"
+  },
+  {
+   "domain": "springest.nl",
+   "url": "https://www.springest.nl/marketing/b2b-marketing",
+   "title": "23 B2B Marketing trainingen, cursussen & opleidingen"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/showcase/linkedin-trainingen-en-workshops/",
+   "title": "LinkedIn trainingen en workshops | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/mkb-verhoog-je-zichtbaarheid-en-trek-meer-leads-klanten-fokker",
+   "title": "MKB: Verhoog je zichtbaarheid en trek meer leads en klanten aan door je medewerkers te trainen in Sociaal Verkopen op LinkedIn"
+  }
+ ]
+}

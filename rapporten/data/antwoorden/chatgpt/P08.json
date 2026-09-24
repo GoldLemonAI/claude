@@ -1,0 +1,112 @@
+{
+ "id": "P08",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Aan wie kan een Nederlands MKB-bedrijf het beheer van de LinkedIn-bedrijfspagina uitbesteden? Noem bureaus.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van Nederlandse bureaus die gespecialiseerd zijn in het beheer van LinkedIn-bedrijfspagina’s voor MKB-bedrijven. Deze bureaus bieden uiteenlopende diensten, van contentcreatie en strategie tot advertenties en rapportage.\n\n• Social Media Beheer Bureau (Weesp)  \n  - Biedt volledig socialmediabeheer, inclusief contentcreatie, planning, plaatsing en reacties. Maandelijks opzegbaar, met vaste prijzen vanaf €395 per maand ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/?utm_source=openai)).  \n  - Pakketten variëren van basisbeheer tot groei- en marketingpakketten met advertenties op Meta en LinkedIn ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/?utm_source=openai)).\n\n• SocialConcept (Purmerend/Amsterdam)  \n  - Beheert Facebook, Instagram én LinkedIn, inclusief content, planning, advertenties en rapportage ([socialconcept.nl](https://socialconcept.nl/index.html?utm_source=openai)).  \n  - Gericht op MKB, met pakketten zoals Basispakket, Retargetingpakket en Blog/Videopakket ([socialconcept.nl](https://socialconcept.nl/index.html?utm_source=openai)).\n\n• iReclam  \n  - Gespecialiseerd in LinkedIn-marketing voor B2B MKB. Biedt company page beheer, LinkedIn Ads, thought leadership content en leadrapportage ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai)).  \n  - Gericht op het genereren van meetbare B2B-leads via LinkedIn ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai)).\n\n• Solvex  \n  - Richt zich op LinkedIn-beheer met nadruk op founder-content (ghostwriting in jouw stem), bedrijfspagina beheer, employee advocacy en rapportage ([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai)).  \n  - Pakketten vanaf €495 per maand, maandelijks opzegbaar na een minimale looptijd van drie maanden ([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai)).\n\n• MULTIMIND  \n  - Biedt geïntegreerd beheer en adverteren op Meta, Instagram en LinkedIn. Inclusief contentkalender, community management, advertenties en rapportage ([multimind.nl](https://multimind.nl/social-media-marketing?utm_source=openai)).  \n  - Eén aanspreekpunt, maandelijks opzegbaar ([multimind.nl](https://multimind.nl/social-media-marketing?utm_source=openai)).\n\n• Effect Social (Putten)  \n  - Biedt pakketten (Bronze, Silver, Golden) voor beheer van Instagram, Facebook en LinkedIn. Inclusief contentplanning, optimalisatie, posts en stories ([effectsocials.nl](https://www.effectsocials.nl/aanbod?utm_source=openai)).  \n  - Verschillende frequenties en ondersteuning via WhatsApp ([effectsocials.nl](https://www.effectsocials.nl/aanbod?utm_source=openai)).\n\n• Socials by Stet (Goes, Zeeland)  \n  - Eenmanszaak die socialmediabeheer, contentcreatie en websites aanbiedt. Persoonlijke aanpak, inclusief LinkedIn-posts, reels en planning ([nl.linkedin.com](https://nl.linkedin.com/company/socialsbystet?utm_source=openai)).\n\n• Socialmediaburo.nl (Eindhoven)  \n  - Klein bureau (2–10 medewerkers) dat social media platformen opzet en beheert, inclusief LinkedIn. Gericht op MKB met relatief lage kosten ([nl.linkedin.com](https://nl.linkedin.com/company/socialmediaburo-nl?utm_source=openai)).\n\n• 2Social (Venlo)  \n  - Biedt een combinatie van webdesign, social media beheer, branding, contentcreatie en SEO. Eén aanspreekpunt voor online zichtbaarheid ([nl.linkedin.com](https://nl.linkedin.com/company/2socialonline?utm_source=openai)).\n\n---\n\nSamenvattend:\n\n- Voor puur LinkedIn-gericht beheer en B2B-leads: **iReclam** en **Solvex** zijn sterk gespecialiseerd.\n- Voor breed socialmediabeheer inclusief LinkedIn: **Social Media Beheer Bureau**, **SocialConcept**, **MULTIMIND**, **Effect Social**, **Socials by Stet**, **Socialmediaburo.nl** en **2Social** bieden diverse pakketten en aanpakken.\n- Kies op basis van jouw specifieke behoeften: contentcreatie, advertenties, rapportage, persoonlijke aanpak of integratie met andere kanalen.\n\nLaat het gerust weten als je hulp wilt bij het vergelijken van pakketten of het selecteren van het meest geschikte bureau voor jouw bedrijf!",
+ "entities": [
+  {
+   "name": "Social Media Beheer Bureau",
+   "type": "bureau",
+   "position": 1,
+   "domain": "socialmediabeheerbureau.nl"
+  },
+  {
+   "name": "SocialConcept",
+   "type": "bureau",
+   "position": 2,
+   "domain": "socialconcept.nl"
+  },
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 3,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 4,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "MULTIMIND",
+   "type": "bureau",
+   "position": 5,
+   "domain": "multimind.nl"
+  },
+  {
+   "name": "Effect Social",
+   "type": "bureau",
+   "position": 6,
+   "domain": "effectsocials.nl"
+  },
+  {
+   "name": "Socials by Stet",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Socialmediaburo.nl",
+   "type": "bureau",
+   "position": 8,
+   "domain": "socialmediaburo.nl"
+  },
+  {
+   "name": "2Social",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "socialmediabeheerbureau.nl",
+   "url": "https://socialmediabeheerbureau.nl/",
+   "title": "Social Media Bureau voor het MKB | Vaste prijs"
+  },
+  {
+   "domain": "socialconcept.nl",
+   "url": "https://socialconcept.nl/index.html",
+   "title": "Social Media Uitbesteden | SocialConcept – Bureau voor het MKB"
+  },
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  },
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "multimind.nl",
+   "url": "https://multimind.nl/social-media-marketing",
+   "title": "Social Media Marketing voor MKB | MULTIMIND"
+  },
+  {
+   "domain": "effectsocials.nl",
+   "url": "https://www.effectsocials.nl/aanbod",
+   "title": "Social Media Beheer uit besteden voor MKB-bedrijven"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/socialsbystet",
+   "title": "Socials by Stet | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/socialmediaburo-nl",
+   "title": "Socialmediaburo.nl | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/2socialonline",
+   "title": "2Social | Websites, Social Media & Branding Bureau | LinkedIn"
+  }
+ ]
+}

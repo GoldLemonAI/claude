@@ -1,0 +1,69 @@
+{
+ "id": "P19",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Wie geeft in Nederland de beste LinkedIn-trainingen voor directeuren en managementteams?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het aanbod van LinkedIn-trainingen in Nederland is groot, maar voor directies en managementteams (MT's) ligt de focus vaak op **thought leadership**, **personal branding**, **strategische zichtbaarheid** en **reputatiemanagement** in plaats van op de technische basis.[[1]](https://socialsellingcoach.nl/linkedin-voor-directie-mt-college-van-bestuur/)\n\nBekende en goed beoordeelde bureaus en specialisten die zich specifiek richten op het hogere segment en maatwerktrainingen voor MT's en directies, zijn onder andere:\n\n- **Digital Moves (Corinne Keijzer e.a.):** Bekend om hun praktijkgerichte incompany-trainingen en strategische trajecten voor bedrijven en leidinggevenden. Ze werken met gecertificeerde specialisten die zich richten op personal branding en social selling op directieniveau.[[1]](https://www.digitalmoves.nl/trainingen-en-workshops/incompany-trainingen/)[[2]](https://www.digitalmoves-academy.nl/)\n- **Social Selling Coach (Lieke Crouwers / partners):** Biedt specifieke programma's aan gericht op directieleden, MT's en bestuurders. De inhoud gaat diep in op de vraag hoe leidinggevenden als boegbeeld kunnen fungeren zonder dat het ten koste gaat van hun agenda, en hoe je persoonlijke zichtbaarheid koppelt aan de organisatiedoelen.[[1]](https://socialsellingcoach.nl/linkedin-voor-directie-mt-college-van-bestuur/)\n- **De Nederlandse LinkedIn-experts via bureaus zoals Sortlist of Springest:** Via platforms zoals de Sortlist Overzichtspagina voor LinkedIn Strategie Bureaus kun je specifieke bureaus vergelijken die op maat gemaakte executive coaching aanbieden.[[1]](https://www.sortlist.nl/s/linkedin-strategie/nederland-nl)\n\n### Waar let je op bij het kiezen van een trainer voor een MT?\n\n- **Strategie boven techniek:** Een goede training voor de top gaat niet over hoe je een profielfoto uploadt, maar over *wat* je deelt, hoe je thought leader wordt in je branche en hoe je de brug slaat naar employer branding en corporate reputatie.\n- **Tijdsefficiëntie:** Directies hebben weinig tijd. De beste trainers bieden compacte, high-impact sessies aan (eventueel gecombineerd met 1-op-1 ghostwriting-advies of content-sprintcoaching).\n- **Incompany maatwerk:** Vraag altijd om een intakegesprek waarin de specifieke doelstellingen van de organisatie (bijv. werving, thought leadership of investor relations) worden vertaald naar een programma op maat.\n\nWil je dat ik meedenk over een trainer die past bij jullie specifieke doel? Vertel me dan gerust:\n\n- Wat het **hoofddoel** is van de training (bijv. meer sales, employer branding of corporate zichtbaarheid)\n- Of het gaat om een **individueel traject** voor de directeur of een **groepssessie** voor het gehele MT",
+ "entities": [
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "domain": "digitalmoves.nl",
+   "position": 1
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "domain": "digitalmoves.nl",
+   "position": 2
+  },
+  {
+   "name": "Social Selling Coach",
+   "type": "bureau",
+   "domain": "socialsellingcoach.nl",
+   "position": 3
+  },
+  {
+   "name": "Lieke Crouwers",
+   "type": "persoon",
+   "domain": "socialsellingcoach.nl",
+   "position": 4
+  },
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "domain": "sortlist.nl",
+   "position": 5
+  },
+  {
+   "name": "Springest",
+   "type": "platform",
+   "domain": null,
+   "position": 6
+  }
+ ],
+ "sources": [
+  {
+   "domain": "socialsellingcoach.nl",
+   "url": "https://socialsellingcoach.nl/linkedin-voor-directie-mt-college-van-bestuur/",
+   "title": "Linkedin voor directie / MT / college van bestuur"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/trainingen-en-workshops/incompany-trainingen/",
+   "title": "incompany LinkedIn-trainingen - Digital Moves"
+  },
+  {
+   "domain": "digitalmoves-academy.nl",
+   "url": "https://www.digitalmoves-academy.nl/",
+   "title": "Online LinkedIn cursus | Digital Moves Academy"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - Sortlist"
+  }
+ ]
+}

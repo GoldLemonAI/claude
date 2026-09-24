@@ -1,0 +1,57 @@
+{
+ "id": "P16",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse specialisten schrijven over personal branding en thought leadership op LinkedIn? Noem namen en websites.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland zijn diverse specialisten actief die zich bezighouden met personal branding, zichtbaarheid en thought leadership op LinkedIn. Ze delen regelmatig adviezen, praktijkvoorbeelden en strategieën via hun eigen kanalen en websites.\n\nEen aantal bekende specialisten en hun platforms:\n\n- **Guy Strijbosch** \n\t- **Focus:** LinkedIn-strategie, personal branding, social selling en employee advocacy (met name in de technische B2B-sector).\n\t- **Website:** Guy Strijbosch : LinkedIn-strategie voor technische B2B[[1]](https://guystrijbosch.nl/)\n- **Sandra Tassar** \n\t- **Focus:** Personal branding, het vinden van een unieke tone of voice en het opbouwen van thought leadership op LinkedIn voor ondernemers.\n\t- **Website:** Sandra Tassar Personal Branding[[1]](https://www.sandrastassar.nl/Over-mij-in-detail/)[[2]](https://www.sandrastassar.nl/Over-mij-in-detail/)\n- **Miranda Molenaar (De Content Assistent)** \n\t- **Focus:** Helpt ondernemers, coaches, trainers en professionals bij het opzetten van gestructureerde contentterreinen en het optimaliseren van persoonlijke LinkedIn-profielen.\n\t- **LinkedIn-profiel:** [Miranda Molenaar op LinkedIn](https://nl.linkedin.com/in/mirandamolenaar-contentstrateeg) [[1]](https://nl.linkedin.com/in/mirandamolenaar-contentstrateeg)[[2]](https://www.linkedin.com/pub/dir/Miranda/Molenaar)\n\nWil je graag weten welke van deze specialisten het beste aansluit bij een **specifieke branche** (zoals B2B, tech of coaching), of ben je op zoek naar literatuur of **trainingen** op dit gebied?",
+ "entities": [
+  {
+   "name": "Guy Strijbosch",
+   "type": "persoon",
+   "domain": "guystrijbosch.nl",
+   "position": 1
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "domain": "sandrastassar.nl",
+   "position": 2
+  },
+  {
+   "name": "Miranda Molenaar",
+   "type": "persoon",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "De Content Assistent",
+   "type": "bureau",
+   "domain": null,
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "guystrijbosch.nl",
+   "url": "https://guystrijbosch.nl/",
+   "title": "Guy Strijbosch: LinkedIn-strategie voor technische B2B"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://www.sandrastassar.nl/Over-mij-in-detail/",
+   "title": "LinkedIn Personal Branding expert van Brabant | Eindhoven"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/mirandamolenaar-contentstrateeg",
+   "title": "Miranda Molenaar - Contentstrateeg | Voor organisaties die ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pub/dir/Miranda/Molenaar",
+   "title": "10+ \"Miranda Molenaar\" profiles | LinkedIn"
+  }
+ ]
+}

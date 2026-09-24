@@ -1,0 +1,96 @@
+{
+ "id": "P03",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Ik zoek een LinkedIn ghostwriter voor de directeur van een Nederlands IT-bedrijf. Welke bureaus of freelancers kun je aanbevelen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van gerenommeerde bureaus en freelancers in Nederland die gespecialiseerd zijn in LinkedIn-ghostwriting — met name geschikt voor directeuren van IT-bedrijven. Deze partijen bieden strategische contentcreatie, tone-of-voice vastlegging en consistente zichtbaarheid op LinkedIn:\n\nBureaus:\n\n• Wildbos – Een Nederlands LinkedIn-ghostwritingbureau met een duidelijke focus op B2B en IT-/techbedrijven. Ze werken via interviews om jouw stem vast te leggen en creëren content die gericht is op de juiste doelgroep, met gemiddeld 65% out-of-network reacties van relevante personen ([wildbos.com](https://wildbos.com/blog/linkedin-ghostwriting-bureau-nederland-hoe-kies-je?utm_source=openai)).\n\n• Flom & Co. – Biedt ghostwriting voor ondernemers, inclusief directeuren, met aandacht voor positionering, tone-of-voice en strategische thema’s. Ze verzorgen wekelijkse LinkedIn-posts en persoonlijke artikelen, met een gestructureerde werkwijze via kennismaking, interviews, feedback en planning ([flomenco.nl](https://www.flomenco.nl/ghostwriting?utm_source=openai)).\n\n• Ghostly – Een jong bureau (opgericht in 2025) dat LinkedIn-strategie, ghostwriting en contentcreatie aanbiedt. Ze richten zich op online ondernemers die zichzelf als expert willen profileren, met maandelijkse planning, rapportage en bijsturing ([nl.linkedin.com](https://nl.linkedin.com/company/getghostly?utm_source=openai)).\n\nFreelancers en kleinere bureaus:\n\n• Annemiek Marsman (Ghostwriter Agency) – Freelance ghostwriter gevestigd in Vriezenveen, Overijssel. Ze biedt ghostwriting, copywriting, contentstrategie en e-mailmarketing aan en is actief op LinkedIn ([nl.linkedin.com](https://nl.linkedin.com/in/annemiekmarsman?utm_source=openai)).\n\n• Richting & Duidelijkheid – Een eenpitter uit Langbroek (Utrecht) die zich richt op positionering, redactie en ghostwriting. Ze helpen visie en expertise om te zetten in heldere verhalen, met aandacht voor strategie en structuur ([nl.linkedin.com](https://nl.linkedin.com/company/richting-en-duidelijkheid?utm_source=openai)).\n\n• Irene van Gent – Auteur en ghostwriter met een brede achtergrond in schrijven, redactie en contentstrategie. Ze is gevestigd in de Randstad en biedt ghostwritingdiensten aan via haar LinkedIn-profiel ([nl.linkedin.com](https://nl.linkedin.com/in/irenevangent/nl?utm_source=openai)).\n\nPlatformen:\n\n• Freelance.nl – Een platform waar je eenvoudig ghostwriters kunt vinden op freelance of zzp-basis. Je krijgt toegang tot een groot aanbod (meer dan 250.000 freelancers) en kunt snel geschikte kandidaten benaderen ([freelance.nl](https://www.freelance.nl/ghostwriter?utm_source=openai)).\n\nAanbevelingen op basis van jouw situatie:\n\n- Voor een IT-directeur die op zoek is naar een bureau met bewezen ervaring in B2B en tech: **Wildbos** is een sterke keuze.\n- Voor een meer persoonlijke, strategische aanpak met vaste planning en tone-of-voice: **Flom & Co.** of **Ghostly** kunnen goed passen.\n- Als je liever werkt met een individuele professional die flexibel en persoonlijk is: overweeg **Annemiek Marsman**, **Richting & Duidelijkheid** of **Irene van Gent**.\n- Wil je meerdere kandidaten vergelijken of snel een match vinden? Gebruik **Freelance.nl** om gericht te zoeken en offertes te vergelijken.\n\nLaat me weten als je hulp wilt bij het opstellen van een briefing of bij het vergelijken van offertes!",
+ "entities": [
+  {
+   "name": "Wildbos",
+   "type": "bureau",
+   "position": 1,
+   "domain": "wildbos.com"
+  },
+  {
+   "name": "Flom & Co.",
+   "type": "bureau",
+   "position": 2,
+   "domain": "flomenco.nl"
+  },
+  {
+   "name": "Ghostly",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Annemiek Marsman",
+   "type": "persoon",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Ghostwriter Agency",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Richting & Duidelijkheid",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Irene van Gent",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Freelance.nl",
+   "type": "platform",
+   "position": 8,
+   "domain": "freelance.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "wildbos.com",
+   "url": "https://wildbos.com/blog/linkedin-ghostwriting-bureau-nederland-hoe-kies-je",
+   "title": "LinkedIn ghostwriting bureau Nederland: hoe kies je?"
+  },
+  {
+   "domain": "flomenco.nl",
+   "url": "https://www.flomenco.nl/ghostwriting",
+   "title": "Ghostwriting voor ondernemers – LinkedIn posts in jouw toon — Flom & Co."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/getghostly",
+   "title": "Ghostly | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/annemiekmarsman",
+   "title": "Annemiek Marsman - Ghostwriter Agency | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/richting-en-duidelijkheid",
+   "title": "Richting & Duidelijkheid | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/irenevangent/nl",
+   "title": "Irene van Gent - Irene van Gent - Auteur & ghostwriter | LinkedIn"
+  },
+  {
+   "domain": "freelance.nl",
+   "url": "https://www.freelance.nl/ghostwriter",
+   "title": "Ghostwriter gezocht - freelance en zzp opdrachten"
+  }
+ ]
+}

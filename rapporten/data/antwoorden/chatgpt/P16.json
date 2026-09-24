@@ -1,0 +1,114 @@
+{
+ "id": "P16",
+ "engine": "chatgpt",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse specialisten schrijven over personal branding en thought leadership op LinkedIn? Noem namen en websites.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hier zijn enkele Nederlandse specialisten die actief schrijven over personal branding en thought leadership op LinkedIn, inclusief hun namen en websites:\n\n1. **Chantal van Koesveld**  \n   – LinkedIn-specialist en trainer, met focus op personal branding en thought leadership voor technische bedrijven. Ze publiceert regelmatig artikelen op LinkedIn, zoals “LinkedIn wordt een creatorplatform” (13 augustus 2026) en “Techneuten hoeven geen thought leader te worden” (17 juni 2026) ([nl.linkedin.com](https://nl.linkedin.com/in/chantalvankoesveld?utm_source=openai)).  \n   – Website: https://followchantal.com ([followchantal.com](https://followchantal.com/over-mij/?utm_source=openai)).\n\n2. **Sandra Stassar**  \n   – Ervaren personal branding specialist en contentstrateeg uit Eindhoven. Ze publiceerde op 12 februari 2026 een artikel “De 7 personal brand trends van 2026” op LinkedIn, waarin ze trends en strategieën deelt voor authentieke zichtbaarheid ([nl.linkedin.com](https://nl.linkedin.com/pulse/de-7-personal-brand-trends-van-2026-sandra-stassar-bp2qe?utm_source=openai)).  \n   – Website: www.sandrastassar.nl ([nl.linkedin.com](https://nl.linkedin.com/pulse/de-7-personal-brand-trends-van-2026-sandra-stassar-bp2qe?utm_source=openai)).\n\n3. **Lisanne Mattens**  \n   – LinkedIn-expert met een focus op personal brand, thought leadership en B2B-marketing. Ze helpt professionals en organisaties met strategie, content en positionering op LinkedIn ([malt.com](https://www.malt.com/profile/lisannemattens1?utm_source=openai)).  \n   – Via haar profiel op Malt (freelance platform) kun je meer over haar werk en aanpak lezen ([malt.com](https://www.malt.com/profile/lisannemattens1?utm_source=openai)).\n\n4. **Corinne Keijzer**  \n   – Een van de bekendste LinkedIn-experts in Nederland. Sinds 2010 geeft ze trainingen en sprekerssessies via haar bedrijf Digital Moves. Ze is gespecialiseerd in social selling, employee advocacy, contentmarketing en personal branding. Ze schreef onder andere de bestsellers “Meer succes met LinkedIn!” en “400 tips en ideeën voor je LinkedIn-posts” ([managementboek.nl](https://www.managementboek.nl/auteur/25943?utm_source=openai)).  \n   – Website: Digital Moves (zoekbaar via haar naam of via Managementboek.nl) ([managementboek.nl](https://www.managementboek.nl/auteur/25943?utm_source=openai)).\n\n5. **Janke Papa (Het Plan Personal Branding)**  \n   – Richt zich op zelfstandige trainers, coaches en consultants. Helpt hen zichzelf als merk in de markt te zetten via personal branding, coaching en online marketing ([nl.linkedin.com](https://nl.linkedin.com/company/het-plan-personal-branding?utm_source=openai)).  \n   – Website: http://www.hetplanpersonalbranding.nl ([nl.linkedin.com](https://nl.linkedin.com/company/het-plan-personal-branding?utm_source=openai)).\n\n6. **Edwin Dijkstra**  \n   – Schreef een uitgebreid blogartikel “Personal Branding Stappenplan Voor LinkedIn” waarin hij zijn eigen ervaringen deelt met dagelijks posten op LinkedIn, het behalen van pre-orders voor zijn boek en het genereren van leads via zichtbaarheid ([edwin.nl](https://edwin.nl/blog/personal-branding-stappenplan-voor-linkedin/?utm_source=openai)).  \n   – Website: edwin.nl (blogsectie) ([edwin.nl](https://edwin.nl/blog/personal-branding-stappenplan-voor-linkedin/?utm_source=openai)).\n\n---\n\nSamenvattend:\n\n- Chantal van Koesveld – followchantal.com  \n- Sandra Stassar – sandrastassar.nl  \n- Lisanne Mattens – via Malt-profiel (Uncoded)  \n- Corinne Keijzer – Digital Moves (via Managementboek.nl)  \n- Janke Papa – hetplanpersonalbranding.nl  \n- Edwin Dijkstra – edwin.nl (blog)\n\nDeze experts bieden uiteenlopende invalshoeken: van technische sectoren tot zelfstandigen, van strategie tot praktische stappenplannen. Laat het gerust weten als je meer wilt weten over hun specifieke aanpak of publicaties!",
+ "entities": [
+  {
+   "name": "Chantal van Koesveld",
+   "type": "persoon",
+   "position": 1,
+   "domain": "followchantal.com"
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 2,
+   "domain": "sandrastassar.nl"
+  },
+  {
+   "name": "Lisanne Mattens",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Malt",
+   "type": "platform",
+   "position": 4,
+   "domain": "malt.com"
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Managementboek.nl",
+   "type": "platform",
+   "position": 7,
+   "domain": "managementboek.nl"
+  },
+  {
+   "name": "Janke Papa",
+   "type": "persoon",
+   "position": 8,
+   "domain": "hetplanpersonalbranding.nl"
+  },
+  {
+   "name": "Het Plan Personal Branding",
+   "type": "bureau",
+   "position": 9,
+   "domain": "hetplanpersonalbranding.nl"
+  },
+  {
+   "name": "Edwin Dijkstra",
+   "type": "persoon",
+   "position": 10,
+   "domain": "edwin.nl"
+  },
+  {
+   "name": "Uncoded",
+   "type": "bureau",
+   "position": 11,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/chantalvankoesveld",
+   "title": "Chantal van Koesveld - Follow Chantal B.V. - personal branding & employee advocacy voor technische bedrijven | LinkedIn"
+  },
+  {
+   "domain": "followchantal.com",
+   "url": "https://followchantal.com/over-mij/",
+   "title": "Over Chantal van Koesveld | Follow Chantal"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/de-7-personal-brand-trends-van-2026-sandra-stassar-bp2qe",
+   "title": "De 7 personal brand trends van 2026"
+  },
+  {
+   "domain": "malt.com",
+   "url": "https://www.malt.com/profile/lisannemattens1",
+   "title": "Lisanne Mattens, LinkedIn expert | B2B Sales & Marketing"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/auteur/25943",
+   "title": "Corinne Keijzer - Managementboek.nl"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/het-plan-personal-branding",
+   "title": "Het Plan Personal Branding | LinkedIn"
+  },
+  {
+   "domain": "edwin.nl",
+   "url": "https://edwin.nl/blog/personal-branding-stappenplan-voor-linkedin/",
+   "title": "Personal Branding Stappenplan Voor Linkedin - Edwin Dijkstra"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "P06",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Wie helpt in Nederland ondernemers met personal branding op LinkedIn? Noem bureaus en coaches.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een groeiend aantal gespecialiseerde bureaus, coaches en trainers die ondernemers, C-level executives en professionals helpen met **personal branding** en zichtbaarheid op **LinkedIn**.[[1]](https://nl.linkedin.com/in/leontinejacobs)[[2]](https://doelgroepbereikt.nl/linkedin/linkedin-coaching/)\n\nHier is een overzicht van bekende partijen en experts op dit gebied:\n\n### Gespecialiseerde Bureaus\n\n- **The Alliance:** Gepositioneerd als een personal branding-bureau voor visionairs en 'wereldverbeteraars' (opgericht door o.a. Leontine Jacobs). Ze richten zich op diepgaande positionering, merkstrategie en content om impact en inkomsten te vergroten.[[1]](https://nl.linkedin.com/in/leontinejacobs)\n- **Personally:** Een personal branding- en PR-bureau (met onder anderen Bieke Groenink en Sabina de Groot-van der Hoeven ) dat ondernemers helpt om thoughtleader te worden . Ze verzorgen onder meer ghostwriting voor LinkedIn-posts, mediapitches en contentstrategieën.[[1]](https://nl.linkedin.com/in/bieke-groenink)[[2]](https://nl.linkedin.com/in/sabinavdh)\n\n### Coaches & Trainers (1-op-1 en trajecten)\n\n- **Sandra Stassar (Stassar Branding & Coaching):** Helpt dienstverlenende ondernemers en professionals in 1-op-1 trajecten en workshops met hun merkverhaal, LinkedIn-profieloptimalisatie en een authentieke contentstrategie.[[1]](https://www.sandrastassar.nl/)[[2]](https://www.sandrastassar.nl/)\n- **Doelgroepbereikt:** Biedt maatwerk LinkedIn-coaching voor ondernemers en directieleden. De focus ligt hierbij op personal branding, social selling, contentcreatie en het inzetten van AI ter ondersteuning.[[1]](https://doelgroepbereikt.nl/linkedin/linkedin-coaching/)\n- **Virtuele Helden (Lotte & Roel Willemse):** Bieden onder andere de *Heldenclass: LinkedIn Essentials* en personal branding-coaching specifiek gericht op het opvallen met je eigen expertise en het opbouwen van een vaste contentstructuur op LinkedIn.[[1]](https://nl.linkedin.com/posts/roel-willemse-personal-branding-coach_onweerstaanbaar-opvallen-op-linkedin-dat-activity-7262719889470107649-lT6h)[[2]](https://virtuelehelden.nl/personal-branding/linkedin-training/)\n\nWil je je richten op een **specifieke aanpak** (zoals volledige uitbesteding/ghostwriting versus zelf leren posten via 1-op-1 coaching), of zoek je hulp in een **specifieke regio** in Nederland?",
+ "entities": [
+  {
+   "name": "The Alliance",
+   "type": "bureau",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Leontine Jacobs",
+   "type": "persoon",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "Bieke Groenink",
+   "type": "persoon",
+   "domain": null,
+   "position": 4
+  },
+  {
+   "name": "Sabina de Groot-van der Hoeven",
+   "type": "persoon",
+   "domain": null,
+   "position": 5
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "domain": "sandrastassar.nl",
+   "position": 6
+  },
+  {
+   "name": "Stassar Branding & Coaching",
+   "type": "bureau",
+   "domain": "sandrastassar.nl",
+   "position": 7
+  },
+  {
+   "name": "Doelgroep Bereikt",
+   "type": "bureau",
+   "domain": "doelgroepbereikt.nl",
+   "position": 8
+  },
+  {
+   "name": "Virtuele Helden",
+   "type": "bureau",
+   "domain": "virtuelehelden.nl",
+   "position": 9
+  },
+  {
+   "name": "Lotte Willemse",
+   "type": "persoon",
+   "domain": "virtuelehelden.nl",
+   "position": 10
+  },
+  {
+   "name": "Roel Willemse",
+   "type": "persoon",
+   "domain": "virtuelehelden.nl",
+   "position": 11
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/leontinejacobs",
+   "title": "Leontine Jacobs - Maakt wereldverbeteraars bekender"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/linkedin/linkedin-coaching/",
+   "title": "LinkedIn coaching op maat | Voor ondernemers en teams"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/bieke-groenink",
+   "title": "Bieke Groenink - PR & personal branding voor ondernemers"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/sabinavdh",
+   "title": "Sabina de Groot-van der Hoeven - PR & personal branding ..."
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://www.sandrastassar.nl/",
+   "title": "Stassar Branding & Coaching | Personal branding ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/roel-willemse-personal-branding-coach_onweerstaanbaar-opvallen-op-linkedin-dat-activity-7262719889470107649-lT6h",
+   "title": "Onweerstaanbaar opvallen op LinkedIn? Dat kan ook met ..."
+  },
+  {
+   "domain": "virtuelehelden.nl",
+   "url": "https://virtuelehelden.nl/personal-branding/linkedin-training/",
+   "title": "LinkedIn Training | Heldenclass: LinkedIn Essentials"
+  }
+ ]
+}

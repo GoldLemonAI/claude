@@ -1,0 +1,47 @@
+{
+ "id": "P23",
+ "engine": "chatgpt",
+ "cat": "hoe",
+ "prompt": "Wat werkt in 2026 in het LinkedIn-algoritme voor B2B-content in Nederland? Noem bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van wat in 2026 effectief werkt voor B2B-content op LinkedIn in Nederland, gebaseerd op recente inzichten en best practices. Ik heb expliciet bronnen opgenomen om de betrouwbaarheid te waarborgen.\n\n---\n\n## 1. Algoritmefocus: kwaliteit, relevantie en expertise\n\n- LinkedIn heeft zijn feed-algoritme herbouwd om **lage-waarde virale content** te ontmoedigen en in plaats daarvan **echte expertise en relevantie** te belonen ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n- De feed maakt gebruik van **Generative Recommenders en LLMs** om beter te begrijpen waar een post over gaat en hoe interesses van gebruikers evolueren ([news.linkedin.com](https://news.linkedin.com/2026/ImprovingTheFeed?utm_source=openai)).\n- Content die **informatie-intensief** is en **praktische waarde** biedt, wordt nu beter herkend en beloond ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n\n---\n\n## 2. Formaten die het beste presteren\n\n- **Document posts (PDF-carrousels)** scoren gemiddeld 6,6% engagement, het hoogste van alle formaten ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n- **Native video** (korter dan 90 seconden, met ondertiteling) volgt met ongeveer 5,6% engagement ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n- **Tekst-only posts** blijven werken, maar met een lager gemiddelde van circa 2%, tenzij ze een sterke hook en duidelijke opmaak hebben ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n- **Externe links in de posttekst** verminderen het bereik met ongeveer 60% – beter om links in de eerste reactie te plaatsen ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n\n---\n\n## 3. Engagementsignalen: wat telt echt?\n\n- **Saves** zijn nu ongeveer vijf keer waardevoller dan likes als signaal voor het algoritme ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n- **Direct shares (verzenden naar collega’s)** en **commentaar van hoge kwaliteit** (meer dan één woord, met inhoud) zijn belangrijke indicatoren van buyer intent en worden sterk beloond ([linkedotter.com](https://www.linkedotter.com/articles/how-linkedin-july-2026-algorithm-update-changed-b2b-content-reach?utm_source=openai)).\n- **Dwell time** – hoe lang iemand bij je post blijft hangen – is cruciaal. Posts die langer dan 60 seconden aandacht vasthouden, krijgen aanzienlijk meer distributie ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n\n---\n\n## 4. Hook & inhoud: hoe begin je een post?\n\n- De eerste twee regels (ongeveer 210 tekens) bepalen of iemand verder leest. Gebruik een **concrete claim, verrassende statistiek of herkenbaar probleem** om de lezer te prikkelen ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n- **Specifieke data, voorbeelden en actiegerichte details** leveren tot 3,7 keer meer bereik op dan generieke content ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n\n---\n\n## 5. Authentiek, persoonlijk en consistent\n\n- **Persoonlijke posts van mensen (zoals oprichters)** presteren tot 500% beter dan content van bedrijfspagina’s ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf?utm_source=openai)).\n- Content moet **echt en menselijk** aanvoelen – geen brochuretaal of AI-formuleringen ([kemx.nl](https://www.kemx.nl/blog/goede-linkedin-content-b2b?utm_source=openai)).\n- Gebruik een **persoonlijke, eerlijke toon**, korte alinea’s, witregels en een duidelijke mening of les ([kemx.nl](https://www.kemx.nl/blog/goede-linkedin-content-b2b?utm_source=openai)).\n\n---\n\n## 6. Timing en frequentie in Nederland\n\n- In de Nederlandse B2B-markt presteren posts het best op **dinsdag en donderdag rond 08:00 of 12:00 CET**, met twee vaste publicatiemomenten per week ([sculptstudios.nl](https://sculptstudios.nl/linkedin-algoritme-2026-hoe-zorg-je-dat-je-posts-gezien-worden/?utm_source=openai)).\n- **Drie sterke posts per week** zijn effectiever dan dagelijks posten zonder impact ([kemx.nl](https://www.kemx.nl/blog/goede-linkedin-content-b2b?utm_source=openai)).\n\n---\n\n## 7. Topical authority en consistentie\n\n- **Topical authority** – expertise binnen een specifiek onderwerp – is een steeds belangrijker succesfactor ([sculptstudios.nl](https://sculptstudios.nl/linkedin-algoritme-2026-hoe-zorg-je-dat-je-posts-gezien-worden/?utm_source=openai)).\n- Het algoritme beloont consistentie in onderwerp en toon; afwijken van je expertisegebied kan je bereik schaden ([reddit.com](https://www.reddit.com/r/b2bmarketing/comments/1vekzpk/linkedin_quietly_swapped_its_entire_ranking/?utm_source=openai)).\n\n---\n\n## 8. AI-slop en engagement bait vermijden\n\n- LinkedIn neemt actief maatregelen tegen **AI-generated “slop” content**, zoals generieke formules en engagement bait ([techradar.com](https://www.techradar.com/pro/linkedin-is-finally-set-to-crack-down-on-ai-slop-and-my-sanity-might-be-saved?utm_source=openai)).\n- Posts met **meer dan vijf hashtags**, engagement pods of generieke engagement prompts (zoals “comment to agree”) worden afgestraft",
+ "entities": [],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/b2b-linkedin-content-best-practices-2026-update-anas-hidaoui-jxwaf",
+   "title": "B2B LinkedIn Content Best Practices (2026 Update)"
+  },
+  {
+   "domain": "news.linkedin.com",
+   "url": "https://news.linkedin.com/2026/ImprovingTheFeed",
+   "title": "How LinkedIn Is Improving the Feed to Show More Relevant, Authentic Professional Content"
+  },
+  {
+   "domain": "linkedotter.com",
+   "url": "https://www.linkedotter.com/articles/how-linkedin-july-2026-algorithm-update-changed-b2b-content-reach",
+   "title": "How Did LinkedIn's July 2026 Algorithm Update Change What Gets Reach for B2B Content?"
+  },
+  {
+   "domain": "kemx.nl",
+   "url": "https://www.kemx.nl/blog/goede-linkedin-content-b2b",
+   "title": "Wat goede LinkedIn content is voor een B2B bedrijf | KemX"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/linkedin-algoritme-2026-hoe-zorg-je-dat-je-posts-gezien-worden/",
+   "title": "LinkedIn algoritme 2026: hoe zorg je dat je posts gezien worden - Sculpt Studios"
+  },
+  {
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/b2bmarketing/comments/1vekzpk/linkedin_quietly_swapped_its_entire_ranking/",
+   "title": "LinkedIn quietly swapped its entire ranking system this year."
+  },
+  {
+   "domain": "techradar.com",
+   "url": "https://www.techradar.com/pro/linkedin-is-finally-set-to-crack-down-on-ai-slop-and-my-sanity-might-be-saved",
+   "title": "LinkedIn is finally set to crack down on AI slop - TechRadar"
+  }
+ ]
+}

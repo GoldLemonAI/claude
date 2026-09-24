@@ -1,0 +1,149 @@
+{
+ "id": "P03",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Ik zoek een LinkedIn ghostwriter voor de directeur van een Nederlands IT-bedrijf. Welke bureaus of freelancers kun je aanbevelen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor de directeur van een Nederlands IT-bedrijf is een LinkedIn ghostwriter die **de IT-branche en de B2B-dynamiek begrijpt** essentieel. In de IT-sector ligt de lat voor inhoudelijke geloofwaardigheid hoog; de content mag niet aanvoelen als oppervlakkige \"marketingpraat\" of AI-gegenereerde teksten. De auteur moet complexe technische concepten (zoals cloud, security, SaaS of AI) kunnen vertalen naar menselijke, strategische en herkenbare verhalen.\n\nHier is een overzicht van gerenommeerde Nederlandse bureaus en freelancers die hierin gespecialiseerd zijn:\n\n---\n\n### 1. Gespecialiseerde Agencies (B2B & IT Focus)\n\nBureaus zijn ideaal als je naast het schrijven van teksten ook behoefte hebt aan een bredere contentstrategie, professionele formats (zoals carrousels of video) en periodieke analyses.\n\n*   **GHO Agency**\n    *   **Wie ze zijn:** Een van de bekendere Nederlandse bureaus specifiek gericht op *Executive Branding* en LinkedIn-ghostwriting voor CEO's en directeurs. \n    *   **Waarom geschikt voor IT:** Ze hebben ruime ervaring met het positioneren van leiders in de tech- en B2B-dienstverlening. Ze hanteren een methodische aanpak (hun 'GHO-model') om persoonlijke anekdotes te combineren met inhoudelijke waarde en subtiele conversie.\n*   **Personally (Amsterdam/Haarlem)**\n    *   **Wie ze zijn:** Een boetiekbureau dat zich volledig focust op personal branding voor oprichters en directieleden. \n    *   **Waarom geschikt voor IT:** Ze begrijpen hoe ze van een IT-directeur een *thought leader* in de sector kunnen maken. Hun focus ligt sterk op het bouwen van een autoriteitspositie om makkelijker klanten en schaars IT-talent aan te trekken.\n*   **WYS (What You Say)**\n    *   **Wie ze zijn:** Een B2B-marketingbureau dat een sterke focus heeft op LinkedIn Ghostwriting.\n    *   **Waarom geschikt voor IT:** Ze zijn specifiek ervaren in het schrijven voor directieleden in **SaaS, custom softwareontwikkeling en IT-consultancy**. Ze weten hoe ze de vaak complexe materie uit de IT-hoek helder en aantrekkelijk moeten verwoorden voor een zakelijke doelgroep.\n*   **Het Personal Branding Instituut (Lotte de Man)**\n    *   **Wie ze zijn:** Een high-end full-service instituut voor personal branding.\n    *   **Waarom geschikt voor IT:** Als het budget er is en de directeur écht als het boegbeeld van de organisatie neergezet moet worden (inclusief professionele fotografie, videografie en een diepgaand positioneringstraject), is dit het go-to bureau in Nederland.\n\n---\n\n### 2. Freelancers (Flexibel & Persoonlijk)\n\nEen freelancer werkt vaak nauwer 1-op-1 samen met de directeur. Dit zorgt er meestal voor dat de 'tone of voice' nóg authentieker voelt, omdat de lijnen korter zijn.\n\n*   **Frank Husmann (Vertex Marketing)**\n    *   **Specialisatie:** B2B SaaS en IT-copywriting. Frank combineert diepgaande kennis van de softwarewereld met het schrijven van ijzersterke LinkedIn-content voor tech-ondernemers.\n*   **Copiene (Chantal de Wit)**\n    *   **Specialisatie:** Persoonlijke en scherpe LinkedIn-ghostwriting voor ambitieuze B2B-ondernemers. Ze blinkt uit in het ontzorgen van directeuren die wel de ideeën hebben, maar de tijd of schrijfvaardigheid missen.\n*   **Sandra Stassar (Stassar Branding - Regio Eindhoven)**\n    *   **Specialisatie:** Gevestigd in de High Tech Regio Brainport Eindhoven. Ze is een personal branding specialist en contentstrateeg die veel met tech- en B2B-ondernemers werkt en hen helpt hun persoonlijke \"cocktail\" van kwaliteiten online te profileren.\n\n---\n\n### Waar moet je op letten bij de keuze voor deze IT-directeur?\n\n1.  **De 'Snaar' (Inhoud vs. Sensatie):** In de IT-wereld werkt de typische, schreeuwerige 'LinkedIn-bro'-stijl (veel witregels, emoji's en overdreven drama) vaak averechts. Zoek een partij die een **ingehouden, deskundige en nuchtere toon** kan aanslaan.\n2.  **Het Interviewproces:** Een goede ghostwriter schrijft nooit zomaar wat. Vraag hoe ze informatie ophalen. De beste partijen plannen elke 2 of 4 weken een interview van 30-45 minuten in waarin ze de directeur leegvragen over actuele IT-trends, klantcases en visie. Op basis van die opnames schrijven ze de posts.\n3.  **Vakinhoudelijke affiniteit:** Vraag specifiek naar eerdere cases binnen de IT/tech-sector. Als een schrijver het verschil tussen *legacy software*, *low-code* en *cloud native* niet begrijpt, zal de directeur veel tijd kwijt zijn aan het corrigeren van de teksten.\n\n**Advies voor de volgende stap:**\nPlan met twee partijen (bijvoorbeeld één agency en één freelancer) een vrijblijvende kennismaking. Het succes van ghostwriting valt of staat met de persoonlijke klik en het vertrouwen tussen de schrijver en de directeur [",
+ "entities": [
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 1,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 2,
+   "domain": "personally.team"
+  },
+  {
+   "name": "WYS",
+   "type": "bureau",
+   "position": 3,
+   "domain": "wijzijnwys.nl"
+  },
+  {
+   "name": "Het Personal Branding Instituut",
+   "type": "bureau",
+   "position": 4,
+   "domain": "personalbrandinginstituut.nl"
+  },
+  {
+   "name": "Lotte de Man",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Frank Husmann",
+   "type": "persoon",
+   "position": 6,
+   "domain": "frankhusmann.nl"
+  },
+  {
+   "name": "Vertex Marketing",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Copiene",
+   "type": "bureau",
+   "position": 8,
+   "domain": "copiene.com"
+  },
+  {
+   "name": "Chantal de Wit",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 10,
+   "domain": "sandrastassar.nl"
+  },
+  {
+   "name": "Stassar Branding",
+   "type": "bureau",
+   "position": 11,
+   "domain": "sandrastassar.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "comeup.com",
+   "url": "https://comeup.com/en/service/546393/be-your-b2b-linkedin-ghostwriter-and-write-high-converting-posts",
+   "title": "comeup.com"
+  },
+  {
+   "domain": "understoryagency.com",
+   "url": "https://www.understoryagency.com/blog/best-linkedin-ghostwriting-agencies-b2b-saas",
+   "title": "understoryagency.com"
+  },
+  {
+   "domain": "pritcentrago.com",
+   "url": "https://pritcentrago.com/linkedin-ghostwriter/",
+   "title": "pritcentrago.com"
+  },
+  {
+   "domain": "ghostwritingllc.com",
+   "url": "https://ghostwritingllc.com/nl/LinkedIn-ghostwriting/",
+   "title": "ghostwritingllc.com"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/linkedin-ghostwriter",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/waarom-steeds-meer-ceos-kiezen-voor-linkedin-ghostwriting",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/boost-je-personal-branding-en-thought-leadership-op-linkedin",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "personally.team",
+   "url": "https://www.personally.team/",
+   "title": "personally.team"
+  },
+  {
+   "domain": "wijzijnwys.nl",
+   "url": "https://www.wijzijnwys.nl/blog/wat-is-linkedin-ghostwriting",
+   "title": "wijzijnwys.nl"
+  },
+  {
+   "domain": "personalbrandinginstituut.nl",
+   "url": "https://www.personalbrandinginstituut.nl/",
+   "title": "personalbrandinginstituut.nl"
+  },
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-ghostwriter/",
+   "title": "frankhusmann.nl"
+  },
+  {
+   "domain": "copiene.com",
+   "url": "https://copiene.com/linkedin-ghostwriting/",
+   "title": "copiene.com"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/Personal-Branding/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/linkedin/linkedin-ghostwriting/",
+   "title": "doelgroepbereikt.nl"
+  }
+ ]
+}

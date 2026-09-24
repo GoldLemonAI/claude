@@ -1,0 +1,110 @@
+{
+ "id": "P10",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welke bureaus in Nederland combineren LinkedIn content met SEO en zichtbaarheid in AI-zoekmachines voor B2B-MKB? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is de combinatie van **B2B-marketing, LinkedIn, klassieke SEO en GEO (Generative Engine Optimization)** – oftewel zichtbaarheid in AI-zoekmachines zoals ChatGPT, Perplexity en Google AI Overviews – een snelgroeiend specialisme. \n\nVoor het B2B-MKB is dit een uiterst logische driehoek: LinkedIn bouwt aan thought leadership en activeert je doelgroep (social), SEO zorgt voor de vindbaarheid in Google, en GEO zorgt ervoor dat AI-zoekmachines jouw merk aanbevelen en citeren als betrouwbare bron. \n\nDe volgende Nederlandse bureaus en agencies combineren deze expertises voor het B2B-MKB:\n\n### 1. Digital Inside (Nijmegen / Utrecht)\n**Digital Inside** is een van de weinige B2B-marketingbureaus die de driehoek expliciet als één geïntegreerde strategie aanbiedt voor snelgroeiende MKB-bedrijven. \n* **Hoe ze het combineren:** Zij geloven dat een B2B-beslisser zich via meerdere kanalen oriënteert. Ze bouwen autoriteit op LinkedIn en vangen de actieve zoekvraag op via traditionele SEO. Tegelijkertijd passen zij GEO toe, zodat de diepgaande, gestructureerde content van jouw website door AI-zoekmachines (zoals ChatGPT en Perplexity) wordt gebruikt om jouw organisatie te citeren en op de 'shortlist' van de beslisser te krijgen.\n\n### 2. Searchlab (Amsterdam)\n**Searchlab** profileert zich sterk als een data- en AI-gedreven B2B-marketingbureau. \n* **Hoe ze het combineren:** Hun focus ligt op het doorbreken van 'silomarketing'. In plaats van losse kanalen bieden ze een geïntegreerd systeem. Ze zetten LinkedIn (organisch en Ads) in om de doelgroep bewust te maken en verkeer te genereren. Die content wordt vervolgens zo geoptimaliseerd dat deze zowel organisch rankt (SEO) als AI-proof is. Ze gebruiken eigen AI-tooling om te analyseren waar de ideale klant zich bevindt en welke content daarvoor nodig is.\n\n### 3. SEO Bureau Onder (Zwolle)\n**Onder** is van oudsher een SEO-specialist, maar heeft zich ontpopt tot een van de koplopers in Nederland op het gebied van **LLMO** (Large Language Model Optimisation) en GEO.\n* **Hoe ze het combineren:** Hoewel ze de nadruk leggen op de organische en AI-vindbaarheid (ze hebben zelfs eigen systemen ontwikkeld om te tracken hoe vaak een merk in ChatGPT-prompts wordt genoemd), begrijpen zij als geen ander dat LLM's hun data halen uit autoritaire bronnen. LinkedIn is een van de snelst stijgende databronnen waar AI-zoekmachines informatie vandaan halen. Onder combineert de contentcreatie voor websites met de nodige \"externe signalen\" (zoals LinkedIn-activiteit en PR) om de autoriteit van een B2B-bedrijf voor AI-modellen te maximaliseren.\n\n### 4. Scherp Online (Eindhoven)\nDit is een full-service B2B online marketing bureau (tevens HubSpot partner) dat MKB-bedrijven helpt met de gehele funnel.\n* **Hoe ze het combineren:** Scherp Online biedt specifieke GEO-diensten aan om ervoor te zorgen dat bedrijven door AI-modellen als de beste optie worden gekozen. Ze combineren dit met inbound marketing, contentmarketing en social-adverteren (met name LinkedIn) om leads te genereren en tegelijkertijd de merkautoriteit op te bouwen die AI-zoekmachines nodig hebben om je te vertrouwen.\n\n### 5. Maatwerk Online (Rotterdam)\nDit bureau richt zich specifiek op het Nederlandse mid-market- en MKB-segment. \n* **Hoe ze het combineren:** Ze hebben een sterke focus op de transitie van traditionele SEO naar GEO. Ze helpen MKB-bedrijven om content zo te structureren (onder andere met schema mark-up) dat AI-zoekmachines de website direct begrijpen. Dit koppelen ze aan hun social media-tak (inclusief LinkedIn-beheer en social advertising) om een crossmediale zichtbaarheid te garanderen.\n\n### 6. Whello (Amsterdam)\n**Whello** is een bekend full-service agency voor het MKB dat zeer vroeg is ingestapt op de GEO-trein. \n* **Hoe ze het combineren:** Zij hanteren een 'multi-channel' groeimodel. Ze schrijven content die specifiek is geoptimaliseerd voor AI-overzichten en ChatGPT (GEO), maar zetten tegelijkertijd in op de actieve verspreiding van deze expertise via LinkedIn om de naamsbekendheid en de social-proof-factoren te verhogen die AI-zoekmachines scannen voor betrouwbaarheid.\n\n### Waarom juist deze combinatie cruciaal is voor B2B-MKB:\nAI-zoekmachines zoals ChatGPT en Gemini baseren hun aanbevelingen niet alleen op de teksten van jouw website. Ze kijken naar **E-E-A-T** (Experience, Expertise, Authoritativeness, Trustworthiness) en scannen het web op signalen dat jouw bedrijf daadwerkelijk een expert is. Actieve en kwalitatieve content op LinkedIn, gecombineerd met sterke SEO-content op je site, vormt voor AI-zoekmachines de ultieme bevestiging om jouw MKB-bedrijf als dé specialist aan te dragen in hun chat-antwoorden.",
+ "entities": [
+  {
+   "name": "Digital Inside",
+   "type": "bureau",
+   "position": 1,
+   "domain": "digitalinside.nl"
+  },
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "position": 2,
+   "domain": "searchlab.nl"
+  },
+  {
+   "name": "Onder",
+   "type": "bureau",
+   "position": 3,
+   "domain": "onder.nl"
+  },
+  {
+   "name": "Scherp Online",
+   "type": "bureau",
+   "position": 4,
+   "domain": "scherponline.nl"
+  },
+  {
+   "name": "HubSpot",
+   "type": "tool",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Maatwerk Online",
+   "type": "bureau",
+   "position": 6,
+   "domain": "maatwerkonline.nl"
+  },
+  {
+   "name": "Whello",
+   "type": "bureau",
+   "position": 7,
+   "domain": "whello.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "digitalinside.nl",
+   "url": "https://www.digitalinside.nl/b2b-marketing-bureau/",
+   "title": "digitalinside.nl"
+  },
+  {
+   "domain": "onder.nl",
+   "url": "https://onder.nl/en/services/llmo/",
+   "title": "onder.nl"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/b2b-marketing-bureau",
+   "title": "searchlab.nl"
+  },
+  {
+   "domain": "rankshift.ai",
+   "url": "https://www.rankshift.ai/nl/blog/best-geo-agencies/",
+   "title": "rankshift.ai"
+  },
+  {
+   "domain": "teamlewis.com",
+   "url": "https://www.teamlewis.com/nl/magazine/beste-geo-agencies-nederland/",
+   "title": "teamlewis.com"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=MVzoBukAWOw",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "scherponline.nl",
+   "url": "https://scherponline.nl/geo/",
+   "title": "scherponline.nl"
+  },
+  {
+   "domain": "maatwerkonline.nl",
+   "url": "https://www.maatwerkonline.nl/generative-engine-optimalisatie/",
+   "title": "maatwerkonline.nl"
+  },
+  {
+   "domain": "whello.nl",
+   "url": "https://whello.nl/generative-seo-bureau",
+   "title": "whello.nl"
+  },
+  {
+   "domain": "brutael.nl",
+   "url": "https://www.brutael.nl/wijsheid/geo-is-de-nieuwe-seo-als-ai-je-niet-kent-wie-kent-je-dan-wel",
+   "title": "brutael.nl"
+  },
+  {
+   "domain": "evox.com.uy",
+   "url": "https://evox.com.uy/en/llm-optimization/netherlands",
+   "title": "evox.com.uy"
+  }
+ ]
+}

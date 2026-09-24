@@ -1,0 +1,161 @@
+{
+ "id": "P12",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welke Nederlandse bureaus bouwen een compleet leadgeneratiesysteem voor B2B-MKB waarin LinkedIn een hoofdrol speelt? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Ja — op basis van deze resultaten zijn dit Nederlandse bureaus die een **compleet leadgeneratiesysteem** voor **B2B-MKB** neerzetten waarbij **LinkedIn** een hoofdrol speelt:[2][3][5][13][15][20]\n\n- **Searchlab** — positioneert zich expliciet als B2B-marketingbureau dat de “volledige stack” levert, met **LinkedIn Ads**, ABM, CRM-koppelingen en pipeline-gedreven aanpak.[20]\n- **BlinktUit** — noemt zichzelf een B2B leadgeneratiebureau met **LinkedIn outreach & leadgeneratie**, plus sales automation, funnels, opvolgoptimalisatie en HubSpot-implementaties.[5]\n- **Lead Today** — profileert zich als B2B marketingpartner en vermeldt expliciet resultaten via **LinkedIn & Google Ads**.[7]\n- **Social Sales** — richt zich op B2B-leads via **LinkedIn** en op CRM-processen om leads om te zetten in deals.[14]\n- **Replicable** — beschrijft een B2B leadgeneratie-aanpak waarbij campagnes via **LinkedIn** worden ingezet voor kleine, specifieke doelgroepen.[9]\n- **Match-day** — levert structureel warme leads en gekwalificeerde afspraken voor B2B, dus relevant als leadgeneratiepartij in deze categorie.[12]\n- **WADM** — wordt genoemd als bureau voor B2B-merkstrategie, demand generation en digitale groei; dat past bij een bredere leadgeneratie-setup, al wordt LinkedIn in deze snippets minder expliciet genoemd.[1][8][17]\n- **Gold Lemon** — richt zich op B2B-marketing voor MKB met onder meer **contentmarketing op LinkedIn** en leadgeneratie op koopintentie-signalen.[3]\n\nAls je wilt, kan ik hieruit ook meteen een **shortlist van 5 bureaus** maken die het beste passen bij jouw situatie, bijvoorbeeld op basis van **prijs, schaal, HubSpot/CRM, LinkedIn outbound of LinkedIn ads**.",
+ "entities": [
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "position": 1,
+   "domain": "searchlab.nl"
+  },
+  {
+   "name": "BlinktUit",
+   "type": "bureau",
+   "position": 2,
+   "domain": "blinktuit.nl"
+  },
+  {
+   "name": "Lead Today",
+   "type": "bureau",
+   "position": 3,
+   "domain": "leadtoday.nl"
+  },
+  {
+   "name": "Social Sales",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Replicable",
+   "type": "bureau",
+   "position": 5,
+   "domain": "replicable.com"
+  },
+  {
+   "name": "Match-day",
+   "type": "bureau",
+   "position": 6,
+   "domain": "match-day.nl"
+  },
+  {
+   "name": "WADM",
+   "type": "bureau",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 8,
+   "domain": "goldlemon.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - 2026 ..."
+  },
+  {
+   "domain": "marketingburos.nl",
+   "url": "https://www.marketingburos.nl/bureaus/page/1",
+   "title": "1.998 marketing - bureaus"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/b2b-marketing-bureau/",
+   "title": "B2B Marketingbureau voor MKB - Gold Lemon"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/lead-generatie/nederland-nl",
+   "title": "De 10 beste Lead-Generatie Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "blinktuit.nl",
+   "url": "https://www.blinktuit.nl/",
+   "title": "BlinktUit: Leadgeneratie & HubSpot Partner voor Online Groei"
+  },
+  {
+   "domain": "customerimpact.be",
+   "url": "https://www.customerimpact.be/kennis/beste-leadgeneratie-bureau-nederland/",
+   "title": "Beste leadgeneratie bureau Nederland (2026)"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/",
+   "title": "Lead Today | Jouw B2B marketingpartner voor digitale groei"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/nederland-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "replicable.com",
+   "url": "https://www.replicable.com/b2b-leadgeneratie",
+   "title": "Leadgeneratie - Pipedrive & B2B lead generatie bureau Nederland"
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/b2b-marketing/netherlands-nl",
+   "title": "The 10 Best B2B Marketing Agencies in the Netherlands"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "match-day.nl",
+   "url": "https://match-day.nl/nl/leadgeneratie",
+   "title": "B2B leadgeneratie: strategie, kanalen en afspraken"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "LinkedIn Ads Bureau | B2B Adverteren op LinkedIn - Searchlab"
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/b2b-bedrijven-voor-het-genereren-van-leads",
+   "title": "20+ beste bedrijven en diensten voor B2B-leadgeneratie ..."
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/leadgeneratie-bureau",
+   "title": "Leadgeneratie Bureau | Elke Week Verse B2B Leads | Searchlab"
+  },
+  {
+   "domain": "agencies.semrush.com",
+   "url": "https://agencies.semrush.com/nl/list/lead-generation/netherlands/",
+   "title": "De beste Leadgeneratie Bedrijven in Netherlands 2026 | Semrush"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-lead-generation/nederland-nl",
+   "title": "Beste B2B Lead Generation Agencies in Nederland"
+  },
+  {
+   "domain": "happyhorizon.com",
+   "url": "https://happyhorizon.com/nl/services/online-marketing/social-advertising/linkedin-ads/",
+   "title": "LinkedIn marketing bureau - Happy Horizon"
+  },
+  {
+   "domain": "europages.nl",
+   "url": "https://www.europages.nl/ondernemingen/nederland/lead%20generation.html",
+   "title": "Lead generation Nederland | B2B Bedrijven & Leveranciers"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/b2b-marketing-bureau",
+   "title": "B2B Marketing Bureau | Het B2B Marketing Bureau met Eigen AI ..."
+  }
+ ]
+}

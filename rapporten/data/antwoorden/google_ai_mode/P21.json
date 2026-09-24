@@ -1,0 +1,34 @@
+{
+ "id": "P21",
+ "engine": "google_ai_mode",
+ "cat": "hoe",
+ "prompt": "Hoe bouw ik als directeur van een Nederlands MKB-bedrijf autoriteit op LinkedIn? Geef een stappenplan en noem bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als directeur van een Nederlands MKB-bedrijf ben jij het gezicht van je onderneming. Uit onderzoek (zoals het Edelman-LinkedIn B2B Thought Leadership Rapport ) blijkt dat B2B-beslissingsnemers *thought leadership* minstens zo belangrijk vinden als de algemene reputatie van het bedrijf zelf.[[1]](https://magicpost.in/nl/blog/linkedin-denkleiderschap)\n\nDit praktische stappenplan helpt je om efficiënt en authentiek autoriteit op te bouwen op LinkedIn, zonder dat het je hele werkweek kost.[[1]](https://magicpost.in/nl/blog/linkedin-denkleiderschap)\n\n### Stappenplan: Autoriteit opbouwen op LinkedIn\n\n#### Stap 1: Optimaliseer je profiel als landingspagina\n\nJe profiel is geen digitaal cv meer, maar een landingspagina voor jouw expertise.\n\n- **Profielfoto & Omslagfoto:** Kies een professionele, toegankelijke foto en gebruik je omslagfoto om subtiel de visuele stijl of missie van je MKB-bedrijf te tonen.\n- **De kopregel (Headline):** Vermijd een droge functietitel als *\"Directeur bij Bedrijf X\"* . Maak het waardegericht: *\"Directeur @ Bedrijf X | Wij helpen maakbedrijven te verduurzamen met CO₂-neutrale productie | Spreker over MKB-innovatie\"*.[[1]](https://nl.linkedin.com/pulse/5-types-content-build-real-authority-linkedin-mariu-andrade-xklne?tl=nl)\n- **De \"Info\"-sectie:** Schrijf in de ik-vorm. Vertel waarom je doet wat je doet, wat je visie is op jouw branche en welke uitdagingen je voor klanten oplost.\n\n#### Stap 2: Definieer je unieke invalshoek (Niche & Pijlers)\n\nAutoriteit ontstaat door focus. Kies 2 tot 3 subonderwerpen waar je over wilt meepraten:[[1]](https://nl.linkedin.com/pulse/ceo-branding-hoe-cre%C3%ABer-je-een-eigen-merk-en-gebruik-het-vervynckt)\n\n- Jouw visie op de toekomst van de branche (bijv. personeelstekorten in het MKB, AI-toepassingen of lokale maakindustrie).\n- Eerlijke lessen uit de praktijk: wat ging er mis als ondernemer en wat heb je daarvan geleerd?\n- Achter de schermen bij jouw bedrijf (cultuur, keuzes in de bedrijfsvoering).\n\n#### Stap 3: Hanteer de 3-pijlercontentmix\n\nPubliceer 2 à 3 keer per week waardevolle content. Volgens experts is duidelijkheid en relevantie belangrijker dan een dagelijkse overload aan posts. Gebruik afwisselend deze formats:[[1]](https://nl.linkedin.com/pulse/5-types-content-build-real-authority-linkedin-mariu-andrade-xklne?tl=nl)\n\n- **Het persoonlijke verhaal / Inzicht:** Deel een observatie uit een klantgesprek of een directieraad (zonder vertrouwelijke info). *\"Vandaag hoorde ik voor de derde keer deze week dat... Dit betekent dat wij als MKB anders moeten gaan kijken naar...\"* \n- **De opinie / Het tegen-de-stroom-in-verhaal:** Durf een onderbouwde mening te geven over een trend in jullie vakgebied.\n- **Praktische kunde (How-to / Carousel):** Een PDF-carrousel met 3 ÷ 5 concrete tips over een complex probleem in jullie markt.\n\n#### Stap 4: Ga de interactie aan (Het netwerk versterken)\n\nAlleen zenden werkt niet; autoriteit bouw je op door zichtbaar te reageren.\n\n- Reageer wekelijks op 10 à 15 posts van vakgenoten, klanten en andere MKB-ondernemers. Geef **diepgaande reacties** in plaats van alleen *\"Mooi!\"* of eenapplausemoji. Voeg een eigen mini-inzicht toe.\n\n#### Stap 5: Structuur en efficiëntie (Tijdinvestering beperken)\n\nAls directeur heb je weinig tijd. Plan je momenten:[[1]](https://magicpost.in/nl/blog/linkedin-denkleiderschap)\n\n- Reserveer op maandagochtend 30 minuten om inspiratie te vangen en ideeën in je notities app te zetten.\n- Schrijf of dicteer mid-week 2 posts.\n- Besteed per dag 10 minuten aan interactie op de tijdlijn.\n\n### Relevante bronnen en inspiratie\n\n- Voor achtergrond over hoe het algoritme en denkleiderschap werken, lees inzichten over LinkedIn Denkleiderschap en B2B-besluitvorming.\n- Lees over de theoretische en praktische kant van het neerzetten van een eigen stempel via [De 5 soorten content die echte autoriteit opbouwen](https://nl.linkedin.com/pulse/5-types-content-build-real-authority-linkedin-mariu-andrade-xklne?tl=nl).\n- Bekijk de stappen voor [CEO branding en personal branding](https://nl.linkedin.com/pulse/ceo-branding-hoe-cre%C3%ABer-je-een-eigen-merk-en-gebruik-het-vervynckt) voor een verdiepende analyse van je doelgroep.[[1]](https://nl.linkedin.com/pulse/ceo-branding-hoe-cre%C3%ABer-je-een-eigen-merk-en-gebruik-het-vervynckt)[[2]](https://magicpost.in/nl/blog/linkedin-denkleiderschap)[[3]](https://nl.linkedin.com/pulse/5-types-content-build-real-authority-linkedin-mariu-andrade-xklne?tl=nl)\n\nWil je dit verder aanscherpen? Vertel me dan:\n\n- Wat is de **branche** waarin jouw MKB-bedrijf actief is?\n- Wie is je **ideale doelwit** op LinkedIn (klanten, toekomstig personeel, of partners)?\n\nDan kunnen we jouw **eerste concept-post** of **specifieke kopregel** direct uitschrijven.",
+ "entities": [
+  {
+   "name": "Edelman",
+   "type": "overig",
+   "domain": null,
+   "position": 1
+  }
+ ],
+ "sources": [
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "LinkedIn Thought Leadership: Hoe je autoriteit opbouwt in 2026"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/5-types-content-build-real-authority-linkedin-mariu-andrade-xklne?tl=nl",
+   "title": "De 5 soorten content die echte autoriteit op LinkedIn opbouwen"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/ceo-branding-hoe-cre%C3%ABer-je-een-eigen-merk-en-gebruik-het-vervynckt",
+   "title": "CEO branding: hoe creëer je een eigen merk en gebruik je het ..."
+  }
+ ]
+}

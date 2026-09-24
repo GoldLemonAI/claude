@@ -1,0 +1,79 @@
+{
+ "id": "P15",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Wie moet ik volgen op LinkedIn als ik meer wil leren over B2B-marketing voor het MKB in Nederland?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor het opdoen van praktische kennis over **B2B-marketing** specifiek gericht op de Nederlandse praktijk en het **MKB** , zijn er op LinkedIn verschillende experts, contentmakers en strategen actief die waardevolle inzichten, cases en no-nonsenseadviezen delen.\n\nHier is een overzicht van Nederlandse B2B-marketeers en specialisten die het waard zijn om te volgen:\n\n### Bekende B2B-marketingexperts & contentcreators\n\n- **[Edwin Vlems](https://nl.linkedin.com/in/edwinvlems/nl)** \n\t- *Waarom volgen:* Een autoriteit op het gebied van B2B-contentmarketing, inbound marketing en *employee advocacy* (het inzetten van je eigen medewerkers als boegbeeld). Hij schrijft scherp over hoe MKB-bedrijven hun eigen vakkennis kunnen inzetten als magneet voor klanten.[[1]](https://nl.linkedin.com/in/edwinvlems/nl)[[2]](https://nl.linkedin.com/posts/edwinvlems_er-is-een-belangrijk-ai-effect-op-b2b-marketing-activity-7349316519522144256-ljER)[[3]](https://www.frankwatching.com/archive/author/edwin-vlems/)\n- **Chantal Smink** \n\t- *Waarom volgen:* Deelt kritische en vernieuwende inzichten over online en B2B-marketing. Ze behandelt thema's als de impact van AI, *zero-click searches* en hoe je als bedrijf echt waarde toevoegt in plaats van middelmatige content te produceren.[[1]](https://nl.linkedin.com/posts/chantal-smink_doen-we-wel-de-juiste-dingen-binnen-online-activity-7272160298927587328-P7MA)\n- **Danielle Navas-Brandt** \n\t- *Waarom volgen:* Gespecialiseerd in merkstrategie voor complexe en technische B2B-markten. Ze legt vaak de focus op hoe je als MKB'er vertrouwen en autoriteit opbouwt bij zowel beslissers (zoals CFO's) als de uiteindelijke gebruikers.[[1]](https://nl.linkedin.com/in/daniellenavasbrandt/nl)\n- **[Denny van Veen](https://nl.linkedin.com/in/dennyveen)** \n\t- *Waarom volgen:* Deelt no-nonsense praktijklessen over B2B-contentmarketing en sales-alignment. Schrijft open over wat er wel en niet werkt in de dagelijkse praktijk van B2B-marketeers.[[1]](https://nl.linkedin.com/posts/dennyveen_veel-b2b-marketeers-staan-te-ver-van-hun-activity-7315252143085531136-ruAk)\n\n### Handige initiatieven en bredere netwerken\n\nNaast individuele experts kun je ook MKB-gerelateerde marketinghubs en communities opzoeken:\n\n- Zoek op LinkedIn naar groepen of hashtags rondom **B2B Marketeers Nederland** of initiatieven zoals de *Foeter B2B-marketing community* (waar o.a. Edwin Vlems bij betrokken is) om direct peer-to-peer ervaringen uit het Nederlandse MKB mee te krijgen.[[1]](https://nl.linkedin.com/posts/edwinvlems_er-is-een-belangrijk-ai-effect-op-b2b-marketing-activity-7349316519522144256-ljER)\n\nWil je je verdiepen in een **specifiek onderdeel** van B2B-marketing (zoals leadgeneratie via LinkedIn advertenties, contentmarketing, of AI in de marketingfunnel)? Laat het weten, dan kan ik je nog gerichtere tips geven!",
+ "entities": [
+  {
+   "name": "Edwin Vlems",
+   "type": "persoon",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Chantal Smink",
+   "type": "persoon",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Danielle Navas-Brandt",
+   "type": "persoon",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "Denny van Veen",
+   "type": "persoon",
+   "domain": null,
+   "position": 4
+  },
+  {
+   "name": "B2B Marketeers Nederland",
+   "type": "platform",
+   "domain": null,
+   "position": 5
+  },
+  {
+   "name": "Foeter",
+   "type": "platform",
+   "domain": null,
+   "position": 6
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/edwinvlems/nl",
+   "title": "Edwin Vlems - LinkedIn & Employee Advocacy Specialist"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/edwinvlems_er-is-een-belangrijk-ai-effect-op-b2b-marketing-activity-7349316519522144256-ljER",
+   "title": "Bijdrage van Edwin Vlems - LinkedIn"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/author/edwin-vlems/",
+   "title": "Edwin Vlems, auteur op Frankwatching"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/chantal-smink_doen-we-wel-de-juiste-dingen-binnen-online-activity-7272160298927587328-P7MA",
+   "title": "Bijdrage van Chantal Smink - LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/daniellenavasbrandt/nl",
+   "title": "Danielle Navas-Brandt - Merkstrategie voor technische B2B ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/dennyveen_veel-b2b-marketeers-staan-te-ver-van-hun-activity-7315252143085531136-ruAk",
+   "title": "Veel B2B-marketeers staan te ver van hun klanten af om ..."
+  }
+ ]
+}

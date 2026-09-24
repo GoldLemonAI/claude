@@ -1,0 +1,62 @@
+{
+ "id": "P24",
+ "engine": "chatgpt",
+ "cat": "hoe",
+ "prompt": "Moet een B2B-MKB bedrijf inzetten op het persoonlijke profiel van de oprichter of op de bedrijfspagina op LinkedIn? Welke Nederlandse bronnen zeggen daar iets over?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder een overzicht van wat Nederlandse bronnen adviseren over de vraag of een B2B-MKB-bedrijf moet inzetten op het persoonlijke LinkedIn-profiel van de oprichter of op de bedrijfspagina — en hoe beide elkaar kunnen versterken:\n\n---\n\n##  Nederlandse inzichten en aanbevelingen\n\n**1. Contaqt.nl – “Persoonlijk profiel als motor, bedrijfspagina als basis”**  \n- Persoonlijke posts krijgen aanzienlijk meer bereik dan berichten vanaf de bedrijfspagina, omdat het LinkedIn-algoritme persoonlijke content bevoordeelt ([contaqt.nl](https://www.contaqt.nl/kennisbank/linkedin-persoonlijk-of-bedrijfspagina-adviseur/?utm_source=openai)).  \n- Het persoonlijke profiel fungeert als motor: het genereert interactie en zichtbaarheid. De bedrijfspagina dient als anker: een professioneel visitekaartje dat consistent moet worden bijgehouden ([contaqt.nl](https://www.contaqt.nl/kennisbank/linkedin-persoonlijk-of-bedrijfspagina-adviseur/?utm_source=openai)).\n\n**2. Webprofit.nl – “Gouden combinatie”**  \n- Persoonlijke profielen zorgen voor veel engagement, terwijl bedrijfspagina’s specifieke voordelen bieden zoals merkherkenning, vacatures en advertenties ([webprofit.nl](https://www.webprofit.nl/blog/linkedin-bedrijfspagina-vs-persoonlijk-profiel-wat-werkt-beter?utm_source=openai)).  \n- De beste strategie is om beide kanalen strategisch in te zetten: bedrijfspagina voor formele communicatie, persoonlijke profielen voor authentieke verhalen en interactie ([webprofit.nl](https://www.webprofit.nl/blog/linkedin-bedrijfspagina-vs-persoonlijk-profiel-wat-werkt-beter?utm_source=openai)).\n\n**3. TheSuccessAgency.nl – “Persoonlijke verhalen scoren beter”**  \n- LinkedIn beloont persoonlijke verhalen; bedrijfspagina’s genereren gemiddeld tien keer minder bereik ([thesuccessagency.nl](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/?utm_source=openai)).  \n- De bedrijfspagina is waardevol als digitaal visitekaartje en voor recruitment, maar moet ondersteunend zijn aan de persoonlijke profielen ([thesuccessagency.nl](https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/?utm_source=openai)).\n\n**4. Socialmediabeheerbureau.nl – Praktisch ritme voor MKB**  \n- Een effectief ritme: twee keer per week posten vanaf het persoonlijke profiel en één keer per week vanaf de bedrijfspagina ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/blog/linkedin-voor-bedrijven/?utm_source=openai)).  \n- De bedrijfspagina moet compleet en actueel zijn, maar inhoudelijke berichten haal je beter via het persoonlijke profiel ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/blog/linkedin-voor-bedrijven/?utm_source=openai)).\n\n**5. LinkedIn zelf – Richtlijnen en verschillen**  \n- LinkedIn benadrukt dat profielen personen vertegenwoordigen en pagina’s organisaties ([linkedin.com](https://www.linkedin.com/help/lms/answer/a6244798?lang=nl-NL&utm_source=openai)).  \n- Ze adviseren om geen organisatie te vertegenwoordigen via een persoonlijk profiel, maar via een bedrijfspagina ([linkedin.com](https://www.linkedin.com/help/lms/answer/a6244798?lang=nl-NL&utm_source=openai)).\n\n---\n\n##  Samenvattende aanbeveling voor B2B-MKB\n\n- Begin met een **sterk persoonlijk profiel** van de oprichter: dit is de motor van je zichtbaarheid, bereik en engagement.\n- Zorg daarnaast voor een **professionele, complete bedrijfspagina**: dit is je digitale visitekaartje, belangrijk voor geloofwaardigheid, branding en recruitment.\n- Gebruik een **combinatiestrategie**:\n  - Plaats inhoudelijk sterke, authentieke berichten via het persoonlijke profiel.\n  - Deel of hergebruik deze content in een iets formelere vorm op de bedrijfspagina.\n  - Stimuleer medewerkers (indien aanwezig) om als ambassadeurs op te treden via hun persoonlijke profielen.\n- Hanteer een **regelmatig ritme**: bijvoorbeeld twee keer per week posten vanaf het persoonlijke profiel en één keer per week vanaf de bedrijfspagina ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/blog/linkedin-voor-bedrijven/?utm_source=openai)).\n\n---\n\n##  Conclusie\n\nVoor een B2B-MKB-bedrijf in Nederland is het niet een kwestie van kiezen tussen het persoonlijke profiel van de oprichter of de bedrijfspagina, maar van beide effectief inzetten. Het persoonlijke profiel is cruciaal voor bereik, authenticiteit en netwerkopbouw, terwijl de bedrijfspagina zorgt voor professionaliteit, merkpresentatie en een centrale plek voor bedrijfsinformatie. De beste resultaten bereik je door beide kanalen te combineren in een doordachte strategie.\n\nLaat me weten als je hulp wilt bij het opzetten van een contentkalender of het optimaliseren van profielen!",
+ "entities": [
+  {
+   "name": "Contaqt",
+   "type": "bureau",
+   "position": 1,
+   "domain": "contaqt.nl"
+  },
+  {
+   "name": "Webprofit",
+   "type": "bureau",
+   "position": 2,
+   "domain": "webprofit.nl"
+  },
+  {
+   "name": "The Success Agency",
+   "type": "bureau",
+   "position": 3,
+   "domain": "thesuccessagency.nl"
+  },
+  {
+   "name": "Social Media Beheer Bureau",
+   "type": "bureau",
+   "position": 4,
+   "domain": "socialmediabeheerbureau.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "contaqt.nl",
+   "url": "https://www.contaqt.nl/kennisbank/linkedin-persoonlijk-of-bedrijfspagina-adviseur/",
+   "title": "LinkedIn persoonlijk of bedrijfspagina | Kennisbank | Contaqt"
+  },
+  {
+   "domain": "webprofit.nl",
+   "url": "https://www.webprofit.nl/blog/linkedin-bedrijfspagina-vs-persoonlijk-profiel-wat-werkt-beter",
+   "title": "LinkedIn-bedrijfspagina vs persoonlijk profiel - wat werkt beter?"
+  },
+  {
+   "domain": "thesuccessagency.nl",
+   "url": "https://thesuccessagency.nl/kennisbank/social-media-marketing/linkedin-company-page-vs-persoonlijk-profiel-wat-werkt-beter/",
+   "title": "LinkedIn Company Page vs Persoonlijk Profiel: Wat Werkt?"
+  },
+  {
+   "domain": "socialmediabeheerbureau.nl",
+   "url": "https://socialmediabeheerbureau.nl/blog/linkedin-voor-bedrijven/",
+   "title": "LinkedIn voor bedrijven: gids voor het MKB (2026)"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/help/lms/answer/a6244798?lang=nl-NL",
+   "title": "Verschillen tussen een LinkedIn-profiel en een LinkedIn-pagina | Hulp voor Marketing Solutions"
+  }
+ ]
+}

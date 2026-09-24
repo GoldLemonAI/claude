@@ -1,0 +1,78 @@
+{
+ "id": "P02",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Wat is het beste LinkedIn marketing bureau van Nederland voor B2B-bedrijven? Geef een top 5 met namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Wat het 'beste' LinkedIn-marketingbureau is, hangt sterk af van jullie specifieke doelstellingen (zoals leadgeneratie , employer branding of ABM - Account-Based Marketing). Op basis van B2B-specialisatie, reputatie en trackrecord in de markt is een sterke top 5 samengesteld van bureaus in Nederland die uitblinken in B2B- en LinkedIn-marketing:[[1]](https://www.frankhusmann.nl/linkedin-marketing-bureau/)\n\n1. **Next Business Agency** \n\t- **Focus:** Volledig gespecialiseerd in LinkedIn Advertising en leadgeneratie binnen B2B in binnen- en buitenland.\n\t- **Waarom sterk:** Ze richten zich specifiek op het rendement van LinkedIn-campagnes, het trainen van sales- en marketingteams en het volledig uit handen nemen van complexe B2B-funnels via LinkedIn.[[1]](https://nextbusinessagency.com/)[[2]](https://nl.linkedin.com/showcase/next-business-agency/)\n2. **Lead Today** \n\t- **Focus:** B2B-marketing enDemand Generation, waarbij LinkedIn vaak gecombineerd wordt met andere kanalen (zoals Google Ads en marketing automation).\n\t- **Waarom sterk:** Ze blinken uit in het verbinden van strategie, content en adverteren om een complete B2B-leadmachine te bouwen (inclusief ijzersterke cases op het gebied van LinkedIn-leadgeneratie voor zakelijke dienstverlening).[[1]](https://www.leadtoday.nl/expertises/b2b-marketing)[[2]](https://www.leadtoday.nl/)\n3. **WADM (B2B Agency)** \n\t- **Focus:** B2B-marketeers die merk en pipeline aan elkaar koppelen.\n\t- **Waarom sterk:** Ze hebben een sterke reputatie op het gebied van strategische B2B-socialselling, contentmarketing en leadgeneratie via organische en betaalde LinkedIn-inspanningen, specifiek ingericht op de zakelijke beslissersreis.[[1]](https://www.sortlist.nl/s/b2b-marketing/nederland-nl)\n4. **Unmuted** \n\t- **Focus:** B2B-contentmarketing, personal branding en social selling via LinkedIn (gevestigd in Amsterdam).\n\t- **Waarom sterk:** Waar veel bureaus puur naar de advertentiekant (Ads) kijken, helpt Unmuted bedrijven en C-level executives (thought leadership) om organisch en via Employee Advocacy autoriteit op te bouwen op LinkedIn.[[1]](https://www.marketingxperts.nl/linkedin/)\n5. **Dapper – The Demand Agency** \n\t- **Focus:** B2B demand generation en moderne marketingmethodes voor tech- en zakelijke dienstverleners.\n\t- **Waarom sterk:** Ze omarmen de verschuiving naar 'dark social' en ABM op LinkedIn, waarbij het creëren van vraag en het bereiken van de juiste niche-beslissers centraal staat in plaats van alleen losse 'form-fills'.[[1]](https://www.marketingxperts.nl/linkedin/)\n\nWil je deze bureaus beter tegen elkaar afwegen? Vertel me dan:\n\n- Wat is jullie **primaire doel** op LinkedIn (leadgeneratie, naamsbekendheid of thought leadership)?\n- Wat is ongeveer de **grootte** van jullie bedrijf of marketingbudget?\n\nDan kan ik je adviseren welk type bureau hier het beste bij past.",
+ "entities": [
+  {
+   "name": "Next Business Agency",
+   "type": "bureau",
+   "domain": "nextbusinessagency.com",
+   "position": 1
+  },
+  {
+   "name": "Lead Today",
+   "type": "bureau",
+   "domain": "leadtoday.nl",
+   "position": 2
+  },
+  {
+   "name": "WADM",
+   "type": "bureau",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "Unmuted",
+   "type": "bureau",
+   "domain": null,
+   "position": 4
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "domain": null,
+   "position": 5
+  }
+ ],
+ "sources": [
+  {
+   "domain": "frankhusmann.nl",
+   "url": "https://www.frankhusmann.nl/linkedin-marketing-bureau/",
+   "title": "LinkedIn marketing bureau: de oplossing voor B2B campagnes"
+  },
+  {
+   "domain": "nextbusinessagency.com",
+   "url": "https://nextbusinessagency.com/",
+   "title": "Adverteren op LinkedIn. Zeer effectief als je het goed opzet ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/showcase/next-business-agency/",
+   "title": "Next Business Agency - Beste bureau voor LinkedIn Advertising"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/expertises/b2b-marketing",
+   "title": "Bouw aan een B2B marketingmachine die werkt | Lead Today"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/",
+   "title": "Lead Today | Jouw B2B marketingpartner voor digitale groei"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/nederland-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "Linkedin marketing bureau specialisten - MarketingXperts"
+  }
+ ]
+}

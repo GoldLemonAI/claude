@@ -1,0 +1,179 @@
+{
+ "id": "P01",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welke bureaus of specialisten in Nederland helpen B2B-MKB bedrijven met autoriteit opbouwen op LinkedIn? Noem concrete namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Ja — in Nederland zijn er meerdere bureaus en specialisten die zich expliciet richten op **LinkedIn-autoriteit** voor B2B/MKB, vooral via content, personal branding, thought leadership en leadgeneratie.[1][2][7][10][20]\n\nConcrete namen die hier in de resultaten naar voren komen:\n\n- **Gold Lemon** — noemt expliciet “autoriteit op LinkedIn” en richt zich op B2B-MKB.[1][2]\n- **Webnexus** — positioneert zich als **LinkedIn Marketing Bureau** voor B2B lead generation.[7]\n- **Afdeling Online** — biedt LinkedIn-adverteren en LinkedIn-bureau-diensten aan.[6]\n- **Social Media Bureau Utrecht** — helpt ondernemingen LinkedIn strategisch in te zetten en management/specialisten met inhoudelijke bijdragen.[10]\n- **Whello** — heeft een aparte B2B-marketingpropositie en staat in LinkedIn-strategie-overzichten vermeld.[12][15]\n- **Searchlab** — focust op LinkedIn Ads voor B2B, inclusief ABM en Thought Leader Ads.[14]\n- **Sculpt Studios** — zegt expliciet Nederlandse B2B-founders en directeuren te helpen autoriteit te worden in hun markt via LinkedIn.[20]\n- **Wildbos** — vermeld in een B2B-bureaulijst als bureau dat B2B-bedrijven helpt groeien op LinkedIn met content, strategie en advertenties.[11]\n- **Novicom Marketing Group®** — komt terug in Sortlist-overzichten van LinkedIn marketing en LinkedIn strategie bureaus in Nederland.[3][12]\n- **Key Agency** — staat genoemd in LinkedIn-strategie-overzichten in Nederland.[12]\n\nAls je wilt, kan ik hierna ook een **shortlist maken van 5 bureaus voor MKB**, gesorteerd op:\n- **personal branding / thought leadership**\n- **LinkedIn ads / leadgeneratie**\n- **volledig uitbesteden van LinkedIn-content**",
+ "entities": [
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 1,
+   "domain": "goldlemon.nl"
+  },
+  {
+   "name": "Webnexus",
+   "type": "bureau",
+   "position": 2,
+   "domain": "webnexus.nl"
+  },
+  {
+   "name": "Afdeling Online",
+   "type": "bureau",
+   "position": 3,
+   "domain": "afdelingonline.nl"
+  },
+  {
+   "name": "Social Media Bureau Utrecht",
+   "type": "bureau",
+   "position": 4,
+   "domain": "socialmedia-bureau-utrecht.nl"
+  },
+  {
+   "name": "Whello",
+   "type": "bureau",
+   "position": 5,
+   "domain": "whello.nl"
+  },
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "position": 6,
+   "domain": "searchlab.nl"
+  },
+  {
+   "name": "Sculpt Studios",
+   "type": "bureau",
+   "position": 7,
+   "domain": "sculptstudios.nl"
+  },
+  {
+   "name": "Wildbos",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Novicom",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "position": 10,
+   "domain": "sortlist.nl"
+  },
+  {
+   "name": "Key Agency",
+   "type": "bureau",
+   "position": 11,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/b2b-marketing-bureau/",
+   "title": "B2B Marketingbureau voor MKB - Gold Lemon"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/autoriteit/",
+   "title": "Autoriteit op LinkedIn en Instagram - Gold Lemon"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/nederland-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "alsona.com",
+   "url": "https://www.alsona.com/nl/linkedin-experts",
+   "title": "LinkedIn deskundigenlijst - Alsona"
+  },
+  {
+   "domain": "opklopper.nl",
+   "url": "https://opklopper.nl/toolkit/beste-linkbuilding-bureau",
+   "title": "Beste Linkbuilding Bureau (2026) Vergelijk de Top 7 - Opklopper"
+  },
+  {
+   "domain": "afdelingonline.nl",
+   "url": "https://www.afdelingonline.nl/social-marketing/linkedin-adverteren/",
+   "title": "LinkedIn bureau gezocht? | Hulp van ervaren marketeers"
+  },
+  {
+   "domain": "webnexus.nl",
+   "url": "https://webnexus.nl/diensten/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Lead Generation - Webnexus"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/nederland-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/influencer-marketing/nederland-nl",
+   "title": "De 10 beste Influencer Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "socialmedia-bureau-utrecht.nl",
+   "url": "https://socialmedia-bureau-utrecht.nl/linkedin-marketing/",
+   "title": "LinkedIn Marketing Utrecht | B2B Leadgeneratie Specialist"
+  },
+  {
+   "domain": "marketingburos.nl",
+   "url": "https://www.marketingburos.nl/bureaus/page/1",
+   "title": "1.998 marketing - bureaus"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-strategie/nederland-nl",
+   "title": "De 10 beste LinkedIn Strategie Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "digitalinside.nl",
+   "url": "https://www.digitalinside.nl/b2b-marketing-bureau/",
+   "title": "B2B marketing bureau | Online marketing voor B2B - Digital Inside"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "LinkedIn Ads Bureau | B2B Adverteren op LinkedIn - Searchlab"
+  },
+  {
+   "domain": "whello.nl",
+   "url": "https://whello.nl/expertises/b2b-marketing",
+   "title": "B2B Marketing Bureau | Overtuig beslissers met Whello"
+  },
+  {
+   "domain": "blog.salesflare.com",
+   "url": "https://blog.salesflare.com/nl/b2b-bedrijven-voor-het-genereren-van-leads",
+   "title": "20+ beste bedrijven en diensten voor B2B-leadgeneratie ..."
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/b2b-marketing-bureau",
+   "title": "B2B Marketing Bureau | Het B2B Marketing Bureau met Eigen AI ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/mkb-adviseurs",
+   "title": "MKB Adviseurs"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-reclame/nederland-nl",
+   "title": "De 10 beste LinkedIn Reclame Bureaus in Nederland - 2026 Reviews"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "Hoe Nederlandse B2B-founders leads genereren via LinkedIn ..."
+  }
+ ]
+}

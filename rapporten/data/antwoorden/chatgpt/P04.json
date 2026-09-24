@@ -1,0 +1,73 @@
+{
+ "id": "P04",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Welk bureau in Nederland kan LinkedIn content voor een MKB-bedrijf volledig uitbesteed verzorgen, inclusief posts voor de oprichter?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van Nederlandse bureaus die LinkedIn-content voor MKB-bedrijven volledig kunnen verzorgen, inclusief posts namens de oprichter (founder-content). Ik heb me gericht op bureaus die zowel bedrijfspagina’s als persoonlijke profielen kunnen beheren, met aandacht voor jouw stem en strategie.\n\n---\n\n## 1. Solvex – LinkedIn uitbesteden met founder-content\n- Biedt een volledig LinkedIn-beheerpakket voor B2B/MKB, inclusief content voor de oprichter (founder-content), bedrijfspagina, connectiestrategie en optioneel LinkedIn Ads ([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai)).\n- Maandelijks interview van 60 minuten om 4–8 posts in jouw stem te creëren; jij keurt vooraf goed ([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai)).\n- Pakketten vanaf €495 per maand, oplopend tot €1.250 exclusief advertentiebudget ([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai)).\n- Maandelijks opzegbaar na een minimale looptijd van 3 maanden ([solvex.nl](https://solvex.nl/diensten/linkedin-uitbesteden?utm_source=openai)).\n\n---\n\n## 2. iReclam – LinkedIn marketing bureau voor B2B MKB\n- Richt zich op volledige LinkedIn-aanwezigheid: strategie, thought leadership content in de stem van de directie, bedrijfspagina-optimalisatie en gerichte LinkedIn Ads ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai)).\n- Content wordt geschreven alsof het van de directie komt, met focus op expertise en beslissers ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai)).\n- Vanaf €599 per maand, maandelijks opzegbaar ([ireclam.nl](https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/?utm_source=openai)).\n\n---\n\n## 3. Social Media Beheer Bureau (Weesp)\n- Neemt social media volledig uit handen: content bedenken, maken, plaatsen en reageren; inclusief LinkedIn-advertenties ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/?utm_source=openai)).\n- Maandelijkse contentkalender, één goedkeurmoment per maand ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/?utm_source=openai)).\n- Pakketten vanaf €395 per maand (basis), tot €1.095 voor marketing inclusief advertenties ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/?utm_source=openai)).\n- Gericht op MKB, met vaste aanspreekpunt en maandelijks opzegbaar ([socialmediabeheerbureau.nl](https://socialmediabeheerbureau.nl/?utm_source=openai)).\n- Hoewel niet specifiek gericht op founder-content, biedt het wel volledige LinkedIn-beheer inclusief advertenties.\n\n---\n\n## 4. MULTIMIND – Social media marketing inclusief LinkedIn\n- Verzorgt contentplanning, beheer en advertenties op Meta, Instagram én LinkedIn ([multimind.nl](https://multimind.nl/social-media-marketing?utm_source=openai)).\n- Eén aanspreekpunt, maandelijks opzegbaar, met heldere rapportage ([multimind.nl](https://multimind.nl/social-media-marketing?utm_source=openai)).\n- Geen expliciete vermelding van founder-content, maar wel volledige LinkedIn-integratie.\n\n---\n\n## 5. Social Blueprint – Creatieve content & beheer\n- Biedt contentcreatie (foto, video, tekst) en social media beheer op maat, inclusief LinkedIn-video’s ([socialblueprint.nl](https://www.socialblueprint.nl/?utm_source=openai)).\n- Werkt met periodieke shoots en contentplanning op basis van jouw verhaal en ‘waarom’ ([socialblueprint.nl](https://www.socialblueprint.nl/social-media?utm_source=openai)).\n- Geen specifieke vermelding van founder-posts, maar wel volledige uitbesteding van content en beheer.\n\n---\n\n## Vergelijkingstabel\n\n| Bureau                        | Founder-content | LinkedIn Ads | Pakketten vanaf | Maandelijks opzegbaar |\n|------------------------------|------------------|--------------|------------------|------------------------|\n| Solvex                       | Ja               | Optioneel    | €495             | Ja (na 3 maanden)      |\n| iReclam                      | Ja               | Ja           | €599             | Ja                     |\n| Social Media Beheer Bureau   | Nee (algemeen)   | Ja           | €395             | Ja                     |\n| MULTIMIND                    | Nee (algemeen)   | Ja           | Niet vermeld     | Ja                     |\n| Social Blueprint             | Nee (algemeen)   | Ja           | Niet vermeld     | Ja                     |\n\n---\n\n## Aanbeveling\n- **Wil je expliciet posts namens de oprichter (founder-content)?** Dan zijn **Solvex** en **iReclam** de beste keuzes. Solvex biedt een gestructureerd interviewproces en content in jouw stem vanaf €495, terwijl iReclam zich richt op thought leadership en leadgeneratie vanaf €599.\n- **Wil je breder social media beheer inclusief LinkedIn, zonder focus op founder-content?** Dan zijn **Social Media Beheer Bureau**, **MULTIMIND** of **Social Blueprint** goede opties, afhankelijk van je voorkeur voor creatie, advertenties of storytelling.\n\nLaat me weten als je hulp wilt bij het kiezen van het juiste bureau op basis van je budget, tone of voice of specifieke doelen!",
+ "entities": [
+  {
+   "name": "Solvex",
+   "type": "bureau",
+   "position": 1,
+   "domain": "solvex.nl"
+  },
+  {
+   "name": "iReclam",
+   "type": "bureau",
+   "position": 2,
+   "domain": "ireclam.nl"
+  },
+  {
+   "name": "Social Media Beheer Bureau",
+   "type": "bureau",
+   "position": 3,
+   "domain": "socialmediabeheerbureau.nl"
+  },
+  {
+   "name": "MULTIMIND",
+   "type": "bureau",
+   "position": 4,
+   "domain": "multimind.nl"
+  },
+  {
+   "name": "Social Blueprint",
+   "type": "bureau",
+   "position": 5,
+   "domain": "socialblueprint.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "solvex.nl",
+   "url": "https://solvex.nl/diensten/linkedin-uitbesteden",
+   "title": "LinkedIn uitbesteden voor B2B en MKB | Solvex"
+  },
+  {
+   "domain": "ireclam.nl",
+   "url": "https://ireclam.nl/diensten/social-media-marketing/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Leads | iReclam"
+  },
+  {
+   "domain": "socialmediabeheerbureau.nl",
+   "url": "https://socialmediabeheerbureau.nl/",
+   "title": "Social Media Bureau voor het MKB | Vaste prijs"
+  },
+  {
+   "domain": "multimind.nl",
+   "url": "https://multimind.nl/social-media-marketing",
+   "title": "Social Media Marketing voor MKB | MULTIMIND"
+  },
+  {
+   "domain": "socialblueprint.nl",
+   "url": "https://www.socialblueprint.nl/",
+   "title": "Social Blueprint – Content & Social Media voor het MKB"
+  },
+  {
+   "domain": "socialblueprint.nl",
+   "url": "https://www.socialblueprint.nl/social-media",
+   "title": "Social Media Marketing voor MKB-bedrijven — Social Blueprint"
+  }
+ ]
+}

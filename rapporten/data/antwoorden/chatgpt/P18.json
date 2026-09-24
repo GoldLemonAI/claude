@@ -1,0 +1,194 @@
+{
+ "id": "P18",
+ "engine": "chatgpt",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse marketeers zijn autoriteit op het gebied van AI-zichtbaarheid en GEO, en delen dat op LinkedIn?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van Nederlandse marketeers en bureaus die zich op LinkedIn profileren als autoriteit op het gebied van AI-zichtbaarheid (ook wel GEO – Generative Engine Optimization genoemd) en die actief hierover delen:\n\n• Martijn Jonkman – Jonkman Strategie (Groningen)  \n  - Gespecialiseerd in AI-zichtbaarheid, digitale autoriteit en GEO-strategie. Hij deelt regelmatig updates over AI-regelgeving, AI-zichtbaarheid en SEO versus AI‑zoekmodellen. ([nl.linkedin.com](https://nl.linkedin.com/company/jonkmanstrategie?utm_source=openai))  \n\n• Seyfi Küçükünal – AI‑syah.nl  \n  - Oprichter en GEO-strateeg, pionier in Generative Engine Optimization in Nederland. Combineert menselijke GEO-expertise met AI-agents om bedrijven zichtbaar te maken in AI‑zoekmachines. ([ai-syah.nl](https://www.ai-syah.nl/over-ons?utm_source=openai))  \n\n• Feebe De Vis  \n  - Plaatste een recente LinkedIn-post over merkvermelding in AI-antwoorden (ChatGPT, Google AI) en de rol van structured data en lokale content in GEO. ([nl.linkedin.com](https://nl.linkedin.com/posts/feebedevis_aisearch-geo-chatgpt-activity-7354069415929204736-J6t3?utm_source=openai))  \n\n• Martin van Kranenburg (Amersfoort/Utrecht)  \n  - AI‑spreker van het jaar 2025, auteur van het boek *Van SEO naar GEO*. Publiceert regelmatig artikelen over GEO, organiseert webinars en workshops over zichtbaarheid in taalmodellen. ([nl.linkedin.com](https://nl.linkedin.com/in/martinvankranenburg?utm_source=openai))  \n\n• Jasper Voncken – Like Honey | Growth & AI marketing (Utrecht)  \n  - Deelde een blog op Frankwatching over wat GEO is, de voordelen ervan en hoe het verschilt van SEO. ([nl.linkedin.com](https://nl.linkedin.com/in/jaspervoncken/en?utm_source=openai))  \n\n• Arjan ter Huurne – PromptMarketing (Amsterdam)  \n  - Plaatste op LinkedIn over AI‑Search, AI‑Visibility, GEO en Prompt Marketing. Hij bouwt aan een team in Nederland dat zich richt op AI‑zoekoptimalisatie. ([linkedin.com](https://www.linkedin.com/posts/arjanth_aisearch-aivisibility-seo-activity-7430561644524773376-dtNF?utm_source=openai))  \n\n• SmartRanking – SEO & GEO agency (Groningen)  \n  - Biedt gespecialiseerde GEO-diensten aan. Oprichter Jarik Oosting schreef een boek over GEO dat in de top 10 managementboeken stond. Ze ontwikkelden ook SmartAI, een tool die zichtbaarheid in AI-modellen meet. ([linkedin.com](https://www.linkedin.com/company/smartranking-seo-bureau/?utm_source=openai))  \n\n• Frank Houtkamp – FORESIGHT Recruitment (Amsterdam)  \n  - Adviseert over SEO, AI/LLM Visibility (GEO) en Digital PR. Deelt op LinkedIn over de verschuiving van zoekgedrag naar AI en de noodzaak van merken om zichtbaar te zijn in taalmodellen. ([nl.linkedin.com](https://nl.linkedin.com/in/frankhoutkamp?utm_source=openai))  \n\n• Herman Geertsema – Connect your World (Den Haag)  \n  - SEO-specialist en content marketeer met meer dan 20 jaar ervaring. Richt zich op zichtbaarheid in Google én AI-tools zoals ChatGPT, Gemini en Perplexity. ([nl.linkedin.com](https://nl.linkedin.com/posts/hermangeertsema_seo-ai-onlinemarketing-activity-7437396684759961601-OJVJ?utm_source=openai))  \n\n• Chris Hoogeveen – SEO & GEO Specialist (Heerenveen)  \n  - Hoofd consulting bij Claneo (Berlijn), met 15 jaar ervaring in SEO en contentmarketing. Schrijft in het Nederlands over GEO en AI-zichtbaarheid en deelt dit via zijn persoonlijke site en LinkedIn. ([chrishoogeveen.com](https://chrishoogeveen.com/en/?utm_source=openai))  \n\n• Maria Cappon  \n  - Deelde recent een post met “10 GEO tips” om zichtbaar te blijven in AI-antwoorden en LLM’s. Ze legt uit hoe je content moet structureren, entiteiten benoemen en autoriteit opbouwen voor AI-zichtbaarheid. ([nl.linkedin.com](https://nl.linkedin.com/posts/mariacappon_geo-aimarketing-aiagents-activity-7417574480635490305-pdNc?utm_source=openai))  \n\n---\n\nSamenvattend: dit zijn enkele van de meest zichtbare en actieve Nederlandse professionals en bureaus op LinkedIn die zich profileren als autoriteit op het gebied van AI-zichtbaarheid en GEO. Ze delen inzichten, strategieën, tools en praktijkvoorbeelden om merken zichtbaar te maken in AI-zoekmodellen zoals ChatGPT, Gemini en Perplexity.\n\nLaat me weten als je meer wilt weten over een specifieke persoon of bureau, of als je hulp wilt bij het benaderen van een van hen!",
+ "entities": [
+  {
+   "name": "Martijn Jonkman",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Jonkman Strategie",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Seyfi Küçükünal",
+   "type": "persoon",
+   "position": 3,
+   "domain": "ai-syah.nl"
+  },
+  {
+   "name": "AI-syah.nl",
+   "type": "bureau",
+   "position": 4,
+   "domain": "ai-syah.nl"
+  },
+  {
+   "name": "Feebe De Vis",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Martin van Kranenburg",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Jasper Voncken",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Like Honey",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Arjan ter Huurne",
+   "type": "persoon",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "PromptMarketing",
+   "type": "bureau",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "SmartRanking",
+   "type": "bureau",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Jarik Oosting",
+   "type": "persoon",
+   "position": 13,
+   "domain": null
+  },
+  {
+   "name": "SmartAI",
+   "type": "tool",
+   "position": 14,
+   "domain": null
+  },
+  {
+   "name": "Frank Houtkamp",
+   "type": "persoon",
+   "position": 15,
+   "domain": null
+  },
+  {
+   "name": "FORESIGHT Recruitment",
+   "type": "bureau",
+   "position": 16,
+   "domain": null
+  },
+  {
+   "name": "Herman Geertsema",
+   "type": "persoon",
+   "position": 17,
+   "domain": null
+  },
+  {
+   "name": "Connect your World",
+   "type": "bureau",
+   "position": 18,
+   "domain": null
+  },
+  {
+   "name": "Chris Hoogeveen",
+   "type": "persoon",
+   "position": 19,
+   "domain": "chrishoogeveen.com"
+  },
+  {
+   "name": "Claneo",
+   "type": "bureau",
+   "position": 20,
+   "domain": null
+  },
+  {
+   "name": "Maria Cappon",
+   "type": "persoon",
+   "position": 21,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/jonkmanstrategie",
+   "title": "Jonkman Strategie | LinkedIn"
+  },
+  {
+   "domain": "ai-syah.nl",
+   "url": "https://www.ai-syah.nl/over-ons",
+   "title": "Over Ons — AI-syah.nl"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/feebedevis_aisearch-geo-chatgpt-activity-7354069415929204736-J6t3",
+   "title": "#aisearch #geo #chatgpt #aiseo #visibility #structureddata | Feebe De Vis"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/martinvankranenburg",
+   "title": "Martin van Kranenburg - Amersfoort, Utrecht, Nederland | Professioneel profiel | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/jaspervoncken/en",
+   "title": "Jasper Voncken - Like Honey | Growth & AI marketing | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/posts/arjanth_aisearch-aivisibility-seo-activity-7430561644524773376-dtNF",
+   "title": "#aisearch #aivisibility #seo #geo #aeo #jobs | Arjan ter Huurne"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/smartranking-seo-bureau/",
+   "title": "SmartRanking - SEO & GEO agency | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/frankhoutkamp",
+   "title": "Frank Houtkamp - FORESIGHT Recruitment | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/hermangeertsema_seo-ai-onlinemarketing-activity-7437396684759961601-OJVJ",
+   "title": "#seo #ai #onlinemarketing #localseo #contentmarketing #aeo #geo | Herman Geertsema"
+  },
+  {
+   "domain": "chrishoogeveen.com",
+   "url": "https://chrishoogeveen.com/en/",
+   "title": "Chris Hoogeveen | SEO & GEO Specialist"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/mariacappon_geo-aimarketing-aiagents-activity-7417574480635490305-pdNc",
+   "title": "#geo #aimarketing #aiagents #aiagentsmax #aiautomation | Maria Cappon"
+  }
+ ]
+}

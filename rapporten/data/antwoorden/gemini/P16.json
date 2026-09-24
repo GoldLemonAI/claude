@@ -1,0 +1,189 @@
+{
+ "id": "P16",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Welke Nederlandse specialisten schrijven over personal branding en thought leadership op LinkedIn? Noem namen en websites.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een actieve groep specialisten die veelvuldig schrijft, traint en adviseert over **personal branding**, **thought leadership** en het strategisch inzetten van **LinkedIn**. Dit zijn experts die niet alleen theoretische kennis delen, maar ook praktische handvatten bieden om je online reputatie en zakelijke invloed te vergroten.\n\nHieronder vind je een overzicht van vooraanstaande Nederlandse specialisten, inclusief hun focusgebieden en websites:\n\n### 1. Lotte de Man (Het Personal Branding Instituut)\n* **Wie is zij:** Lotte is de oprichtster van Het Personal Branding Instituut. Ze is auteur van het boek *Holy Shit. She Did.* en werd genomineerd voor Rotterdamse Zakenvrouw. Zij richt zich op het bouwen van sterke persoonlijke merken voor ondernemers, leiders en organisaties, waarbij ze 'personal branding 3.0' toepast zonder dat het voelt als 'schreeuwerige' marketing.\n* **Focus:** Personal branding, LinkedIn-profilering, employer branding en sprekerstrajecten.\n* **Website:** [personalbrandinginstituut.nl](https://www.personalbrandinginstituut.nl)\n\n### 2. Georgina Rutherford, David Wagemaker & Bieke Groenink (Personally)\n* **Wie zijn zij:** Zij zijn de drijvende krachten achter het Amsterdamse personal branding-bureau *Personally*. Georgina Rutherford (co-founder) schrijft regelmatig diepgaande artikelen over thought leadership en de verschuiving naar *founder-led marketing*. Bieke Groenink is de managing director en partner die gespecialiseerd is in PR en contentstrategie.\n* **Focus:** Premium personal branding, thought leadership, PR en ghostwriting voor CEO's en founders.\n* **Website:** [personally.team](https://www.personally.team)\n\n### 3. Victor Huiting (Utrecht)\n* **Wie is hij:** Victor is een zeer actieve en gecertificeerde LinkedIn-trainer en -specialist. Hij helpt professionals en corporate teams (zoals bij ASML en Mercedes-Benz) om hun LinkedIn-aanwezigheid te optimaliseren, thought leadership te claimen en leads te genereren. Hij deelt op LinkedIn continu updates over algoritme-wijzigingen en contentstrategieën.\n* **Focus:** LinkedIn-training, profieloptimalisatie, social selling en thought leadership.\n* **Website:** [victorhuiting.nl](https://www.victorhuiting.nl) (of direct te volgen via zijn actieve [LinkedIn-profiel](https://www.linkedin.com/in/victorhuiting/))\n\n### 4. Sandra Stassar (Eindhoven)\n* **Wie is zij:** Sandra is een ervaren branding- en contentstrateeg die zich specifiek richt op ondernemers en MKB-eigenaren in de Brainport-regio en daarbuiten. Ze gelooft in authentieke profilering (zonder de 'blablabla') en helpt professionals hun unieke DNA te vertalen naar een consistente LinkedIn-strategie.\n* **Focus:** Personal branding, strategische contentcreatie, het bouwen van een 'boutique' uitstraling en LinkedIn-trajecten.\n* **Website:** [sandrastassar.nl](https://www.sandrastassar.nl)\n\n### 5. Sabine & Myrthe (dipiti)\n* **Wie zijn zij:** Sabine en Myrthe zijn de oprichters van *dipiti*, een agency dat zich profileert als het 'House of Personal Brands'. Zij helpen sprekers, leiders en ambitieuze professionals om hun visie en gedachtegoed om te zetten in een beweging (thought leadership), waarbij authenticiteit als de nieuwe autoriteit wordt gezien.\n* **Focus:** Thought leadership, premium mentorship, contentproductie (video en tekst) en LinkedIn-campagnes.\n* **Website:** [dipiti.nl](https://www.dipiti.nl)\n\n---\n\n### *Bonus (Belgische specialist met grote Nederlandse footprint):*\n### Erendiz Ates (AZ-Solutions)\n* **Wie is hij:** Hoewel Erendiz gevestigd is in België, is hij als officiële LinkedIn-ambassadeur en -trainer enorm actief op de Nederlandse en Belgische markt. Hij schrijft en coacht intensief over het overprikkelen van het 'imposter syndrome' en hoe je jezelf als betrouwbare thought leader positioneert op LinkedIn.\n* **Focus:** LinkedIn-strategie, Thought Leadership Advanced, en de identiteit-netwerk-content (Linked-INC) methode.\n* **Website:** [az-solutions.be](https://www.az-solutions.be)",
+ "entities": [
+  {
+   "name": "Lotte de Man",
+   "type": "persoon",
+   "position": 1,
+   "domain": "personalbrandinginstituut.nl"
+  },
+  {
+   "name": "Het Personal Branding Instituut",
+   "type": "bureau",
+   "position": 2,
+   "domain": "personalbrandinginstituut.nl"
+  },
+  {
+   "name": "Georgina Rutherford",
+   "type": "persoon",
+   "position": 3,
+   "domain": "personally.team"
+  },
+  {
+   "name": "David Wagemaker",
+   "type": "persoon",
+   "position": 4,
+   "domain": "personally.team"
+  },
+  {
+   "name": "Bieke Groenink",
+   "type": "persoon",
+   "position": 5,
+   "domain": "personally.team"
+  },
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 6,
+   "domain": "personally.team"
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "position": 7,
+   "domain": "victorhuiting.nl"
+  },
+  {
+   "name": "Sandra Stassar",
+   "type": "persoon",
+   "position": 8,
+   "domain": "sandrastassar.nl"
+  },
+  {
+   "name": "dipiti",
+   "type": "bureau",
+   "position": 9,
+   "domain": "dipiti.nl"
+  },
+  {
+   "name": "Erendiz Ates",
+   "type": "persoon",
+   "position": 10,
+   "domain": "az-solutions.be"
+  },
+  {
+   "name": "AZ-Solutions",
+   "type": "bureau",
+   "position": 11,
+   "domain": "az-solutions.be"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://www.sandrastassar.nl/Over-mij-in-detail/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "az-solutions.be",
+   "url": "https://www.az-solutions.be/linkedin-training/personal-coaching/",
+   "title": "az-solutions.be"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "favikon.com"
+  },
+  {
+   "domain": "noblahblah.nl",
+   "url": "https://noblahblah.nl/en/services/personal-branding-coaching/",
+   "title": "noblahblah.nl"
+  },
+  {
+   "domain": "marieclaire.nl",
+   "url": "https://marieclaire.nl/artikel/694023/zo-ziet-de-werkweek-van-het-personal-branding-instituut-founder-lotte-de-man-eruit",
+   "title": "marieclaire.nl"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=rbEeEOcLYLI",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "personalbrandinginstituut.nl",
+   "url": "https://www.personalbrandinginstituut.nl/",
+   "title": "personalbrandinginstituut.nl"
+  },
+  {
+   "domain": "linda.nl",
+   "url": "https://www.linda.nl/meiden/werk-geld/wat-de-faq/personal-branding-carriere-kansen-expert/",
+   "title": "linda.nl"
+  },
+  {
+   "domain": "personalbrandinginstituut.nl",
+   "url": "https://www.personalbrandinginstituut.nl/spreken",
+   "title": "personalbrandinginstituut.nl"
+  },
+  {
+   "domain": "personalbrandinginstituut.nl",
+   "url": "https://www.personalbrandinginstituut.nl/employer-branding",
+   "title": "personalbrandinginstituut.nl"
+  },
+  {
+   "domain": "personally.team",
+   "url": "https://www.personally.team/",
+   "title": "personally.team"
+  },
+  {
+   "domain": "adformatie.nl",
+   "url": "https://www.adformatie.nl/media/carriere/bieke-groenink-nieuwe-partner-managing-director-personally",
+   "title": "adformatie.nl"
+  },
+  {
+   "domain": "prospeo.io",
+   "url": "https://prospeo.io/c/personally-email-format",
+   "title": "prospeo.io"
+  },
+  {
+   "domain": "emerce.nl",
+   "url": "https://www.emerce.nl/achtergrond/van-zichtbaarheid-naar-vertrouwen-de-rol-van-founders-in-marketing",
+   "title": "emerce.nl"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://sandrastassar.nl/LinkedIn/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "sandrastassar.nl",
+   "url": "https://www.sandrastassar.nl/",
+   "title": "sandrastassar.nl"
+  },
+  {
+   "domain": "dipiti.nl",
+   "url": "https://www.dipiti.nl/",
+   "title": "dipiti.nl"
+  },
+  {
+   "domain": "dipiti.nl",
+   "url": "https://www.dipiti.nl/portfolio",
+   "title": "dipiti.nl"
+  },
+  {
+   "domain": "dipiti.nl",
+   "url": "https://www.dipiti.nl/masterclass",
+   "title": "dipiti.nl"
+  },
+  {
+   "domain": "dipiti.nl",
+   "url": "https://www.dipiti.nl/1on1",
+   "title": "dipiti.nl"
+  },
+  {
+   "domain": "willow.co",
+   "url": "https://willow.co/blog-best-social-media-coaches",
+   "title": "willow.co"
+  },
+  {
+   "domain": "freelancebusiness.be",
+   "url": "https://freelancebusiness.be/for-marketing-freelancers-speakers",
+   "title": "freelancebusiness.be"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": "P13",
+ "engine": "google_ai_mode",
+ "cat": "expert",
+ "prompt": "Wie zijn de bekendste LinkedIn-experts en trainers in Nederland? Noem minimaal tien namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een actieve groep professionals die zich bezighoudt met LinkedIn-strategieën, personal branding, B2B-leadgeneratie en contentcreatie. Hier zijn tien bekende LinkedIn-experts en trainers (in willekeurige volgorde) die regelmatig opvallen door hun boeken, trainingen, content of marktkennis:\n\n1. **Richard van der Blom** – Wereldwijd en in Nederland een van de absolute autoriteiten op het gebied van LinkedIn-algoritmen, social selling en B2B-strategieën. Hij publiceert regelmatig grootschalige onderzoeken over de werking van het platform (via Just Connecting).\n2. **Corinne Keijzer** – Al sinds 2010 actief als LinkedIn-trainer, auteur van meerdere boeken (zoals *Meer succes met LinkedIn!* ) en benoemd tot officieel LinkedIn-ambassadeur voor de Benelux.[[1]](https://www.corinnekeijzer.nl/)[[2]](https://www.digitalmoves.nl/gratis-handleiding-linkedin-corinne-keijzer/)\n3. **Jan Willem Alphenaar** – Trainer, spreker en auteur die al duizenden professionals en organisaties op weg heeft geholpen met LinkedIn-strategieën, personal branding en LinkedIn Advertising (via LinkedInpro.nl en Next Business Academy).[[1]](https://nextbusinessacademy.nl/training-linkedin-advertising-2026/)[[2]](https://www.linkedinpro.nl/author/admin/)\n4. **Michel Mousa** – Bekend LinkedIn-expert en strateeg die organisaties en professionals helpt met social selling, zichtbaarheid en het genereren van B2B-leads via het platform.\n5. **Angela Nijs** – Een veelgevraagd trainer en spreker op het gebied van personal branding, zichtbaarheid en effectief content schrijven voor ondernemers en professionals.\n6. **Virginie Versteegh** – LinkedIn-expert en trainer gespecialiseerd in het versterken van de online reputatie en zichtbaarheid van met name vrouwelijke ondernemers en professionals.\n7. **Raymon Truijen** – Consultant en trainer die zich richt op B2B-marketing, leadgeneratie en het optimaliseren van bedrijfsprofielen en persoonlijke pagina's.\n8. **Miranda Molenaar** – Trainer en contentstrateeg die met name coaches, trainers en zakelijke dienstverleners helpt om een gestructureerd content- en acquisitiesysteem op LinkedIn op te bouwen.[[1]](https://www.favikon.com/blog/top-linkedin-experts-netherlands)\n9. **Pieter Res** – Richt zich met zijn bureau met name op directies, management- en salesteams om aantoonbaar meer rendement en omzet uit LinkedIn te halen.[[1]](https://www.favikon.com/blog/top-linkedin-experts-netherlands)\n10. **Trudy Pannekeet** – Ervaren specialist en trainer die al jarenlang organisaties en individuen begeleidt bij het praktisch en effectief inzetten van LinkedIn voor sales en arbeidsmarktcommunicatie.\n\nWil je weten wie van hen het beste past bij een **specifieke doelstelling** (zoals B2B-sales, adverteren of een incompany-training), of ben je op zoek naar een expert in een **specifieke regio**?",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "domain": "corinnekeijzer.nl",
+   "position": 3
+  },
+  {
+   "name": "Jan-Willem Alphenaar",
+   "type": "persoon",
+   "domain": "linkedinpro.nl",
+   "position": 4
+  },
+  {
+   "name": "LinkedInpro.nl",
+   "type": "bureau",
+   "domain": "linkedinpro.nl",
+   "position": 5
+  },
+  {
+   "name": "Next Business Academy",
+   "type": "bureau",
+   "domain": "nextbusinessacademy.nl",
+   "position": 6
+  },
+  {
+   "name": "Michel Mousa",
+   "type": "persoon",
+   "domain": null,
+   "position": 7
+  },
+  {
+   "name": "Angela Nijs",
+   "type": "persoon",
+   "domain": null,
+   "position": 8
+  },
+  {
+   "name": "Virginie Versteegh",
+   "type": "persoon",
+   "domain": null,
+   "position": 9
+  },
+  {
+   "name": "Raymon Truijen",
+   "type": "persoon",
+   "domain": null,
+   "position": 10
+  },
+  {
+   "name": "Miranda Molenaar",
+   "type": "persoon",
+   "domain": null,
+   "position": 11
+  },
+  {
+   "name": "Pieter Res",
+   "type": "persoon",
+   "domain": null,
+   "position": 12
+  },
+  {
+   "name": "Trudy Pannekeet",
+   "type": "persoon",
+   "domain": null,
+   "position": 13
+  }
+ ],
+ "sources": [
+  {
+   "domain": "corinnekeijzer.nl",
+   "url": "https://www.corinnekeijzer.nl/",
+   "title": "Corinne Keijzer - LinkedIn trainer én LinkedIn expert"
+  },
+  {
+   "domain": "digitalmoves.nl",
+   "url": "https://www.digitalmoves.nl/gratis-handleiding-linkedin-corinne-keijzer/",
+   "title": "Download hier de Gratis Handleiding LinkedIn - Corinne Keijzer"
+  },
+  {
+   "domain": "nextbusinessacademy.nl",
+   "url": "https://nextbusinessacademy.nl/training-linkedin-advertising-2026/",
+   "title": "Training LinkedIn Advertising 2026 - Next Business Academy"
+  },
+  {
+   "domain": "linkedinpro.nl",
+   "url": "https://www.linkedinpro.nl/author/admin/",
+   "title": "Jan Willem Alphenaar | Linkedinpro.nl"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "Top 20 LinkedIn Experts in the Netherlands in 2026 ‍[🏆Rating]‍ - Favikon"
+  }
+ ]
+}

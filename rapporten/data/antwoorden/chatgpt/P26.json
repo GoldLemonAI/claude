@@ -1,0 +1,124 @@
+{
+ "id": "P26",
+ "engine": "chatgpt",
+ "cat": "hoe",
+ "prompt": "Hoe combineer je LinkedIn-autoriteit met vindbaarheid in ChatGPT en Google AI voor een Nederlands B2B-bedrijf? Wie legt dit goed uit?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een uitgebreide en gestructureerde uitleg (in het Nederlands) over hoe je de **LinkedIn‑autoriteit** combineert met **vindbaarheid in ChatGPT en Google AI** voor een Nederlands B2B‑bedrijf. Daarbij verwijs ik naar experts en recente inzichten.\n\n---\n\n##  Waarom LinkedIn belangrijk is voor AI‑vindbaarheid\n\n- LinkedIn is inmiddels het meest geciteerde domein voor professionele vragen in AI‑zoeksystemen zoals ChatGPT, Gemini, Perplexity en Claude. Dit maakt het een cruciale bron voor AI‑modellen om expertise te herkennen en te presenteren ([linkedin.com](https://www.linkedin.com/business/marketing/blog/ai-search/how-b2b-marketers-can-dominate-ai-search-on-linkedin-2026?_sp=6465d9a9-e97f-45aa-a547-dbfacac138c5.1788374853334&utm_source=openai)).\n- De “Authority Loop”‑strategie (Filipa Canelas, mei 2026) benadrukt dat elke LinkedIn‑post of -artikel een toekomstige AI‑citatie is. Door consequent je visie te delen, bouw je een contentbibliotheek op die AI‑modellen associëren met jouw merk ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-playbook-ai-search-filipa-canelas-necde/?utm_source=openai)).\n\n---\n\n##  Wat is AI‑vindbaarheid (AI Search Visibility)?\n\n- AI‑vindbaarheid betekent dat je merk of content genoemd wordt in de antwoorden van generatieve AI‑systemen, niet alleen als link maar als geciteerde bron ([leapforce.nl](https://leapforce.nl/kennis-inspiratie/ai-search-visibility-b2b?utm_source=openai)).\n- Leapforce definieert dit als zichtbaarheid in AI‑antwoorden, gemeten via metrics zoals citation frequency, brand mentions, share of voice en Impression Value ([leapforce.nl](https://leapforce.nl/kennis-inspiratie/ai-search-visibility-b2b?utm_source=openai)).\n- Klassieke SEO blijft belangrijk als fundament, maar AI‑vindbaarheid bouwt daar bovenop met entiteitssterkte, contentstructuur, technische signalen (zoals schema markup, llms.txt) en autoriteit ([leapforce.nl](https://leapforce.nl/kennis-inspiratie/ai-search-visibility-b2b?utm_source=openai)).\n\n---\n\n##  Hoe LinkedIn en SEO/GEO elkaar versterken\n\n- LinkedIn fungeert als een krachtige entiteitsbron: AI‑modellen halen signalen zoals bedrijfsprofielen, expertise en publicaties van LinkedIn om je merk te herkennen ([reneschipper.nl](https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai?utm_source=openai)).\n- SEO en GEO (Generative Engine Optimization) versterken elkaar. SEO zorgt voor crawlbare, gestructureerde content; GEO zorgt dat AI‑systemen je merk begrijpen en citeren ([nl.linkedin.com](https://nl.linkedin.com/posts/daan-de-jong-705b488a_ik-hoor-steeds-vaker-dat-mensen-denken-dat-activity-7386315152494706688-uG3j?utm_source=openai)).\n- MarketingMakkers en Femke Hegger benadrukken dat SEO (duidelijke dienstpagina’s, blogs, cases, FAQ’s) en GEO (heldere entiteitsinformatie) samen de zichtbaarheid in Google én AI‑systemen verbeteren ([nl.linkedin.com](https://nl.linkedin.com/posts/femkehegger_wordt-jouw-organisatie-al-genoemd-in-chatgpt-activity-7505229576411848704-HPX_?utm_source=openai)).\n\n---\n\n##  Praktische stappen voor een Nederlandse B2B‑aanpak\n\n1. **LinkedIn als autoriteitsplatform inzetten**\n   - Publiceer regelmatig diepgaande, unieke content met een duidelijke visie (POV) die AI‑modellen niet kunnen negeren ([linkedin.com](https://www.linkedin.com/business/marketing/blog/ai-search/how-b2b-marketers-can-dominate-ai-search-on-linkedin-2026?_sp=6465d9a9-e97f-45aa-a547-dbfacac138c5.1788374853334&utm_source=openai)).\n   - Zorg dat je CEO en medewerkers consistent dezelfde thema’s belichten om entiteitssterkte op te bouwen ([linkedin.com](https://www.linkedin.com/business/marketing/blog/ai-search/how-b2b-marketers-can-dominate-ai-search-on-linkedin-2026?_sp=6465d9a9-e97f-45aa-a547-dbfacac138c5.1788374853334&utm_source=openai)).\n\n2. **Technische basis op orde brengen (SEO + GEO)**\n   - Gebruik schema markup (FAQ, HowTo, Service, Article) om AI‑systemen te helpen je content correct te interpreteren ([addmark.nl](https://www.addmark.nl/en/services/marketing/seo-aeo-geo?utm_source=openai)).\n   - Implementeer llms.txt of een /for‑llms‑pagina om AI‑modellen te sturen naar relevante content ([nl.linkedin.com](https://nl.linkedin.com/posts/marketingmakkers_wordt-jouw-organisatie-genoemd-in-ai-antwoorden-activity-7503720202774253568-fU44?utm_source=openai)).\n\n3. **Meet AI‑zichtbaarheid actief**\n   - Stel 30–50 relevante prompts op die je ideale klanten stellen, en test wekelijks via ChatGPT, Gemini, Perplexity en Google AI Mode. Log vermeldingen, citaties en share of voice ([leapforce.nl](https://leapforce.nl/kennis-inspiratie/ai-search-visibility-b2b?utm_source=openai)).\n   - Gebruik tools zoals Profound, Otterly, HubSpot AEO of Semrush AI‑visibility rapporten om trends te monitoren ([linkedin.com](https://www.linkedin.com/pulse/b2b-linkedin-playbook-ai-search-filipa-canelas-necde/?utm_source=openai)).\n\n4. **Gebruik Nederlandse expertisebureaus**\n   - **Generativ** (Amsterdam) combineert SEO, GEO, structured data en AI‑visibility voor Nederlandse B2B‑bedrijven. Ze bieden scans en technische optimalisatie ([generativ.nl](https://generativ.nl/?utm_source=openai)).\n   - **Addmark** (Nederland) biedt SEO, AEO en GEO in één aanpak, met zichtbaarheid in ChatGPT en Perplexity binnen 4–6 weken dankzij schema markup en prompt‑monitoring ([addmark.nl](https://www.addmark.nl/en/services/marketing/seo-aeo-geo?utm_source=openai)).\n   - **Gold Lemon** (Haarlem) biedt scans en advies op het snijvlak van SEO en AI‑vindbaarheid, inclusief longtail‑content en AI‑monitor",
+ "entities": [
+  {
+   "name": "Filipa Canelas",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Leapforce",
+   "type": "bureau",
+   "position": 2,
+   "domain": "leapforce.nl"
+  },
+  {
+   "name": "MarketingMakkers",
+   "type": "bureau",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Femke Hegger",
+   "type": "persoon",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Profound",
+   "type": "tool",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Otterly",
+   "type": "tool",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "HubSpot",
+   "type": "tool",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Semrush",
+   "type": "tool",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Generativ",
+   "type": "bureau",
+   "position": 9,
+   "domain": "generativ.nl"
+  },
+  {
+   "name": "Addmark",
+   "type": "bureau",
+   "position": 10,
+   "domain": "addmark.nl"
+  },
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 11,
+   "domain": "goldlemon.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/business/marketing/blog/ai-search/how-b2b-marketers-can-dominate-ai-search-on-linkedin-2026?_sp=6465d9a9-e97f-45aa-a547-dbfacac138c5.1788374853334",
+   "title": "A new guide to AI search visibility on LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/b2b-linkedin-playbook-ai-search-filipa-canelas-necde/",
+   "title": "How to Build a LinkedIn Strategy for AI Search in 2026"
+  },
+  {
+   "domain": "leapforce.nl",
+   "url": "https://leapforce.nl/kennis-inspiratie/ai-search-visibility-b2b",
+   "title": "AI search visibility B2B: strategie voor ChatGPT & AI | Leapforce"
+  },
+  {
+   "domain": "reneschipper.nl",
+   "url": "https://reneschipper.nl/blog/linkedin-invloed-ai-search-zo-word-je-gevonden-door-chatgpt-claude-en-andere-ai",
+   "title": "LinkedIn invloed AI search: zo word je gevonden door ChatGPT, Claude en andere AI"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/daan-de-jong-705b488a_ik-hoor-steeds-vaker-dat-mensen-denken-dat-activity-7386315152494706688-uG3j",
+   "title": "Ik hoor steeds vaker dat mensen denken dat ChatGPT en AI-search “SEO overbodig maken” | Daan de Jong"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/femkehegger_wordt-jouw-organisatie-al-genoemd-in-chatgpt-activity-7505229576411848704-HPX_",
+   "title": "Wordt jouw organisatie al genoemd in ChatGPT? | Femke Hegger"
+  },
+  {
+   "domain": "addmark.nl",
+   "url": "https://www.addmark.nl/en/services/marketing/seo-aeo-geo",
+   "title": "SEO, AEO and GEO for B2B | Marketing | Addmark"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/marketingmakkers_wordt-jouw-organisatie-genoemd-in-ai-antwoorden-activity-7503720202774253568-fU44",
+   "title": "Wordt jouw organisatie genoemd in AI-antwoorden? | MarketingMakkers"
+  },
+  {
+   "domain": "generativ.nl",
+   "url": "https://generativ.nl/",
+   "title": "Generativ, SEO bureau met GEO-expertise"
+  }
+ ]
+}

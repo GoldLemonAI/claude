@@ -1,0 +1,80 @@
+{
+ "id": "P21",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Hoe bouw ik als directeur van een Nederlands MKB-bedrijf autoriteit op LinkedIn? Geef een stappenplan en noem bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als directeur van een Nederlands MKB-bedrijf bent u het gezicht van uw onderneming. LinkedIn is hét platform bij uitstek om uw persoonlijke autoriteit (thought leadership) te claimen. Dit is niet alleen goed voor uw eigen imago, maar trekt ook direct talent, klanten en partners aan naar uw bedrijf. \n\nOnderzoek van onder andere Edelman en LinkedIn toont aan dat **90% van de B2B-beslissers** opener staat voor merken waarvan de leiders regelmatig kwalitatieve *thought leadership*-content delen.\n\nHieronder vindt u een praktisch, direct toepasbaar stappenplan om uw autoriteit op LinkedIn op te bouwen, inclusief waardevolle bronnen.\n\n---\n\n### Stappenplan: Van MKB-directeur naar Thought Leader\n\n#### Stap 1: Definieer uw niche en 'Content-pijlers'\nU kunt niet overal expert in zijn. Bepaal maximaal 3 specifieke thema's waar u écht verstand van heeft en die relevant zijn voor uw doelgroep. \n*   **Slechte focus:** \"Ik post over ondernemerschap.\"\n*   **Goede focus:** \"Ik post over het automatiseren van logistieke MKB-processen, cultuurbehoud tijdens bedrijfsgroei, en trends in duurzame verpakkingen.\"\n\n#### Stap 2: Optimaliseer uw profiel voor conversie (Uw 'Landingspagina')\nVoordat u gaat posten, moet uw profiel op orde zijn. Bezoekers moeten binnen 3 seconden zien wie u bent en wat u voor hen kunt betekenen.\n*   **Kopregel (Headline):** Schrijf hier niet alleen \"Directeur bij Bedrijf X\". Maak er een actiegerichte zin van: *“Directeur van [Bedrijfsnaam] | Wij helpen MKB-bedrijven met [probleem oplossen] | Spreker & Adviseur over [Niche]”*.\n*   **Info-sectie (About):** Schrijf dit vanuit de ik-persoon. Wat drijft u? Welk probleem lost uw bedrijf op? Eindig met een duidelijke Call-to-Action (bijv. een link naar een kennismakingsgesprek).\n*   **Aanbevelingen:** Vraag 3 tot 5 relaties (klanten, leveranciers of partners) om een korte aanbeveling te schrijven over uw expertise en leiderschap.\n\n#### Stap 3: Hanteer de 70-20-10 Contentformule\nVeel directeuren maken de fout om LinkedIn te gebruiken als een reclamebord voor hun bedrijf. Dat werkt niet. Mensen connecten met mensen, niet met logo's. Verdeel uw content als volgt:\n*   **70% Waarde & Inzichten (Educatie):** Deel uw visie op trends, leg uit hoe u een specifiek probleem in uw sector heeft opgelost (casestudies) of geef concrete tips.\n*   **20% Persoonlijk & Cultuur (Emotie):** \"Echt schlaat gepolijst\". Deel fouten die u heeft gemaakt, lessen die u heeft geleerd, of foto’s van een teamevent. Dit bouwt de gunfactor op.\n*   **10% Promotie (Conversie):** Een vacature, een nieuw product, of een evenement waar u spreekt.\n\n#### Stap 4: Schrijf in een herkenbare, menselijke toon (Storytelling)\nSchrijf alsof u met een relatie aan de bar of bij het koffiezetapparaat praat. \n*   Vermijd overmatig jargon en holle B2B-buzzwords.\n*   Gebruik de **'haak'-methode**: de eerste twee zinnen van uw post moeten de lezer triggeren om op \"...meer weergeven\" te klikken.\n*   Gebruik witregels om uw tekst scanbaar te maken.\n\n#### Stap 5: Actieve interactie (Het algoritme 'voeden')\nAutoriteit bouw je niet alleen op door te zenden, maar vooral door deel te nemen aan het gesprek.\n*   **Reageer bij anderen:** Laat dagelijks 5 inhoudelijke reacties achter op posts van relevante partners, klanten of branchegenoten. Dit vergroot uw zichtbaarheid direct buiten uw eigen netwerk.\n*   **Reageer op uw eigen posts:** Beantwoord álle reacties onder uw eigen berichten. Dit stimuleert het LinkedIn-algoritme om uw post aan meer mensen te tonen.\n*   **Betrek uw team (Employee Advocacy):** Vraag uw medewerkers om inhoudelijk te reageren op uw posts om het bereik in het eerste uur een boost te geven.\n\n#### Stap 6: Consistentie boven perfectie\nU hoeft niet elke dag te posten. Voor een MKB-directeur is **1 tot 2 keer per week** een kwalitatieve post delen al voldoende, mits u dit consistent volhoudt. Plan hier bijvoorbeeld elke maandagochtend een vast uur voor in uw agenda, of werk samen met een marketeer/ghostwriter binnen of buiten uw bedrijf om u te ondersteunen bij het uitwerken.\n\n---\n\n### Aanbevolen bronnen voor verdieping\n\nOm u verder te verdiepen in de strategieën achter B2B-marketing en personal branding op LinkedIn, zijn dit uitstekende bronnen:\n\n1.  **LinkedIn's eigen handleidingen:**\n    *   *The Sophisticated Marketer's Guide to Thought Leadership (LinkedIn Business Solutions)*: Een van de meest complete, officiële handleidingen van LinkedIn over hoe u thought leadership opzet en meet.\n2.  **Platformen voor B2B-marketingkennis:**\n    *   **Frankwatching:**",
+ "entities": [
+  {
+   "name": "Edelman",
+   "type": "overig",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 2,
+   "domain": "frankwatching.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "made2reach.com",
+   "url": "https://made2reach.com/groeiversnellers/linkedin-organisch/",
+   "title": "made2reach.com"
+  },
+  {
+   "domain": "onlinemarketing.de",
+   "url": "https://onlinemarketing.de/social-media-marketing/meinungsstark-linkedin-thought-leader-tipps",
+   "title": "onlinemarketing.de"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/03/05/b2b-thought-leadership-linkedin-tips/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "growthmatch.com",
+   "url": "https://www.growthmatch.com/blog/mastering-linkedin-thought-leadership",
+   "title": "growthmatch.com"
+  },
+  {
+   "domain": "adeccogroup.de",
+   "url": "https://www.adeccogroup.de/blog/thought-leadership-auf-linkedin-so-positionieren-sie-sich-und-ihr-unternehmen-richtig/",
+   "title": "adeccogroup.de"
+  },
+  {
+   "domain": "digitallybugged.com",
+   "url": "https://digitallybugged.com/linkedin-thought-leadership/",
+   "title": "digitallybugged.com"
+  },
+  {
+   "domain": "linkleads.nl",
+   "url": "https://www.linkleads.nl/linkedin-strategie-7-gouden-tips-voor-meer-resultaat/",
+   "title": "linkleads.nl"
+  },
+  {
+   "domain": "tools2grow.nl",
+   "url": "https://tools2grow.nl/linkedin-strategie/",
+   "title": "tools2grow.nl"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=1SATNqSwa6s",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "evergreen.media",
+   "url": "https://www.evergreen.media/ratgeber/thought-leadership-content/",
+   "title": "evergreen.media"
+  },
+  {
+   "domain": "business.linkedin.com",
+   "url": "https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/lead-generation/sophisticated-guide-thought-leadership.pdf",
+   "title": "linkedin.com"
+  }
+ ]
+}

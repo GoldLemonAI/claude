@@ -1,0 +1,119 @@
+{
+ "id": "P15",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Wie moet ik volgen op LinkedIn als ik meer wil leren over B2B-marketing voor het MKB in Nederland?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als je meer wilt leren over **B2B-marketing voor het MKB in Nederland**, is LinkedIn vooral nuttig om te volgen: **MKB-Nederland** voor de context van de doelgroep, en daarnaast **Nederlandse B2B-marketeers, bureaus en founders** die regelmatig praktische cases delen over LinkedIn, e-mail, SEO en leadgeneratie.[8][1][2]\n\nWat de resultaten duidelijk maken, is dat LinkedIn in het B2B-MKB vaak het belangrijkste sociale kanaal is voor zichtbaarheid en leadgeneratie, vooral in combinatie met content, e-mail en SEO.[2][11][17][20] Daarom is het slimmer om mensen te volgen die niet alleen “marketing” posten, maar concrete voorbeelden geven van wat werkt voor lange salescycli, accountgerichte marketing en MKB-bedrijven.[1][6][16]\n\nLet bij het kiezen van accounts op deze soorten profielen:\n\n- **MKB- en brancheorganisaties** zoals MKB-Nederland, omdat zij veel signalen geven over ondernemersvraagstukken en marktontwikkelingen.[8]\n- **Nederlandse B2B-marketingbureaus en adviseurs** die zich richten op MKB, omdat zij vaak praktische playbooks delen over LinkedIn, lead nurturing en contentmarketing.[6][10][16]\n- **Founders en commerciële leiders** uit het Nederlandse MKB die zelf content posten over prospecting, positionering en verkoopprocessen.[4][10][15]\n- **LinkedIn-specialisten** die laten zien hoe je content hergebruikt, posts structureert en campagnes opzet voor B2B-doelgroepen.[3][13][19]\n\nAls je wilt, kan ik hier ook meteen een **concrete volglijst met Nederlandse LinkedIn-profielen en bedrijven** voor je samenstellen, bijvoorbeeld verdeeld in **strategie, content, ads en leadgeneratie**.",
+ "entities": [
+  {
+   "name": "MKB-Nederland",
+   "type": "overig",
+   "position": 1,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/gids/marketing-kanalen-voor-kleine-bedrijven",
+   "title": "Marketing Kanalen voor Kleine Bedrijven: Wat Werkt Echt in 2026"
+  },
+  {
+   "domain": "themarketingboosters.com",
+   "url": "https://themarketingboosters.com/insights/b2b-marketing",
+   "title": "B2B marketing 2026: praktische gids MKB | TMB"
+  },
+  {
+   "domain": "go-to-agency.com",
+   "url": "https://go-to-agency.com/nl/blog/content-marketing-nederlandse-mkb-2026-linkedin-podcasts",
+   "title": "Content marketing voor Nederlandse MKB in 2026"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "Hoe Nederlandse B2B-founders leads genereren via LinkedIn ..."
+  },
+  {
+   "domain": "tasmanic.nl",
+   "url": "https://www.tasmanic.nl/blog/b2b-marketing/",
+   "title": "B2B marketing: betekenis & strategie (incl. stappenplan)"
+  },
+  {
+   "domain": "awesum.nl",
+   "url": "https://awesum.nl/blog/online-b-2-b-marketing",
+   "title": "Een succesvolle online b2b marketing strategie ontwikkelen"
+  },
+  {
+   "domain": "yutugrow.nl",
+   "url": "https://www.yutugrow.nl/blog/linkedin-voor-mkb-nederland",
+   "title": "LinkedIn voor MKB Nederland"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/mkb-nederland",
+   "title": "MKB-Nederland"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "LinkedIn Marketing Uitbesteden voor B2B"
+  },
+  {
+   "domain": "user-story.nl",
+   "url": "https://user-story.nl/blog/linkedin-marketing-voor-b2b-van-zichtbaarheid-naar-afspraken/",
+   "title": "LinkedIn marketing voor B2B: van zichtbaarheid naar afspraken"
+  },
+  {
+   "domain": "conversiepartners.nl",
+   "url": "https://conversiepartners.nl/blog/b2b-marketingstrategie-voor-mkb-ondernemers/",
+   "title": "Hoe ontwikkel ik een goede..."
+  },
+  {
+   "domain": "bsmedia.nl",
+   "url": "https://www.bsmedia.nl/linkedin-ads/",
+   "title": "LinkedIn Ads | Bereik jouw doelgroep - B&S Media Internetmarketing"
+  },
+  {
+   "domain": "bedrijfssoftwaregids.nl",
+   "url": "https://bedrijfssoftwaregids.nl/blog/leadgeneratie-tools-b2b-nederland/",
+   "title": "Leadgeneratie tools voor B2B in Nederland: wat werkt in 2026"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/blog/klanten-bereiken-linkedin/",
+   "title": "Klanten bereiken met LinkedIn | Hoe doe je dat?"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/sickowinters",
+   "title": "Sicko Winters | LinkedIn"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/b2b-marketing-bureau/",
+   "title": "B2B Marketingbureau voor MKB - Gold Lemon"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/statistieken/mkb-digitalisering-statistieken-nederland-2026",
+   "title": "MKB Digitalisering Statistieken Nederland 2026 - Searchlab"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/blog/linkedin-marketingplan-bedrijven/",
+   "title": "LinkedIn marketingplan voor bedrijven"
+  },
+  {
+   "domain": "brightbrands.online",
+   "url": "https://brightbrands.online/webontwikkeling/marketing-en-linkedin/",
+   "title": "Marketing en LinkedIn die wél werkt voor MKB-bedrijven"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/statistieken/b2b-marketing-statistieken-2026",
+   "title": "B2B Marketing Statistieken 2026 | 50+ Cijfers over ... - Searchlab"
+  }
+ ]
+}

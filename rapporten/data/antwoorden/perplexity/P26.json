@@ -1,0 +1,138 @@
+{
+ "id": "P26",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Hoe combineer je LinkedIn-autoriteit met vindbaarheid in ChatGPT en Google AI voor een Nederlands B2B-bedrijf? Wie legt dit goed uit?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "De beste aanpak is: **LinkedIn gebruiken als autoriteitslaag**, en je website/content zo structureren dat **ChatGPT en Google AI** die expertise kunnen oppikken en samenvatten. Voor een Nederlands B2B-bedrijf werkt dit het sterkst als je op LinkedIn consistent expertise, standpunten en cases deelt, en datzelfde onderwerpcluster ook op je website, in FAQ’s en met heldere definities uitwerkt.[1][3][5][6][18]\n\nWie legt dit goed uit?\n\n- **Linqed.io** legt het het meest compleet uit voor de combinatie van **AI-vindbaarheid, GEO en meervoudige autoriteit**: definities vooraan, gestructureerde content, auteur-autoriteit, meerdere bronnen en monitoren of je in AI-antwoorden verschijnt.[3]\n- **Creative Skills** is sterk in het idee om **LinkedIn als versterker van je websitecontent** te gebruiken, met concrete tips zoals duidelijke koppen, voorbeelden en interne links.[6]\n- **Itonomy** is handig als je vooral wilt begrijpen hoe je **autoriteit en E-E-A-T** opbouwt voor AI- en zoekzichtbaarheid, inclusief cases, testimonials en een sterk “Over ons”-verhaal.[5]\n- **Gold Lemon** en **Marketingfacts** zijn bruikbaar voor het LinkedIn-deel: consistent aanwezig zijn, een herkenbaar standpunt innemen en van profiel naar autoriteit groeien.[1][14]\n\nEen praktische combinatie ziet er zo uit:\n\n- **LinkedIn**: publiceer wekelijks expertise-posts, korte inzichten, praktijkcases en meningen over jouw niche; zorg dat profiel, headline en samenvatting zoektermen bevatten.[2][4][9][14]\n- **Website**: maak per belangrijk thema een sterke landingspagina of artikel met een duidelijke definitie in de eerste alinea, koppen, FAQ’s, tabellen en concrete data.[3][6]\n- **Autoriteitssignalen**: laat auteurschap zien, voeg teamprofielen, testimonials, certificeringen en externe verwijzingen toe.[3][5]\n- **Kanaalconsistentie**: laat dezelfde thema’s terugkomen op LinkedIn, website, vakpublicaties en reviews, zodat AI-systemen je merk makkelijker kunnen herkennen en samenvatten.[3][5][17]\n- **Monitoring**: test regelmatig relevante prompts in ChatGPT en Google AI/AI Overviews om te zien of je bedrijf genoemd of geciteerd wordt.[3][5]\n\nAls je dit in één zin wilt samenvatten: **LinkedIn bouwt de zichtbare expertise, je website levert de structurele bron, en samen vergroten ze de kans dat ChatGPT en Google AI je als betrouwbare B2B-bron oppikken**.[3][6][18]\n\nAls je wilt, kan ik hierna ook een **selectie maken van de 5 beste Nederlandse bronnen/artikelen** over precies dit onderwerp, of dit vertalen naar een **concrete contentstrategie voor jouw bedrijf**.",
+ "entities": [
+  {
+   "name": "Linqed",
+   "type": "tool",
+   "position": 1,
+   "domain": "linqed.io"
+  },
+  {
+   "name": "Creative Skills",
+   "type": "bureau",
+   "position": 2,
+   "domain": "creativeskills.nl"
+  },
+  {
+   "name": "Itonomy",
+   "type": "bureau",
+   "position": 3,
+   "domain": "itonomy.nl"
+  },
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 4,
+   "domain": "goldlemon.nl"
+  },
+  {
+   "name": "Marketingfacts",
+   "type": "platform",
+   "position": 5,
+   "domain": "marketingfacts.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/autoriteit/",
+   "title": "Autoriteit op LinkedIn en Instagram - Gold Lemon"
+  },
+  {
+   "domain": "ilumax.nl",
+   "url": "https://ilumax.nl/welke-linkedin-strategie-levert-de-meeste-zakelijke-leads-op/",
+   "title": "Welke LinkedIn strategie levert de meeste zakelijke leads op? | ilumax.nl"
+  },
+  {
+   "domain": "linqed.io",
+   "url": "https://linqed.io/academy/ai-zoekmachines-b2b-vindbaarheid-strategie",
+   "title": "AI-Zoekmachines & B2B Vindbaarheid | Strategie - Linqed.io"
+  },
+  {
+   "domain": "exclusiefnetwerknederland.nl",
+   "url": "https://exclusiefnetwerknederland.nl/kennisbank/kennis/linkedin-strategie-voor-ondernemers/",
+   "title": "LinkedIn strategie voor ondernemers - ENN"
+  },
+  {
+   "domain": "itonomy.nl",
+   "url": "https://www.itonomy.nl/zichtbaar-in-copliot/",
+   "title": "Wordt mijn bedrijf genoemd in Copilot? 7 strategieën voor ..."
+  },
+  {
+   "domain": "creativeskills.nl",
+   "url": "http://creativeskills.nl/kennis/vindbaar-worden-in-ai-en-linkedin",
+   "title": "Vindbaar worden in AI en LinkedIn - Creative Skills"
+  },
+  {
+   "domain": "folk.app",
+   "url": "https://www.folk.app/nl/articles/linkedin-inbound",
+   "title": "Word een meester in LinkedIn Inbound: bewezen strategieën ..."
+  },
+  {
+   "domain": "flowbridge.nl",
+   "url": "https://flowbridge.nl/blogs/leidraad-leadgeneratie-2026-b2b-nederland/",
+   "title": "Leidraad B2B leadgeneratie 2026 | FlowBridge"
+  },
+  {
+   "domain": "konnector.ai",
+   "url": "https://konnector.ai/nl/linkedin-b2b-marketing/",
+   "title": "Hoe zet je LinkedIn® in voor B2B-marketing? - Konnector.ai"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/focusbranches/it-marketing/hoe-combineer-je-seo-sea-en-linkedin-voor-it-leadgeneratie",
+   "title": "Hoe combineer je SEO, SEA en LinkedIn voor IT- ..."
+  },
+  {
+   "domain": "digitalinside.nl",
+   "url": "https://www.digitalinside.nl/b2b-marketing-bureau/",
+   "title": "B2B marketing bureau | Online marketing voor B2B - Digital Inside"
+  },
+  {
+   "domain": "seahawkmedia.com",
+   "url": "https://seahawkmedia.com/nl/seo/b2b-seo-strategie/",
+   "title": "B2B SEO-strategie: 13 bewezen tactieken om de zichtbaarheid te ..."
+  },
+  {
+   "domain": "clickforest.com",
+   "url": "https://www.clickforest.com/online-marketing/linkedin",
+   "title": "LinkedIn marketing bureau voor B2B-campagnes en Ads - ClickForest"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/van-profiel-naar-autoriteit-linkedin-als-groeimotor/",
+   "title": "Van profiel naar autoriteit, LinkedIn als groeimotor - Marketingfacts"
+  },
+  {
+   "domain": "linqed.io",
+   "url": "https://linqed.io/academy",
+   "title": "Linqed Academy: Kennis voor LinkedIn Agencies"
+  },
+  {
+   "domain": "ranktracker.com",
+   "url": "https://www.ranktracker.com/nl/blog/7-proven-tactics-to-accelerate-b2b-sales-using-linked-in-in-2025/",
+   "title": "7 Bewezen tactieken om B2B Sales te versnellen via LinkedIn in 2025"
+  },
+  {
+   "domain": "almcorp.com",
+   "url": "https://almcorp.com/nl/blog/linkedin-vs-reddit-b2b-ai-visibility/",
+   "title": "LinkedIn versus Reddit voor B2B AI-zichtbaarheid: welk platform ..."
+  },
+  {
+   "domain": "partout.nl",
+   "url": "https://www.partout.nl/b2b-marketing/seo",
+   "title": "B2B SEO voor betere online zichtbaarheid | Partout"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/ga-voor-b2b-marketing-op-linkedin-12-tips-anne-raaymakers-eycxc",
+   "title": "Ga voor B2B marketing op LinkedIn: 12 tips"
+  }
+ ]
+}

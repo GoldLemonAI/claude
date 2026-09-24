@@ -1,0 +1,107 @@
+{
+ "id": "P23",
+ "engine": "gemini",
+ "cat": "hoe",
+ "prompt": "Wat werkt in 2026 in het LinkedIn-algoritme voor B2B-content in Nederland? Noem bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In 2026 is het LinkedIn-algoritme fundamenteel veranderd. De tijd van oppervlakkige 'engagement-bait' (\"Eens? 👇\"), snelle AI-comments en generieke motivatieposts is definitief voorbij. LinkedIn heeft de transitie gemaakt van een **Relationship Graph** (inhoud zien van connecties) naar een **Interest Graph** (inhoud zien op basis van expertise en specifiek gedrag). \n\nVoor Nederlandse B2B-marketeers en beslissers bepalen de volgende pijlers het succes in 2026:\n\n---\n\n### 1. De overgang naar het \"Brew360\"-model & de Depth Score\nLinkedIn gebruikt een geavanceerd AI-model, intern bekend als **Brew360**, om de feed te rangschikken. Bereik is minder afhankelijk van het aantal volgers en veel meer van de zogenaamde **Depth Score**. Dit model reageert op diepe, kwalitatieve signalen:\n* **Dwell Time:** Hoe lang stopt iemand met scrollen? Meer dan 60 seconden op een bericht is de 'heilige graal'.\n* **Comment Depth:** Korte reacties zoals \"Mooi geschreven!\" tellen nauwelijks meer mee. Het algoritme zoekt naar inhoudelijke discussies (meerdere zinnen).\n* **Saves & Private Shares:** Berichten die door gebruikers worden opgeslagen of via een persoonlijk bericht (DM) worden gedeeld met collega’s ('Dark Social') zijn de sterkste indicators van waarde.\n\n### 2. \"Topic Fingerprinting\" en niche-expertises\nHet algoritme leest de inhoud van je posts op basis van betekenis (semantiek). Het past **Topic Fingerprinting** toe: je bereik schiet omhoog als je consistent over 2 à 3 specifieke niches schrijft waarin jij volgens je profiel een expert bent. \n* *Voorbeeld:* Een B2B-adviseur die vaag over \"ondernemen\" schrijft, verliest bereik. Schrijf je heel specifiek over \"pensioenplanning voor Nederlandse mkb-ondernemers\", dan herkent het algoritme dit en pusht het je content direct naar de juiste *Interest Graph* (doelgroep), zelfs als ze je niet volgen.\n\n### 3. Persoonlijke profielen versus Bedrijfspagina's (Employee Advocacy)\nHet organische bereik van B2B-bedrijfspagina’s is in 2026 gedaald tot minder dan 5% van de feed. Het algoritme geeft absolute prioriteit aan **mensen**. \n* C-level executives en medewerkers (Employee Advocacy) zijn de primaire motor voor organische leadgeneratie. \n* **Comment-strategie:** Jouw reacties op posts van anderen fungeren in 2026 als een eigen distributiekanaal. Waardevolle reacties achterlaten op accounts binnen jouw niche traint het algoritme om jouw profiel als autoriteit te zien.\n\n### 4. Wat zijn de best werkende formats in 2026?\nData uit grootschalige benchmarkonderzoeken in 2026 laat duidelijke winnaars zien qua engagement rate:\n\n* **Document Carousels / PDF's (Gem. Engagement: 3,4%):** Blijven de 'gouden standaard'. Ze dwingen de lezer om te swipen en verhogen zo de cruciale *dwell time*.\n* **Native Video (Gem. Engagement: 2,9%):** Video kent een enorme groei (+36% YoY in uploads). Korte, kwalitatieve B2B-video's (bij voorkeur 30-90 seconden met ondertiteling) krijgen tot 5x meer reacties dan berichten met externe links.\n* **Tekst-only (1.200 - 1.600 tekens):** Presteert nog steeds uitstekend voor thought leadership. Zorg dat de eerste 2 zinnen (de 'hook' voor de 'meer weergeven'-knop) direct de aandacht grijpen, want klikken op 'meer weergeven' is een belangrijk engagementsignaal.\n* **Nieuwsbrieven:** LinkedIn-nieuwsbrieven presteren in 2026 vele malen beter dan losse artikelen en hebben een gemiddelde open rate van wel 42%.\n\n### 5. Wat werkt absoluut níét meer?\n* **AI-ruis & geautomatiseerde engagement pods:** LinkedIn voert in 2026 een actieve oorlog tegen AI-gegenereerde reacties. Het gebruik van AI-comment-tools of pods leidt direct tot een 'shadowban' of drastische inperking van je bereik.\n* **Directe externe links in posts:** Het direct plaatsen van een link naar je website in de post vermindert het bereik met 40% tot 50%. \n* **Links in de eerste reactie:** Let op, LinkedIn is in 2026 begonnen met het verbergen of minder prioriteit geven aan reacties die links bevatten. Het is effectiever om de link later toe te voegen via 'bewerken', of de lezer te vragen om een 'signaal' (bijv. \"stuur een DM voor de link\").\n\n### 6. Optimale timing voor Nederland\nVoor de Nederlandse B2B",
+ "entities": [],
+ "sources": [
+  {
+   "domain": "fingerspitz.nl",
+   "url": "https://fingerspitz.nl/blog/linkedin-algoritme-update/",
+   "title": "fingerspitz.nl"
+  },
+  {
+   "domain": "skill-sprinters.de",
+   "url": "https://skill-sprinters.de/blog/social-media/linkedin-content-strategie-b2b-2026/",
+   "title": "skill-sprinters.de"
+  },
+  {
+   "domain": "businesswise.nl",
+   "url": "https://www.businesswise.nl/marketing/linkedin-algoritme-richard-van-der-blom~286d0c3e",
+   "title": "businesswise.nl"
+  },
+  {
+   "domain": "melaniegoodmanlinkedinconsultant.substack.com",
+   "url": "https://melaniegoodmanlinkedinconsultant.substack.com/p/linkedin-algorithm-2026-reach-topic-authority",
+   "title": "substack.com"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/blog/linkedin-trends-2026-ai-en-authentieke-zichtbaarheid",
+   "title": "leadtoday.nl"
+  },
+  {
+   "domain": "altijdbekend.nl",
+   "url": "https://altijdbekend.nl/over-ons/blog/dit-zijn-de-linkedin-trends-van-2026/",
+   "title": "altijdbekend.nl"
+  },
+  {
+   "domain": "socialbee.com",
+   "url": "https://socialbee.com/blog/linkedin-algorithm-explained/",
+   "title": "socialbee.com"
+  },
+  {
+   "domain": "blog.hootsuite.com",
+   "url": "https://blog.hootsuite.com/linkedin-algorithm/",
+   "title": "hootsuite.com"
+  },
+  {
+   "domain": "podcast.creatorscience.com",
+   "url": "https://podcast.creatorscience.com/richard-van-der-blom-2/",
+   "title": "creatorscience.com"
+  },
+  {
+   "domain": "postiv.ai",
+   "url": "https://postiv.ai/nl/blog/linkedin-algoritme-2026",
+   "title": "postiv.ai"
+  },
+  {
+   "domain": "dsmn8.com",
+   "url": "https://dsmn8.com/blog/the-social-media-managers-guide-to-the-linkedin-algorithm-in-2026/",
+   "title": "dsmn8.com"
+  },
+  {
+   "domain": "lagrowthmachine.com",
+   "url": "https://lagrowthmachine.com/linkedin-marketing-strategy-2026/",
+   "title": "lagrowthmachine.com"
+  },
+  {
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/AskMarketing/comments/1qod0lc/the_4_key_points_of_the_linkedin_algorithm_in_2026/",
+   "title": "reddit.com"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=w6V_JYsRp34",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/statistieken/linkedin-statistieken-2026",
+   "title": "searchlab.nl"
+  },
+  {
+   "domain": "halotechmedia.sg",
+   "url": "https://halotechmedia.sg/blog/linkedin-post-ideas-a-strategic-guide-to-b2b-engagement-in-2026/",
+   "title": "halotechmedia.sg"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2026/04/13/linkedin-benchmarks-2026/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "metricool.com",
+   "url": "https://metricool.com/nl/linkedin-trends/",
+   "title": "metricool.com"
+  },
+  {
+   "domain": "leadscraper.de",
+   "url": "https://www.leadscraper.de/blog/linkedin-content-ideen-vertrieb",
+   "title": "leadscraper.de"
+  }
+ ]
+}

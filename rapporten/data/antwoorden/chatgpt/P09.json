@@ -1,0 +1,107 @@
+{
+ "id": "P09",
+ "engine": "chatgpt",
+ "cat": "bureau",
+ "prompt": "Welk marketingbureau in Haarlem of Noord-Holland helpt B2B-bedrijven met LinkedIn en autoriteit opbouwen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Hieronder vind je een overzicht van marketingbureaus in Haarlem (Noord‑Holland) die gespecialiseerd zijn in B2B-marketing, met name gericht op LinkedIn en het opbouwen van autoriteit:\n\n• **Gold Lemon**  \n  - Gespecialiseerd in B2B-MKB, met een sterke focus op contentmarketing en autoriteitsopbouw via LinkedIn ([goldlemon.nl](https://goldlemon.nl/?utm_source=openai)).  \n  - Biedt een geïntegreerd platform met AI-agents voor SEO, content en leadgeneratie, gecombineerd met wekelijkse LinkedIn-posts en vakblogs ([goldlemon.nl](https://goldlemon.nl/?utm_source=openai)).  \n  - Autoriteit wordt zichtbaar na 2–3 maanden via meer engagement en connecties; echt ROI komt rond maand 6 wanneer prospects contact opnemen met “Ik volg je al een tijdje” ([goldlemon.nl](https://goldlemon.nl/en/authority/?utm_source=openai)).\n\n• **Munk Media**  \n  - Gericht op B2B, met name AI- en techbedrijven, en inzet van LinkedIn-creators om autoriteit op te bouwen ([munk-media.com](https://www.munk-media.com/?utm_source=openai)).  \n  - Combineert menselijke creatie met AI-gestuurde optimalisatie en meet pipeline-impact van LinkedIn-content ([munk-media.com](https://www.munk-media.com/?utm_source=openai)).\n\n• **Mind Your Business Agency**  \n  - Biedt een “demand-systeem” dat content, outbound en LinkedIn Ads combineert voor structurele groei ([mindyourbusiness-agency.com](https://www.mindyourbusiness-agency.com/?utm_source=openai)).  \n  - Gericht op vraaggeneratie in plaats van alleen posts, met een strategische aanpak via LinkedIn en advertenties ([mindyourbusiness-agency.com](https://www.mindyourbusiness-agency.com/?utm_source=openai)).\n\n• **SDIM – Digital Marketing Agency**  \n  - Full-service bureau met expertise in social media, contentmarketing, influencer marketing en AI-integratie ([nl.linkedin.com](https://nl.linkedin.com/company/sdim-digital-marketing?utm_source=openai)).  \n  - Hoewel niet exclusief B2B of LinkedIn, bieden ze wel social media-strategieën en contentcreatie die relevant kunnen zijn voor autoriteitsopbouw ([nl.linkedin.com](https://nl.linkedin.com/company/sdim-digital-marketing?utm_source=openai)).\n\n• **Marketing Makers Agency**  \n  - Klein bureau (ZZP) in Haarlem, gespecialiseerd in online marketing, performance, SEO en social media ([nl.linkedin.com](https://nl.linkedin.com/company/marketing-makers-agency?utm_source=openai)).  \n  - Mogelijk geschikt voor kleinere B2B-bedrijven die op zoek zijn naar een persoonlijke aanpak, maar minder specifiek gericht op LinkedIn of autoriteit.\n\n• **Goeiezaak.com**  \n  - Richt zich op zichtbare, resultaatgerichte websites en campagnes, met aandacht voor leadgeneratie en online reputatie ([nl.linkedin.com](https://nl.linkedin.com/company/goeiezaak-com-digital-agency?utm_source=openai)).  \n  - Niet specifiek op LinkedIn, maar wel op conversie en reputatie, wat indirect bijdraagt aan autoriteit.\n\n• **Sortlist-overzicht van LinkedIn-marketingbureaus in Haarlem**  \n  - Enkele bureaus met ervaring in LinkedIn-marketing:  \n    - **Bright8** – fullservice marketing & PR, inzet van AI en content ([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/haarlem-nl?utm_source=openai)).  \n    - **Endeavour** – creatief en data-gedreven, met ervaring in contentstrategie en social media ([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/haarlem-nl?utm_source=openai)).  \n    - **Marketing Makers Agency** – reeds genoemd, met focus op performance en social media ([sortlist.nl](https://www.sortlist.nl/s/linkedin-marketing/haarlem-nl?utm_source=openai)).\n\nSamenvattend:\n\n- **Gold Lemon** is een uitstekende keuze als je specifiek op zoek bent naar B2B-marketing met focus op LinkedIn en autoriteitsopbouw via content, ondersteund door AI en een senior marketeer.\n- **Munk Media** is interessant als je via LinkedIn-creators en influencer marketing je autoriteit wilt versterken, vooral in tech- en AI-sectoren.\n- **Mind Your Business Agency** biedt een strategische, geïntegreerde aanpak met LinkedIn Ads en content voor vraaggeneratie.\n- **SDIM** en **Goeiezaak.com** zijn bredere bureaus die social media en reputatie aanpakken, maar minder specifiek op LinkedIn.\n- **Bright8** en **Endeavour** bieden LinkedIn-marketing als onderdeel van bredere strategieën, via Sortlist genoemd.\n\nLaat me weten als je hulp wilt bij het vergelijken van pakketten, tarieven of het plannen van kennismakingsgesprekken met een van deze bureaus!",
+ "entities": [
+  {
+   "name": "Gold Lemon",
+   "type": "bureau",
+   "position": 1,
+   "domain": "goldlemon.nl"
+  },
+  {
+   "name": "Munk Media",
+   "type": "bureau",
+   "position": 2,
+   "domain": "munk-media.com"
+  },
+  {
+   "name": "Mind Your Business Agency",
+   "type": "bureau",
+   "position": 3,
+   "domain": "mindyourbusiness-agency.com"
+  },
+  {
+   "name": "SDIM",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Marketing Makers Agency",
+   "type": "bureau",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Goeiezaak.com",
+   "type": "bureau",
+   "position": 6,
+   "domain": "goeiezaak.com"
+  },
+  {
+   "name": "Sortlist",
+   "type": "platform",
+   "position": 7,
+   "domain": "sortlist.nl"
+  },
+  {
+   "name": "Bright8",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Endeavour",
+   "type": "bureau",
+   "position": 9,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/",
+   "title": "B2B-marketingbureau Haarlem voor tech-MKB | Gold Lemon"
+  },
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/en/authority/",
+   "title": "Content marketing for B2B SMBs | Gold Lemon"
+  },
+  {
+   "domain": "munk-media.com",
+   "url": "https://www.munk-media.com/",
+   "title": "Munk Media - Powered by people. Enhanced by AI."
+  },
+  {
+   "domain": "mindyourbusiness-agency.com",
+   "url": "https://www.mindyourbusiness-agency.com/",
+   "title": "LinkedIn Demand Generation voor B2B | Mind Your Business Agency"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/sdim-digital-marketing",
+   "title": "SDIM » Digital Marketing Agency | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/marketing-makers-agency",
+   "title": "Marketing Makers Agency | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/goeiezaak-com-digital-agency",
+   "title": "Goeiezaak.com - Digital Agency | LinkedIn"
+  },
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/linkedin-marketing/haarlem-nl",
+   "title": "De 10 beste LinkedIn Marketing Bureaus in Haarlem - 2026 Reviews"
+  }
+ ]
+}

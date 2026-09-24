@@ -1,0 +1,73 @@
+{
+ "id": "P03",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Ik zoek een LinkedIn ghostwriter voor de directeur van een Nederlands IT-bedrijf. Welke bureaus of freelancers kun je aanbevelen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Het uitbesteden van LinkedIn-content voor een directeur (CEO/founder) in de IT-sector vraagt om een specifieke aanpak: de schrijver moet complexe technische of digitale concepten kunnen vertalen naar heldere, menselijke taal én de autoriteit van de directeur versterken zonder dat het \"nep\" of te generiek klinkt.\n\nIn Nederland zie je voornamelijk dat **gespecialiseerde freelancers en boutique contentbureaus** deze rol vervullen. Een overzicht van bekende namen, stijlen en opties:\n\n### 1. Bekende Freelancers & Solospelers (Vaak LinkedIn Top Voices)\n\nVaak werken directeurs liever 1-op-1 met een vaste ghostwriter in plaats van een groot marketingbureau, omdat de persoonlijke klik en het vangen van de unieke 'stem' cruciaal zijn.\n\n- **Orlando Belfor:** Staat bekend als \"LinkedIn ghostwriter voor eindbazen\" en focust sterk op de persoonlijke positionering en autoriteit van directies en leiders.[[1]](https://nl.linkedin.com/posts/jettie-peters_halverwege-het-gesprek-blijkt-de-vacature-activity-7290617261336199168-MBnr)\n- **Ferdi van den Berg:** Richt zich als strateeg en storyteller op MKB-ondernemers en directieleden om vanuit een authentieke positionering een consistente online reputatie op te bouwen.[[1]](https://nl.linkedin.com/posts/ferdivandenberg_dit-weekend-reed-ik-over-de-industrieterreinen-activity-7200733321104961536-Qh7K)\n- **Diverse niche-copywriters:** Er zijn tal van freelance copywriters (zoals via [Dash of Ginger](https://www.dashofginger.nl/linkedin-uitbesteden/) of gespecialiseerde tech-freelancers) die op basis van een maandelijks interview van een uur een contentkalender vullen.[[1]](https://www.dashofginger.nl/linkedin-uitbesteden/)[[2]](https://nl.linkedin.com/in/eef-h-876917260)\n\n### 2. Gespecialiseerde Bureaus\n\nAls je zoekt naar een bredere aanpak (inclusief strategie, videorichting of vervanging bij afwezigheid):\n\n- **GHO Agency ([GHO.agency](https://www.gho.agency/blogs/linkedin-ghostwriter)):** Gespecialiseerd in strategische content en persoonlijke profilering op LinkedIn voor C-level executives.\n- **Doelgroep Bereikt ([DoelgroepBereikt.nl](https://doelgroepbereikt.nl/linkedin/linkedin-ghostwriting/)):** Biedt gestructureerde LinkedIn ghostwriting-trajecten aan om de zichtbaarheid van ondernemers en directieleden te vergroten zonder dat ze er zelf veel omkijken naar hebben.[[1]](https://www.gho.agency/blogs/linkedin-ghostwriter)[[2]](https://doelgroepbereikt.nl/linkedin/linkedin-ghostwriting/)\n\n### Waar je op moet letten bij een IT-directeur:\n\n1. **De 'Voice of the CEO'-interviewmethode:** Een goede ghostwriter belt de directeur bijvoorbeeld 1 keer per maand of tweewekelijks een halfuur, vraagt door op actuele IT-trends (zoals cybersecurity, AI-implementaties of personeelstekorten) en destilleert daar 4 tot 12 sterke posts uit.\n2. **Authenticiteit vs. Automatisering:** Pas op voor partijen die alles door ChatGPT jagen. De kracht van een IT-directeur zit hem in de *unieke* mening over de markt. De pen mag van de ghostwriter zijn, het perspectief moet van de directeur komen.\n3. **Interactie doe je zelf:** Laat de ghostwriter de *posts* schrijven, maar adviseer de directeur om de *reacties en conversaties* onder de posts zoveel mogelijk zelf te doen. Dat bouwt pas écht relaties en trust op binnen de IT-community.[[1]](https://www.dashofginger.nl/linkedin-uitbesteden/)\n\nWil je dat ik je help bepalen of je zoekt naar een **flexibele freelancer** of een **volledig strategisch bureau** , of heb je specifieke wensen rondom het **budget** of de **toon** (formeel vs. uitdagend)?",
+ "entities": [
+  {
+   "name": "Orlando Belfor",
+   "type": "persoon",
+   "domain": null,
+   "position": 1
+  },
+  {
+   "name": "Ferdi van den Berg",
+   "type": "persoon",
+   "domain": null,
+   "position": 2
+  },
+  {
+   "name": "Dash of Ginger",
+   "type": "bureau",
+   "domain": "dashofginger.nl",
+   "position": 3
+  },
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "domain": "gho.agency",
+   "position": 4
+  },
+  {
+   "name": "Doelgroep Bereikt",
+   "type": "bureau",
+   "domain": "doelgroepbereikt.nl",
+   "position": 5
+  }
+ ],
+ "sources": [
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/jettie-peters_halverwege-het-gesprek-blijkt-de-vacature-activity-7290617261336199168-MBnr",
+   "title": "Halverwege het gesprek blijkt de vacature al ingevuld. Voor de ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/ferdivandenberg_dit-weekend-reed-ik-over-de-industrieterreinen-activity-7200733321104961536-Qh7K",
+   "title": "Bijdrage van Ferdi van den Berg - LinkedIn"
+  },
+  {
+   "domain": "dashofginger.nl",
+   "url": "https://www.dashofginger.nl/linkedin-uitbesteden/",
+   "title": "LinkedIn uitbesteden aan een copywriter - Dash of Ginger"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/in/eef-h-876917260",
+   "title": "Eef H - Ghostwriter: hét best bewaarde geheim van LinkedIn"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/blogs/linkedin-ghostwriter",
+   "title": "Hoe een LinkedIn ghostwriter jouw verhaal op papier krijgt"
+  },
+  {
+   "domain": "doelgroepbereikt.nl",
+   "url": "https://doelgroepbereikt.nl/linkedin/linkedin-ghostwriting/",
+   "title": "LinkedIn Ghostwriting | Voor ondernemers en sales"
+  }
+ ]
+}

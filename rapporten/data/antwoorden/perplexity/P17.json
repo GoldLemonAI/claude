@@ -1,0 +1,179 @@
+{
+ "id": "P17",
+ "engine": "perplexity",
+ "cat": "expert",
+ "prompt": "Wie zijn in Nederland de experts op het gebied van social selling via LinkedIn voor B2B?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland worden **Richard van der Blom**, **Marjolein Bongers** en **Jorrit Drieënhuizen** het vaakst genoemd als sterke namen op het gebied van **social selling via LinkedIn voor B2B**. Richard van der Blom wordt in de aangeleverde bronnen expliciet omschreven als “een van de bekendste en meest geboekt LinkedIn & Social Selling Experts van Nederland,” terwijl Marjolein Bongers en Jorrit Drieënhuizen in meerdere profielen en expert-overzichten als LinkedIn- en social-selling specialisten terugkomen.[13][3][1]\n\nAndere Nederlandse experts die duidelijk relevant zijn voor **B2B social selling op LinkedIn** zijn **Guy Strijbosch**, **Chantal Van Koesveld**, **Ernst Van Dijk**, **Barbara Langendoen**, **Jesse Bak**, **Martijn Holtes** en **Wendy van Gilst**.[18][11][2][4][3]  \nDeze namen vallen op omdat hun profielen of expert-overzichten expliciet verwijzen naar **LinkedIn strategy**, **social selling**, **B2B leadgeneratie**, **employee advocacy**, **thought leadership** of **LinkedIn training**.[18][11][2][3][4]\n\nAls je zoekt naar een **praktische shortlist** voor B2B, dan zou ik deze indelen als volgt:\n\n- **Strategie, training en thought leadership:** Richard van der Blom, Marjolein Bongers, Guy Strijbosch, Martijn Holtes.[13][3][18][3]\n- **Social selling en zichtbaarheid voor organisaties:** Jorrit Drieënhuizen, Chantal Van Koesveld, Barbara Langendoen.[1][11][4]\n- **LinkedIn advertising en leadgeneratie:** Ernst Van Dijk, Judith Eversdijk.[2][19]\n\nAls je wilt, kan ik hier ook een **top 10 maken op basis van relevantie voor jouw sector** zoals tech, industrie, recruitment, consultancy of SaaS.",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Jorrit Drieënhuizen",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Guy Strijbosch",
+   "type": "persoon",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Chantal Van Koesveld",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Ernst Van Dijk",
+   "type": "persoon",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Barbara Langendoen",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "Jesse Bak",
+   "type": "persoon",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Martijn Holtes",
+   "type": "persoon",
+   "position": 9,
+   "domain": null
+  },
+  {
+   "name": "Wendy van Gilst",
+   "type": "persoon",
+   "position": 10,
+   "domain": null
+  },
+  {
+   "name": "Judith Eversdijk",
+   "type": "persoon",
+   "position": 11,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/jorritdrieenhuizen",
+   "title": "Jorrit Drieënhuizen - B2B LinkedIn expert"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/ernstvandijk",
+   "title": "Ernst Van Dijk | LinkedIn"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "8. Marjolein Bongers"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/barbaralangendoen",
+   "title": "Barbara Langendoen | LinkedIn"
+  },
+  {
+   "domain": "socialsales.eu",
+   "url": "https://socialsales.eu/",
+   "title": "SOCIAL SALES"
+  },
+  {
+   "domain": "b2bmarketeers.nl",
+   "url": "https://www.b2bmarketeers.nl/social-selling/social-selling/",
+   "title": "Social selling met Linkedin: de ultieme aanpak"
+  },
+  {
+   "domain": "provite.nl",
+   "url": "https://provite.nl/en/social-selling/",
+   "title": "Social Selling | Provite"
+  },
+  {
+   "domain": "2mark-it.nl",
+   "url": "https://www.2mark-it.nl/",
+   "title": "2Mark-it | – The best partner you need for social selling"
+  },
+  {
+   "domain": "prospex.nl",
+   "url": "https://www.prospex.nl/wp-content/uploads/2024/01/prospex-whitepaper.pdf",
+   "title": "[PDF] Boost je business met LinkedIn in 8 stappen - prospex"
+  },
+  {
+   "domain": "demandbird.com",
+   "url": "https://demandbird.com/resources/top-linkedin-trainers/",
+   "title": "Top LinkedIn Trainers (2026): 6 Best Picks for Sales Teams ..."
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/chantalvankoesveld",
+   "title": "Chantal Van Koesveld | LinkedIn"
+  },
+  {
+   "domain": "thesocialsellingcompany.com",
+   "url": "https://www.thesocialsellingcompany.com/en/home-2/",
+   "title": "Home"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/profiel/richard-van-der-blom/",
+   "title": "Richard van der Blom"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/richardvanderblom",
+   "title": "Richard Van Der Blom | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/company/thesocialsellingcompany",
+   "title": "The Social Selling Company | business consulting and services"
+  },
+  {
+   "domain": "presult.nl",
+   "url": "https://www.presult.nl/social-selling-op-linkedin/",
+   "title": "B2B Lead Generatie - Wij zorgen voor Meer en Betere Leads"
+  },
+  {
+   "domain": "socialmonday.nl",
+   "url": "https://www.socialmonday.nl/social-selling",
+   "title": "Social Selling — Social Monday"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/guystrijbosch",
+   "title": "Guy Strijbosch | LinkedIn"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/in/juditheversdijk",
+   "title": "Judith Eversdijk | LinkedIn"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/posts/jeroenbeltman_socialselling-linkedin-b2b-activity-7290358318504534017-PoWx",
+   "title": "#socialselling #linkedin #b2b #leadgeneratie #growth | Jeroen Beltman"
+  }
+ ]
+}

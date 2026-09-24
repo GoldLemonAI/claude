@@ -1,0 +1,109 @@
+{
+ "id": "P09",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Welk marketingbureau in Haarlem of Noord-Holland helpt B2B-bedrijven met LinkedIn en autoriteit opbouwen?",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als je op zoek bent naar een marketingbureau in **Haarlem** of de bredere provincie **Noord-Holland** dat gespecialiseerd is in **B2B-marketing**, **LinkedIn** en het opbouwen van **autoriteit** (thought leadership en personal branding), zijn er verschillende sterke opties. \n\nHieronder vind je een overzicht van de meest relevante bureaus in de regio die precies op dit snijvlak opereren:\n\n### 1. Whello (Haarlem / Amsterdam)\n* **Locatie:** Haarlem / Amsterdam (Whello is zeer actief in de regio Haarlem en heeft daar diepe wortels)\n* **Focus:** Full-service B2B-marketing, B2B-groeistrategieën, en leadgeneratie.\n* **LinkedIn & Autoriteit:** Whello gelooft sterk in het principe van \"voorkeur bouwen vóór de koopvraag\". Ze helpen B2B-bedrijven met een scherpe positionering en het creëren van **thought leadership-content** op onder andere LinkedIn. Hierdoor word je als bedrijf of expert de logische keuze op het moment dat een beslisser klaar is om te kopen.\n\n### 2. YourFellow (Haarlem)\n* **Locatie:** Haarlem (gevestigd in de binnenstad aan het Klein Heiligland)\n* **Focus:** Digital marketing, performance marketing en social media advertising.\n* **LinkedIn & Autoriteit:** YourFellow is een digital agency dat zeer sterk is in **LinkedIn marketing en LinkedIn advertising**. Ze richten zich specifiek op de zakelijke beslisser in de B2B-markt. Naast het opzetten van gerichte advertentiecampagnes, adviseren en helpen ze bedrijven om hun merk via waardevolle, professionele content als autoriteit in de markt te positioneren. \n\n### 3. Emogy (Regio Haarlem / Heerhugowaard)\n* **Locatie:** Regio Haarlem (Heerhugowaard, circa 30 minuten van Haarlem en zeer actief voor Haarlemse B2B-bedrijven)\n* **Focus:** Puur gericht op **B2B-marketing**, industrie en de maakindustrie/technische sector.\n* **LinkedIn & Autoriteit:** Emogy is een no-nonsense B2B-bureau dat strategisch advies combineert met uitvoering (zoals copywriting, video en design). Zij helpen technische en zakelijke B2B-dienstverleners om hun specialistische kennis (autoriteit) te vertalen naar sterke online campagnes, social media-uitingen en content op LinkedIn. \n\n### 4. Consigo (Haarlem)\n* **Locatie:** Haarlem \n* **Focus:** Online marketing en resultaatgerichte leadgeneratie.\n* **LinkedIn & Autoriteit:** Consigo ondersteunt B2B-bedrijven bij hun digitale groei en zet hierbij specifiek **LinkedIn Marketing** in. Ze helpen bij het targeten van de juiste beslissers (op basis van branche, functie en bedrijfsgrootte) en richten zich op het structureel verhogen van de online vindbaarheid en de expertstatus van je bedrijf.\n\n---\n\n### Specialisten net buiten Haarlem (regio Amsterdam/Noord-Holland)\n\nAls je specifiek zoekt naar **personal branding van directie/management** (om de autoriteit van de personen achter het bedrijf te versterken via LinkedIn), zijn er in de regio Amsterdam (direct naast Haarlem) een aantal absolute topspecialisten:\n\n* **Personally (Amsterdam):** Een bureau dat zich *volledig* heeft gespecialiseerd in **personal branding op LinkedIn**. Zij schrijven geen standaard corporate posts, maar helpen CEO's, oprichters en managementteams om thought leaders te worden in hun niche. Ze verzorgen masterclasses, profieloptimalisaties en contentstrategieën.\n* **YouLynq.me (Amsterdam):** Dit bureau focust op *employee advocacy* en LinkedIn personal branding. Ze helpen B2B-professionals en teams om via hun eigen LinkedIn-profielen autoriteit en vertrouwen op te bouwen bij potentiële klanten en talent.\n\n### Welk bureau past bij jou?\n* Zoek je een bureau dat je **complete B2B-marketingstrategie** (website, SEO én LinkedIn thought leadership) oppakt? Kijk dan naar **Whello** of **Emogy**.\n* Wil je specifiek focussen op **LinkedIn-campagnes** om direct beslissers te bereiken en autoriteit op te bouwen? Dan is **YourFellow** een uitstekende lokale keuze.\n* Wil je dat de **directie of key-specialisten** actieve boegbeelden worden op LinkedIn via personal branding? Dan is een gespecialiseerd agency zoals **Personally** (regio Amsterdam) zeer aan te raden.",
+ "entities": [
+  {
+   "name": "Whello",
+   "type": "bureau",
+   "position": 1,
+   "domain": "whello.nl"
+  },
+  {
+   "name": "YourFellow",
+   "type": "bureau",
+   "position": 2,
+   "domain": "yourfellow.nl"
+  },
+  {
+   "name": "Emogy",
+   "type": "bureau",
+   "position": 3,
+   "domain": "emogy.nl"
+  },
+  {
+   "name": "Consigo",
+   "type": "bureau",
+   "position": 4,
+   "domain": "consigo.nl"
+  },
+  {
+   "name": "Personally",
+   "type": "bureau",
+   "position": 5,
+   "domain": "personally.team"
+  },
+  {
+   "name": "YouLynq.me",
+   "type": "bureau",
+   "position": 6,
+   "domain": "youlynq.me"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "mijn.host",
+   "url": "https://mijn.host/blog/wp-content/uploads/2025/04/Emerce%20100%20de%20beste%20bedrijven%20in%20e-business%202025.pdf",
+   "title": "mijn.host"
+  },
+  {
+   "domain": "whello.nl",
+   "url": "https://whello.nl/expertises/b2b-marketing",
+   "title": "whello.nl"
+  },
+  {
+   "domain": "goudengids.nl",
+   "url": "https://www.goudengids.nl/nl/bedrijven/promotie/255/",
+   "title": "goudengids.nl"
+  },
+  {
+   "domain": "yourfellow.nl",
+   "url": "https://yourfellow.nl/services/social-media-marketing/linkedin-advertising/",
+   "title": "yourfellow.nl"
+  },
+  {
+   "domain": "emogy.nl",
+   "url": "https://www.emogy.nl/reclamebureau-haarlem/",
+   "title": "emogy.nl"
+  },
+  {
+   "domain": "reclamebureau-info.nl",
+   "url": "https://www.reclamebureau-info.nl/haarlem",
+   "title": "reclamebureau-info.nl"
+  },
+  {
+   "domain": "emogy.nl",
+   "url": "https://www.emogy.nl/",
+   "title": "emogy.nl"
+  },
+  {
+   "domain": "consigo.nl",
+   "url": "https://www.consigo.nl/social-media-marketing/linkedin-marketing/",
+   "title": "consigo.nl"
+  },
+  {
+   "domain": "personally.team",
+   "url": "https://www.personally.team/",
+   "title": "personally.team"
+  },
+  {
+   "domain": "optimello.de",
+   "url": "https://www.optimello.de/en/linkedin-personal-branding",
+   "title": "optimello.de"
+  },
+  {
+   "domain": "youlynq.me",
+   "url": "https://youlynq.me/cases/empowering-250-global-professionals-through-linkedin-personal-branding/",
+   "title": "youlynq.me"
+  },
+  {
+   "domain": "emogy.nl",
+   "url": "https://www.emogy.nl/marketingbureau-haarlem/",
+   "title": "emogy.nl"
+  }
+ ]
+}

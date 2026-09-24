@@ -1,0 +1,149 @@
+{
+ "id": "P05",
+ "engine": "perplexity",
+ "cat": "bureau",
+ "prompt": "Welke Nederlandse bureaus zijn goed in thought leadership op LinkedIn voor B2B-bedrijven? Noem namen en waarom.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor **thought leadership op LinkedIn voor B2B** springen vooral bureaus eruit die expliciet werken met **LinkedIn-content, autoriteitsopbouw en B2B-positionering**. Op basis van de resultaten zijn dit de sterkste namen om te bekijken: **Unmuted**, **The Growth Syndicate**, **Dapper**, **Lead Today**, **Het PR Bureau** en **Braindonors**.[7][10][12][13][6]\n\n- **Unmuted** — genoemd als sterke keuze voor high-value B2B SaaS, met **LinkedIn, content, video en GTM-positionering** als kern; dat past goed bij thought leadership omdat het draait om zichtbaarheid en inhoudelijke autoriteit in een niche.[7][10]\n- **The Growth Syndicate** — wordt expliciet gekoppeld aan **thought leadership, LinkedIn en long-form content**; de resultaten beschrijven dit bureau als geschikt voor complexe tech- en internationale groeivragen, waar inhoudelijke expertise belangrijk is.[7]\n- **Dapper** — noemt zelf **thought leadership** als onderdeel van demand generation; hun benadering is om je naam zichtbaar te maken via **inhoud die echt iets leert** en een consistente aanwezigheid bij je doelgroep.[16][7]\n- **Lead Today** — positioneert thought leadership als een strategische aanpak om **vertrouwen** op te bouwen bij B2B-doelgroepen, en de brede B2B-marketingfocus maakt het relevant voor organisaties die LinkedIn willen inzetten voor autoriteit en leads.[12][19][1]\n- **Het PR Bureau (HPB)** — heeft een aparte thought-leadershipdienst en zegt dat het merken helpt een leiderschapsrol te definiëren en dit te vertalen naar **interviews, opiniestukken en LinkedIn-posts**; dat is heel direct relevant voor LinkedIn-autoriteitsopbouw.[6]\n- **Braindonors** — staat in de Nederlandse lijst van B2B thought leadership agencies en profileert zich als bureau dat B2B-bedrijven helpt **meer business te genereren**; dat maakt het een logische kandidaat als je content wilt koppelen aan commerciële impact.[10]\n\nAls je wilt, kan ik hieruit ook een **shortlist per type B2B-bedrijf** maken, bijvoorbeeld:\n- **SaaS / tech**\n- **industrie / maakbedrijven**\n- **consultancy / professional services**\n- **enterprise ABM**\n\nDan kan ik de bureaus ook rangschikken op *beste fit* voor jouw situatie.",
+ "entities": [
+  {
+   "name": "Unmuted",
+   "type": "bureau",
+   "position": 1,
+   "domain": null
+  },
+  {
+   "name": "The Growth Syndicate",
+   "type": "bureau",
+   "position": 2,
+   "domain": "thegrowthsyndicate.com"
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 3,
+   "domain": "dapper.agency"
+  },
+  {
+   "name": "Lead Today",
+   "type": "bureau",
+   "position": 4,
+   "domain": "leadtoday.nl"
+  },
+  {
+   "name": "Het PR Bureau",
+   "type": "bureau",
+   "position": 5,
+   "domain": "hetprbureau.com"
+  },
+  {
+   "name": "Braindonors",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  }
+ ],
+ "sources": [
+  {
+   "domain": "sortlist.nl",
+   "url": "https://www.sortlist.nl/s/b2b-marketing/nederland-nl",
+   "title": "De 10 beste B2B Marketing Bureaus in Nederland - Sortlist"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/linkedin-ads-bureau",
+   "title": "LinkedIn Ads Bureau | B2B Adverteren op LinkedIn - Searchlab"
+  },
+  {
+   "domain": "revenuebase.ai",
+   "url": "https://revenuebase.ai/companies/b2b-thought-leadership-agencies/netherlands",
+   "title": "Top 25 B2B thought leadership agencies based in the Netherlands"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/b2b-marketing-bureau",
+   "title": "B2B Marketing Bureau | Het B2B Marketing Bureau met Eigen AI ..."
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/b2b-marketing/netherlands-nl",
+   "title": "The 10 Best B2B Marketing Agencies in the Netherlands"
+  },
+  {
+   "domain": "hetprbureau.com",
+   "url": "https://www.hetprbureau.com/nl/diensten/thought-leadership",
+   "title": "Thought Leadership - Ontdek Het PR Bureau - HPB"
+  },
+  {
+   "domain": "thegrowthsyndicate.com",
+   "url": "https://www.thegrowthsyndicate.com/agencies/best-b2b-marketing-agencies-netherlands",
+   "title": "Best B2B Marketing Agencies in the Netherlands (2026)"
+  },
+  {
+   "domain": "webnexus.nl",
+   "url": "https://webnexus.nl/diensten/linkedin-marketing/",
+   "title": "LinkedIn Marketing Bureau | B2B Lead Generation - Webnexus"
+  },
+  {
+   "domain": "socialmedia-bureau-utrecht.nl",
+   "url": "https://socialmedia-bureau-utrecht.nl/linkedin-marketing/",
+   "title": "LinkedIn Marketing Utrecht | B2B Leadgeneratie Specialist"
+  },
+  {
+   "domain": "revenuebase.ai",
+   "url": "https://revenuebase.ai/companies/b2b-thought-leadership-agencies/netherlands/amsterdam",
+   "title": "Top 14 B2B thought leadership agencies based in Amsterdam, Netherlands"
+  },
+  {
+   "domain": "cross.nl",
+   "url": "https://cross.nl/doelen/thought-leadership/",
+   "title": "Werk aan thought leadership en word een autoriteit - Cross"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/expertises/thought-leadership",
+   "title": "B2B Thought leadership"
+  },
+  {
+   "domain": "booosters.nl",
+   "url": "https://www.booosters.nl/thought-leadership/",
+   "title": "Thought Leadership & LinkedIn Marketing"
+  },
+  {
+   "domain": "thethoughtleadershipcompany.com",
+   "url": "https://thethoughtleadershipcompany.com/",
+   "title": "The Thought Leadership Company: Thought Leadership Bureau"
+  },
+  {
+   "domain": "connectyourworld.nl",
+   "url": "https://connectyourworld.nl/thought-leadership-strategie/",
+   "title": "Thought leadership strategie - Bovenaan in Google"
+  },
+  {
+   "domain": "dapper.agency",
+   "url": "https://www.dapper.agency/blog/what-does-a-b2b-marketing-agency-do-and-what-should-you-expect-from-one",
+   "title": "What does a B2B marketing agency do and what should you expect ..."
+  },
+  {
+   "domain": "teamlewis.com",
+   "url": "https://www.teamlewis.com/nl/magazine/thought-leadership-op-linkedin/",
+   "title": "Thought leadership op LinkedIn in 2026: evolutie"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/thought-leadership-het-wapen-voor-b2b-succes-arine-gijsbers-dxkte",
+   "title": "Thought Leadership: het wapen voor B2B succes?"
+  },
+  {
+   "domain": "leadtoday.nl",
+   "url": "https://www.leadtoday.nl/expertises/b2b-marketing/b2b-contentmarketing",
+   "title": "B2B contentmarketing die leads en groei oplevert - Lead Today"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2023/02/13/thought-leadership-linkedin-recessie/",
+   "title": "Thought leadership & LinkedIn: een waardevolle combi in ..."
+  }
+ ]
+}

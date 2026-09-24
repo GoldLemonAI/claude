@@ -1,0 +1,67 @@
+{
+ "id": "P10",
+ "engine": "google_ai_mode",
+ "cat": "bureau",
+ "prompt": "Welke bureaus in Nederland combineren LinkedIn content met SEO en zichtbaarheid in AI-zoekmachines voor B2B-MKB? Noem namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In het huidige B2B-landschap verschuift de focus snel van enkel traditionele SEO naar een combinatie met **GEO (Generative Engine Optimization / AI-zoekmachine-zichtbaarheid)** en social selling/thought leadership via **LinkedIn** . Omdat AI-zoekmachines (zoals ChatGPT, Perplexity en Google AI Overviews) zwaar leunen op autoriteit, merksignalen en feitelijke content , integreren gespecialiseerde B2B-bureaus deze disciplines steeds strakker.[[1]](https://www.digitalinside.nl/b2b-marketing-bureau/)[[2]](https://www.digitalinside.nl/b2b-marketing-bureau/)[[3]](https://www.digitalinside.nl/b2b-marketing-bureau/)[[4]](https://linonlinemarketing.nl/ai-zoekmachineoptimalisatie/)[[5]](https://nl.linkedin.com/pulse/wat-het-beste-geo-bureau-nederland-voor-generative-engine-hossain-aqdqc)\n\nEnkele bureaus in Nederland die deze combinaties (LinkedIn, SEO en AI/GEO-zichtbaarheid) voor het B2B- en MKB-segment voeren of ondersteunen:\n\n- **Digital Inside** \n\t- **Wat ze doen:** Dit bureau uit Utrecht richt zich specifiek op B2B-marketing en combineert expliciet klassieke **SEO met GEO** (zichtbaarheid in AI-zoekmachines) en organische/betaalde **LinkedIn-strategieën** . Ze spelen in op het feit dat B2B-beslissers via AI en zoekmachines zoeken naar oplossingen, gecombineerd met social presence.[[1]](https://nl.linkedin.com/company/digital-inside-bv)[[2]](https://www.digitalinside.nl/b2b-marketing-bureau/)[[3]](https://www.digitalinside.nl/b2b-marketing-bureau/)[[4]](https://www.digitalinside.nl/b2b-marketing-bureau/)\n- **[Searchlab](https://searchlab.nl/)** *(zoek op Searchlab)* \n\t- **Wat ze doen:** Positioneert zichzelf als een AI-powered marketingbureau voor leadgeneratie. Ze integreren meerdere kanalen tegelijkertijd in vaste pakketten, waarbij ze **SEO-contentproductie** en **LinkedIn** (zoals ABM-audiences en campagnes) aansturen via eigen AI-gedreven workflows en automatisering.[[1]](https://searchlab.nl/)[[2]](https://searchlab.nl/online-marketing-uitbesteden)\n- **[GPTBureau](https://nl.linkedin.com/pulse/wat-het-beste-geo-bureau-nederland-voor-generative-engine-hossain-aqdqc)** *(gespecialiseerd in AI-vindbaarheid)* \n\t- **Wat ze doen:** Richt zich specifiek op **GEO (Generative Engine Optimization)** in combinatie met de fundamenten van traditionele **SEO** en sterke merksignalen. Hoewel ze minder een puur 'social/LinkedIn-agency' zijn, sluit hun contentfilosofie naadloos aan bij het voeden van thought leadership (wat vaak op LinkedIn wordt gelanceerd) zodat AI-modellen het merk als autoriteit citeren.[[1]](https://nl.linkedin.com/pulse/wat-het-beste-geo-bureau-nederland-voor-generative-engine-hossain-aqdqc)\n- **Regionale/MKB-specialisten (zoals LIN Online Marketing)** \n\t- **Wat ze doen:** Er zijn diverse gespecialiseerde MKB-marketeers, zoals LIN Online Marketing, die inspelen op de combinatie van **lokale/regionale SEO** en de opkomst van **AI-zoekmachineoptimalisatie** voor ondernemers. Zij leggen de nadruk op het herkenbaar maken van expertise en feitelijke content die zowel door Google als AI-systemen als betrouwbaar wordt gemarkeerd.[[1]](https://linonlinemarketing.nl/ai-zoekmachineoptimalisatie/)\n\nWil je weten hoe deze bureaus zich verhouden qua **prijsstructuur** of ben je op zoek naar een partij die specifiek past bij de **omvang van jouw B2B-MKB-bedrijf** ? Laat het gerust weten!",
+ "entities": [
+  {
+   "name": "Digital Inside",
+   "type": "bureau",
+   "domain": "digitalinside.nl",
+   "position": 1
+  },
+  {
+   "name": "Searchlab",
+   "type": "bureau",
+   "domain": "searchlab.nl",
+   "position": 2
+  },
+  {
+   "name": "GPTBureau",
+   "type": "bureau",
+   "domain": null,
+   "position": 3
+  },
+  {
+   "name": "LIN Online Marketing",
+   "type": "bureau",
+   "domain": "linonlinemarketing.nl",
+   "position": 4
+  }
+ ],
+ "sources": [
+  {
+   "domain": "digitalinside.nl",
+   "url": "https://www.digitalinside.nl/b2b-marketing-bureau/",
+   "title": "B2B marketing bureau - Digital Inside"
+  },
+  {
+   "domain": "linonlinemarketing.nl",
+   "url": "https://linonlinemarketing.nl/ai-zoekmachineoptimalisatie/",
+   "title": "AI-zoekmachineoptimalisatie voor MKB - LIN Online Marketing"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/wat-het-beste-geo-bureau-nederland-voor-generative-engine-hossain-aqdqc",
+   "title": "Wat is het beste GEO bureau in Nederland voor Generative ..."
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/company/digital-inside-bv",
+   "title": "Digital Inside | We rock your Digital Marketing | LinkedIn"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/",
+   "title": "Searchlab | Het AI-team voor je marketing en sales"
+  },
+  {
+   "domain": "searchlab.nl",
+   "url": "https://searchlab.nl/online-marketing-uitbesteden",
+   "title": "Online Marketing Uitbesteden | AI-Powered Marketing Bureau"
+  }
+ ]
+}

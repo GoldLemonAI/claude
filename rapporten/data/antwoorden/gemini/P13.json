@@ -1,0 +1,243 @@
+{
+ "id": "P13",
+ "engine": "gemini",
+ "cat": "expert",
+ "prompt": "Wie zijn de bekendste LinkedIn-experts en trainers in Nederland? Noem minimaal tien namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "In Nederland is er een actieve groep LinkedIn-experts, trainers en social selling-strategen die bedrijven en professionals helpen om meer bereik, leads en zakelijk succes uit het platform te halen. \n\nHieronder vind je een overzicht van **tien van de bekendste en meest invloedrijke LinkedIn-experts en trainers in Nederland**:\n\n### 1. Richard van der Blom\nRichard van der Blom is internationaal waarschijnlijk de bekendste Nederlandse LinkedIn-expert. Hij is de oprichter van *Just Connecting* en staat wereldwijd bekend om zijn jaarlijkse **LinkedIn Algorithm Insights Report**. In dit onafhankelijke, grootschalige onderzoek analyseert hij nauwkeurig hoe het algoritme van LinkedIn verandert en welke content het beste presteert. Hij is een veelgevraagd spreker en traint wereldwijd corporate teams in social selling.\n\n### 2. Corinne Keijzer\nCorinne Keijzer (*Digital Moves*) is een pionier op het gebied van LinkedIn-trainingen in Nederland en is officieel door LinkedIn Benelux erkend als ambassadeur van het platform. Ze schreef meerdere boeken over LinkedIn (zoals *Meer succes met LinkedIn*) en verzorgt al sinds 2010 workshops, online cursussen en incompanytrainingen over personal branding, social selling en het algoritme.\n\n### 3. Perry van Beek\nPerry van Beek is een absolute specialist op het gebied van **LinkedIn Sales Navigator** en social selling. Als oprichter van *Social.ONE* helpt hij al sinds 2009 B2B-bedrijven en salesprofessionals om via LinkedIn leads te genereren. Hij is tevens de auteur van het boek *LinkedIn Sales Navigator For Dummies*.\n\n### 4. Marjolein Bongers\nMarjolein Bongers is de oprichter van *House of Social Media* en auteur van de bestseller *LinkedIn Power*. Ze is tevens officieel ambassadeur van LinkedIn Benelux. Wat haar aanpak uniek maakt, is dat zij haar achtergrond als beïnvloedings- en gedragspsychologe combineert met praktische LinkedIn-strategieën om professionals te leren hoe ze online overtuigingskracht opbouwen.\n\n### 5. Victor Huiting\nVictor Huiting is de eigenaar van *Linkleads* en was een van de eersten in Nederland die zich officieel LinkedIn-gecertificeerd mocht noemen. Sinds 2007 adviseert en traint hij management-, marketing- en salesteams om content om te zetten in concrete leads en meetbare groei.\n\n### 6. Judith Eversdijk\nJudith Eversdijk is de oprichter van *Social Blooming*. Zij richt zich specifiek op hoe organisaties en hun medewerkers LinkedIn effectief kunnen inzetten via zogeheten corporate influencer-programma's. Ze doet regelmatig onderzoek naar het gebruik van LinkedIn-bedrijfspagina's in Nederland en schreef het boek *Spring eruit met LinkedIn*.\n\n### 7. Sebastiaan Nagel\nAls mede-oprichter van *Social Blooming* en *Bold Bytz* richt Sebastiaan Nagel zich sterk op de advertentiekant en de strategische inzet van LinkedIn-campagnes. Hij won in het verleden de prijs voor de 'beste campagne op LinkedIn'. Op platformen zoals Frankwatching deelt hij regelmatig diepgaande kennis over de nieuwste LinkedIn-features (zoals Thought Leadership Ads).\n\n### 8. Pieter Res\nPieter Res is de directeur van *director.nl* en focust zich volledig op het helpen van management- en salesteams bij het verhogen van hun omzet via LinkedIn. Hij deelt zijn expertise via webinars, workshops en praktische posts over leadgeneratie, koude acquisitie ombuigen naar social selling, en effectieve outreach.\n\n### 9. Anoek Schippers\nAnoek Schippers positioneert zichzelf als dé LinkedIn-specialist voor met name zelfstandig ondernemers en professionals die hun persoonlijke profilering willen versterken. Ze is bekend van haar hands-on profiel-audits, contentstrategieën en trainingen waarmee ze zorgt dat profielen van 'online visitekaartje' veranderen in 'klantenmagneten'.\n\n### 10. Elton Backx\nElton Backx is als LinkedIn-expert verbonden aan *De Heren Van Werk*. Hij richt zich met zijn trainingen en workshops met name op de driehoek van HR (arbeidsmarktcommunicatie en recruitment), sales (leadgeneratie) en marketing. Hij helpt organisaties bij de omslag van traditionele (offline) profilering naar een sterke online aanwezigheid.",
+ "entities": [
+  {
+   "name": "Richard van der Blom",
+   "type": "persoon",
+   "position": 1,
+   "domain": "richardvanderblom.com"
+  },
+  {
+   "name": "Just Connecting",
+   "type": "bureau",
+   "position": 2,
+   "domain": null
+  },
+  {
+   "name": "Corinne Keijzer",
+   "type": "persoon",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Digital Moves",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "Perry van Beek",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Social.ONE",
+   "type": "bureau",
+   "position": 6,
+   "domain": null
+  },
+  {
+   "name": "Marjolein Bongers",
+   "type": "persoon",
+   "position": 7,
+   "domain": null
+  },
+  {
+   "name": "House of Social Media",
+   "type": "bureau",
+   "position": 8,
+   "domain": null
+  },
+  {
+   "name": "Victor Huiting",
+   "type": "persoon",
+   "position": 9,
+   "domain": "linkleads.nl"
+  },
+  {
+   "name": "Linkleads",
+   "type": "bureau",
+   "position": 10,
+   "domain": "linkleads.nl"
+  },
+  {
+   "name": "Judith Eversdijk",
+   "type": "persoon",
+   "position": 11,
+   "domain": null
+  },
+  {
+   "name": "Social Blooming",
+   "type": "bureau",
+   "position": 12,
+   "domain": null
+  },
+  {
+   "name": "Sebastiaan Nagel",
+   "type": "persoon",
+   "position": 13,
+   "domain": null
+  },
+  {
+   "name": "Bold Bytz",
+   "type": "bureau",
+   "position": 14,
+   "domain": null
+  },
+  {
+   "name": "Frankwatching",
+   "type": "platform",
+   "position": 15,
+   "domain": "frankwatching.com"
+  },
+  {
+   "name": "Pieter Res",
+   "type": "persoon",
+   "position": 16,
+   "domain": "director.nl"
+  },
+  {
+   "name": "director.nl",
+   "type": "bureau",
+   "position": 17,
+   "domain": "director.nl"
+  },
+  {
+   "name": "Anoek Schippers",
+   "type": "persoon",
+   "position": 18,
+   "domain": "anoekschippers.nl"
+  },
+  {
+   "name": "Elton Backx",
+   "type": "persoon",
+   "position": 19,
+   "domain": "deherenvanwerk.nl"
+  },
+  {
+   "name": "De Heren Van Werk",
+   "type": "bureau",
+   "position": 20,
+   "domain": "deherenvanwerk.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "digital-you.libsyn.com",
+   "url": "https://digital-you.libsyn.com/71-a-deep-dive-into-the-linkedin-algorithm-report-mit-richard-van-der-blom",
+   "title": "libsyn.com"
+  },
+  {
+   "domain": "blog.revpartners.io",
+   "url": "https://blog.revpartners.io/en/revops-articles/podcast-pit-stop-richard-van-der-blom-on-unleashing-the-linkedin-algorithm-secrets-for-explosive-growth",
+   "title": "revpartners.io"
+  },
+  {
+   "domain": "richardvanderblom.com",
+   "url": "https://richardvanderblom.com/",
+   "title": "richardvanderblom.com"
+  },
+  {
+   "domain": "podcast.creatorscience.com",
+   "url": "https://podcast.creatorscience.com/richard-van-der-blom-replay/",
+   "title": "creatorscience.com"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=nmPGcQvDnEg",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "youtube.com",
+   "url": "https://www.youtube.com/watch?v=GsOSjundayo",
+   "title": "youtube.com"
+  },
+  {
+   "domain": "now-your-business.simplecast.com",
+   "url": "https://now-your-business.simplecast.com/episodes/unlock-linkedin-success-harness-sales-navigator-today-with-perry-van-beek-e85o8Oa2",
+   "title": "simplecast.com"
+  },
+  {
+   "domain": "dummies.com",
+   "url": "https://www.dummies.com/article/technology/social-media/linkedin/what-is-linkedin-sales-navigator-258152/",
+   "title": "dummies.com"
+  },
+  {
+   "domain": "nxtpharma.com",
+   "url": "https://nxtpharma.com/onze-experts-perry-van-beek/",
+   "title": "nxtpharma.com"
+  },
+  {
+   "domain": "vismagazine.nl",
+   "url": "https://vismagazine.nl/artikelen/sociaal-verkopen-via-linkedin",
+   "title": "vismagazine.nl"
+  },
+  {
+   "domain": "denkproducties.nl",
+   "url": "https://www.denkproducties.nl/experts/marjolein-bongers",
+   "title": "denkproducties.nl"
+  },
+  {
+   "domain": "sprekershuys.nl",
+   "url": "https://www.sprekershuys.nl/sprekers/marjolein-bongers",
+   "title": "sprekershuys.nl"
+  },
+  {
+   "domain": "businesswise.nl",
+   "url": "https://www.businesswise.nl/podcasts/expert-marjolein-bongers-over-linkedin~a26946c",
+   "title": "businesswise.nl"
+  },
+  {
+   "domain": "linkleads.nl",
+   "url": "https://www.linkleads.nl/5-linkedin-experts-aan-het-woord-hun-ervaringen-en-strategien-onthuld/",
+   "title": "linkleads.nl"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/lessen-in-leiderschap-5-nederlandse-ceos-op-linkedin-die-het-verschil-maken/",
+   "title": "marketingfacts.nl"
+  },
+  {
+   "domain": "111.wpcdnnode.com",
+   "url": "https://111.wpcdnnode.com/trudypannekeet.nl/wp-content/uploads/2020/10/Inkijkexemplaar-Spring-eruit-met-LinkedIn.pdf",
+   "title": "wpcdnnode.com"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2016/08/29/je-tijdlijn-opschonen-13-andere-linkedin-tricks-die-je-nog-niet-kent/",
+   "title": "frankwatching.com"
+  },
+  {
+   "domain": "mtsprout.nl",
+   "url": "https://mtsprout.nl/leiderschap/hr-recruitment/linkedin-20-jaar",
+   "title": "mtsprout.nl"
+  },
+  {
+   "domain": "influx-pr.com",
+   "url": "https://www.influx-pr.com/authenticiteit-maatstaf-voor-succes-in-2025/",
+   "title": "influx-pr.com"
+  },
+  {
+   "domain": "favikon.com",
+   "url": "https://www.favikon.com/blog/top-linkedin-experts-netherlands",
+   "title": "favikon.com"
+  },
+  {
+   "domain": "anoekschippers.nl",
+   "url": "https://anoekschippers.nl/",
+   "title": "anoekschippers.nl"
+  },
+  {
+   "domain": "deherenvanwerk.nl",
+   "url": "https://www.deherenvanwerk.nl/linkedin-training",
+   "title": "deherenvanwerk.nl"
+  }
+ ]
+}

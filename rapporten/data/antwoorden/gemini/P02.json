@@ -1,0 +1,174 @@
+{
+ "id": "P02",
+ "engine": "gemini",
+ "cat": "bureau",
+ "prompt": "Wat is het beste LinkedIn marketing bureau van Nederland voor B2B-bedrijven? Geef een top 5 met namen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Voor B2B-bedrijven is LinkedIn veruit het belangrijkste platform voor leadgeneratie, branding en social selling. Hoewel veel all-round online marketing bureaus LinkedIn-diensten 'erbij' doen, zijn er in Nederland een aantal bureaus die zich écht hebben gespecialiseerd in **B2B-groei, social selling en geavanceerde LinkedIn-campagnes**.\n\nDe top 5 van beste LinkedIn- en B2B-marketingbureaus van Nederland voor B2B-bedrijven:\n\n---\n\n### 1. GHO Agency (Veenendaal)\n**Dé specialist in LinkedIn-groei en social selling**.  \nGHO Agency is een van de weinige bureaus in Nederland dat zich vrijwel volledig focust op LinkedIn voor B2B. Zij geloven niet in saaie, door AI gegenereerde berichten, maar bouwen actieve 'groeimachines' voor hun klanten. \n* **Waarom ze uitblinken:** Ze nemen het volledige beheer van persoonlijke profielen en bedrijfspagina’s uit handen (ghostwriting). Ze combineren sterke, opvallende content (thought leadership) met actieve outreach via Sales Navigator om direct warme afspraken in je agenda te krijgen.\n* **Ideaal voor:** B2B-bedrijven die via de persoonlijke profielen van hun directie of salesteam autoriteit willen claimen en leads willen genereren.\n\n### 2. Dapper – The Demand Agency (Rotterdam)\n**De koning van B2B demand generation en ABM (Account-Based Marketing)**.  \nDapper (voorheen bekend als Dapper Growth) is een snelgroeiend B2B-bureau dat zich focust op het bouwen van een voorspelbare sales-pipeline. LinkedIn Ads is hierin hun absolute hoofdwapen.\n* **Waarom ze uitblinken:** Waar veel bureaus enkel sturen op 'goedkope clicks', richt Dapper zich op *Demand Generation*: het creëren van actieve koopintentie bij de absolute top-beslissers in jouw doelgroep via hyper-getargete LinkedIn-campagnes. \n* **Ideaal voor:** SaaS-bedrijven, IT-dienstverleners en grotere B2B-organisaties die complexe LinkedIn-campagnes willen inrichten en integreren met tools als HubSpot.\n\n### 3. Red Panda Works (Amsterdam)\n**B2B growth hacking met een sterke LinkedIn-focus**.  \nRed Panda Works is een gerenommeerd B2B-bureau dat growth hacking-technieken gebruikt om bedrijven snel te laten schalen. LinkedIn marketing is een van hun belangrijkste pijlers.\n* **Waarom ze uitblinken:** Hun aanpak is extreem data-gedreven en resultaatgericht. Ze helpen B2B-bedrijven met een slimme mix van LinkedIn outreach-automatisering (social selling) en gerichte paid ads. Ze zijn meesters in het opzetten van complete funnels waarin LinkedIn-verkeer direct wordt omgezet in sales-afspraken.\n* **Ideaal voor:** Start-ups, scale-ups en ambitieuze mkb-bedrijven die snel en meetbaar resultaat willen boeken.\n\n### 4. YourFellow (Zevenbergen)\n**De B2B-leadspecialist met LinkedIn Ads-expertise**.  \nYourFellow is een B2B-marketingbureau dat bekendstaat om zijn zeer sterke en resultaatgerichte LinkedIn-campagnes. \n* **Waarom ze uitblinken:** Zij begrijpen als geen ander dat de B2B-salescyclus lang en complex is. YourFellow bouwt daarom slimme full-funnel campagnes: van het bouwen van naamsbekendheid via thought leadership-advertenties tot het converteren van beslissers via native *LinkedIn Lead Gen Forms*. Bovendien zijn ze zeer sterk in het visueel aantrekkelijk maken van B2B-advertenties.\n* **Ideaal voor:** Midden- tot grote B2B-bedrijven die hun advertentiebudget op LinkedIn optimaal willen laten renderen met heldere rapportages.\n\n### 5. Dimpekt (Utrecht)\n**No-nonsense leadgeneratie en content voor het MKB**.  \nDimpekt is een niche-bureau dat zich specifiek richt op LinkedIn-marketing voor B2B-ondernemers. \n* **Waarom ze uitblinken:** Dimpekt blinkt uit in de combinatie van LinkedIn-profilering, contentcreatie en advertentiestrategieën voor de zakelijke markt. Ze helpen met het helder formuleren van je propositie en vertalen dit naar een contentstrategie waarmee je organisch én betaald opvalt bij je ideale klant (ICP).\n* **Ideaal voor:** B2B-dienstverleners en mkb-bedrijven die een structurele stroom aan kwalitatieve leads via LinkedIn willen opzetten zonder direct tienduizenden euro's aan budget te hoeven besteden.\n\n---\n\n### Waar moet je op letten bij je keuze?\n* **Wil je organisch of betaald?** Zoek je vooral een partner voor ghostwriting, personal branding en actieve netwerk-outreach? Dan sluiten",
+ "entities": [
+  {
+   "name": "GHO Agency",
+   "type": "bureau",
+   "position": 1,
+   "domain": "gho.agency"
+  },
+  {
+   "name": "Dapper",
+   "type": "bureau",
+   "position": 2,
+   "domain": "dapper.agency"
+  },
+  {
+   "name": "HubSpot",
+   "type": "tool",
+   "position": 3,
+   "domain": null
+  },
+  {
+   "name": "Red Panda Works",
+   "type": "bureau",
+   "position": 4,
+   "domain": null
+  },
+  {
+   "name": "YourFellow",
+   "type": "bureau",
+   "position": 5,
+   "domain": "yourfellow.nl"
+  },
+  {
+   "name": "Dimpekt",
+   "type": "bureau",
+   "position": 6,
+   "domain": "dimpekt.com"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "themanifest.com",
+   "url": "https://themanifest.com/nl/social-media/linkedin/agencies/amsterdam",
+   "title": "themanifest.com"
+  },
+  {
+   "domain": "dgtlbase.com",
+   "url": "https://dgtlbase.com/en/linkedin-ads-agency/",
+   "title": "dgtlbase.com"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-marketing",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "factors.ai",
+   "url": "https://www.factors.ai/blog/top-linkedin-agencies-in-europe",
+   "title": "factors.ai"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/linkedin-leadgeneratie",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/b2b-leadgeneratie",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "scmuiderberg.nl",
+   "url": "https://www.scmuiderberg.nl/sponsors/",
+   "title": "scmuiderberg.nl"
+  },
+  {
+   "domain": "gho.agency",
+   "url": "https://www.gho.agency/",
+   "title": "gho.agency"
+  },
+  {
+   "domain": "webnexus.nl",
+   "url": "https://webnexus.nl/diensten/linkedin-marketing/",
+   "title": "webnexus.nl"
+  },
+  {
+   "domain": "wellfound.com",
+   "url": "https://wellfound.com/company/dapper-the-growth-agency",
+   "title": "wellfound.com"
+  },
+  {
+   "domain": "dapper.agency",
+   "url": "https://www.dapper.agency/",
+   "title": "dapper.agency"
+  },
+  {
+   "domain": "sortlist.com",
+   "url": "https://www.sortlist.com/s/linkedin-marketing/netherlands-nl",
+   "title": "sortlist.com"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/linkedin/",
+   "title": "marketingxperts.nl"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/bureaus/red-panda-works/",
+   "title": "marketingxperts.nl"
+  },
+  {
+   "domain": "marketingxperts.nl",
+   "url": "https://www.marketingxperts.nl/growth-hacking-agency/",
+   "title": "marketingxperts.nl"
+  },
+  {
+   "domain": "inbeat.agency",
+   "url": "https://inbeat.agency/blog/top-amsterdam-digital-marketing-agencies",
+   "title": "inbeat.agency"
+  },
+  {
+   "domain": "agencies.semrush.com",
+   "url": "https://agencies.semrush.com/list/marketing-automation/business-professional-services/netherlands/",
+   "title": "semrush.com"
+  },
+  {
+   "domain": "ninjapromo.io",
+   "url": "https://ninjapromo.io/top-digital-marketing-agencies-in-the-netherlands",
+   "title": "ninjapromo.io"
+  },
+  {
+   "domain": "yourfellow.nl",
+   "url": "https://yourfellow.nl/services/social-media-marketing/linkedin-advertising/",
+   "title": "yourfellow.nl"
+  },
+  {
+   "domain": "reshark.io",
+   "url": "https://reshark.io/companies/fellows-promotie-4caff367e5ab",
+   "title": "reshark.io"
+  },
+  {
+   "domain": "heers.nl",
+   "url": "https://www.heers.nl/linkedin-advertising/",
+   "title": "heers.nl"
+  },
+  {
+   "domain": "dmagency-online.nl",
+   "url": "https://www.dmagency-online.nl/linkedin-ads",
+   "title": "dmagency-online.nl"
+  },
+  {
+   "domain": "yamon.work",
+   "url": "https://yamon.work/",
+   "title": "yamon.work"
+  },
+  {
+   "domain": "ensun.io",
+   "url": "https://ensun.io/search/linkedin-marketing/netherlands",
+   "title": "ensun.io"
+  },
+  {
+   "domain": "dimpekt.com",
+   "url": "https://dimpekt.com/",
+   "title": "dimpekt.com"
+  }
+ ]
+}

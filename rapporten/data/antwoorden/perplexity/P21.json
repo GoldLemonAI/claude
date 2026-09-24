@@ -1,0 +1,144 @@
+{
+ "id": "P21",
+ "engine": "perplexity",
+ "cat": "hoe",
+ "prompt": "Hoe bouw ik als directeur van een Nederlands MKB-bedrijf autoriteit op LinkedIn? Geef een stappenplan en noem bronnen.",
+ "status": "ok",
+ "error": null,
+ "answer_text": "Als directeur van een Nederlands MKB-bedrijf bouw je op LinkedIn autoriteit door **scherp te positioneren**, **consistent waardevolle content te delen** en **actief gesprekken te voeren** met je doelgroep. De snelste route is: profiel optimaliseren, 2–3 inhoudelijke thema’s kiezen, ritme aanhouden, en je expertise onderbouwen met concrete voorbeelden en resultaten.[2][4][6][19]\n\n**Stappenplan**\n\n1. **Kies een duidelijke niche en doelgroep**  \n   Bepaal waar jij als directeur echt geloofwaardig over bent en voor wie je schrijft. Bronnen adviseren om niet te breed te gaan, maar een specifieke expertise, doelgroep en propositie te kiezen.[2][10][12]\n\n2. **Optimaliseer je profiel als landingspagina**  \n   Zorg dat je foto, banner, headline en samenvatting direct duidelijk maken welk probleem je oplost en voor wie. Een compleet, klantgericht profiel vergroot de kans dat profielbezoekers je als autoriteit zien.[3][15][19]\n\n3. **Formuleer 3–5 contentpijlers**  \n   Kies vaste thema’s die aansluiten op vragen van klanten, sectortrends en jouw praktijkervaring. Meerdere bronnen adviseren te werken met een beperkt aantal pijlers zodat je herkenbaar en consistent blijft.[2][4][6][16]\n\n4. **Publiceer consequent**  \n   Deel structureel content, bijvoorbeeld 2 tot 4 keer per week of minimaal 2 keer per week, afhankelijk van je capaciteit. Consistentie is belangrijker dan af en toe pieken met veel posts.[1][2][4][6][14]\n\n5. **Maak je posts inhoudelijk en bewijsbaar**  \n   Deel niet alleen meningen, maar ook voorbeelden, lessen uit de praktijk, cijfers, resultaten en scherpe standpunten. Bronnen benadrukken “show, don’t tell” en het onderbouwen van expertise met bewijs.[6][11][19]\n\n6. **Schrijf in een sterke poststructuur**  \n   Begin met een scherpe stelling of concrete observatie, bouw daarna je argument op en eindig met een vraag die reacties uitlokt. Vermijd om links in de hoofdtekst te plaatsen; gebruik liever een native post en zet een eventuele link in de eerste reactie.[6]\n\n7. **Besteed dagelijks tijd aan interactie**  \n   Reageer op relevante posts, beantwoord reacties onder je eigen content en stuur persoonlijke berichten naar relevante contacten. Een vaste engagementroutine helpt om zichtbaarheid en relaties op te bouwen.[7][8]\n\n8. **Bouw extern bewijs op**  \n   Versterk je autoriteit met gastbijdragen, podcasts, events, onderzoeken of whitepapers. Dat vergroot je zichtbaarheid buiten je eigen profiel en geeft aanvullende geloofwaardigheid.[2][11]\n\n9. **Meet en stuur bij**  \n   Analyseer wekelijks welke posts bereik, reacties en profielbezoeken opleveren, en herhaal wat werkt. LinkedIn- en marketingbronnen adviseren expliciet om je strategie aan te passen op basis van analytics.[4][15]\n\n**Praktisch weekritme voor een directeur**\n\n- 2 inhoudelijke posts per week  \n- 15–30 minuten per dag reageren op relevante content  \n- 5–10 nieuwe relevante connecties per week  \n- 1 keer per week evalueren welke thema’s en formats het beste werken[4][7][14][15]\n\n**Bronnen die je hiervoor kunt gebruiken**\n\n- Content marketing strategie voor autoriteit opbouwen (Unicorn AI).[2]\n- Van profiel naar autoriteit, LinkedIn als groeimotor (Marketingfacts).[3]\n- LinkedIn B2B Strategie: Genereer Leads en Bouw Autoriteit (Robuust Marketing).[4]\n- Thought leadership op LinkedIn: van visie naar zichtbare autoriteit.[6]\n- LinkedIn personal branding: bouw je professionele merk (Linqed).[7]\n- Hoe je een autoriteit wordt op LinkedIn (Maurice van Dinther via LinkedIn Pulse).[17]\n- LinkedIn effectief inzetten voor je bedrijf (Managementboek).[18]\n- LinkedIn inzetten om meer te verkopen: van connectie naar klant (Managementboek).[19]\n\nAls je wilt, kan ik dit ook omzetten naar een **30-dagen actieplan** voor jou als directeur, inclusief **post-onderwerpen en voorbeeldteksten**.",
+ "entities": [
+  {
+   "name": "Unicorn AI",
+   "type": "bureau",
+   "position": 1,
+   "domain": "unicornai.nl"
+  },
+  {
+   "name": "Marketingfacts",
+   "type": "platform",
+   "position": 2,
+   "domain": "marketingfacts.nl"
+  },
+  {
+   "name": "Robuust Marketing",
+   "type": "bureau",
+   "position": 3,
+   "domain": "robuustmarketing.nl"
+  },
+  {
+   "name": "Linqed",
+   "type": "tool",
+   "position": 4,
+   "domain": "linqed.io"
+  },
+  {
+   "name": "Maurice van Dinther",
+   "type": "persoon",
+   "position": 5,
+   "domain": null
+  },
+  {
+   "name": "Managementboek",
+   "type": "platform",
+   "position": 6,
+   "domain": "managementboek.nl"
+  }
+ ],
+ "sources": [
+  {
+   "domain": "goldlemon.nl",
+   "url": "https://goldlemon.nl/autoriteit/",
+   "title": "Autoriteit op LinkedIn en Instagram - Gold Lemon"
+  },
+  {
+   "domain": "unicornai.nl",
+   "url": "https://unicornai.nl/blog/2024-03-05-content-marketing-strategie-autoriteit-opbouwen",
+   "title": "Content marketing strategie voor autoriteit opbouwen: Van onbekend naar thought leader"
+  },
+  {
+   "domain": "marketingfacts.nl",
+   "url": "https://www.marketingfacts.nl/berichten/van-profiel-naar-autoriteit-linkedin-als-groeimotor/",
+   "title": "Van profiel naar autoriteit, LinkedIn als groeimotor - Marketingfacts"
+  },
+  {
+   "domain": "robuustmarketing.nl",
+   "url": "https://robuustmarketing.nl/nl/blog/social-media-marketing/linkedin-strategie-b2b",
+   "title": "LinkedIn B2B Strategie: Genereer Leads en Bouw Autoriteit"
+  },
+  {
+   "domain": "linkedin.com",
+   "url": "https://www.linkedin.com/pulse/hoe-genereer-je-leads-via-linkedin-franck-fielemon-grmbf",
+   "title": "Hoe genereer je leads via LinkedIn?"
+  },
+  {
+   "domain": "informatiegidsen-nederland.nl",
+   "url": "https://informatiegidsen-nederland.nl/algemeen/thought-leadership-linkedin/",
+   "title": "Thought leadership op LinkedIn: van visie naar zichtbare autoriteit"
+  },
+  {
+   "domain": "linqed.io",
+   "url": "https://linqed.io/academy/linkedin-personal-branding-professioneel-merk",
+   "title": "LinkedIn personal branding: bouw je professionele merk"
+  },
+  {
+   "domain": "magicpost.in",
+   "url": "https://magicpost.in/nl/blog/linkedin-denkleiderschap",
+   "title": "LinkedIn Thought Leadership: Hoe je autoriteit opbouwt in ..."
+  },
+  {
+   "domain": "creativeskills.nl",
+   "url": "http://creativeskills.nl/kennis/vindbaar-worden-in-ai-en-linkedin",
+   "title": "Vindbaar worden in AI en LinkedIn - Creative Skills"
+  },
+  {
+   "domain": "stickymarketing.nl",
+   "url": "https://www.stickymarketing.nl/inspiratie/linkedin-strategie-hoe-haal-je-echt-resultaat-uit-je-netwerk/",
+   "title": "LinkedIn-strategie: hoe haal je écht resultaat uit je netwerk?"
+  },
+  {
+   "domain": "frankwatching.com",
+   "url": "https://www.frankwatching.com/archive/2025/10/22/autoriteit-op-linkedin-geloofwaardigheid/",
+   "title": "Voorkom deze fout voor je autoriteit op LinkedIn - Frankwatching"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/7-linkedin-trends-die-wij-verwachten-voor-de-laatste-4-van-der-heide-hlune",
+   "title": "7 LinkedIn-trends die wij verwachten voor de laatste 4 maanden van 2024"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/d%C3%A9-kracht-van-linkedin-business-een-handleiding-voor-fielemon",
+   "title": "Dé kracht van LinkedIn for Business - een handleiding"
+  },
+  {
+   "domain": "sculptstudios.nl",
+   "url": "https://sculptstudios.nl/hoe-nederlandse-b2b-founders-leads-genereren-via-linkedin-in-2026/",
+   "title": "Hoe Nederlandse B2B-founders leads genereren via LinkedIn ..."
+  },
+  {
+   "domain": "ranktracker.com",
+   "url": "https://www.ranktracker.com/nl/blog/building-brand-authority-on-linkedin-5-proven-strategies-to-establish-yourself-as-a-thought-leader/",
+   "title": "Merkautoriteit opbouwen op LinkedIn"
+  },
+  {
+   "domain": "brightbrands.online",
+   "url": "https://brightbrands.online/webontwikkeling/thought-leadership-strategy/",
+   "title": "Thought leadership strategy: een gids voor MKB-groei 2026"
+  },
+  {
+   "domain": "nl.linkedin.com",
+   "url": "https://nl.linkedin.com/pulse/hoe-je-een-autoriteit-wordt-op-linkedin-maurice-van-dinther",
+   "title": "Hoe je een autoriteit wordt op LinkedIn"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/uitdaging_oplossing/marketing_en_klantrelaties/hoe_zet_ik_linkedin_effectief_in_voor_mijn_bedrijf",
+   "title": "LinkedIn effectief inzetten voor je bedrijf - Managementboek.nl"
+  },
+  {
+   "domain": "managementboek.nl",
+   "url": "https://www.managementboek.nl/vraag_antwoord/Marketing%20en%20klantrelaties/hoe_kan_ik_linkedin_gebruiken_om_meer_te_verkopen",
+   "title": "LinkedIn inzetten om meer te verkopen: van connectie naar ..."
+  }
+ ]
+}
